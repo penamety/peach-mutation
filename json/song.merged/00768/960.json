@@ -1,0 +1,29 @@
+{
+  "id": 960,
+  "type": "song",
+  "title": "Living Proof",
+  "status": "A",
+  "release_year": "1993",
+  "platform_id": 6,
+  "length": 140,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-04-21 11:40:50",
+  "locked_until": "2018-05-11 06:00:51",
+  "locked": 0,
+  "vote_count": 11,
+  "vote_avg": 3.4545,
+  "pouet_id": 2524,
+  "last_scraped": "2018-05-22 18:08:55",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    193,
+    1066
+  ],
+  "artist_names": [
+    "Chorus",
+    "Sid"
+  ]
+}

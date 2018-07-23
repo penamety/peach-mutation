@@ -1,0 +1,27 @@
+{
+  "id": 24050,
+  "type": "song",
+  "title": "Chip-Chop",
+  "status": "A",
+  "platform_id": 6,
+  "length": 124,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-06-03 04:04:02",
+  "locked_until": "2018-07-12 15:25:27",
+  "locked": 1,
+  "vote_count": 13,
+  "vote_avg": 3.1538,
+  "last_scraped": "2018-06-03 05:16:00",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    1046,
+    2527
+  ],
+  "artist_names": [
+    "Scorpik",
+    "Dan"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 12278,
+  "type": "song",
+  "title": "Telos",
+  "status": "A",
+  "platform_id": 1,
+  "length": 258,
+  "uploaded_by": "lemonade",
+  "bit_rate": 256,
+  "sample_rate": 44100,
+  "fav_count": 55,
+  "last_requested": "2018-05-23 18:14:36",
+  "locked_until": "2018-06-22 03:01:24",
+  "locked": 1,
+  "vote_count": 99,
+  "vote_avg": 4.5455,
+  "tags": "2006 Assembly coop Demo Piano video Windows",
+  "pouet_id": 25780,
+  "yt_id": "ITT3pBABChA",
+  "info": "6th place in combined demo compo at Assembly 2006\n\n'Telos' is greek, it means 'end'",
+  "last_scraped": "2018-05-23 20:08:31",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1386,
+    1396
+  ],
+  "artist_names": [
+    "Flipside",
+    "Gloom"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 34709,
+  "type": "song",
+  "title": "Stangelpop",
+  "status": "A",
+  "release_year": "2011",
+  "platform_id": 3,
+  "length": 115,
+  "uploaded_by": "silok",
+  "bit_rate": 128,
+  "sample_rate": 48000,
+  "fav_count": 1,
+  "last_requested": "2018-01-26 01:07:11",
+  "locked_until": "2018-02-14 20:31:02",
+  "locked": 0,
+  "vote_count": 18,
+  "vote_avg": 3.5,
+  "tags": "needs_reencoding",
+  "info": "Made in my 4ch Tracker as Testtrack, converted then to Xm ...no samples except 16-64bytes wave..a channel tricky make that pwm sound.",
+  "last_scraped": "2018-05-20 22:58:33",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    4070
+  ],
+  "artist_names": [
+    "Silok"
+  ]
+}

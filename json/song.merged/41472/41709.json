@@ -1,0 +1,28 @@
+{
+  "id": 41709,
+  "type": "song",
+  "title": "The Creation of Gaia",
+  "status": "A",
+  "release_year": "1996",
+  "platform_id": 8,
+  "length": 148,
+  "uploaded_by": "BrittletheFly",
+  "bit_rate": 0,
+  "sample_rate": 0,
+  "fav_count": 0,
+  "last_requested": "2017-10-22 22:04:27",
+  "locked_until": "2017-11-13 11:43:11",
+  "locked": 0,
+  "vote_count": 9,
+  "vote_avg": 3.0,
+  "info": "\" T h e   C r e a t i o n   o f   G a i a \"\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nApril 6, 1996\nFrom ZaStaR (Sherman Wu)\n\n...........................................\n\n\"Picture the creation of a newly grown\n\n garden, green overrunning a barren land..\"\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n\"It is true that it takes only one seed to\n\n grow a garden.  Whether it be a rose or\n\n a weed is up to us.\"\n\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nWell, thanks for the coffee *again* ArtIce.\n\nAnd thanks Jeffrey Lim for the\n best tracker on the planet ;)\n\n___________________________________________\nComments? Questions? Howz the song anyway?\n\nI'm at  zastar@uclink4.berkeley.edu\n     Warining: I answer ;)\n\n___________________________________________________________________________\n\n(Press Down/PgDn to see more)\n\nThis song requires quite a powerful computer to play it (because it gets\nto 44 channels) unless you have a Gravis UltraSound. If your computer\ncan't handle this, then you will need to play around with the command line\nswitches.\n\n /Lxx will limit the number of channels that can be allocated. \n /Mxxxxx will set the 'mixing' speed to use.\n\nExample: IT /L32 will limit the program to 32-note polyphony (still more\nthan some MIDI soundcards)\n\nThe mixing speed is the number of calculations per second that the program\nhas to make for each note. If you have a SB16, the default is 44kHz (ie.\n44 THOUSAND calculations per second per note playing.) Reducing the mixing\nspeed reduces the quality of the sound, but increases the number of\nchannels that you can play.\n\nExample: IT /M32000 will set the mixing speed to 32000 calculations per\nsecond.\n\nOf course, you can combine these as such:\n\nIT /M32000 /L16\n\nThe final commandline switch worth knowing is /R which reverses left and\nright output channels.\n\n                                                     - Jeffrey Lim\n                                                       Pulse/PoP",
+  "last_scraped": "2018-05-19 22:33:25",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    1756
+  ],
+  "artist_names": [
+    "Zastar"
+  ]
+}

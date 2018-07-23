@@ -1,0 +1,29 @@
+{
+  "id": 9111,
+  "type": "song",
+  "title": "Heartland",
+  "status": "D",
+  "platform_id": 3,
+  "length": 315,
+  "uploaded_by": "codec",
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2013-08-27 12:15:50",
+  "locked_until": "None",
+  "locked": 1,
+  "vote_count": 10,
+  "vote_avg": 4.4,
+  "info": "By Lizardking & Codec",
+  "last_scraped": "2018-05-22 23:48:45",
+  "source_id": 8,
+  "source": "Newschool",
+  "artist_ids": [
+    226,
+    669
+  ],
+  "artist_names": [
+    "Codec",
+    "Lizardking"
+  ]
+}

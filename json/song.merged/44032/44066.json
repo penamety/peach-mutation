@@ -1,0 +1,29 @@
+{
+  "id": 44066,
+  "type": "song",
+  "title": "Surprisingly NOT Four Twenty",
+  "status": "A",
+  "release_year": "2014",
+  "platform_id": 24,
+  "length": 114,
+  "uploaded_by": "serpent",
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-03-17 09:32:01",
+  "locked_until": "2018-04-25 04:48:07",
+  "locked": 0,
+  "vote_count": 11,
+  "vote_avg": 3.0909,
+  "tags": "2014 beeper Multimatograf tritone",
+  "info": "File format:\tAY\nSound format:\tBeeper\nParty:\tMultimatograf X (2, Beeper music compo)\n\nInfo from ViThor about \"Tritone engine\":\n\n[i]Tritone Beeper Engine\n\nThis engine, developed by Shiru, has three tone channels with a further channel of interrupting drums. Eight levels of skew (sound loop duty cycle) values are available on a per-note basis. Individual note detuning is also available which can be used to generate a variety of effects.\n\nThere are two slightly different versions of this engine availabel in Beepola. The standard Tritone engine provides different volume levels for each channel (channel 1 is the quietest channel 3 is approximately twice the volume of channel 1, and channel 2 is between them). There is also a \"Tritone (equal volumes)\" variant which provides the same level of volumes on all three channels.\n\nAt the start of a new pattern, unless otherwise specified, the skew value for each channel will effectively be 1 (no skew - providing a clean tone). If the skew value is changed for a particular channel, that skew value will remain in effect for the remainder of the pattern until it is changed. This saves time when editing patterns as, for a group of notes that are to use the same skew, you need only enter it once against the first note rather than against every note in the run of notes.\n\nThe lowest standard note value is C-1 and the highest is F-6.  12bit frequency counters are used. Using the note detune column, an octave 0 can be used but is quite difficult to hear due to the low frequency, and has some slight tuning issues[/i]",
+  "last_scraped": "2018-05-24 00:58:15",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    5525
+  ],
+  "artist_names": [
+    "Raphaelgoulart"
+  ]
+}

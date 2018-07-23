@@ -1,0 +1,31 @@
+{
+  "id": 42105,
+  "type": "song",
+  "title": "Connected",
+  "status": "A",
+  "release_year": "2014",
+  "platform_id": 2,
+  "length": 418,
+  "uploaded_by": "DKT",
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 18,
+  "last_requested": "2018-06-06 09:21:23",
+  "locked_until": "2018-07-03 15:20:00",
+  "locked": 1,
+  "vote_count": 38,
+  "vote_avg": 4.5789,
+  "tags": "2014 C64 Compowinner Datastorm Demo video",
+  "pouet_id": 62566,
+  "yt_id": "6slGZQlBxnU",
+  "info": "Tune from C64 demo We Are All Connected by Fairlight/Offence/Prosonix.\nFirst place at Datastorm 2014.\nhttp://csdb.dk/release/?id=129091",
+  "last_scraped": "2018-06-06 11:01:19",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    5411
+  ],
+  "artist_names": [
+    "Scarzix"
+  ]
+}

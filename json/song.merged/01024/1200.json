@@ -1,0 +1,26 @@
+{
+  "id": 1200,
+  "type": "song",
+  "title": "Juratmic short",
+  "status": "A",
+  "platform_id": 6,
+  "length": 203,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-05-01 02:33:06",
+  "locked_until": "2018-05-20 13:45:00",
+  "locked": 0,
+  "vote_count": 15,
+  "vote_avg": 3.4667,
+  "info": "TG94 entry",
+  "last_scraped": "2018-05-20 13:45:19",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    217
+  ],
+  "artist_names": [
+    "Claw"
+  ]
+}

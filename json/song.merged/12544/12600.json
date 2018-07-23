@@ -1,0 +1,30 @@
+{
+  "id": 12600,
+  "type": "song",
+  "title": "Satellite One",
+  "status": "A",
+  "platform_id": 5,
+  "length": 108,
+  "uploaded_by": "Renderwahn",
+  "bit_rate": 191,
+  "sample_rate": 44100,
+  "fav_count": 28,
+  "last_requested": "2018-05-28 09:36:00",
+  "locked_until": "2018-06-28 04:27:22",
+  "locked": 1,
+  "vote_count": 74,
+  "vote_avg": 4.3378,
+  "tags": "coop cover TruckDriversGearChange YM",
+  "info": "Uses 8 Channels and is Played on three ZX Spectrums\n",
+  "last_scraped": "2018-05-28 11:35:29",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1184,
+    1725
+  ],
+  "artist_names": [
+    "TDM",
+    "Factor6"
+  ]
+}

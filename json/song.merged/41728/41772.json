@@ -1,0 +1,28 @@
+{
+  "id": 41772,
+  "type": "song",
+  "title": "Interstellar Drift",
+  "status": "A",
+  "release_year": "2014",
+  "platform_id": 24,
+  "length": 144,
+  "uploaded_by": "ViThor",
+  "bit_rate": 191,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-02-18 03:01:30",
+  "locked_until": "2018-03-08 23:42:18",
+  "locked": 0,
+  "vote_count": 13,
+  "vote_avg": 3.8462,
+  "info": "New stuff. \n Pure ZX Spectrum 48K with its powerful BEEPER, that is:\n\nThe Dynamic Duo ;) of ZX48 chips -\n\n**Zilog Z80** and **Ferranti ULA** - \n harnessed again, to generate more 1-bit music with strange new synthesis in 9 channels of sound (8 tones + drums).\n\nI composed this song using a non-published (yet) engine programmed by Retrospec, based on the old good Octode. \n Except the new way of synthesis, there are also introduced 2 levels of volume (4 loud and 4 quieter channels). \n Hence - more space, more weight, in Beeper music. \n Recorded from real hardware.\n\nCompiled data (TAP file) is only 8Kb big (which is small for the Octode and its clones).\n\nThe song itself is a kind of 'funky / ballad', I don't know if you would like it. \n So enjoy anyway, even though ballads never win compos, and I put it into BotB: \nbattleofthebits.org/arena/Entry/Int…ar+Drift/16364/\n\nComposed in the end of 2014 year.\n\nPS: So - it has won the compo after all!!!! :)\n\nRegards, \n MISTER BEEP.",
+  "last_scraped": "2018-05-22 14:00:51",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1914
+  ],
+  "artist_names": [
+    "Mister Beep"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 20938,
+  "type": "song",
+  "title": "Starpaws Digital",
+  "status": "A",
+  "release_year": "1988",
+  "platform_id": 5,
+  "length": 184,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-04-27 12:31:57",
+  "locked_until": "2018-05-16 08:20:27",
+  "locked": 0,
+  "vote_count": 14,
+  "vote_avg": 3.6429,
+  "tags": "GameRemix ym2149-pcm",
+  "pouet_id": 11350,
+  "info": "PCM sound achieved through manipulating volume register",
+  "last_scraped": "2018-05-22 02:41:41",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    713
+  ],
+  "artist_names": [
+    "Mad Max"
+  ]
+}

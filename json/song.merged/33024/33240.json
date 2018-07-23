@@ -1,0 +1,28 @@
+{
+  "id": 33240,
+  "type": "song",
+  "title": "Rest in 'peace'",
+  "status": "A",
+  "release_year": "1993",
+  "platform_id": 3,
+  "length": 217,
+  "uploaded_by": "sqrmax",
+  "bit_rate": 138,
+  "sample_rate": 48000,
+  "fav_count": 1,
+  "last_requested": "2017-05-23 02:49:37",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 13,
+  "vote_avg": 3.0769,
+  "info": "Claims to be the music for the greetings part of a demo, but doesn't say which one.\n\nOriginal format is AMF, resaved as .XM with modplug.",
+  "last_scraped": "2018-05-24 15:30:41",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    4784
+  ],
+  "artist_names": [
+    "Dr. Fruid"
+  ]
+}

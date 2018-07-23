@@ -1,0 +1,29 @@
+{
+  "id": 43733,
+  "type": "song",
+  "title": "Boonka",
+  "status": "I",
+  "release_year": "2009",
+  "platform_id": 8,
+  "length": 10,
+  "uploaded_by": "billjd434",
+  "bit_rate": 0,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-08-01 06:48:18",
+  "locked_until": "2017-08-08 00:59:54",
+  "locked": 1,
+  "vote_count": 3,
+  "vote_avg": 2.6667,
+  "tags": "needs_reencoding Short",
+  "info": "This is the official soundtrack of the 2009 Raptisoft game Boonka\n\n2017-08-01 (Starchaser): The upload is a multitrack IT file, and the streamer always selects the first one, which is a quiet or mostly silent 10s song rather than the other included longer louder ones. As the current description and title make it ambiguous as to which subtune it should really be and as it's also a game tune, I've disabled it rather than exporting and uploading a recording.",
+  "last_scraped": "2018-05-23 11:59:25",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    1081
+  ],
+  "artist_names": [
+    "Skaven"
+  ]
+}

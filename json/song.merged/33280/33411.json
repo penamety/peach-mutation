@@ -1,0 +1,30 @@
+{
+  "id": 33411,
+  "type": "song",
+  "title": "Ballsong Nr 1",
+  "status": "A",
+  "release_year": "1984",
+  "platform_id": 25,
+  "length": 116,
+  "uploaded_by": "hornpipe2",
+  "bit_rate": 4,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-03-11 09:17:14",
+  "locked_until": "2018-05-03 20:25:57",
+  "locked": 0,
+  "vote_count": 24,
+  "vote_avg": 1.625,
+  "tags": "1984 video",
+  "yt_id": "ybo6g_1jr7s",
+  "info": "Developed at the Atari Sunnyvale Research Laboratory, as a test of the Atari 8-bit graphics and sound capabilities.  Though the song patterns themselves are (mostly) predefined, their order and some of the percussion is randomized as the song plays.",
+  "last_scraped": "2018-05-21 03:12:29",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    4830
+  ],
+  "artist_names": [
+    "Douglas Crockford"
+  ]
+}

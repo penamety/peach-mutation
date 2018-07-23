@@ -1,0 +1,27 @@
+{
+  "id": 6765,
+  "type": "song",
+  "title": "Juggernaut Jam",
+  "status": "A",
+  "platform_id": 6,
+  "length": 80,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-03-16 07:41:10",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 9,
+  "vote_avg": 3.2222,
+  "tags": "Upstream",
+  "pouet_id": 15564,
+  "last_scraped": "2018-05-21 18:25:44",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    1156
+  ],
+  "artist_names": [
+    "Subject"
+  ]
+}

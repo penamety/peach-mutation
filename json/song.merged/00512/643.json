@@ -1,0 +1,26 @@
+{
+  "id": 643,
+  "type": "song",
+  "title": "Doin the Sushi",
+  "status": "A",
+  "platform_id": 6,
+  "length": 145,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-03-10 07:08:28",
+  "locked_until": "2018-04-20 21:09:28",
+  "locked": 0,
+  "vote_count": 11,
+  "vote_avg": 2.8182,
+  "tags": "fish food",
+  "last_scraped": "2018-05-19 19:12:46",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    378
+  ],
+  "artist_names": [
+    "Dr. Awesome"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 5256,
+  "type": "song",
+  "title": "High Adventure",
+  "status": "A",
+  "release_year": "1997",
+  "platform_id": 7,
+  "length": 197,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 6,
+  "last_requested": "2017-12-08 04:01:08",
+  "locked_until": "2017-12-29 09:45:54",
+  "locked": 0,
+  "vote_count": 20,
+  "vote_avg": 3.1,
+  "tags": "1997 Compusphere",
+  "info": "\"for multi-channel compo at Compusphere 8\"\n",
+  "last_scraped": "2018-05-21 14:18:03",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    859
+  ],
+  "artist_names": [
+    "Nightbeat"
+  ]
+}

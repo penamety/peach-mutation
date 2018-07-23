@@ -1,0 +1,32 @@
+{
+  "id": 7398,
+  "type": "song",
+  "title": "The Jupiter Sound",
+  "status": "A",
+  "release_year": "2004",
+  "platform_id": 1,
+  "length": 306,
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 78,
+  "last_requested": "2018-06-13 06:59:47",
+  "locked_until": "2018-07-11 17:32:29",
+  "locked": 1,
+  "vote_count": 132,
+  "vote_avg": 4.4167,
+  "tags": "2004 Assembly coop Demo SceneOrgAwards Trippy video Windows",
+  "pouet_id": 13028,
+  "yt_id": "Kjy4Ptzze10",
+  "info": "5th place in combined demo compo at Assembly 2004",
+  "last_scraped": "2018-06-13 08:27:24",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1453,
+    1652
+  ],
+  "artist_names": [
+    "Little Bitchard",
+    "AK Balance"
+  ]
+}

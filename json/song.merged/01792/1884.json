@@ -1,0 +1,28 @@
+{
+  "id": 1884,
+  "type": "song",
+  "title": "La Disco de Jean Claude",
+  "status": "B",
+  "platform_id": 6,
+  "length": 90,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2015-03-30 11:03:27",
+  "locked_until": "None",
+  "locked": 1,
+  "vote_count": 33,
+  "vote_avg": 1.5455,
+  "tags": "FrenchSpeak samples",
+  "last_scraped": "2018-05-22 21:52:51",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    359,
+    1830
+  ],
+  "artist_names": [
+    "Doh",
+    "Arios"
+  ]
+}

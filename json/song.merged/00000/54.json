@@ -1,0 +1,29 @@
+{
+  "id": 54,
+  "type": "song",
+  "title": "Chuck Rock Title",
+  "status": "A",
+  "release_year": "1991",
+  "platform_id": 6,
+  "length": 150,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 25,
+  "last_requested": "2018-06-04 09:58:01",
+  "locked_until": "2018-07-07 18:19:26",
+  "locked": 1,
+  "vote_count": 66,
+  "vote_avg": 3.9091,
+  "tags": "1991 AwfulGuitarSample Gamemusic Guitar Rock video",
+  "yt_id": "8rm0eTagViU",
+  "info": "some info: http://www.exotica.org.uk/wiki/Chuck_Rock",
+  "last_scraped": "2018-06-04 11:30:38",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    6
+  ],
+  "artist_names": [
+    "4-mat"
+  ]
+}

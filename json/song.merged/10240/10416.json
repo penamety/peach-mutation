@@ -1,0 +1,28 @@
+{
+  "id": 10416,
+  "type": "song",
+  "title": "Alleykat",
+  "status": "A",
+  "platform_id": 1,
+  "length": 256,
+  "uploaded_by": "Chapelier",
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 8,
+  "last_requested": "2018-01-09 08:30:58",
+  "locked_until": "2018-01-27 22:59:41",
+  "locked": 0,
+  "vote_count": 31,
+  "vote_avg": 3.7419,
+  "tags": "GameRemix",
+  "info": "Original SID by Steve Turner in 1986 for Graftgold/Hewson\n\nhttp://remix.kwed.org/download.php/2585/Romeo%20Knight%20-%20Alleykat.mp3",
+  "last_scraped": "2018-05-21 21:05:52",
+  "source_id": 5,
+  "source": "Remix",
+  "artist_ids": [
+    1025
+  ],
+  "artist_names": [
+    "Romeo Knight"
+  ]
+}

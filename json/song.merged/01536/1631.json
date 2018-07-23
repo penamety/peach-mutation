@@ -1,0 +1,25 @@
+{
+  "id": 1631,
+  "type": "song",
+  "title": "Voyager 6",
+  "status": "A",
+  "platform_id": 6,
+  "length": 307,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2017-04-26 05:19:19",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 19,
+  "vote_avg": 3.9474,
+  "last_scraped": "2018-05-22 01:26:52",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    310
+  ],
+  "artist_names": [
+    "DeLorean"
+  ]
+}

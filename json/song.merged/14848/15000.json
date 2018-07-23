@@ -1,0 +1,27 @@
+{
+  "id": 15000,
+  "type": "song",
+  "title": "Ronken",
+  "status": "A",
+  "release_year": "1989",
+  "platform_id": 6,
+  "length": 107,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-05-04 10:44:09",
+  "locked_until": "2018-06-16 01:55:11",
+  "locked": 0,
+  "vote_count": 16,
+  "vote_avg": 2.6875,
+  "pouet_id": 8034,
+  "last_scraped": "2018-06-16 01:57:07",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1321
+  ],
+  "artist_names": [
+    "Blaizer"
+  ]
+}

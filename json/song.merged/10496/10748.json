@@ -1,0 +1,31 @@
+{
+  "id": 10748,
+  "type": "song",
+  "title": "Recover The Sonics",
+  "status": "A",
+  "platform_id": 13,
+  "length": 230,
+  "uploaded_by": "halvare",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-03-19 05:06:57",
+  "locked_until": "2018-04-07 13:00:55",
+  "locked": 0,
+  "vote_count": 12,
+  "vote_avg": 3.5833,
+  "info": "Created by BrainTrace Design (Carlsten Schlote, Branko Mikic and Carsten Herbst) to demostrate their new tracker called Sonic Arranger",
+  "last_scraped": "2018-05-23 01:07:15",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1869,
+    1870,
+    1871
+  ],
+  "artist_names": [
+    "BodyLove",
+    "Branko Mikic",
+    "Mr Soundwave "
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 37268,
+  "type": "song",
+  "title": "Sound Coder",
+  "status": "A",
+  "release_year": "2012",
+  "platform_id": 46,
+  "length": 69,
+  "uploaded_by": "hornpipe2",
+  "bit_rate": 167,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-04-18 06:46:24",
+  "locked_until": "2018-05-28 03:32:29",
+  "locked": 0,
+  "vote_count": 17,
+  "vote_avg": 3.1176,
+  "tags": "2012 Short Stream technically-awesome",
+  "pouet_id": 59283,
+  "yt_id": "tEYH1-MY9s8",
+  "info": "Sound Coder by DSS\nA 32k sound codec demo for the Atari 2600 VCS\nReleased at Stream 2012\n\nCode by Tjoppen\nMusic by Knoeki\n\nUse proper hardware - neither Stella nor z26 handles this correctly",
+  "last_scraped": "2018-05-28 03:34:48",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    5222
+  ],
+  "artist_names": [
+    "Tjoppen"
+  ]
+}

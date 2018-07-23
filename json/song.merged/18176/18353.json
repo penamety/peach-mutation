@@ -1,0 +1,27 @@
+{
+  "id": 18353,
+  "type": "song",
+  "title": "Sunny days",
+  "status": "A",
+  "platform_id": 6,
+  "length": 220,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-05-29 05:22:35",
+  "locked_until": "2018-07-01 15:23:15",
+  "locked": 1,
+  "vote_count": 24,
+  "vote_avg": 3.75,
+  "tags": "weather",
+  "pouet_id": 9142,
+  "last_scraped": "2018-05-29 06:51:05",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    459
+  ],
+  "artist_names": [
+    "Fred"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 10000,
+  "type": "song",
+  "title": "Beverly Hills Cop [YM]",
+  "status": "A",
+  "platform_id": 5,
+  "length": 148,
+  "uploaded_by": "FishGuy876",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2018-03-29 00:33:30",
+  "locked_until": "2018-04-18 16:55:42",
+  "locked": 0,
+  "vote_count": 16,
+  "vote_avg": 3.3125,
+  "info": "Download Link: http://www.andykellett.com/MP3/David_Whittaker-Beverly_Hills_Cop_YM.mp3",
+  "last_scraped": "2018-05-23 07:35:25",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    292
+  ],
+  "artist_names": [
+    "David Whittaker"
+  ]
+}

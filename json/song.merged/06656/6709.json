@@ -1,0 +1,26 @@
+{
+  "id": 6709,
+  "type": "song",
+  "title": "Fremens",
+  "status": "A",
+  "platform_id": 6,
+  "length": 336,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 15,
+  "last_requested": "2018-03-30 02:38:35",
+  "locked_until": "2018-04-19 14:44:53",
+  "locked": 0,
+  "vote_count": 47,
+  "vote_avg": 3.3404,
+  "tags": "Dune Gamemusic",
+  "last_scraped": "2018-05-24 06:52:44",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    4165
+  ],
+  "artist_names": [
+    "Alex Ekian"
+  ]
+}

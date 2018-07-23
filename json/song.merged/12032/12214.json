@@ -1,0 +1,28 @@
+{
+  "id": 12214,
+  "type": "song",
+  "title": "Mr Pat's Cat",
+  "status": "A",
+  "release_year": "2000",
+  "platform_id": 3,
+  "length": 105,
+  "uploaded_by": "lemonade",
+  "bit_rate": 256,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2017-10-28 00:23:17",
+  "locked_until": "2017-11-16 03:01:08",
+  "locked": 0,
+  "vote_count": 33,
+  "vote_avg": 3.6061,
+  "tags": "2000 animal Chiptune Musicdisk",
+  "last_scraped": "2018-05-24 11:06:23",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    1999
+  ],
+  "artist_names": [
+    "lemonade"
+  ]
+}

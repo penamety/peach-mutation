@@ -1,0 +1,28 @@
+{
+  "id": 22999,
+  "type": "song",
+  "title": "Queen",
+  "status": "A",
+  "release_year": "1993",
+  "platform_id": 6,
+  "length": 270,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-06-03 02:29:08",
+  "locked_until": "2018-07-10 17:14:54",
+  "locked": 1,
+  "vote_count": 18,
+  "vote_avg": 3.6111,
+  "tags": "TheCharts",
+  "pouet_id": 50351,
+  "last_scraped": "2018-06-03 03:34:42",
+  "source_id": 12,
+  "source": "Diskmag",
+  "artist_ids": [
+    3424
+  ],
+  "artist_names": [
+    "Psimon"
+  ]
+}

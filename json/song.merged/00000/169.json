@@ -1,0 +1,30 @@
+{
+  "id": 169,
+  "type": "song",
+  "title": "Rest in Pieces",
+  "status": "A",
+  "release_year": "2001",
+  "platform_id": 2,
+  "length": 143,
+  "bit_rate": 160,
+  "sample_rate": 44100,
+  "fav_count": 13,
+  "last_requested": "2018-06-03 07:07:59",
+  "locked_until": "2018-07-04 00:12:49",
+  "locked": 1,
+  "vote_count": 46,
+  "vote_avg": 4.3478,
+  "tags": "2001 Assembly",
+  "info": "4th at Assembly 2001 C64 music compo.\n\nTrack is now from soasc / 8580R5",
+  "last_scraped": "2018-06-03 08:22:12",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    24,
+    4761
+  ],
+  "artist_names": [
+    "Agemixer",
+    "Rooster"
+  ]
+}

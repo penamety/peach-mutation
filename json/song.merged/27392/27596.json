@@ -1,0 +1,31 @@
+{
+  "id": 27596,
+  "type": "song",
+  "title": "March of the Ants",
+  "status": "A",
+  "platform_id": 8,
+  "length": 208,
+  "uploaded_by": "AlphaC",
+  "bit_rate": 192,
+  "sample_rate": 48000,
+  "fav_count": 9,
+  "last_requested": "2018-06-16 09:15:58",
+  "locked_until": "2018-07-17 03:17:01",
+  "locked": 1,
+  "vote_count": 41,
+  "vote_avg": 4.2683,
+  "tags": "2008 animal Chiptune coop Evoke",
+  "pouet_id": 52065,
+  "info": "Co-op of Alpha C and ko0x, entered in the \"tiny music\" compo at Evoke 2008. Also used in the musicdisk \"Bits 'n' Pieces\" by Chimera Music.",
+  "last_scraped": "2018-06-16 10:08:19",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    1435,
+    2045
+  ],
+  "artist_names": [
+    "ko0x",
+    "Alpha C"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 10755,
+  "type": "song",
+  "title": "Sweet Child o Mine",
+  "status": "R",
+  "platform_id": 5,
+  "length": 154,
+  "uploaded_by": "Spiral",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 13,
+  "last_requested": "2013-08-16 22:46:22",
+  "locked_until": "None",
+  "locked": 1,
+  "vote_count": 46,
+  "vote_avg": 4.1522,
+  "tags": "cover Instrumental YM",
+  "info": "This song is a 1:1 conversion of a ZX Spectrum Soundtracker tune. I don't know the original composers name, though.",
+  "last_scraped": "2018-05-23 05:03:52",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1284
+  ],
+  "artist_names": [
+    "Unknown"
+  ]
+}

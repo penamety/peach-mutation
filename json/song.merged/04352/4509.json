@@ -1,0 +1,27 @@
+{
+  "id": 4509,
+  "type": "song",
+  "title": "Good Mourning",
+  "status": "A",
+  "platform_id": 6,
+  "length": 197,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-09-29 00:08:00",
+  "locked_until": "2017-10-08 08:26:44",
+  "locked": 0,
+  "vote_count": 14,
+  "vote_avg": 2.7857,
+  "last_scraped": "2018-05-19 16:46:01",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    723,
+    1225
+  ],
+  "artist_names": [
+    "Mantronix",
+    "Tip"
+  ]
+}

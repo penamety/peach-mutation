@@ -1,0 +1,25 @@
+{
+  "id": 329,
+  "type": "song",
+  "title": "My Wolf 2",
+  "status": "A",
+  "platform_id": 6,
+  "length": 339,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 5,
+  "last_requested": "2017-05-22 12:54:52",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 18,
+  "vote_avg": 4.0,
+  "last_scraped": "2018-05-23 21:59:34",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    2244
+  ],
+  "artist_names": [
+    "Arpegiator"
+  ]
+}

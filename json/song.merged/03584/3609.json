@@ -1,0 +1,30 @@
+{
+  "id": 3609,
+  "type": "song",
+  "title": "Onward ",
+  "status": "I",
+  "release_year": "1995",
+  "platform_id": 3,
+  "length": 290,
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 103,
+  "last_requested": "2011-03-25 17:56:26",
+  "locked_until": "None",
+  "locked": 1,
+  "vote_count": 128,
+  "vote_avg": 4.8047,
+  "tags": "1995 Demo DOS TheGathering video",
+  "pouet_id": 37,
+  "yt_id": "R__IrgCireM",
+  "info": "This song corresponds to the module available from the demo in www.scene.org.  However, that module does not correspond to the demo (unfortunately).  Instead, look at [song]38171[/song].\n\nSee also [song]3610[/song], which is also inactive.",
+  "last_scraped": "2018-05-22 21:26:04",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    595
+  ],
+  "artist_names": [
+    "Jugi"
+  ]
+}

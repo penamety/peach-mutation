@@ -1,0 +1,27 @@
+{
+  "id": 21222,
+  "type": "song",
+  "title": "Manchester United",
+  "status": "A",
+  "release_year": "1990",
+  "platform_id": 5,
+  "length": 122,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2017-12-02 07:53:16",
+  "locked_until": "2017-12-23 17:30:52",
+  "locked": 0,
+  "vote_count": 10,
+  "vote_avg": 3.0,
+  "tags": "Geography",
+  "last_scraped": "2018-05-19 12:26:08",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    750
+  ],
+  "artist_names": [
+    "Matt Furniss"
+  ]
+}

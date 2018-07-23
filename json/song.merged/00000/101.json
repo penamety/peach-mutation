@@ -1,0 +1,26 @@
+{
+  "id": 101,
+  "type": "song",
+  "title": "Thala Music",
+  "status": "A",
+  "platform_id": 6,
+  "length": 322,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 60,
+  "last_requested": "2018-06-12 19:06:08",
+  "locked_until": "2018-07-15 04:28:35",
+  "locked": 1,
+  "vote_count": 113,
+  "vote_avg": 4.1327,
+  "tags": "bad_encoder GameRemix",
+  "last_scraped": "2018-06-12 20:37:32",
+  "source_id": 5,
+  "source": "Remix",
+  "artist_ids": [
+    6
+  ],
+  "artist_names": [
+    "4-mat"
+  ]
+}

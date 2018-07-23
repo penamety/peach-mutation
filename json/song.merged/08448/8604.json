@@ -1,0 +1,30 @@
+{
+  "id": 8604,
+  "type": "song",
+  "title": "Forsaken",
+  "status": "A",
+  "platform_id": 3,
+  "length": 177,
+  "uploaded_by": "seppjo",
+  "bit_rate": 255,
+  "sample_rate": 44100,
+  "fav_count": 9,
+  "last_requested": "2018-01-09 13:14:31",
+  "locked_until": "2018-01-27 15:35:02",
+  "locked": 0,
+  "vote_count": 45,
+  "vote_avg": 3.8889,
+  "tags": "sinewave",
+  "pouet_id": 1224,
+  "last_scraped": "2018-05-20 21:21:34",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    687,
+    977
+  ],
+  "artist_names": [
+    "Loonie",
+    "Radix"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 3583,
+  "type": "song",
+  "title": "The Castle",
+  "status": "A",
+  "release_year": "1990",
+  "platform_id": 6,
+  "length": 355,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-05-20 04:13:22",
+  "locked_until": "2018-06-07 00:53:35",
+  "locked": 0,
+  "vote_count": 20,
+  "vote_avg": 3.95,
+  "tags": "coop",
+  "info": "From \"Castle\" by The Giants. http://bitworld.bitfellas.org/demo.php?id=778",
+  "last_scraped": "2018-05-20 05:30:53",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    591,
+    1060
+  ],
+  "artist_names": [
+    "Jogeir",
+    "Shorty"
+  ]
+}

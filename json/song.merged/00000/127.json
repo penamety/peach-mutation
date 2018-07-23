@@ -1,0 +1,26 @@
+{
+  "id": 127,
+  "type": "song",
+  "title": "Mini 5",
+  "status": "A",
+  "platform_id": 6,
+  "length": 42,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-04-30 04:37:52",
+  "locked_until": "2018-05-25 00:12:12",
+  "locked": 0,
+  "vote_count": 10,
+  "vote_avg": 2.2,
+  "tags": "Short",
+  "last_scraped": "2018-05-23 06:46:01",
+  "artist_ids": [
+    8,
+    2104
+  ],
+  "artist_names": [
+    "911",
+    "Wal"
+  ]
+}

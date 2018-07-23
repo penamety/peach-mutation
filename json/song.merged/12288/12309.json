@@ -1,0 +1,30 @@
+{
+  "id": 12309,
+  "type": "song",
+  "title": "RFChip01",
+  "status": "A",
+  "platform_id": 3,
+  "length": 97,
+  "uploaded_by": "Elrinth",
+  "bit_rate": 191,
+  "sample_rate": 44100,
+  "fav_count": 15,
+  "last_requested": "2018-05-21 02:53:58",
+  "locked_until": "2018-06-18 12:04:44",
+  "locked": 1,
+  "vote_count": 45,
+  "vote_avg": 4.3778,
+  "tags": "Chiptune coop",
+  "info": "First and only co-op between Fairlight and Razor 1911.",
+  "last_scraped": "2018-05-21 04:13:26",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1323,
+    1373
+  ],
+  "artist_names": [
+    "Bliss",
+    "Dubmood"
+  ]
+}

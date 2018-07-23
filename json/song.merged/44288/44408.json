@@ -1,0 +1,28 @@
+{
+  "id": 44408,
+  "type": "song",
+  "title": "Ceres' Pyramid",
+  "status": "A",
+  "release_year": "2016",
+  "platform_id": 29,
+  "length": 192,
+  "uploaded_by": "ViThor",
+  "bit_rate": 255,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-06-02 20:56:53",
+  "locked_until": "2018-07-04 21:43:52",
+  "locked": 1,
+  "vote_count": 7,
+  "vote_avg": 4.1429,
+  "info": "I've just finished a small test of Amiga1200 working with MIDI.\nHardware: Yamaha QY70 + Amiga 1200 (MIDI).\nSoftware: OctaMED 4.00.\n\nAmiga 1200 - a computer launched in 1992. 14Mhz of Motorola CPU on-board. Mine has 10Mb of RAM. The song surely would work on standard 2Mb, without problems.\n\nYamaha QY70 has been released in 1997. It's a very small synthesizer with sequencer (but can also work in MIDI mode), similar in its look to Atari Lynx handheld game-console.\nSound generation method: AWM2.\n\nOctaMED 4.00 - the series generally has been closed in 1992 (later the program became freeware).\nYou can use 16 channels here, in the MIDI mode, however it still works as a tracker, so - for example - You cannot put a chord into one channel: You have to use 3 separate channels to make the chord.\n\nThe full album \"DEATH SQUAD\" with this song - is here: http://yerzmyey.i-demo.pl",
+  "last_scraped": "2018-06-02 23:11:51",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    1598
+  ],
+  "artist_names": [
+    "Yerzmyey"
+  ]
+}

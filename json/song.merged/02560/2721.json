@@ -1,0 +1,27 @@
+{
+  "id": 2721,
+  "type": "song",
+  "title": "The Last Star",
+  "status": "A",
+  "platform_id": 6,
+  "length": 247,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 5,
+  "last_requested": "2018-04-16 19:36:57",
+  "locked_until": "2018-05-23 00:51:10",
+  "locked": 0,
+  "vote_count": 22,
+  "vote_avg": 3.7273,
+  "tags": "1989 Musicdisk st-01",
+  "pouet_id": 9142,
+  "last_scraped": "2018-05-23 00:54:21",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    459
+  ],
+  "artist_names": [
+    "Fred"
+  ]
+}

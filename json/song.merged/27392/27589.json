@@ -1,0 +1,28 @@
+{
+  "id": 27589,
+  "type": "song",
+  "title": "Ghost in the Machine",
+  "status": "A",
+  "platform_id": 2,
+  "length": 173,
+  "uploaded_by": "AlphaC",
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-02-08 00:35:20",
+  "locked_until": "2018-03-04 16:54:57",
+  "locked": 0,
+  "vote_count": 12,
+  "vote_avg": 2.3333,
+  "pouet_id": 30870,
+  "info": "Soundtrack for \"Ghost in the Machine\", a C64 DTV demo by TRSI, 1st place at Maximum Overdose 8.",
+  "last_scraped": "2018-05-23 21:17:08",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1821
+  ],
+  "artist_names": [
+    "Linus"
+  ]
+}

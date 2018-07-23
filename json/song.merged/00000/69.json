@@ -1,0 +1,28 @@
+{
+  "id": 69,
+  "type": "song",
+  "title": "House 2 House",
+  "status": "A",
+  "release_year": "1989",
+  "platform_id": 6,
+  "length": 239,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-05-01 08:27:08",
+  "locked_until": "2018-06-17 06:35:29",
+  "locked": 0,
+  "vote_count": 15,
+  "vote_avg": 2.6,
+  "tags": "House ORCHESTRAHIT samples",
+  "info": "Used in \"Terminator Demo\" by Slipstream: http://bitworld.bitfellas.org/demo.php?id=2100\n",
+  "last_scraped": "2018-06-17 06:37:06",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    6
+  ],
+  "artist_names": [
+    "4-mat"
+  ]
+}

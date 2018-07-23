@@ -1,0 +1,27 @@
+{
+  "id": 4498,
+  "type": "song",
+  "title": "Agony [mountains level]",
+  "status": "A",
+  "platform_id": 6,
+  "length": 88,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-01-18 14:39:52",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 11,
+  "vote_avg": 2.9091,
+  "last_scraped": "2018-05-20 22:22:29",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    723,
+    1225
+  ],
+  "artist_names": [
+    "Mantronix",
+    "Tip"
+  ]
+}

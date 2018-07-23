@@ -1,0 +1,29 @@
+{
+  "id": 30123,
+  "type": "song",
+  "title": "Horizon Break",
+  "status": "A",
+  "release_year": "1996",
+  "platform_id": 6,
+  "length": 250,
+  "uploaded_by": "Mystra",
+  "bit_rate": 320,
+  "sample_rate": 48000,
+  "fav_count": 6,
+  "last_requested": "2018-06-06 10:44:00",
+  "locked_until": "2018-07-15 00:05:28",
+  "locked": 1,
+  "vote_count": 26,
+  "vote_avg": 3.3846,
+  "tags": "Eurochart",
+  "pouet_id": 20020,
+  "last_scraped": "2018-06-06 12:11:40",
+  "source_id": 12,
+  "source": "Diskmag",
+  "artist_ids": [
+    4399
+  ],
+  "artist_names": [
+    "Trip"
+  ]
+}

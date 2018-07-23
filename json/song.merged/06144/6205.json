@@ -1,0 +1,27 @@
+{
+  "id": 6205,
+  "type": "song",
+  "title": "Think Twice 5",
+  "status": "A",
+  "release_year": "1988",
+  "platform_id": 2,
+  "length": 179,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-05-30 00:13:48",
+  "locked_until": "2018-07-06 05:11:06",
+  "locked": 1,
+  "vote_count": 10,
+  "vote_avg": 3.6,
+  "pouet_id": 15035,
+  "last_scraped": "2018-05-30 01:30:36",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1003
+  ],
+  "artist_names": [
+    "Red"
+  ]
+}

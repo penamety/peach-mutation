@@ -1,0 +1,28 @@
+{
+  "id": 27594,
+  "type": "song",
+  "title": "Captain Nemo",
+  "status": "R",
+  "platform_id": 2,
+  "length": 160,
+  "uploaded_by": "AlphaC",
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2013-08-27 03:56:36",
+  "locked_until": "None",
+  "locked": 1,
+  "vote_count": 0,
+  "vote_avg": "None",
+  "pouet_id": 26777,
+  "info": "Used in \"Romeo\" by Fairlight, 4th place C64 demo at X 2006.",
+  "last_scraped": "2018-05-23 08:01:14",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    2004
+  ],
+  "artist_names": [
+    "Smalltown Boy"
+  ]
+}

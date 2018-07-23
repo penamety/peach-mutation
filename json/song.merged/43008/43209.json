@@ -1,0 +1,28 @@
+{
+  "id": 43209,
+  "type": "song",
+  "title": "Dancin (Axis of Evil)",
+  "status": "A",
+  "release_year": "2005",
+  "platform_id": 2,
+  "length": 214,
+  "uploaded_by": "Ultrasyd",
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2017-05-01 02:15:14",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 9,
+  "vote_avg": 3.6667,
+  "info": "Load address:\t$1000\nInit address:\t$1000\nPlay address:\t$1003\nNumber of songs:\t1\nDefault song:\t1\nSID model:\t6581\nClock speed:\tPAL\nData size:\t3231 ($0C9F)",
+  "last_scraped": "2018-05-20 21:46:28",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    720
+  ],
+  "artist_names": [
+    "Maktone"
+  ]
+}

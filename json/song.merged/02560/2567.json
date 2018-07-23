@@ -1,0 +1,26 @@
+{
+  "id": 2567,
+  "type": "song",
+  "title": "Frantic",
+  "status": "A",
+  "platform_id": 13,
+  "length": 102,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-02-16 22:03:43",
+  "locked_until": "2018-03-27 15:32:29",
+  "locked": 0,
+  "vote_count": 14,
+  "vote_avg": 3.2857,
+  "pouet_id": 11414,
+  "last_scraped": "2018-05-19 08:49:27",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    5470
+  ],
+  "artist_names": [
+    "Tom Poison"
+  ]
+}

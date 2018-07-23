@@ -1,0 +1,25 @@
+{
+  "id": 6483,
+  "type": "song",
+  "title": "The Giving Tree",
+  "status": "A",
+  "platform_id": 1,
+  "length": 355,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-06-13 09:24:15",
+  "locked_until": "2018-07-21 20:30:04",
+  "locked": 1,
+  "vote_count": 20,
+  "vote_avg": 3.15,
+  "last_scraped": "2018-06-13 11:01:24",
+  "source_id": 6,
+  "source": "Commercial CD",
+  "artist_ids": [
+    1076
+  ],
+  "artist_names": [
+    "Siren"
+  ]
+}

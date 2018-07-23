@@ -1,0 +1,28 @@
+{
+  "id": 3511,
+  "type": "song",
+  "title": "Essential Classics",
+  "status": "A",
+  "platform_id": 6,
+  "length": 122,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-04-23 21:59:51",
+  "locked_until": "2018-05-12 20:12:05",
+  "locked": 0,
+  "vote_count": 14,
+  "vote_avg": 3.6429,
+  "tags": "coop",
+  "last_scraped": "2018-05-24 09:17:32",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    591,
+    1060
+  ],
+  "artist_names": [
+    "Jogeir",
+    "Shorty"
+  ]
+}

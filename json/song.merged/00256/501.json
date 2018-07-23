@@ -1,0 +1,25 @@
+{
+  "id": 501,
+  "type": "song",
+  "title": "Love Affair",
+  "status": "A",
+  "platform_id": 6,
+  "length": 128,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2017-10-09 04:13:01",
+  "locked_until": "2017-10-16 03:13:44",
+  "locked": 0,
+  "vote_count": 15,
+  "vote_avg": 3.4,
+  "last_scraped": "2018-05-24 05:22:59",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    80
+  ],
+  "artist_names": [
+    "Azazel"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 40729,
+  "type": "song",
+  "title": "Black Sunshine",
+  "status": "A",
+  "release_year": "2014",
+  "platform_id": 5,
+  "length": 191,
+  "uploaded_by": "ViThor",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-05-20 21:49:40",
+  "locked_until": "2018-06-28 08:59:21",
+  "locked": 1,
+  "vote_count": 9,
+  "vote_avg": 3.4444,
+  "tags": "2014 4th AY compo DiHALT Speccy ZXSpectrum",
+  "info": "4th place at DiHalt 2014 in ZX Spectrum AY/YM/TurboAY Music compo.\n\n--------------------------\nNick/Realname: Lamer Pinky / Petr Klusal\nGroup: Gemba Boys\nFull name of work: Black Sunshine\nCompo: OldSchool 8-bit competitions (ZX Spectrum AY/YM-Music)\nRequirements: ZX Spectrum (and AY chip)\nDuration (minutes): 3:12\nContacts: lamer.pinky@windowslive.com\n\nP.S.: Music is in ABC stereo :-)\nThe music I did in Vortex Tracker, I attach a source file.\nThe song is is not repeated after finish, I forbade loop.\nIf there are any issues, please contact me via email. Thank You.\nI attach SNAP....is there Prometheus, just type RUN :-)\n\nCODE informations: Play routine: 49152,1617\nMusic data: 51310,9408\nLenght: 11570\n\nIn assembler:\n\ninit CALL 49152\nEI\nloop HALT\nCALL 49157 (init+5)\nJR,loop\n\nP.S.2: DiHalt rulezZz !!! :-)\n--------------------------",
+  "last_scraped": "2018-05-20 23:35:22",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    5333
+  ],
+  "artist_names": [
+    "Lamer Pinky"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 3201,
+  "type": "song",
+  "title": "Arkanoid (remix)",
+  "status": "A",
+  "platform_id": 1,
+  "length": 145,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 6,
+  "last_requested": "2018-05-02 13:12:50",
+  "locked_until": "2018-05-21 20:51:56",
+  "locked": 0,
+  "vote_count": 29,
+  "vote_avg": 3.4483,
+  "tags": "GameRemix",
+  "last_scraped": "2018-05-21 20:54:23",
+  "source_id": 5,
+  "source": "Remix",
+  "artist_ids": [
+    550
+  ],
+  "artist_names": [
+    "Instant Remedy"
+  ]
+}

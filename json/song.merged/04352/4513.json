@@ -1,0 +1,28 @@
+{
+  "id": 4513,
+  "type": "song",
+  "title": "Kool",
+  "status": "A",
+  "platform_id": 6,
+  "length": 194,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 10,
+  "last_requested": "2018-05-26 19:16:24",
+  "locked_until": "2018-06-26 10:50:31",
+  "locked": 1,
+  "vote_count": 44,
+  "vote_avg": 4.0909,
+  "tags": "coop",
+  "last_scraped": "2018-05-26 21:52:05",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    723,
+    1225
+  ],
+  "artist_names": [
+    "Mantronix",
+    "Tip"
+  ]
+}

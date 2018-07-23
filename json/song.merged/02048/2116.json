@@ -1,0 +1,28 @@
+{
+  "id": 2116,
+  "type": "song",
+  "title": "The Lone Ranger",
+  "status": "A",
+  "release_year": "1989",
+  "platform_id": 6,
+  "length": 161,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-03-31 23:56:10",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 10,
+  "vote_avg": 3.0,
+  "tags": "cover TV",
+  "pouet_id": 9344,
+  "last_scraped": "2018-05-24 07:40:31",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    378
+  ],
+  "artist_names": [
+    "Dr. Awesome"
+  ]
+}

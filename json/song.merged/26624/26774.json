@@ -1,0 +1,30 @@
+{
+  "id": 26774,
+  "type": "song",
+  "title": "Wings Of Death [long version]",
+  "status": "A",
+  "platform_id": 1,
+  "length": 382,
+  "uploaded_by": "prowler",
+  "bit_rate": 160,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-04-12 16:03:40",
+  "locked_until": "2018-05-20 02:58:22",
+  "locked": 0,
+  "vote_count": 24,
+  "vote_avg": 3.2083,
+  "tags": "GameRemix",
+  "info": "MIDI conversion by Oedipus.\nRe-arrangement with Yamaha CS1x and Cubase Atari by Strider.\nSamples from the Amiga version.\nLong version with distorted and overdriven guitars.",
+  "last_scraped": "2018-05-20 03:00:41",
+  "source_id": 5,
+  "source": "Remix",
+  "artist_ids": [
+    883,
+    1645
+  ],
+  "artist_names": [
+    "Oedipus",
+    "Strider"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 6006,
+  "type": "song",
+  "title": "Pony Pop Princess",
+  "status": "A",
+  "platform_id": 3,
+  "length": 145,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 29,
+  "last_requested": "2018-06-07 00:32:30",
+  "locked_until": "2018-07-08 08:49:19",
+  "locked": 1,
+  "vote_count": 69,
+  "vote_avg": 4.2609,
+  "tags": "animal",
+  "info": "Music Contest 6 veteran entry.\n\nAccording to the module, it was also named \"Wojtek's Farm\" as it's titled in Modland and done in coop with Unreal of Pulse.",
+  "last_scraped": "2018-06-07 02:04:58",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    977,
+    1285
+  ],
+  "artist_names": [
+    "Radix",
+    "Unreal"
+  ]
+}

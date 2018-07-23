@@ -1,0 +1,30 @@
+{
+  "id": 1349,
+  "type": "song",
+  "title": "World of Noise",
+  "status": "A",
+  "release_year": "2000",
+  "platform_id": 41,
+  "length": 246,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 57,
+  "last_requested": "2018-06-13 16:45:57",
+  "locked_until": "2018-07-11 21:06:25",
+  "locked": 1,
+  "vote_count": 105,
+  "vote_avg": 4.4381,
+  "tags": "2000 64k Ambience ixs softsynth technically-awesome video Windows",
+  "pouet_id": 232,
+  "yt_id": "ycmgjZLU0xQ",
+  "info": "1st place in pc 64k compo at Ambience 2000\n\nSoundtrack of the famous \"please the cookie thing\" 64k. Originally written in Impulse Tracker module, the soundtrack uses both samples and synthesized instruments.",
+  "last_scraped": "2018-06-13 18:17:15",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    252
+  ],
+  "artist_names": [
+    "Crystal Score"
+  ]
+}

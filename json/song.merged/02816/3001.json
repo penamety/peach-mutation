@@ -1,0 +1,23 @@
+{
+  "id": 3001,
+  "type": "song",
+  "title": "Reelbouncer",
+  "status": "A",
+  "platform_id": 6,
+  "length": 91,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-06-16 12:06:09",
+  "locked_until": "2017-06-26 01:56:20",
+  "locked": 0,
+  "vote_count": 10,
+  "vote_avg": 2.7,
+  "last_scraped": "2018-05-21 14:55:29",
+  "artist_ids": [
+    511
+  ],
+  "artist_names": [
+    "Heatbeat"
+  ]
+}

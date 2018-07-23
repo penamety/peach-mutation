@@ -1,0 +1,28 @@
+{
+  "id": 55,
+  "type": "song",
+  "title": "Cluster",
+  "status": "A",
+  "platform_id": 6,
+  "length": 347,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 8,
+  "last_requested": "2018-06-13 08:06:13",
+  "locked_until": "2018-07-19 18:00:24",
+  "locked": 1,
+  "vote_count": 45,
+  "vote_avg": 3.5333,
+  "tags": "video",
+  "pouet_id": 9091,
+  "yt_id": "FHZ9muclPvY",
+  "last_scraped": "2018-06-13 09:38:43",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    6
+  ],
+  "artist_names": [
+    "4-mat"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 30972,
+  "type": "song",
+  "title": "Arkanoid-Mix",
+  "status": "A",
+  "platform_id": 13,
+  "length": 254,
+  "uploaded_by": "Argolyn",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-04-19 10:55:16",
+  "locked_until": "2018-05-23 08:15:28",
+  "locked": 0,
+  "vote_count": 21,
+  "vote_avg": 3.6667,
+  "tags": "GameRemix",
+  "pouet_id": 57467,
+  "info": "needs reencode with less stereo separation",
+  "last_scraped": "2018-05-23 08:18:33",
+  "source_id": 5,
+  "source": "Remix",
+  "artist_ids": [
+    2060
+  ],
+  "artist_names": [
+    "Archon"
+  ]
+}

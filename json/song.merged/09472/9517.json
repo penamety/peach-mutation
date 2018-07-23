@@ -1,0 +1,28 @@
+{
+  "id": 9517,
+  "type": "song",
+  "title": "Astaris",
+  "status": "A",
+  "platform_id": 3,
+  "length": 201,
+  "uploaded_by": "karstenko",
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 52,
+  "last_requested": "2018-06-12 09:35:10",
+  "locked_until": "2018-07-09 07:20:24",
+  "locked": 1,
+  "vote_count": 83,
+  "vote_avg": 4.6024,
+  "tags": "Mellow Software Space",
+  "info": "- 30 Channel IMF (Orpheus' native format)\n- full 16-bit 44kHz multisample support\n- official IMAGO demosong\n\nThis is the demo song that came with Imago Orpheus PC Tracker. Trivia: It actually came with a downsampled version, where the frequency slides were broken. Orpheus makes heavy use of the Chorus, Reverb, and Filter FX of the Soundblaster AWE32 Soundcard which came out in 1993.",
+  "last_scraped": "2018-06-12 11:32:25",
+  "source_id": 8,
+  "source": "Newschool",
+  "artist_ids": [
+    2995
+  ],
+  "artist_names": [
+    "Karsten Koch"
+  ]
+}

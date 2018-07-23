@@ -1,0 +1,27 @@
+{
+  "id": 12012,
+  "type": "song",
+  "title": "Funnktastic",
+  "status": "A",
+  "platform_id": 6,
+  "length": 130,
+  "uploaded_by": "Mystra",
+  "bit_rate": 128,
+  "sample_rate": 48000,
+  "fav_count": 1,
+  "last_requested": "2018-01-17 21:41:41",
+  "locked_until": "2018-02-05 21:25:47",
+  "locked": 0,
+  "vote_count": 9,
+  "vote_avg": 3.6667,
+  "tags": "Funk",
+  "last_scraped": "2018-05-24 16:17:12",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    830
+  ],
+  "artist_names": [
+    "Mutant"
+  ]
+}

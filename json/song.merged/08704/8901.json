@@ -1,0 +1,30 @@
+{
+  "id": 8901,
+  "type": "song",
+  "title": "Chop Suey",
+  "status": "A",
+  "release_year": "2007",
+  "platform_id": 3,
+  "length": 155,
+  "uploaded_by": "Mystra",
+  "bit_rate": 0,
+  "sample_rate": 0,
+  "fav_count": 43,
+  "last_requested": "2018-05-23 07:15:06",
+  "locked_until": "2018-06-23 08:41:29",
+  "locked": 1,
+  "vote_count": 105,
+  "vote_avg": 4.3429,
+  "tags": "BigChipcompo Chiptune Compowinner food happy",
+  "pouet_id": 31094,
+  "info": "This tune won the Big Chip Compo #8.",
+  "last_scraped": "2018-05-23 08:36:48",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    1625
+  ],
+  "artist_names": [
+    "Mystra"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 33405,
+  "type": "song",
+  "title": "Robot Demo",
+  "status": "A",
+  "release_year": "1984",
+  "platform_id": 25,
+  "length": 64,
+  "uploaded_by": "hornpipe2",
+  "bit_rate": 89,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2018-05-29 23:33:37",
+  "locked_until": "2018-07-12 20:01:21",
+  "locked": 1,
+  "vote_count": 26,
+  "vote_avg": 2.6923,
+  "tags": "Atari Demo robotic video",
+  "pouet_id": 27280,
+  "yt_id": "l2lZABu8hZc",
+  "info": "(c) 1984 Atari.  The infamous Robot Demo that came with the various Atari 8-bitters.  If you had an Atari you know this demo.\n\nThe demo had a second part, which depicted a flying space ship.  This is the first half.\n\nhttp://www.megalextoria.com/forum2/index.php?t=msg&th=42128&start=0&\n\nhttp://www.atarimagazines.com/v4n8/Lucasfilm.html",
+  "last_scraped": "2018-05-30 00:58:23",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    5529,
+    5530
+  ],
+  "artist_names": [
+    "Jim St. Louis",
+    "Russ Karas"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2551,
+  "type": "song",
+  "title": "Demo 44",
+  "status": "A",
+  "platform_id": 13,
+  "length": 149,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-10-23 20:51:47",
+  "locked_until": "2017-11-14 13:30:35",
+  "locked": 0,
+  "vote_count": 13,
+  "vote_avg": 3.0,
+  "last_scraped": "2018-05-20 06:25:54",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    713
+  ],
+  "artist_names": [
+    "Mad Max"
+  ]
+}

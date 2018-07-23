@@ -1,0 +1,27 @@
+{
+  "id": 1102,
+  "type": "song",
+  "title": "Love at First",
+  "status": "A",
+  "release_year": "1994",
+  "platform_id": 6,
+  "length": 96,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-01-04 08:35:35",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 11,
+  "vote_avg": 2.9091,
+  "pouet_id": 12346,
+  "last_scraped": "2018-05-24 21:29:05",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    207
+  ],
+  "artist_names": [
+    "Chromag"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 7968,
+  "type": "song",
+  "title": "Monsieur l'ordinateur",
+  "status": "A",
+  "length": 109,
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 9,
+  "last_requested": "2018-05-11 14:25:18",
+  "locked_until": "2018-06-25 05:28:31",
+  "locked": 1,
+  "vote_count": 71,
+  "vote_avg": 2.3803,
+  "tags": "coop FrenchSpeak Lyrics vocoder",
+  "info": "Lyrics:\n\"Allo, allo, monsieur l'ordinateur ?\nDites-moi, dites-moi où est passé mon coeur ?\"\n\nTranslation:\n\"Hello, hello, mister computer?\nTell me, please tell me, where has my heart gone?\"",
+  "last_scraped": "2018-05-23 04:55:00",
+  "artist_ids": [
+    716,
+    1466
+  ],
+  "artist_names": [
+    "Maf",
+    "GTK"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 13512,
+  "type": "song",
+  "title": "Inquiries",
+  "status": "A",
+  "platform_id": 53,
+  "length": 153,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-05-02 01:30:43",
+  "locked_until": "2018-05-21 07:26:20",
+  "locked": 0,
+  "vote_count": 10,
+  "vote_avg": 3.6,
+  "info": "\"ACE-tracker samplecompo (1st)\"\n\nACE Tracker format\n\nRecording from 505's website.",
+  "last_scraped": "2018-05-21 07:30:26",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    7
+  ],
+  "artist_names": [
+    "505"
+  ]
+}

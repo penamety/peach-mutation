@@ -1,0 +1,28 @@
+{
+  "id": 88,
+  "type": "song",
+  "title": "Rebels",
+  "status": "A",
+  "release_year": "1990",
+  "platform_id": 6,
+  "length": 115,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 12,
+  "last_requested": "2017-11-17 06:41:10",
+  "locked_until": "2017-12-05 14:12:47",
+  "locked": 0,
+  "vote_count": 40,
+  "vote_avg": 3.825,
+  "tags": "Chiptune",
+  "pouet_id": 51196,
+  "last_scraped": "2018-05-23 22:17:25",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    6
+  ],
+  "artist_names": [
+    "4-mat"
+  ]
+}

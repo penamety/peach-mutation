@@ -1,0 +1,25 @@
+{
+  "id": 965,
+  "type": "song",
+  "title": "Red Baron",
+  "status": "A",
+  "platform_id": 6,
+  "length": 148,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-04-24 03:03:41",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 10,
+  "vote_avg": 3.6,
+  "last_scraped": "2018-05-21 17:13:25",
+  "artist_ids": [
+    193,
+    1066
+  ],
+  "artist_names": [
+    "Chorus",
+    "Sid"
+  ]
+}

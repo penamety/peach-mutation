@@ -1,0 +1,28 @@
+{
+  "id": 8091,
+  "type": "song",
+  "title": "Combat Crazy",
+  "status": "A",
+  "platform_id": 1,
+  "length": 261,
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 10,
+  "last_requested": "2018-04-08 14:04:29",
+  "locked_until": "2018-05-11 20:20:09",
+  "locked": 0,
+  "vote_count": 44,
+  "vote_avg": 3.8864,
+  "tags": "coop",
+  "last_scraped": "2018-05-23 09:51:17",
+  "source_id": 5,
+  "source": "Remix",
+  "artist_ids": [
+    1321,
+    1666
+  ],
+  "artist_names": [
+    "Blaizer",
+    "Ziphoid"
+  ]
+}

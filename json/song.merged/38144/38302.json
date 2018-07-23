@@ -1,0 +1,30 @@
+{
+  "id": 38302,
+  "type": "song",
+  "title": "Proof of Concept (BONUS TRACK)",
+  "status": "A",
+  "release_year": "2013",
+  "platform_id": 5,
+  "length": 156,
+  "uploaded_by": "ViThor",
+  "bit_rate": 191,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2018-06-11 18:32:47",
+  "locked_until": "2018-07-12 15:20:07",
+  "locked": 1,
+  "vote_count": 19,
+  "vote_avg": 4.1579,
+  "tags": "2013 AY DIGITAL Speccy YM ZXSpectrum",
+  "pouet_id": 61293,
+  "info": "This is really a proof of concept, I made for the idea of playing simultaneously two ZX Spectrum computers, where one is playing chiptune music and the second one is playing digital music (6 channels in total).\nI was wondering if it keeps tempo properly - and it appeared it works OK. \nI don't know if it sounds very well, but at least sounds kind of interesting, I'd say.\n\nOne Spectrum is playing a chiptune part from ZX SoundTracker 1.1. \nThe second Spectrum is playing a 3-channels 4-bit digi-music from SampleTracker 2.1.\n\nZX Spectrum is a computer from 1982 year. \nCPU speed: 3,5 Mhz. \nRAM: 48Kb.\n\nAY-interface contains General Instrument AY-3-8910 chip or ym2149 chip (depending on model. A difference in sound is minimal).",
+  "last_scraped": "2018-06-11 20:00:11",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    1598
+  ],
+  "artist_names": [
+    "Yerzmyey"
+  ]
+}

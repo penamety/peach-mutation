@@ -1,0 +1,29 @@
+{
+  "id": 32703,
+  "type": "song",
+  "title": "Cherry Tobacco",
+  "status": "A",
+  "release_year": "2011",
+  "platform_id": 5,
+  "length": 202,
+  "uploaded_by": "ViThor",
+  "bit_rate": 191,
+  "sample_rate": 44100,
+  "fav_count": 9,
+  "last_requested": "2018-05-25 19:40:51",
+  "locked_until": "2018-06-30 08:50:38",
+  "locked": 1,
+  "vote_count": 32,
+  "vote_avg": 3.5625,
+  "tags": "2011 AY Chiptune food Smoking ZXSpectrum",
+  "info": "1) I was bored.\n2) I refuse to use square wave for leads. The song has been made on ZX Spectrum 48K with AY-interface. It is a 3-channels generator based on square waves. It has additional \"buzzers\" but they're designed mostly for bass. Therefore everybody use squares as leads on AY, which is boring. Still, it's most annoying to tune the \"buzzers\" in higher frequencies to make them sound like some funny leads. But I keep experimenting for many years: what more can be pulled-out from AY without additional CPU's activity (like it's being done on Atari ST for example). Hence I use only original possibilities of AY chip. And now I'm going to smoke some cherry tobacco. Greetz, ppl.",
+  "last_scraped": "2018-05-25 21:25:29",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1598
+  ],
+  "artist_names": [
+    "Yerzmyey"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 971,
+  "type": "song",
+  "title": "Where's My Key",
+  "status": "A",
+  "release_year": "1995",
+  "platform_id": 6,
+  "length": 180,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-05-29 06:23:39",
+  "locked_until": "2017-05-31 14:30:55",
+  "locked": 0,
+  "vote_count": 8,
+  "vote_avg": 3.375,
+  "tags": "TheCharts",
+  "pouet_id": 13308,
+  "last_scraped": "2018-05-24 15:01:34",
+  "source_id": 12,
+  "source": "Diskmag",
+  "artist_ids": [
+    193,
+    1066
+  ],
+  "artist_names": [
+    "Chorus",
+    "Sid"
+  ]
+}

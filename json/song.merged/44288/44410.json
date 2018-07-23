@@ -1,0 +1,28 @@
+{
+  "id": 44410,
+  "type": "song",
+  "title": "Moon Hoax",
+  "status": "A",
+  "release_year": "2016",
+  "platform_id": 2,
+  "length": 202,
+  "uploaded_by": "ViThor",
+  "bit_rate": 255,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-06-06 05:45:25",
+  "locked_until": "2018-07-07 14:33:55",
+  "locked": 1,
+  "vote_count": 12,
+  "vote_avg": 4.25,
+  "info": "The song has been made and recorded from Raspberry Pi 2. I wanted to check out how would SID emulation work from the Broadcom BCM2836 chip (11 bit quality from a digital PWM module - gives a 'pulse width modulated' signal - working with frequency around 40MHz and it is low-pass-filtered).\nI started the song in 2015 but finished it only in March 2016.",
+  "last_scraped": "2018-06-06 07:07:02",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    1598
+  ],
+  "artist_names": [
+    "Yerzmyey"
+  ]
+}

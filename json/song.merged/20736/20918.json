@@ -1,0 +1,29 @@
+{
+  "id": 20918,
+  "type": "song",
+  "title": "Phantoms of the Asteroid 1 Digital",
+  "status": "A",
+  "release_year": "1988",
+  "platform_id": 5,
+  "length": 260,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2018-06-10 05:34:51",
+  "locked_until": "2018-07-21 12:31:03",
+  "locked": 1,
+  "vote_count": 20,
+  "vote_avg": 3.15,
+  "tags": "GameRemix ym2149-pcm",
+  "pouet_id": 11350,
+  "info": "PCM sound created by manipulating volume register",
+  "last_scraped": "2018-06-10 06:50:59",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    713
+  ],
+  "artist_names": [
+    "Mad Max"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1985,
+  "type": "song",
+  "title": "Basketball",
+  "status": "A",
+  "platform_id": 6,
+  "length": 118,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-02-24 04:12:11",
+  "locked_until": "2018-04-10 01:48:01",
+  "locked": 0,
+  "vote_count": 17,
+  "vote_avg": 2.5882,
+  "tags": "cover Sport",
+  "last_scraped": "2018-05-20 00:46:50",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    378
+  ],
+  "artist_names": [
+    "Dr. Awesome"
+  ]
+}

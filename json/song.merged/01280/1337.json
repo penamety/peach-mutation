@@ -1,0 +1,22 @@
+{
+  "id": 1337,
+  "type": "song",
+  "title": "Karva",
+  "status": "A",
+  "length": 115,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-07-05 08:57:15",
+  "locked_until": "2017-07-14 04:22:39",
+  "locked": 0,
+  "vote_count": 12,
+  "vote_avg": 2.75,
+  "last_scraped": "2018-05-24 11:37:16",
+  "artist_ids": [
+    248
+  ],
+  "artist_names": [
+    "Croaker"
+  ]
+}

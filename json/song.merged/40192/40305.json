@@ -1,0 +1,26 @@
+{
+  "id": 40305,
+  "type": "song",
+  "title": "Song 1",
+  "status": "A",
+  "release_year": "1988",
+  "platform_id": 2,
+  "length": 210,
+  "uploaded_by": "flash",
+  "bit_rate": 192,
+  "sample_rate": 48000,
+  "fav_count": 0,
+  "last_requested": "2018-05-31 05:52:02",
+  "locked_until": "2018-07-14 03:52:25",
+  "locked": 1,
+  "vote_count": 15,
+  "vote_avg": 2.8,
+  "tags": "ALARM",
+  "last_scraped": "2018-05-31 07:30:54",
+  "artist_ids": [
+    5485
+  ],
+  "artist_names": [
+    "Jörg Schütte"
+  ]
+}

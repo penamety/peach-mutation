@@ -1,0 +1,29 @@
+{
+  "id": 8309,
+  "type": "song",
+  "title": "Demo Song Nr 2",
+  "status": "A",
+  "platform_id": 1,
+  "length": 356,
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 85,
+  "last_requested": "2018-06-11 17:02:50",
+  "locked_until": "2018-07-12 17:00:17",
+  "locked": 1,
+  "vote_count": 124,
+  "vote_avg": 4.3387,
+  "tags": "2002 Assembly Demo SceneOrgAwards video Windows",
+  "pouet_id": 7130,
+  "yt_id": "Ae8UK9mscWg",
+  "info": "1st place in combined demo compo at Assembly 2002",
+  "last_scraped": "2018-06-11 18:23:32",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1298
+  ],
+  "artist_names": [
+    "Vic"
+  ]
+}

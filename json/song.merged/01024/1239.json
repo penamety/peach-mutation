@@ -1,0 +1,29 @@
+{
+  "id": 1239,
+  "type": "song",
+  "title": "Shark",
+  "status": "A",
+  "release_year": "1992",
+  "platform_id": 6,
+  "length": 56,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-04-01 04:17:44",
+  "locked_until": "2018-05-03 21:20:00",
+  "locked": 0,
+  "vote_count": 9,
+  "vote_avg": 3.8889,
+  "tags": "coop Short",
+  "last_scraped": "2018-05-21 03:26:20",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    218,
+    1675
+  ],
+  "artist_names": [
+    "Clawz",
+    "Skiller"
+  ]
+}

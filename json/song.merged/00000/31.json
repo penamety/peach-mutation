@@ -1,0 +1,28 @@
+{
+  "id": 31,
+  "type": "song",
+  "title": "6beat",
+  "status": "A",
+  "release_year": "1990",
+  "platform_id": 6,
+  "length": 175,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 18,
+  "last_requested": "2018-01-30 16:38:28",
+  "locked_until": "2018-02-19 07:42:47",
+  "locked": 0,
+  "vote_count": 49,
+  "vote_avg": 3.5306,
+  "tags": "1990 Amiga diskmag StolenData",
+  "pouet_id": 9076,
+  "last_scraped": "2018-05-19 12:59:03",
+  "source_id": 12,
+  "source": "Diskmag",
+  "artist_ids": [
+    6
+  ],
+  "artist_names": [
+    "4-mat"
+  ]
+}

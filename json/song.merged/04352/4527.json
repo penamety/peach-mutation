@@ -1,0 +1,29 @@
+{
+  "id": 4527,
+  "type": "song",
+  "title": "Serenity Square",
+  "status": "A",
+  "release_year": "1991",
+  "platform_id": 6,
+  "length": 216,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2018-04-26 23:26:51",
+  "locked_until": "2018-05-27 15:38:31",
+  "locked": 0,
+  "vote_count": 33,
+  "vote_avg": 4.1515,
+  "pouet_id": 2939,
+  "last_scraped": "2018-05-20 03:03:04",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    723,
+    1225
+  ],
+  "artist_names": [
+    "Mantronix",
+    "Tip"
+  ]
+}

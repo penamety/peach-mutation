@@ -1,0 +1,28 @@
+{
+  "id": 1512,
+  "type": "song",
+  "title": "Experimental",
+  "status": "A",
+  "length": 279,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 7,
+  "last_requested": "2018-06-11 07:24:56",
+  "locked_until": "2018-07-16 08:03:33",
+  "locked": 1,
+  "vote_count": 31,
+  "vote_avg": 3.8065,
+  "tags": "coop",
+  "pouet_id": 28,
+  "last_scraped": "2018-06-11 09:17:38",
+  "artist_ids": [
+    1210,
+    1283,
+    2556
+  ],
+  "artist_names": [
+    "The Weasel",
+    "Unison (fr)",
+    "Dax"
+  ]
+}

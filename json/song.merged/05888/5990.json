@@ -1,0 +1,27 @@
+{
+  "id": 5990,
+  "type": "song",
+  "title": "Mountain King",
+  "status": "A",
+  "platform_id": 6,
+  "length": 74,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 6,
+  "last_requested": "2018-06-05 16:10:06",
+  "locked_until": "2018-07-10 19:54:31",
+  "locked": 1,
+  "vote_count": 22,
+  "vote_avg": 3.5455,
+  "tags": "Classical cover Grieg",
+  "info": "radix/limited edition\nduration 1:14",
+  "last_scraped": "2018-06-05 17:23:54",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    977
+  ],
+  "artist_names": [
+    "Radix"
+  ]
+}

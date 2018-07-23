@@ -1,0 +1,31 @@
+{
+  "id": 33373,
+  "type": "song",
+  "title": "Kaminari",
+  "status": "A",
+  "release_year": "2010",
+  "platform_id": 5,
+  "length": 163,
+  "uploaded_by": "ViThor",
+  "bit_rate": 191,
+  "sample_rate": 44100,
+  "fav_count": 6,
+  "last_requested": "2018-06-16 12:43:59",
+  "locked_until": "2018-07-20 18:19:30",
+  "locked": 1,
+  "vote_count": 35,
+  "vote_avg": 3.7143,
+  "tags": "48k Compowinner Demo DIGITAL epilogue Forever Italo-disco Musicdisk Speccy video ZXSpectrum",
+  "pouet_id": 56765,
+  "yt_id": "Zg5pXed9ueY",
+  "info": "ZX Spectrum 48K with AY-interface. Italo-disco - good music for summer. \n\n3 digital channels in 4-bit quality. I must admit I even like this one, as it's interesting impression to hear such a sound from a computer in size of a bigger calculator. \n\nSoft used: SAMPLE-TRACKER. There is only about 34Kb for entire \"MOD\" song. Well, it's not a real MOD, as it has only 3 channels and also it has no volume-commands. To trick it, I made most of samples in two versions - louder and more silent, to achieve delays. Of course it took much more RAM, so I had to make the samples even more carefully. AY/YM chip isn't in fact supposed to play samples, so the procedure is based on CPU mostly. I managed here to make an impression of 4 channels by putting samples very nifty. \n\n\"Kaminari\" comes from Japanese language and it means \"thunder\". \n\nRecorded from real hardware.",
+  "last_scraped": "2018-06-16 14:27:17",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1598
+  ],
+  "artist_names": [
+    "Yerzmyey"
+  ]
+}

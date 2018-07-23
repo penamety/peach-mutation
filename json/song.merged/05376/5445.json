@@ -1,0 +1,27 @@
+{
+  "id": 5445,
+  "type": "song",
+  "title": "Swing High",
+  "status": "A",
+  "release_year": "1990",
+  "platform_id": 6,
+  "length": 239,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-04-14 23:18:57",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 13,
+  "vote_avg": 3.3846,
+  "pouet_id": 59395,
+  "last_scraped": "2018-05-20 12:00:07",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    378
+  ],
+  "artist_names": [
+    "Dr. Awesome"
+  ]
+}

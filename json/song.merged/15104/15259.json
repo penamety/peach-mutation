@@ -1,0 +1,29 @@
+{
+  "id": 15259,
+  "type": "song",
+  "title": "Flashdance",
+  "status": "A",
+  "platform_id": 13,
+  "length": 234,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2017-10-27 14:07:00",
+  "locked_until": "2017-11-16 00:59:49",
+  "locked": 0,
+  "vote_count": 18,
+  "vote_avg": 3.5556,
+  "tags": "coop",
+  "pouet_id": 13284,
+  "last_scraped": "2018-05-19 06:42:47",
+  "source_id": 5,
+  "source": "Remix",
+  "artist_ids": [
+    150,
+    591
+  ],
+  "artist_names": [
+    "Bug",
+    "Jogeir"
+  ]
+}

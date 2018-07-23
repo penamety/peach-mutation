@@ -1,0 +1,28 @@
+{
+  "id": 37163,
+  "type": "song",
+  "title": "Sidding",
+  "status": "A",
+  "release_year": "2012",
+  "platform_id": 1,
+  "length": 145,
+  "uploaded_by": "Buzzer",
+  "bit_rate": 319,
+  "sample_rate": 44100,
+  "fav_count": 7,
+  "last_requested": "2017-12-29 01:26:45",
+  "locked_until": "2018-01-16 02:04:40",
+  "locked": 0,
+  "vote_count": 31,
+  "vote_avg": 3.9355,
+  "info": "Not a real C64 SID tune. Sampled some instruments from C64 and imported those into Reason sequencer and recorded some crap :)",
+  "last_scraped": "2018-05-22 19:43:07",
+  "source_id": 8,
+  "source": "Newschool",
+  "artist_ids": [
+    1327
+  ],
+  "artist_names": [
+    "Buzzer"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 949,
+  "type": "song",
+  "title": "Beneath the Mask",
+  "status": "A",
+  "release_year": "1995",
+  "platform_id": 6,
+  "length": 175,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-10-31 16:34:16",
+  "locked_until": "2017-11-24 14:04:36",
+  "locked": 0,
+  "vote_count": 10,
+  "vote_avg": 2.5,
+  "pouet_id": 9566,
+  "last_scraped": "2018-05-21 01:34:53",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    193,
+    1066
+  ],
+  "artist_names": [
+    "Chorus",
+    "Sid"
+  ]
+}

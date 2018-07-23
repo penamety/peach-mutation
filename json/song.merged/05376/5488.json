@@ -1,0 +1,27 @@
+{
+  "id": 5488,
+  "type": "song",
+  "title": "Benefactor",
+  "status": "A",
+  "release_year": "1994",
+  "platform_id": 6,
+  "length": 172,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 5,
+  "last_requested": "2018-05-09 00:50:50",
+  "locked_until": "2018-06-16 15:27:35",
+  "locked": 0,
+  "vote_count": 29,
+  "vote_avg": 3.4483,
+  "info": "Music format is Amiga mod, but packed with Prorunner 2.0, a module packer by Cosmos/Sanity. ",
+  "last_scraped": "2018-06-16 15:29:59",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    1321
+  ],
+  "artist_names": [
+    "Blaizer"
+  ]
+}

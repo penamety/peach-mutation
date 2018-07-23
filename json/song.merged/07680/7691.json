@@ -1,0 +1,30 @@
+{
+  "id": 7691,
+  "type": "song",
+  "title": "Welcome to 4sceners",
+  "status": "A",
+  "release_year": "2005",
+  "platform_id": 20,
+  "length": 329,
+  "bit_rate": 191,
+  "sample_rate": 44100,
+  "fav_count": 77,
+  "last_requested": "2018-06-15 14:59:48",
+  "locked_until": "2018-07-13 07:59:21",
+  "locked": 1,
+  "vote_count": 138,
+  "vote_avg": 4.5145,
+  "tags": "2005 Buenzli Compowinner Demo video Windows",
+  "pouet_id": 18629,
+  "yt_id": "oc-qYLV6glQ",
+  "info": "1st place in pc demo compo at Buenzli 2005.\nTracked in Skaletracker 0.76w (60MB sized module)",
+  "last_scraped": "2018-06-15 16:19:37",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    2711
+  ],
+  "artist_names": [
+    "Rapture"
+  ]
+}

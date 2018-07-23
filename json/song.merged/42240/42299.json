@@ -1,0 +1,28 @@
+{
+  "id": 42299,
+  "type": "song",
+  "title": "Time Machine II",
+  "status": "A",
+  "release_year": "2015",
+  "platform_id": 10,
+  "length": 225,
+  "uploaded_by": "ViThor",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-05-18 04:55:26",
+  "locked_until": "2018-06-21 02:27:01",
+  "locked": 1,
+  "vote_count": 12,
+  "vote_avg": 3.8333,
+  "info": "This is a dubstep/chipmusic song made for the \"Weekly Treats\" series: \n[url]http://weeklytreats.net/album/29-yerzmyey-gasman[/url]\n\nHere is a video from the concert version of the song: \n[yt]feOqOBTui5g[/yt] with live drums and synths.\n\nAnyway, this song has been made on a pure ATARI TT, a machine released in 1990, with 4Mb of RAM, 8-bit sound quality, with 2 hardware digi-channels only.\nThe trick it - HexTracker gives 16 channels, using the Atari's 32Mhz Motorola CPU.\n(Can make more but with a substantial sound quality reduction).\n\nThis song is a MOD format and has all its limitations (8 bit samples, only 64Kb for a sample, only 31 samples in the module, octaves limitation) but the only difference - are those 16 channels in the MOD (software mixing).\n\nRecorded from real hardware (that originally has only 2 digi-channels, haha).",
+  "last_scraped": "2018-05-23 23:58:25",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1598
+  ],
+  "artist_names": [
+    "Yerzmyey"
+  ]
+}

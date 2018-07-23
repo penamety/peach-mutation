@@ -1,0 +1,27 @@
+{
+  "id": 10939,
+  "type": "song",
+  "title": "Cybernoid 2",
+  "status": "R",
+  "platform_id": 6,
+  "length": 371,
+  "uploaded_by": "halvare",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2013-08-26 15:57:25",
+  "locked_until": "None",
+  "locked": 1,
+  "vote_count": 1,
+  "vote_avg": 4.0,
+  "info": "Based Upon the C64 tune by JeroenTel. this tune was created using Fast Tracker v2",
+  "last_scraped": "2018-05-23 04:33:10",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1874
+  ],
+  "artist_names": [
+    "G-Knight"
+  ]
+}

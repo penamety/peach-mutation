@@ -1,0 +1,30 @@
+{
+  "id": 12253,
+  "type": "song",
+  "title": "Snowballs With Attitude",
+  "status": "A",
+  "platform_id": 3,
+  "length": 65,
+  "uploaded_by": "lemonade",
+  "bit_rate": 256,
+  "sample_rate": 44100,
+  "fav_count": 12,
+  "last_requested": "2018-05-21 23:44:11",
+  "locked_until": "2018-06-23 13:34:35",
+  "locked": 1,
+  "vote_count": 37,
+  "vote_avg": 4.0811,
+  "tags": "coop",
+  "info": "Co-op by floppi & zalza",
+  "last_scraped": "2018-05-22 01:24:47",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1707,
+    1939
+  ],
+  "artist_names": [
+    "Zalza",
+    "Floppi"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 27703,
+  "type": "song",
+  "title": "Cyanide demo tune",
+  "status": "A",
+  "platform_id": 7,
+  "length": 248,
+  "uploaded_by": "Flatline",
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2017-02-20 00:04:06",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 23,
+  "vote_avg": 2.4783,
+  "tags": "herewego",
+  "pouet_id": 6030,
+  "info": "Cyanide is our first major demo which won the C-Party demo competition held locally in Perth, Western Australia in July 1994. Initially supporting only Gravis Ultrasound soundcards, a patch file was released a few days later to add SB and PAS support to the demo.",
+  "last_scraped": "2018-05-19 11:56:32",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    3007
+  ],
+  "artist_names": [
+    "Kitsune"
+  ]
+}

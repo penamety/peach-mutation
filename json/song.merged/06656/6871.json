@@ -1,0 +1,30 @@
+{
+  "id": 6871,
+  "type": "song",
+  "title": "Kharismatron",
+  "status": "A",
+  "release_year": "1999",
+  "platform_id": 3,
+  "length": 195,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 20,
+  "last_requested": "2018-04-27 21:51:21",
+  "locked_until": "2018-05-29 06:16:28",
+  "locked": 0,
+  "vote_count": 35,
+  "vote_avg": 4.0,
+  "tags": "coop UnrealTournament",
+  "info": "Composed for \"Unreal Tournament\"\n\nEquipment used:\nKorg Polysix\nKorg DW-8000\nKorg Trinity\nAlesis DMS\nEnsoniq SD-1\n\nGuitar Stuff:\nWashburn G4 guitar\nMorley Wah\nMXR Distortion II\nAlesis 3630 comp/gate\nMarshall JMP-1\nMackie 8-bus Eq\nSPL Vitalizer mk2\n\nGuitar uses C-tuning with low C string dropped to A#.\n\nEvent Electronics Gina used for sampling and Sound Forge for minor editing.\n\nGuitar tracks recorded in Cakewalk Pro Audio.\n\nAll the rest done with Fast Tracker 2.",
+  "last_scraped": "2018-05-29 06:18:54",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    864,
+    1190
+  ],
+  "artist_names": [
+    "Nitro",
+    "Teque"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 75,
+  "type": "song",
+  "title": "Led Storm Ingame 1",
+  "status": "A",
+  "platform_id": 6,
+  "length": 54,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2018-04-15 02:51:18",
+  "locked_until": "2018-05-27 01:54:14",
+  "locked": 0,
+  "vote_count": 16,
+  "vote_avg": 2.875,
+  "tags": "GameRemix Short",
+  "info": "Very similar although not totally identical remake of Tim Follin's LED Storm stage 1.",
+  "last_scraped": "2018-05-27 01:54:28",
+  "source_id": 5,
+  "source": "Remix",
+  "artist_ids": [
+    6
+  ],
+  "artist_names": [
+    "4-mat"
+  ]
+}

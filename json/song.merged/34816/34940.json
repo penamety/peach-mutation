@@ -1,0 +1,29 @@
+{
+  "id": 34940,
+  "type": "song",
+  "title": "you bore",
+  "status": "A",
+  "release_year": "2004",
+  "platform_id": 5,
+  "length": 191,
+  "uploaded_by": "Gunstick",
+  "bit_rate": 191,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2018-05-02 05:37:57",
+  "locked_until": "2018-06-02 21:43:01",
+  "locked": 0,
+  "vote_count": 14,
+  "vote_avg": 3.8571,
+  "pouet_id": 29067,
+  "info": "The SNDH file does not play correctly in any player I found, so this was saved to mp3 using hatari 1.6 and the original prod.",
+  "last_scraped": "2018-05-19 15:53:33",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    7
+  ],
+  "artist_names": [
+    "505"
+  ]
+}

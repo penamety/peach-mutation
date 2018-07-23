@@ -1,0 +1,25 @@
+{
+  "id": 22666,
+  "type": "song",
+  "title": "The Jester",
+  "status": "A",
+  "platform_id": 3,
+  "length": 170,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-12-07 12:54:40",
+  "locked_until": "2017-12-25 15:41:22",
+  "locked": 0,
+  "vote_count": 11,
+  "vote_avg": 3.9091,
+  "last_scraped": "2018-05-24 07:31:46",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1909
+  ],
+  "artist_names": [
+    "Phandral"
+  ]
+}

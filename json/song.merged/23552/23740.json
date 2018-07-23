@@ -1,0 +1,28 @@
+{
+  "id": 23740,
+  "type": "song",
+  "title": "Populous",
+  "status": "A",
+  "platform_id": 13,
+  "length": 240,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 7,
+  "last_requested": "2018-03-29 11:47:30",
+  "locked_until": "2018-05-06 16:49:08",
+  "locked": 0,
+  "vote_count": 35,
+  "vote_avg": 3.1714,
+  "tags": "1989 Bell Gamemusic Mystic OutOfTune",
+  "last_scraped": "2018-05-23 23:32:33",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    1021,
+    2549
+  ],
+  "artist_names": [
+    "Rob Hubbard",
+    "David Hanlon"
+  ]
+}

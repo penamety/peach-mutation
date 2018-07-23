@@ -1,0 +1,31 @@
+{
+  "id": 42605,
+  "type": "song",
+  "title": "Ploughman",
+  "status": "A",
+  "release_year": "1993",
+  "platform_id": 6,
+  "length": 185,
+  "uploaded_by": "prowler",
+  "bit_rate": 0,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-04-02 21:29:23",
+  "locked_until": "2018-05-04 06:59:31",
+  "locked": 0,
+  "vote_count": 11,
+  "vote_avg": 4.0,
+  "tags": "coop",
+  "pouet_id": 50615,
+  "last_scraped": "2018-05-21 12:36:03",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    304,
+    1678
+  ],
+  "artist_names": [
+    "Deelite",
+    "Accord"
+  ]
+}

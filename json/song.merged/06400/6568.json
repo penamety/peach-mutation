@@ -1,0 +1,27 @@
+{
+  "id": 6568,
+  "type": "song",
+  "title": "SLL 1",
+  "status": "A",
+  "platform_id": 6,
+  "length": 87,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 8,
+  "last_requested": "2018-06-06 10:01:19",
+  "locked_until": "2018-07-13 18:54:27",
+  "locked": 1,
+  "vote_count": 31,
+  "vote_avg": 3.5161,
+  "tags": "1988 EarlyMOD Musicdisk",
+  "pouet_id": 4723,
+  "last_scraped": "2018-06-06 11:33:33",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    1092
+  ],
+  "artist_names": [
+    "SLL"
+  ]
+}

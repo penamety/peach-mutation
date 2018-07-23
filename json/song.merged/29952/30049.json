@@ -1,0 +1,28 @@
+{
+  "id": 30049,
+  "type": "song",
+  "title": "World of Chip",
+  "status": "A",
+  "platform_id": 3,
+  "length": 144,
+  "uploaded_by": "prowler",
+  "bit_rate": 256,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2017-11-21 04:35:15",
+  "locked_until": "2017-12-09 03:59:13",
+  "locked": 0,
+  "vote_count": 20,
+  "vote_avg": 3.85,
+  "last_scraped": "2018-05-19 13:17:29",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    898,
+    2059
+  ],
+  "artist_names": [
+    "PaleDeth",
+    "Dualtrax"
+  ]
+}

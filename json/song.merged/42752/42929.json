@@ -1,0 +1,28 @@
+{
+  "id": 42929,
+  "type": "song",
+  "title": "A September Night In Dark City [2nd]",
+  "status": "R",
+  "release_year": "2014",
+  "platform_id": 1,
+  "length": 146,
+  "uploaded_by": "flash",
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2016-05-31 20:18:56",
+  "locked_until": "None",
+  "locked": 1,
+  "vote_count": 1,
+  "vote_avg": 2.0,
+  "info": "Dark Way Home.\n\n[b]-->[/b] wget --no-check-certificate -i https://music.it-flash.de/space_-a_september_night_in_dark_city_2nd_.mp3",
+  "last_scraped": "2018-05-23 11:56:26",
+  "source_id": 10,
+  "source": "Live Act",
+  "artist_ids": [
+    5014
+  ],
+  "artist_names": [
+    "Space"
+  ]
+}

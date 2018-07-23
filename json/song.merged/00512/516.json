@@ -1,0 +1,26 @@
+{
+  "id": 516,
+  "type": "song",
+  "title": "Based",
+  "status": "A",
+  "platform_id": 2,
+  "length": 190,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2017-04-18 14:42:03",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 19,
+  "vote_avg": 3.0526,
+  "tags": "C64 SID",
+  "last_scraped": "2018-05-24 01:36:53",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    3987
+  ],
+  "artist_names": [
+    "A-Man"
+  ]
+}

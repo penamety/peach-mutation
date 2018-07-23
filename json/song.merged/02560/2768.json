@@ -1,0 +1,28 @@
+{
+  "id": 2768,
+  "type": "song",
+  "title": "Melodious",
+  "status": "A",
+  "release_year": "1990",
+  "platform_id": 2,
+  "length": 174,
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 45,
+  "last_requested": "2018-05-23 21:46:21",
+  "locked_until": "2018-06-22 19:59:50",
+  "locked": 1,
+  "vote_count": 87,
+  "vote_avg": 4.4598,
+  "tags": "C64 happy SID",
+  "pouet_id": 46915,
+  "last_scraped": "2018-05-23 23:18:47",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    476
+  ],
+  "artist_names": [
+    "Geir Tjelta"
+  ]
+}

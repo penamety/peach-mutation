@@ -1,0 +1,30 @@
+{
+  "id": 11640,
+  "type": "song",
+  "title": "The Lost Vikings - Warp",
+  "status": "A",
+  "platform_id": 13,
+  "length": 12,
+  "uploaded_by": "apocalyptiq",
+  "bit_rate": 319,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-05-27 13:46:32",
+  "locked_until": "2018-06-28 22:42:16",
+  "locked": 1,
+  "vote_count": 14,
+  "vote_avg": 3.8571,
+  "tags": "coop Gamemusic Short",
+  "info": "Tune from \"warp\" screen (between levels) of The Lost Vikings game, lemonamiga link: http://www.lemonamiga.com/games/details.php?id=699.\n\nConverted from .p4x (The Player 4.x) using ProWizard, original file: http://www.exotica.org.uk/wiki/The_Lost_Vikings (p4x.warp).",
+  "last_scraped": "2018-05-27 14:31:50",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    38,
+    1334
+  ],
+  "artist_names": [
+    "Allister Brimble",
+    "Charles Deenen"
+  ]
+}

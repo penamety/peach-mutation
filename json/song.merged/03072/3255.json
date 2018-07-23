@@ -1,0 +1,28 @@
+{
+  "id": 3255,
+  "type": "song",
+  "title": "Streaming",
+  "status": "A",
+  "release_year": "2001",
+  "platform_id": 2,
+  "length": 187,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-11-03 15:02:56",
+  "locked_until": "2017-11-22 22:48:39",
+  "locked": 0,
+  "vote_count": 18,
+  "vote_avg": 3.5,
+  "tags": "2001 Assembly",
+  "info": "Mixed Music Competition at Assembly 2001 :  #3",
+  "last_scraped": "2018-05-19 15:39:13",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    560
+  ],
+  "artist_names": [
+    "Jammic"
+  ]
+}

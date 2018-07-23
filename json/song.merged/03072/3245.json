@@ -1,0 +1,25 @@
+{
+  "id": 3245,
+  "type": "song",
+  "title": "Arf Arf",
+  "status": "A",
+  "platform_id": 5,
+  "length": 183,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-07-21 12:13:11",
+  "locked_until": "2017-07-28 17:47:59",
+  "locked": 0,
+  "vote_count": 16,
+  "vote_avg": 3.375,
+  "last_scraped": "2018-05-21 05:01:21",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    555
+  ],
+  "artist_names": [
+    "Iso"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 6331,
+  "type": "song",
+  "title": "Auf Wiedersehen Monty",
+  "status": "A",
+  "release_year": "1987",
+  "platform_id": 2,
+  "length": 360,
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 47,
+  "last_requested": "2018-06-16 16:51:07",
+  "locked_until": "2018-07-18 09:50:13",
+  "locked": 1,
+  "vote_count": 106,
+  "vote_avg": 4.2547,
+  "tags": "1987 coop Gamemusic",
+  "pouet_id": 47374,
+  "yt_id": "DQG8vkNG8aM",
+  "info": "Gremlin Graphics 1987.\nSID chipset: MOS6581R2.",
+  "last_scraped": "2018-06-16 18:29:15",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    110,
+    1021
+  ],
+  "artist_names": [
+    "Ben Daglish",
+    "Rob Hubbard"
+  ]
+}

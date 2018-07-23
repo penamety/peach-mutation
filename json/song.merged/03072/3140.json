@@ -1,0 +1,27 @@
+{
+  "id": 3140,
+  "type": "song",
+  "title": "Clone it",
+  "status": "A",
+  "release_year": "1997",
+  "platform_id": 3,
+  "length": 200,
+  "bit_rate": 192,
+  "sample_rate": 48000,
+  "fav_count": 8,
+  "last_requested": "2018-05-30 00:10:27",
+  "locked_until": "2018-07-04 00:19:44",
+  "locked": 1,
+  "vote_count": 38,
+  "vote_avg": 3.6053,
+  "info": "14 Mar 1997 from Hornet Archive\nftp://hornet.madtracker.org/mirrors/hornet/music/songs/1997/h/hz-clone.zip",
+  "last_scraped": "2018-05-30 01:26:09",
+  "source_id": 8,
+  "source": "Newschool",
+  "artist_ids": [
+    536
+  ],
+  "artist_names": [
+    "Hunz"
+  ]
+}

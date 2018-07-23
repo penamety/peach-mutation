@@ -1,0 +1,28 @@
+{
+  "id": 10380,
+  "type": "song",
+  "title": "Humbuk",
+  "status": "A",
+  "platform_id": 5,
+  "length": 72,
+  "uploaded_by": "ViThor",
+  "bit_rate": 191,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-05-10 06:27:54",
+  "locked_until": "2018-06-18 21:15:22",
+  "locked": 1,
+  "vote_count": 11,
+  "vote_avg": 3.0,
+  "tags": "Short",
+  "info": "[list]\n[*][url=http://ay-riders.speccy.cz/download/zx_spectrum_is_alive/06-x-agon-humbuk.mp3]Download the track from ay-riders.speccy.cz\n[/url]\n[/list]",
+  "last_scraped": "2018-05-21 19:48:11",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1728
+  ],
+  "artist_names": [
+    "X-Agon"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 41720,
+  "type": "song",
+  "title": "Galrider ",
+  "status": "A",
+  "release_year": "1989",
+  "platform_id": 2,
+  "length": 472,
+  "uploaded_by": "HaasiD",
+  "bit_rate": 224,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-02-07 19:36:47",
+  "locked_until": "2018-02-27 06:31:41",
+  "locked": 0,
+  "vote_count": 19,
+  "vote_avg": 3.6842,
+  "tags": "Bleepy long",
+  "info": "Technical info:\nLoad address:$0F00\nInit address:$1000\nPlay address:$1006\nNumber of songs:1\nDefault song:1\nSID model:\t6581\nClock speed:PAL\nData size:10334 ($285E)\n",
+  "last_scraped": "2018-05-21 03:03:33",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    4835
+  ],
+  "artist_names": [
+    "Zenox"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 42106,
+  "type": "song",
+  "title": "The Wild Bunch",
+  "status": "A",
+  "release_year": "2006",
+  "platform_id": 2,
+  "length": 169,
+  "uploaded_by": "DKT",
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-04-14 09:27:36",
+  "locked_until": "2018-05-16 01:32:40",
+  "locked": 0,
+  "vote_count": 14,
+  "vote_avg": 3.7857,
+  "pouet_id": 26778,
+  "info": "Tune from C64 demo The Wild Bunch.\n1st at X'2006.\nhttp://csdb.dk/release/?id=41462",
+  "last_scraped": "2018-05-21 20:30:51",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1821
+  ],
+  "artist_names": [
+    "Linus"
+  ]
+}

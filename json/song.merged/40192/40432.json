@@ -1,0 +1,28 @@
+{
+  "id": 40432,
+  "type": "song",
+  "title": "Automatic Girlfriend",
+  "status": "A",
+  "release_year": "2014",
+  "platform_id": 24,
+  "length": 139,
+  "uploaded_by": "ViThor",
+  "bit_rate": 191,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-01-18 16:08:25",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 15,
+  "vote_avg": 3.3333,
+  "info": "Do not listen to it.\nRun if you want to live.\nRun fast!\n\nNo normal man can listen to it and remain normal - or even survive - because this is THE LOWEST LO-FI possible.\n\nOK, 1-bit fully digital music. Only 34Kb of data (samples+notes).\n1 channel, software mixing to 3ch, no volumes, no sound-card, no nothing. ;) ;) ;)\nOnly 3,5Mhz CPU and 1-bit transducer on the output.\n\nIt gives us BEEPER *.mod-like music on regular ZX Spectrum 48K. Equals: total noise.\n\nDo not listen to it from emulator. If you must - turn the trebles down. Almost to minimum. Emulator adds noise that is not present on real machine (well, it is but in a much smaller degree).\n\nComposed on SampleTracker (that allows only 16 samples and 16 patterns. I used here 8 samples and 14 patterns here).\n\nRecorded from Real Hardware for a glory of 1-bit noise.",
+  "last_scraped": "2018-05-23 20:25:03",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1914
+  ],
+  "artist_names": [
+    "Mister Beep"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 3632,
+  "type": "song",
+  "title": "Lemon Announce 2",
+  "status": "A",
+  "release_year": "1993",
+  "platform_id": 6,
+  "length": 199,
+  "bit_rate": 0,
+  "sample_rate": 0,
+  "fav_count": 50,
+  "last_requested": "2018-05-29 06:53:21",
+  "locked_until": "2018-06-27 11:39:50",
+  "locked": 1,
+  "vote_count": 97,
+  "vote_avg": 4.567,
+  "tags": "1993 Amiga Demo food video",
+  "pouet_id": 411,
+  "yt_id": "eNeVJTGNAG4",
+  "info": "[url=ftp://ftp.modland.com/pub/modules/Protracker/Julius/part2.announce.mod]Download .mod[/url]",
+  "last_scraped": "2018-05-29 08:24:41",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    597
+  ],
+  "artist_names": [
+    "Julius"
+  ]
+}

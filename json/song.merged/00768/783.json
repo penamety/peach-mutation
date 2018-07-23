@@ -1,0 +1,28 @@
+{
+  "id": 783,
+  "type": "song",
+  "title": "Japtique",
+  "status": "A",
+  "platform_id": 6,
+  "length": 168,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-05-26 12:40:42",
+  "locked_until": "2018-07-04 03:16:18",
+  "locked": 1,
+  "vote_count": 13,
+  "vote_avg": 3.3846,
+  "tags": "coop",
+  "last_scraped": "2018-05-26 13:50:02",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    2126,
+    2127
+  ],
+  "artist_names": [
+    "Braintumour",
+    "Heywood"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 3687,
+  "type": "song",
+  "title": "The Journey",
+  "status": "A",
+  "platform_id": 6,
+  "length": 206,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-06-23 23:32:38",
+  "locked_until": "2017-07-03 17:23:01",
+  "locked": 0,
+  "vote_count": 9,
+  "vote_avg": 2.6667,
+  "tags": "OutOfTune",
+  "last_scraped": "2018-05-22 12:15:13",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    602,
+    1467
+  ],
+  "artist_names": [
+    "Kaktus",
+    "Mahoney"
+  ]
+}

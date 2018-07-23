@@ -1,0 +1,28 @@
+{
+  "id": 41719,
+  "type": "song",
+  "title": "Cyclopez",
+  "status": "A",
+  "release_year": "1989",
+  "platform_id": 2,
+  "length": 423,
+  "uploaded_by": "HaasiD",
+  "bit_rate": 224,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-12-06 02:02:49",
+  "locked_until": "2017-12-24 02:08:17",
+  "locked": 0,
+  "vote_count": 15,
+  "vote_avg": 4.0,
+  "info": "Technical info:\nLoad address:$0F00\nInit address:$1000\nPlay address:$1006\nNumber of songs:1\nDefault song:1\nSID model:\t6581\nClock speed:PAL\nData size:11282 ($2C12)\n",
+  "last_scraped": "2018-05-21 07:57:31",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    4835
+  ],
+  "artist_names": [
+    "Zenox"
+  ]
+}

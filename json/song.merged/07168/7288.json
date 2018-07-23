@@ -1,0 +1,29 @@
+{
+  "id": 7288,
+  "type": "song",
+  "title": "Cap n power",
+  "status": "A",
+  "platform_id": 6,
+  "length": 291,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-10-31 01:14:36",
+  "locked_until": "2017-11-21 02:15:44",
+  "locked": 0,
+  "vote_count": 17,
+  "vote_avg": 3.1176,
+  "tags": "coop",
+  "pouet_id": 9719,
+  "last_scraped": "2018-05-20 13:43:51",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1372,
+    1400
+  ],
+  "artist_names": [
+    "Dr Jive",
+    "Grade"
+  ]
+}

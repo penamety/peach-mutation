@@ -1,0 +1,27 @@
+{
+  "id": 12784,
+  "type": "song",
+  "title": "Bounces",
+  "status": "A",
+  "platform_id": 2,
+  "length": 85,
+  "uploaded_by": "bif",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-10-29 23:42:26",
+  "locked_until": "2017-11-19 21:47:56",
+  "locked": 0,
+  "vote_count": 13,
+  "vote_avg": 3.1538,
+  "info": "This song is from the main title screen of the C64 game \"Bounces\"\n\nRecording of classic C64 (MOS6581)",
+  "last_scraped": "2018-05-20 19:44:00",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    460
+  ],
+  "artist_names": [
+    "Fred Gray"
+  ]
+}

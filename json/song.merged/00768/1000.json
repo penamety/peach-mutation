@@ -1,0 +1,23 @@
+{
+  "id": 1000,
+  "type": "song",
+  "title": "The Great Giana Sisters",
+  "status": "A",
+  "length": 217,
+  "bit_rate": 128,
+  "sample_rate": 48000,
+  "fav_count": 20,
+  "last_requested": "2018-02-26 15:50:18",
+  "locked_until": "2018-03-16 00:40:00",
+  "locked": 0,
+  "vote_count": 63,
+  "vote_avg": 4.0635,
+  "tags": "GameRemix",
+  "last_scraped": "2018-05-24 12:59:29",
+  "artist_ids": [
+    1284
+  ],
+  "artist_names": [
+    "Unknown"
+  ]
+}

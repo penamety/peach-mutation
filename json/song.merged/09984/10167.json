@@ -1,0 +1,28 @@
+{
+  "id": 10167,
+  "type": "song",
+  "title": "Happyzipf",
+  "status": "A",
+  "platform_id": 1,
+  "length": 143,
+  "uploaded_by": "zipf",
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2017-03-09 13:13:29",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 35,
+  "vote_avg": 3.8857,
+  "tags": "happy",
+  "info": "Happyzipf - not perfect, but i hope you like it. \n\nMP3:\nhttp://www.bigbeat.ch/rams/zipf/happyzipf.mp3\n\nXRNS (Renoise file):\nhttp://www.bigbeat.ch/rams/zipf/happyzipf.xrns\n",
+  "last_scraped": "2018-05-21 08:57:58",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1764
+  ],
+  "artist_names": [
+    "rams"
+  ]
+}

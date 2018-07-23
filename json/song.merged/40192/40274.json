@@ -1,0 +1,29 @@
+{
+  "id": 40274,
+  "type": "song",
+  "title": "Freeside Run",
+  "status": "A",
+  "release_year": "2007",
+  "platform_id": 4,
+  "length": 171,
+  "uploaded_by": "prowler",
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-05-03 14:18:33",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 11,
+  "vote_avg": 3.8182,
+  "pouet_id": 49931,
+  "info": "7 channels, 16.7kb, loops at about 3 mins. I'd have faded it, but the C50-C90 commands don't really allow very smooth global fading ;) If necessary, I could fix it for the musicdisk with manual CXX commands in each channel...\nThere's some use of the 4XX filter override command, but I think this is fixed in all replayers now, so that's cool. \nThanks again for a great tracker and a great port :)\n\n\"Gartantuan greets to the usuals, with extra h<3arts to xeron, spotUP and exobuzz for this amazing software and for their tireless feature implementations:D Words to d0pefish for all the hardware help and fuckings to parapete for killing the scene.\"",
+  "last_scraped": "2018-05-23 20:31:19",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    2125
+  ],
+  "artist_names": [
+    "Syphus"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1999,
+  "type": "song",
+  "title": "Coming Home",
+  "status": "A",
+  "release_year": "1990",
+  "platform_id": 13,
+  "length": 301,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 10,
+  "last_requested": "2018-04-19 17:19:03",
+  "locked_until": "2018-05-20 19:05:22",
+  "locked": 0,
+  "vote_count": 37,
+  "vote_avg": 4.027,
+  "pouet_id": 14749,
+  "last_scraped": "2018-05-20 19:05:32",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    378
+  ],
+  "artist_names": [
+    "Dr. Awesome"
+  ]
+}

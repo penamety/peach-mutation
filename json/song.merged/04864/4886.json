@@ -1,0 +1,30 @@
+{
+  "id": 4886,
+  "type": "song",
+  "title": "Deep Space",
+  "status": "A",
+  "release_year": "1991",
+  "platform_id": 6,
+  "length": 69,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2017-11-01 07:50:20",
+  "locked_until": "2017-11-21 21:33:56",
+  "locked": 0,
+  "vote_count": 15,
+  "vote_avg": 3.3333,
+  "tags": "1991 TheParty",
+  "pouet_id": 398,
+  "last_scraped": "2018-05-20 00:43:06",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    499,
+    806
+  ],
+  "artist_names": [
+    "Greg [CH]",
+    "Moby"
+  ]
+}

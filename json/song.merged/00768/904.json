@@ -1,0 +1,25 @@
+{
+  "id": 904,
+  "type": "song",
+  "title": "Starworx",
+  "status": "A",
+  "platform_id": 5,
+  "length": 105,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-08-28 04:48:59",
+  "locked_until": "2017-09-06 12:08:19",
+  "locked": 0,
+  "vote_count": 9,
+  "vote_avg": 2.7778,
+  "last_scraped": "2018-05-20 10:58:17",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    178
+  ],
+  "artist_names": [
+    "Celtic"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 16131,
+  "type": "song",
+  "title": "Awesome",
+  "status": "A",
+  "platform_id": 5,
+  "length": 108,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-02-19 08:31:21",
+  "locked_until": "2018-04-13 10:59:36",
+  "locked": 0,
+  "vote_count": 12,
+  "vote_avg": 1.75,
+  "last_scraped": "2018-05-23 16:11:03",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    244
+  ],
+  "artist_names": [
+    "Count Zero"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2455,
+  "type": "song",
+  "title": "In The Beginning",
+  "status": "A",
+  "release_year": "2000",
+  "platform_id": 1,
+  "length": 361,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 17,
+  "last_requested": "2018-06-09 13:06:26",
+  "locked_until": "2018-07-10 23:51:23",
+  "locked": 1,
+  "vote_count": 49,
+  "vote_avg": 4.2653,
+  "info": "Equipment used:\nKorg X3 - internal hardware sequencer used for recording\nKurzweil K2000 - connected to the X3 as an additional external sound source\nSony DTC-790 Dat Recorder - that's about it\n\n-Rapture",
+  "last_scraped": "2018-06-09 15:18:16",
+  "source_id": 8,
+  "source": "Newschool",
+  "artist_ids": [
+    2711
+  ],
+  "artist_names": [
+    "Rapture"
+  ]
+}

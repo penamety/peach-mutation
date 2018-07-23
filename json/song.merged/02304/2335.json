@@ -1,0 +1,30 @@
+{
+  "id": 2335,
+  "type": "song",
+  "title": "Decibel Overload",
+  "status": "A",
+  "release_year": "1994",
+  "platform_id": 6,
+  "length": 229,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 5,
+  "last_requested": "2018-05-11 09:09:00",
+  "locked_until": "2018-06-14 08:42:55",
+  "locked": 0,
+  "vote_count": 35,
+  "vote_avg": 4.0,
+  "tags": "1994 TheGathering",
+  "info": "Ranked 11th in the music compo at The Gathering 1994.",
+  "last_scraped": "2018-06-14 08:43:39",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    409,
+    3870
+  ],
+  "artist_names": [
+    "El Loco",
+    "Sundance Kid"
+  ]
+}

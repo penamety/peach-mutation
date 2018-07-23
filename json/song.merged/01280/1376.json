@@ -1,0 +1,29 @@
+{
+  "id": 1376,
+  "type": "song",
+  "title": "Eurochart 15",
+  "status": "A",
+  "release_year": "1992",
+  "platform_id": 6,
+  "length": 331,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-06-27 21:30:32",
+  "locked_until": "2017-07-03 19:36:40",
+  "locked": 0,
+  "vote_count": 14,
+  "vote_avg": 3.7857,
+  "tags": "diskmag Eurochart",
+  "pouet_id": 11084,
+  "info": "Eurochart issue 15 diskmag BGM",
+  "last_scraped": "2018-05-21 19:47:55",
+  "source_id": 12,
+  "source": "Diskmag",
+  "artist_ids": [
+    257
+  ],
+  "artist_names": [
+    "Cutcreator"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 20709,
+  "type": "song",
+  "title": "The Co-operation demo",
+  "status": "A",
+  "release_year": "1990",
+  "platform_id": 6,
+  "length": 238,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 7,
+  "last_requested": "2018-04-15 15:00:29",
+  "locked_until": "2018-05-20 22:18:30",
+  "locked": 0,
+  "vote_count": 26,
+  "vote_avg": 3.7308,
+  "pouet_id": 15967,
+  "last_scraped": "2018-05-20 22:21:28",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    3083
+  ],
+  "artist_names": [
+    "Lord Interface"
+  ]
+}

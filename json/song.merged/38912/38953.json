@@ -1,0 +1,31 @@
+{
+  "id": 38953,
+  "type": "song",
+  "title": 2600,
+  "status": "A",
+  "release_year": "2004",
+  "platform_id": 46,
+  "length": 93,
+  "uploaded_by": "hornpipe2",
+  "bit_rate": 5,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-05-12 06:58:17",
+  "locked_until": "2018-06-21 12:42:46",
+  "locked": 1,
+  "vote_count": 16,
+  "vote_avg": 3.125,
+  "tags": "2004 Buenzli video",
+  "pouet_id": 13900,
+  "yt_id": "AeWskixCkrU",
+  "info": "      ___\\_      / _____ __\\\\_   \\_ _____  __\\\\_   \\_ ___   _ __/ //_____\n    _)   /     /_\\\\_   \\_   /    //    //_    /    // _//_____   _/    (_\n    \\   /     /    /    /  /     \\      _/   _    /   \\_     /   \\      /\n    /________/    _    /___\\______\\     \\____\\____\\    /    /_____\\_____\\\n    - -diP-_ ______\\____\\-----_ __________\\-----_ ___________\\-bM!------ -\n                            V  A  N  T  A  G  E\n\n                                 presents\n\n                                   2600\n                              (final release)\n\n                       a 4k intro for the atari 2600\n\n                       released 2004 at buenzli 1337\n\n                               code::moerder\n                              music::decybel\n\n                 thanks to paul slocum for his musickit 2.\n\n                                   ---\n\n          if you have the possibility, watch it on real hardware.\n            the music will sound much better than on emulators.\n\n                   the best atari 2600 emulator is z26:\n                    http://www.whimsey.com/z26/z26.html\n\n          when watching the intro with z26 you should supply the\n                           -f switch, like this:\n\n                              z26 2600.bin -f\n\n      while the intro is running, the bw/color switch (F3/F4 in z26)\n   toggles between PAL/NTSC mode. reset (F1 in z26) restarts the intro.\n",
+  "last_scraped": "2018-05-23 21:03:57",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    5399
+  ],
+  "artist_names": [
+    "Decybel"
+  ]
+}

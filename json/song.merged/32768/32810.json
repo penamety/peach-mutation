@@ -1,0 +1,28 @@
+{
+  "id": 32810,
+  "type": "song",
+  "title": "Toys Game",
+  "status": "A",
+  "release_year": "2002",
+  "platform_id": 3,
+  "length": 365,
+  "uploaded_by": "awesome",
+  "bit_rate": 256,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-11-01 06:17:35",
+  "locked_until": "2017-11-19 23:25:08",
+  "locked": 0,
+  "vote_count": 14,
+  "vote_avg": 3.7857,
+  "info": "Made originally for the game \"The Adventures of Mr. KPut\", released in Spain. This was the main theme.",
+  "last_scraped": "2018-05-21 22:48:04",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    75
+  ],
+  "artist_names": [
+    "Awesome"
+  ]
+}

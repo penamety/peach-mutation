@@ -1,0 +1,28 @@
+{
+  "id": 4270,
+  "type": "song",
+  "title": "Alex",
+  "status": "A",
+  "release_year": "1997",
+  "platform_id": 3,
+  "length": 236,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-03-07 20:51:50",
+  "locked_until": "2018-04-13 22:52:59",
+  "locked": 0,
+  "vote_count": 14,
+  "vote_avg": 3.3571,
+  "tags": "1997 Assembly",
+  "pouet_id": 2543,
+  "last_scraped": "2018-05-24 04:29:42",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    700
+  ],
+  "artist_names": [
+    "Limbo Duck"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 24631,
+  "type": "song",
+  "title": "Masque",
+  "status": "A",
+  "release_year": "1995",
+  "platform_id": 6,
+  "length": 239,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-05-11 05:59:18",
+  "locked_until": "2018-06-21 18:37:26",
+  "locked": 1,
+  "vote_count": 9,
+  "vote_avg": 2.7778,
+  "pouet_id": 5688,
+  "last_scraped": "2018-05-22 19:19:39",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1108,
+    3922
+  ],
+  "artist_names": [
+    "Some1",
+    "Morrow"
+  ]
+}

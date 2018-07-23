@@ -1,0 +1,29 @@
+{
+  "id": 42333,
+  "type": "song",
+  "title": "Shooting Star",
+  "status": "A",
+  "release_year": "2015",
+  "platform_id": 20,
+  "length": 313,
+  "uploaded_by": "Saga_Musix",
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-06-10 23:36:21",
+  "locked_until": "2018-07-11 11:32:18",
+  "locked": 1,
+  "vote_count": 16,
+  "vote_avg": 4.1875,
+  "tags": "synthpop TruckDriversGearChange",
+  "info": "For the OpenMPT example song compo.",
+  "last_scraped": "2018-06-11 01:22:07",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    1536
+  ],
+  "artist_names": [
+    "Saga Musix"
+  ]
+}

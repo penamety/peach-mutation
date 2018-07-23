@@ -1,0 +1,27 @@
+{
+  "id": 1231,
+  "type": "song",
+  "title": "Transfusion 2",
+  "status": "A",
+  "release_year": "1992",
+  "platform_id": 6,
+  "length": 56,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-03-23 14:14:19",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 8,
+  "vote_avg": 3.125,
+  "pouet_id": 17257,
+  "last_scraped": "2018-05-24 05:13:55",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    218
+  ],
+  "artist_names": [
+    "Clawz"
+  ]
+}

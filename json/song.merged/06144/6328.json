@@ -1,0 +1,26 @@
+{
+  "id": 6328,
+  "type": "song",
+  "title": "Proteus",
+  "status": "A",
+  "platform_id": 2,
+  "length": 238,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 36,
+  "last_requested": "2018-06-05 01:05:58",
+  "locked_until": "2018-07-05 11:05:39",
+  "locked": 1,
+  "vote_count": 77,
+  "vote_avg": 4.3896,
+  "info": "based on two songs from John Keating´s album Space Experience",
+  "last_scraped": "2018-06-05 02:54:26",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    1021
+  ],
+  "artist_names": [
+    "Rob Hubbard"
+  ]
+}

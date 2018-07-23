@@ -1,0 +1,29 @@
+{
+  "id": 12891,
+  "type": "song",
+  "title": "Borst",
+  "status": "A",
+  "platform_id": 38,
+  "length": 214,
+  "uploaded_by": "prowler",
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2018-01-17 06:58:54",
+  "locked_until": "2018-02-08 01:58:40",
+  "locked": 0,
+  "vote_count": 18,
+  "vote_avg": 3.0,
+  "tags": "2000 Kindergarden",
+  "pouet_id": 2795,
+  "info": "Streamed from a 4k Amiga demo.\nmp3 in [url=http://www.antialias.se/chiptunes/]zip[/url].",
+  "last_scraped": "2018-05-20 02:22:57",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1455
+  ],
+  "artist_names": [
+    "LoadError"
+  ]
+}

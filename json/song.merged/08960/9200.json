@@ -1,0 +1,29 @@
+{
+  "id": 9200,
+  "type": "song",
+  "title": "Snaresucker",
+  "status": "A",
+  "release_year": "2008",
+  "platform_id": 3,
+  "length": 158,
+  "uploaded_by": "serpent",
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2018-06-15 13:38:57",
+  "locked_until": "2018-07-27 09:36:58",
+  "locked": 1,
+  "vote_count": 31,
+  "vote_avg": 3.0,
+  "tags": "2008 compo one_channel one_sample TheAlternativeParty",
+  "info": "For Alternative Party 08 one channel tracking compo. Note that there's only one channel and one sample (if it sounds too much crap)",
+  "last_scraped": "2018-06-15 15:08:18",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    1627
+  ],
+  "artist_names": [
+    "serpent"
+  ]
+}

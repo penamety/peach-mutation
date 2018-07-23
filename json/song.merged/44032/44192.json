@@ -1,0 +1,29 @@
+{
+  "id": 44192,
+  "type": "song",
+  "title": "L'Escadrille de Scooters Aériens",
+  "status": "A",
+  "release_year": "2017",
+  "platform_id": 8,
+  "length": 256,
+  "uploaded_by": "franz_koopa",
+  "bit_rate": 256,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-04-28 15:39:25",
+  "locked_until": "2018-06-02 20:49:03",
+  "locked": 0,
+  "vote_count": 10,
+  "vote_avg": 3.5,
+  "tags": "2017 FM Funky fusion Nordlicht",
+  "info": "3rd in Nordlicht 2017 tracked music compo\n\nsound: Yamaha DX7 (emulated), miscellaneous drum samples\ntools: OpenMPT, wine, Dexed\n\n(this file goes on 16 seconds longer than the compo file)",
+  "last_scraped": "2018-05-21 19:45:50",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    4970
+  ],
+  "artist_names": [
+    "franz_koopa"
+  ]
+}

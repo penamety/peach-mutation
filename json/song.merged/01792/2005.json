@@ -1,0 +1,26 @@
+{
+  "id": 2005,
+  "type": "song",
+  "title": "Dealin' Dope",
+  "status": "A",
+  "platform_id": 6,
+  "length": 92,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-04-02 23:45:23",
+  "locked_until": "2018-04-27 13:53:29",
+  "locked": 0,
+  "vote_count": 14,
+  "vote_avg": 2.3571,
+  "tags": "drugs",
+  "last_scraped": "2018-05-20 17:24:05",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    378
+  ],
+  "artist_names": [
+    "Dr. Awesome"
+  ]
+}

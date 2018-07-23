@@ -1,0 +1,28 @@
+{
+  "id": 42927,
+  "type": "song",
+  "title": "Solar Empire [Seems Though Kewl] [Yet Another Solar Track!]",
+  "status": "R",
+  "release_year": "2016",
+  "platform_id": 1,
+  "length": 178,
+  "uploaded_by": "flash",
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2016-05-31 20:19:17",
+  "locked_until": "None",
+  "locked": 1,
+  "vote_count": 1,
+  "vote_avg": 1.0,
+  "info": "MOS 6581 SID Stationi-simmo.\no/\n\n-> wget --no-check-certificate -i https://music.it-flash.de/solar_empire__seems_though_kewl__-yet-another-solar-track__.mp3\n\n<--- Remove Check 'Has the SSL cert. an official authenticator. (Just me!) \nAnd also -i for having an I-Frame. (You don't want to download a txt-like file)\n\nGreetings, flashinat0r! ;)",
+  "last_scraped": "2018-05-23 14:30:38",
+  "source_id": 5,
+  "source": "Remix",
+  "artist_ids": [
+    5014
+  ],
+  "artist_names": [
+    "Space"
+  ]
+}

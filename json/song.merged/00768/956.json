@@ -1,0 +1,29 @@
+{
+  "id": 956,
+  "type": "song",
+  "title": "Flood",
+  "status": "A",
+  "release_year": "1993",
+  "platform_id": 6,
+  "length": 166,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-09-11 00:47:05",
+  "locked_until": "2017-09-17 23:49:34",
+  "locked": 0,
+  "vote_count": 12,
+  "vote_avg": 3.4167,
+  "pouet_id": 2524,
+  "last_scraped": "2018-05-24 10:45:24",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    193,
+    1066
+  ],
+  "artist_names": [
+    "Chorus",
+    "Sid"
+  ]
+}

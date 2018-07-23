@@ -1,0 +1,28 @@
+{
+  "id": 12749,
+  "type": "song",
+  "title": "Wings of Death (ingame 4)",
+  "status": "A",
+  "platform_id": 13,
+  "length": 250,
+  "uploaded_by": "prowler",
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 16,
+  "last_requested": "2018-05-30 12:57:24",
+  "locked_until": "2018-07-01 21:16:47",
+  "locked": 1,
+  "vote_count": 47,
+  "vote_avg": 4.1064,
+  "tags": "Gamemusic needs_reencoding",
+  "info": "Song format is Hippel, Amiga. However: \"As far I know there is no generic Hippel COSO player that plays level songs from Wings of Death well. Hence I decided to make a custom version, ripping the playroutine from the game. The playroutine used in W.O.D clearly differs from many HIPC players.\" (taken from [url=http://www.exotica.org.uk/wiki/Wings_of_Death]unexotica[/url]).\n\n[url=http://www.antialias.se/chiptunes/hip/]download .hip (cus :-)[/url]",
+  "last_scraped": "2018-05-30 14:59:15",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    713
+  ],
+  "artist_names": [
+    "Mad Max"
+  ]
+}

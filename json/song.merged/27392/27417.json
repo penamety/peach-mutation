@@ -1,0 +1,27 @@
+{
+  "id": 27417,
+  "type": "song",
+  "title": "Bomberman",
+  "status": "A",
+  "platform_id": 3,
+  "length": 84,
+  "uploaded_by": "zilog",
+  "bit_rate": 256,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2017-04-20 01:52:56",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 15,
+  "vote_avg": 3.3333,
+  "tags": "GameRemix",
+  "last_scraped": "2018-05-24 19:03:33",
+  "source_id": 5,
+  "source": "Remix",
+  "artist_ids": [
+    3955
+  ],
+  "artist_names": [
+    "Wire"
+  ]
+}

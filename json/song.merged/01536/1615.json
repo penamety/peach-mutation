@@ -1,0 +1,25 @@
+{
+  "id": 1615,
+  "type": "song",
+  "title": "Subsonic",
+  "status": "A",
+  "platform_id": 6,
+  "length": 264,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-08-24 05:01:32",
+  "locked_until": "2017-09-01 07:37:10",
+  "locked": 0,
+  "vote_count": 9,
+  "vote_avg": 3.1111,
+  "last_scraped": "2018-05-22 17:20:12",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    310
+  ],
+  "artist_names": [
+    "DeLorean"
+  ]
+}

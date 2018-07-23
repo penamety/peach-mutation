@@ -1,0 +1,30 @@
+{
+  "id": 37234,
+  "type": "song",
+  "title": "Bob",
+  "status": "A",
+  "release_year": "2001",
+  "platform_id": 19,
+  "length": 153,
+  "uploaded_by": "hornpipe2",
+  "bit_rate": 123,
+  "sample_rate": 48000,
+  "fav_count": 0,
+  "last_requested": "2017-03-13 01:46:03",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 10,
+  "vote_avg": 3.1,
+  "tags": "paragon5",
+  "pouet_id": 51785,
+  "info": "One of the four demo tunes included with the Paragon5 Gameboy Tracker.",
+  "last_scraped": "2018-05-22 15:52:05",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    3266
+  ],
+  "artist_names": [
+    "Ne7"
+  ]
+}

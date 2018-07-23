@@ -1,0 +1,26 @@
+{
+  "id": 20915,
+  "type": "song",
+  "title": "Monty on the Run",
+  "status": "A",
+  "platform_id": 5,
+  "length": 351,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 5,
+  "last_requested": "2017-08-11 05:15:46",
+  "locked_until": "2017-08-18 17:42:44",
+  "locked": 0,
+  "vote_count": 27,
+  "vote_avg": 3.3333,
+  "tags": "AtariST GameRemix",
+  "last_scraped": "2018-05-19 13:15:55",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    713
+  ],
+  "artist_names": [
+    "Mad Max"
+  ]
+}

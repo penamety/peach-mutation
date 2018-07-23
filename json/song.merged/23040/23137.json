@@ -1,0 +1,30 @@
+{
+  "id": 23137,
+  "type": "song",
+  "title": "Rivendell",
+  "status": "A",
+  "release_year": "1997",
+  "platform_id": 3,
+  "length": 166,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 5,
+  "last_requested": "2018-04-24 00:52:39",
+  "locked_until": "2018-05-28 16:50:18",
+  "locked": 0,
+  "vote_count": 23,
+  "vote_avg": 3.913,
+  "tags": "1997 coop TheGathering",
+  "info": "TG'97 compo entry.",
+  "last_scraped": "2018-05-22 21:06:58",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    977,
+    3906
+  ],
+  "artist_names": [
+    "Radix",
+    "Skize"
+  ]
+}

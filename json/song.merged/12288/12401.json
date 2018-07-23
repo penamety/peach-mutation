@@ -1,0 +1,31 @@
+{
+  "id": 12401,
+  "type": "song",
+  "title": "Funky Sushi",
+  "status": "A",
+  "platform_id": 3,
+  "length": 145,
+  "uploaded_by": "Mystra",
+  "bit_rate": 320,
+  "sample_rate": 48000,
+  "fav_count": 38,
+  "last_requested": "2018-05-28 02:05:09",
+  "locked_until": "2018-06-27 08:08:00",
+  "locked": 1,
+  "vote_count": 92,
+  "vote_avg": 4.413,
+  "tags": "compo Compowinner food NectaScene",
+  "pouet_id": 54489,
+  "info": "by Mystra and Funky Fish\n\nWinner of Nectarine compo #2 (birthday theme) in october 2009.",
+  "last_scraped": "2018-05-28 03:54:26",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    1388,
+    1625
+  ],
+  "artist_names": [
+    "Funky Fish",
+    "Mystra"
+  ]
+}

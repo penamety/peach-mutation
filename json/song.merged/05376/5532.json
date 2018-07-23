@@ -1,0 +1,27 @@
+{
+  "id": 5532,
+  "type": "song",
+  "title": "Pat Strikes Back",
+  "status": "A",
+  "platform_id": 6,
+  "length": 167,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2018-05-29 14:34:06",
+  "locked_until": "2018-07-05 15:06:01",
+  "locked": 1,
+  "vote_count": 27,
+  "vote_avg": 3.5556,
+  "tags": "1988 EarlyMOD st-01",
+  "pouet_id": 4033,
+  "last_scraped": "2018-05-29 16:14:50",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    906
+  ],
+  "artist_names": [
+    "Pat"
+  ]
+}

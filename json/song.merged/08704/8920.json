@@ -1,0 +1,29 @@
+{
+  "id": 8920,
+  "type": "song",
+  "title": "Can't Get Enough (From ST-01)",
+  "status": "A",
+  "platform_id": 3,
+  "length": 153,
+  "uploaded_by": "Mystra",
+  "bit_rate": 256,
+  "sample_rate": 44100,
+  "fav_count": 13,
+  "last_requested": "2018-05-08 13:44:38",
+  "locked_until": "2018-06-09 20:00:17",
+  "locked": 0,
+  "vote_count": 51,
+  "vote_avg": 4.2157,
+  "tags": "st-01",
+  "pouet_id": 52436,
+  "info": "Made with unmodified ST-01 samples only.",
+  "last_scraped": "2018-06-09 20:01:30",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    1327
+  ],
+  "artist_names": [
+    "Buzzer"
+  ]
+}

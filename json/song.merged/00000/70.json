@@ -1,0 +1,28 @@
+{
+  "id": 70,
+  "type": "song",
+  "title": "Intro-music",
+  "status": "A",
+  "release_year": "1990",
+  "platform_id": 6,
+  "length": 153,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 7,
+  "last_requested": "2018-01-20 08:08:12",
+  "locked_until": "2018-02-08 07:45:04",
+  "locked": 0,
+  "vote_count": 27,
+  "vote_avg": 3.6296,
+  "tags": "StolenData",
+  "pouet_id": 9078,
+  "last_scraped": "2018-05-23 23:28:02",
+  "source_id": 12,
+  "source": "Diskmag",
+  "artist_ids": [
+    6
+  ],
+  "artist_names": [
+    "4-mat"
+  ]
+}

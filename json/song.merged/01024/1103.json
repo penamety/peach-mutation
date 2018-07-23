@@ -1,0 +1,28 @@
+{
+  "id": 1103,
+  "type": "song",
+  "title": "Mad Moose",
+  "status": "A",
+  "release_year": "1994",
+  "platform_id": 6,
+  "length": 123,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2017-11-28 09:34:48",
+  "locked_until": "2017-12-18 13:10:44",
+  "locked": 0,
+  "vote_count": 21,
+  "vote_avg": 3.4286,
+  "pouet_id": 7648,
+  "info": "From \"Rebirth\" by Tribe: http://bitworld.bitfellas.org/demo.php?id=10580",
+  "last_scraped": "2018-05-22 08:21:16",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    207
+  ],
+  "artist_names": [
+    "Chromag"
+  ]
+}

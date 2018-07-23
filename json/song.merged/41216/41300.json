@@ -1,0 +1,31 @@
+{
+  "id": 41300,
+  "type": "song",
+  "title": "Thunderdome Demo - Part II",
+  "status": "A",
+  "release_year": "2014",
+  "platform_id": 5,
+  "length": 220,
+  "uploaded_by": "ViThor",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 12,
+  "last_requested": "2018-05-30 17:27:30",
+  "locked_until": "2018-07-02 16:56:50",
+  "locked": 1,
+  "vote_count": 34,
+  "vote_avg": 4.0294,
+  "tags": "2014 AtariST Compowinner Demo SillyVenture video YM",
+  "pouet_id": 64503,
+  "yt_id": "Dwz0JhgDz1g",
+  "info": "Track for the Thunderdome Demo released by Checkpoint at Silly Venture 2014. Something a bit different, with simple instrument design, YM drums, no DMA, and very few SID voices to meet the demo constraints. Congrats to Checkpoint for the 1st place !",
+  "last_scraped": "2018-05-30 19:10:27",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1991
+  ],
+  "artist_names": [
+    "Ultrasyd"
+  ]
+}

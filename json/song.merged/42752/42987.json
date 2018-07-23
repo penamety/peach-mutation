@@ -1,0 +1,29 @@
+{
+  "id": 42987,
+  "type": "song",
+  "title": "Lion King",
+  "status": "A",
+  "release_year": "1995",
+  "platform_id": 2,
+  "length": 114,
+  "uploaded_by": "serpent",
+  "bit_rate": 224,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-01-03 12:51:09",
+  "locked_until": "2018-01-21 09:57:10",
+  "locked": 0,
+  "vote_count": 12,
+  "vote_avg": 3.75,
+  "tags": "cover Movie",
+  "info": "From [url]http://csdb.dk/release/?id=103834[/url]",
+  "last_scraped": "2018-05-20 04:01:20",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    24
+  ],
+  "artist_names": [
+    "Agemixer"
+  ]
+}

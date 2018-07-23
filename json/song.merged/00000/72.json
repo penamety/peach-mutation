@@ -1,0 +1,26 @@
+{
+  "id": 72,
+  "type": "song",
+  "title": "Jam Session",
+  "status": "A",
+  "platform_id": 6,
+  "length": 205,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-01-20 08:16:16",
+  "locked_until": "2018-02-11 11:11:14",
+  "locked": 0,
+  "vote_count": 13,
+  "vote_avg": 2.9231,
+  "pouet_id": 27894,
+  "last_scraped": "2018-05-19 14:18:39",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    6
+  ],
+  "artist_names": [
+    "4-mat"
+  ]
+}

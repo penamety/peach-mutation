@@ -1,0 +1,31 @@
+{
+  "id": 2808,
+  "type": "song",
+  "title": "Woody's Trip",
+  "status": "A",
+  "platform_id": 3,
+  "length": 228,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 33,
+  "last_requested": "2018-05-24 23:55:18",
+  "locked_until": "2018-06-24 15:05:52",
+  "locked": 1,
+  "vote_count": 77,
+  "vote_avg": 4.3506,
+  "tags": "coop Italo-disco Spacesynth",
+  "info": "Download:\nhttp://modarchive.org/data/downloads.php?moduleid=63574#woodys.xm",
+  "last_scraped": "2018-05-25 01:35:46",
+  "artist_ids": [
+    483,
+    506,
+    834,
+    1708
+  ],
+  "artist_names": [
+    "Ghidorah",
+    "Haggeman",
+    "MyVoice",
+    "Maniac"
+  ]
+}

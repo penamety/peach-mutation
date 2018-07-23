@@ -1,0 +1,26 @@
+{
+  "id": 20017,
+  "type": "song",
+  "title": "Mother",
+  "status": "A",
+  "platform_id": 5,
+  "length": 45,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-03-08 07:59:54",
+  "locked_until": "2018-04-15 16:56:09",
+  "locked": 0,
+  "vote_count": 10,
+  "vote_avg": 3.0,
+  "tags": "amstrad cpc Short",
+  "last_scraped": "2018-05-20 06:41:41",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1428
+  ],
+  "artist_names": [
+    "Kangaroo MusiQue"
+  ]
+}

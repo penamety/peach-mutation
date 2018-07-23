@@ -1,0 +1,28 @@
+{
+  "id": 1698,
+  "type": "song",
+  "title": "The Voice",
+  "status": "A",
+  "platform_id": 3,
+  "length": 228,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 13,
+  "last_requested": "2018-05-29 19:01:40",
+  "locked_until": "2018-06-29 07:27:34",
+  "locked": 1,
+  "vote_count": 49,
+  "vote_avg": 4.3673,
+  "tags": "80s coop Epic italo synthpop",
+  "last_scraped": "2018-05-29 20:49:25",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    740,
+    2054
+  ],
+  "artist_names": [
+    "Martyn",
+    "Evade"
+  ]
+}

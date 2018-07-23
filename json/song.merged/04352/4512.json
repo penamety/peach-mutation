@@ -1,0 +1,30 @@
+{
+  "id": 4512,
+  "type": "song",
+  "title": "Jazzy Nork",
+  "status": "A",
+  "release_year": "1991",
+  "platform_id": 6,
+  "length": 84,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-06-16 00:30:46",
+  "locked_until": "2018-07-19 23:09:26",
+  "locked": 1,
+  "vote_count": 32,
+  "vote_avg": 3.7813,
+  "tags": "Amiga Jazz Musicdisk",
+  "pouet_id": 3023,
+  "last_scraped": "2018-06-16 02:07:38",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    723,
+    1225
+  ],
+  "artist_names": [
+    "Mantronix",
+    "Tip"
+  ]
+}

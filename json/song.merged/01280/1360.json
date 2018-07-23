@@ -1,0 +1,27 @@
+{
+  "id": 1360,
+  "type": "song",
+  "title": "Molecules",
+  "status": "A",
+  "platform_id": 2,
+  "length": 156,
+  "bit_rate": 224,
+  "sample_rate": 44100,
+  "fav_count": 25,
+  "last_requested": "2018-05-25 00:25:41",
+  "locked_until": "2018-06-24 20:03:08",
+  "locked": 1,
+  "vote_count": 66,
+  "vote_avg": 4.3333,
+  "tags": "Assembly C64 Compowinner SID",
+  "info": "Winner of the Assembly 2001 C64 music compo",
+  "last_scraped": "2018-05-25 02:00:11",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    254
+  ],
+  "artist_names": [
+    "!cube"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 7200,
+  "type": "song",
+  "title": "Chapter One Ohne",
+  "status": "A",
+  "release_year": "1994",
+  "platform_id": 6,
+  "length": 186,
+  "bit_rate": 256,
+  "sample_rate": 44100,
+  "fav_count": 12,
+  "last_requested": "2018-05-17 14:40:38",
+  "locked_until": "2018-06-16 12:47:51",
+  "locked": 0,
+  "vote_count": 44,
+  "vote_avg": 4.2045,
+  "tags": "Amiga video",
+  "pouet_id": 5103,
+  "yt_id": "haecl4s_yLI",
+  "last_scraped": "2018-05-23 09:41:31",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    358,
+    3814
+  ],
+  "artist_names": [
+    "Doc Holiday",
+    "Twilight (de)"
+  ]
+}

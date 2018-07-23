@@ -1,0 +1,27 @@
+{
+  "id": 1959,
+  "type": "song",
+  "title": "Castle Wander",
+  "status": "A",
+  "platform_id": 6,
+  "length": 186,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-05-14 05:27:09",
+  "locked_until": "2018-07-03 01:44:00",
+  "locked": 1,
+  "vote_count": 12,
+  "vote_avg": 1.9167,
+  "last_scraped": "2018-05-20 04:43:40",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    372,
+    528
+  ],
+  "artist_names": [
+    "Flinx",
+    "h0ffman"
+  ]
+}

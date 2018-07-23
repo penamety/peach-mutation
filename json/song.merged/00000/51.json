@@ -1,0 +1,25 @@
+{
+  "id": 51,
+  "type": "song",
+  "title": "Chiptune",
+  "status": "D",
+  "length": 157,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2015-04-24 18:49:58",
+  "locked_until": "None",
+  "locked": 1,
+  "vote_count": 9,
+  "vote_avg": 4.0,
+  "info": "Dupe of [song]76[/song]",
+  "last_scraped": "2018-05-22 21:22:00",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    6
+  ],
+  "artist_names": [
+    "4-mat"
+  ]
+}

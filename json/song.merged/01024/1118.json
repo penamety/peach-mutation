@@ -1,0 +1,28 @@
+{
+  "id": 1118,
+  "type": "song",
+  "title": "Pop-el",
+  "status": "A",
+  "release_year": "1993",
+  "platform_id": 6,
+  "length": 163,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 7,
+  "last_requested": "2018-05-21 09:35:28",
+  "locked_until": "2018-06-21 16:24:31",
+  "locked": 1,
+  "vote_count": 33,
+  "vote_avg": 4.2424,
+  "tags": "Musicdisk",
+  "pouet_id": 2290,
+  "last_scraped": "2018-05-21 11:10:01",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    207
+  ],
+  "artist_names": [
+    "Chromag"
+  ]
+}

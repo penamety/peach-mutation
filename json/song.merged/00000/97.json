@@ -1,0 +1,28 @@
+{
+  "id": 97,
+  "type": "song",
+  "title": "Starworx",
+  "status": "A",
+  "release_year": "1990",
+  "platform_id": 6,
+  "length": 87,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 22,
+  "last_requested": "2018-05-31 12:03:49",
+  "locked_until": "2018-06-29 17:43:53",
+  "locked": 1,
+  "vote_count": 60,
+  "vote_avg": 4.3833,
+  "tags": "1990 Amiga Intro",
+  "pouet_id": 34462,
+  "last_scraped": "2018-05-31 13:36:07",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    6
+  ],
+  "artist_names": [
+    "4-mat"
+  ]
+}

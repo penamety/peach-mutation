@@ -1,0 +1,29 @@
+{
+  "id": 7871,
+  "type": "song",
+  "title": "MS 2000 Invtro",
+  "status": "A",
+  "release_year": "2000",
+  "platform_id": 3,
+  "length": 268,
+  "bit_rate": 191,
+  "sample_rate": 44100,
+  "fav_count": 61,
+  "last_requested": "2018-05-22 22:05:46",
+  "locked_until": "2018-06-18 22:10:53",
+  "locked": 1,
+  "vote_count": 108,
+  "vote_avg": 4.5926,
+  "tags": "2000 Invitation Mekka&Symposium vocoder Windows",
+  "pouet_id": 1490,
+  "info": "XM with softsynth samples and custom lowpass filter / reverb routines.",
+  "last_scraped": "2018-05-22 23:42:44",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    613
+  ],
+  "artist_names": [
+    "KB"
+  ]
+}

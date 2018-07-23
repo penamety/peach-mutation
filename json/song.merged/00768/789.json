@@ -1,0 +1,26 @@
+{
+  "id": 789,
+  "type": "song",
+  "title": "Welcome to Cyberspace",
+  "status": "A",
+  "release_year": "1993",
+  "platform_id": 6,
+  "length": 237,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 7,
+  "last_requested": "2017-04-30 06:01:00",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 32,
+  "vote_avg": 3.625,
+  "last_scraped": "2018-05-24 00:07:29",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    139
+  ],
+  "artist_names": [
+    "Brian Caos"
+  ]
+}

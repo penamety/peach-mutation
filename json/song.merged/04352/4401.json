@@ -1,0 +1,24 @@
+{
+  "id": 4401,
+  "type": "song",
+  "title": "Norman Bates",
+  "status": "A",
+  "platform_id": 6,
+  "length": 47,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 5,
+  "last_requested": "2017-10-05 23:44:24",
+  "locked_until": "2017-10-11 15:12:10",
+  "locked": 0,
+  "vote_count": 15,
+  "vote_avg": 3.8,
+  "tags": "Short",
+  "last_scraped": "2018-05-21 21:36:56",
+  "artist_ids": [
+    720
+  ],
+  "artist_names": [
+    "Maktone"
+  ]
+}

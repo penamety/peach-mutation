@@ -1,0 +1,27 @@
+{
+  "id": 7726,
+  "type": "song",
+  "title": "Spot",
+  "status": "A",
+  "platform_id": 1,
+  "length": 367,
+  "bit_rate": 111,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2018-06-02 01:27:51",
+  "locked_until": "2018-07-07 03:38:42",
+  "locked": 1,
+  "vote_count": 30,
+  "vote_avg": 3.8333,
+  "tags": "2000 Assembly cinematic Compowinner Demo video Windows",
+  "pouet_id": 120,
+  "last_scraped": "2018-06-02 02:54:16",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1394
+  ],
+  "artist_names": [
+    "Generiq"
+  ]
+}

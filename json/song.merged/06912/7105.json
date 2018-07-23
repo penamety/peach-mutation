@@ -1,0 +1,30 @@
+{
+  "id": 7105,
+  "type": "song",
+  "title": "Perfect Circle",
+  "status": "A",
+  "platform_id": 3,
+  "length": 349,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 88,
+  "last_requested": "2018-06-14 01:23:04",
+  "locked_until": "2018-07-15 01:37:20",
+  "locked": 1,
+  "vote_count": 122,
+  "vote_avg": 4.3361,
+  "tags": "2001 Amiga coop Demo Mekka&Symposium video",
+  "pouet_id": 2007,
+  "yt_id": "WbbFfwmZMxY",
+  "last_scraped": "2018-06-14 03:15:17",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    254,
+    1190
+  ],
+  "artist_names": [
+    "!cube",
+    "Teque"
+  ]
+}

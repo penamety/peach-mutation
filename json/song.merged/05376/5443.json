@@ -1,0 +1,26 @@
+{
+  "id": 5443,
+  "type": "song",
+  "title": "Summer",
+  "status": "A",
+  "platform_id": 6,
+  "length": 46,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-04-22 02:49:09",
+  "locked_until": "2018-05-10 22:10:08",
+  "locked": 0,
+  "vote_count": 8,
+  "vote_avg": 3.625,
+  "tags": "Short",
+  "last_scraped": "2018-05-22 09:26:18",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    875
+  ],
+  "artist_names": [
+    "Nuke"
+  ]
+}

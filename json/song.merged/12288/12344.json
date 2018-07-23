@@ -1,0 +1,29 @@
+{
+  "id": 12344,
+  "type": "song",
+  "title": "Primary Star",
+  "status": "A",
+  "release_year": "2003",
+  "platform_id": 2,
+  "length": 207,
+  "uploaded_by": "jinx",
+  "bit_rate": 236,
+  "sample_rate": 44100,
+  "fav_count": 39,
+  "last_requested": "2018-06-14 08:05:27",
+  "locked_until": "2018-07-13 22:40:47",
+  "locked": 1,
+  "vote_count": 81,
+  "vote_avg": 4.5062,
+  "tags": "2003 Compowinner",
+  "info": "Won the 2003 Primary Star SID competition",
+  "last_scraped": "2018-06-14 09:37:39",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    1526
+  ],
+  "artist_names": [
+    "Reyn Ouwehand"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 14902,
+  "type": "song",
+  "title": "Shorti",
+  "status": "A",
+  "platform_id": 6,
+  "length": 80,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 5,
+  "last_requested": "2018-04-26 13:02:43",
+  "locked_until": "2018-05-28 11:59:48",
+  "locked": 0,
+  "vote_count": 25,
+  "vote_avg": 4.04,
+  "pouet_id": 13369,
+  "last_scraped": "2018-05-19 17:26:26",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    121
+  ],
+  "artist_names": [
+    "BitArts"
+  ]
+}

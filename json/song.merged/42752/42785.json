@@ -1,0 +1,28 @@
+{
+  "id": 42785,
+  "type": "song",
+  "title": "Trip to Japan",
+  "status": "A",
+  "release_year": "2015",
+  "platform_id": 5,
+  "length": 206,
+  "uploaded_by": "ViThor",
+  "bit_rate": 1411,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-06-07 11:51:36",
+  "locked_until": "2018-07-11 06:11:17",
+  "locked": 1,
+  "vote_count": 13,
+  "vote_avg": 3.9231,
+  "info": "This time a regular chiptune: ZX Spectrum 48K with AY-interface. \nOne AY chip, 4 bits, 3 channels.\nDedicated to AAA. :) \nThx for the ZXM Phoenix!!!",
+  "last_scraped": "2018-06-07 13:21:42",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1598
+  ],
+  "artist_names": [
+    "Yerzmyey"
+  ]
+}

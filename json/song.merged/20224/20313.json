@@ -1,0 +1,32 @@
+{
+  "id": 20313,
+  "type": "song",
+  "title": "Tristar demo 3",
+  "status": "A",
+  "release_year": "1988",
+  "platform_id": 13,
+  "length": 272,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2018-06-06 08:49:33",
+  "locked_until": "2018-07-15 11:32:56",
+  "locked": 1,
+  "vote_count": 42,
+  "vote_avg": 3.2857,
+  "tags": "1988 EarlyMOD Laserdance medley st-01 video",
+  "pouet_id": 9125,
+  "yt_id": "GhZF7AhtILM",
+  "info": "Format is .bss (Beathoven Synthesizer)",
+  "last_scraped": "2018-06-06 10:28:20",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    4419,
+    4421
+  ],
+  "artist_names": [
+    "Flynn",
+    "Knackosoft"
+  ]
+}

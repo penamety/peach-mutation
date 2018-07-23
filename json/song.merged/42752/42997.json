@@ -1,0 +1,30 @@
+{
+  "id": 42997,
+  "type": "song",
+  "title": "Square Wars I: Assault (YM version)",
+  "status": "A",
+  "release_year": "2015",
+  "platform_id": 5,
+  "length": 194,
+  "uploaded_by": "ViThor",
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2017-04-28 06:32:10",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 10,
+  "vote_avg": 3.3,
+  "tags": "2015 3rd compo STNICCC video YM",
+  "yt_id": "Y4jDZiB8DXA",
+  "info": "3rd in the ST News International Christmas Coding Convention (STNICCC) 2015 YM2149 Tune competition.\n\n\nTitle:        Square Wars I: Assault (YM version)\nAuthor nick:  wiecz0r (eng. pron. vietshoor )\nAuthor name:  Bartlomiej Wieczorkowski (just Bart :)\nTracker:      maxYMiser 1.33a\nHardware:     ST (only YM - no DMA used), colour mode\nPlayer:       maxYMiser 1.33a OR SND Player v1.51  \nContribution: Music YM Compo at STNICCC 2015                        \nYear:         2015",
+  "last_scraped": "2018-05-19 21:54:45",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    5651
+  ],
+  "artist_names": [
+    "wiecz0r"
+  ]
+}

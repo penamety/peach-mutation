@@ -1,0 +1,28 @@
+{
+  "id": 27682,
+  "type": "song",
+  "title": "Around The World",
+  "status": "A",
+  "platform_id": 1,
+  "length": 225,
+  "uploaded_by": "Saga_Musix",
+  "bit_rate": 256,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-05-25 21:40:27",
+  "locked_until": "2018-07-06 20:25:51",
+  "locked": 1,
+  "vote_count": 26,
+  "vote_avg": 3.0,
+  "tags": "Vocals",
+  "info": "was meant for TUM09 tracked music competition. turns out the rules forbid renoise, so streamed music instead.\n\nintention behind this song was to make renoise sound as much as a sequencer with expensive vstis as possible, but using only samples and renoises built in capabilities, at the same time staying below the \"magical\" boundary of 1,44MB. consequently, there is some naughty manual fakery hidden in here! :)",
+  "last_scraped": "2018-05-25 23:26:33",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    569
+  ],
+  "artist_names": [
+    "jco"
+  ]
+}

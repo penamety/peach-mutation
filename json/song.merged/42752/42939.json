@@ -1,0 +1,31 @@
+{
+  "id": 42939,
+  "type": "song",
+  "title": "Grid (main)",
+  "status": "A",
+  "release_year": "1999",
+  "platform_id": 41,
+  "length": 368,
+  "uploaded_by": "pipe",
+  "bit_rate": 901,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-04-28 19:49:07",
+  "locked_until": "2018-06-01 08:02:14",
+  "locked": 0,
+  "vote_count": 14,
+  "vote_avg": 3.5714,
+  "tags": "40k Amiga Compowinner Mekka&Symposium softsynth",
+  "pouet_id": 2805,
+  "yt_id": "2lmnaD1lFfk",
+  "info": "Main song from our 40k intro \"Grid\", first place at Mekka & Symposium 1999. The generated module is 1.4 MB.\n\nThis is a slightly bugfixed version with a sample loop replayer bug removed.",
+  "last_scraped": "2018-06-01 08:02:18",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    4373
+  ],
+  "artist_names": [
+    "Pipe"
+  ]
+}

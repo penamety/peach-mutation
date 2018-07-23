@@ -1,0 +1,29 @@
+{
+  "id": 3676,
+  "type": "song",
+  "title": "No Parking",
+  "status": "A",
+  "release_year": "1989",
+  "platform_id": 6,
+  "length": 64,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-02-24 14:25:09",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 9,
+  "vote_avg": 2.8889,
+  "pouet_id": 5583,
+  "last_scraped": "2018-05-19 23:04:36",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    602,
+    1467
+  ],
+  "artist_names": [
+    "Kaktus",
+    "Mahoney"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 33300,
+  "type": "song",
+  "title": "Fear",
+  "status": "B",
+  "release_year": "2000",
+  "platform_id": 3,
+  "length": 411,
+  "uploaded_by": "cederom",
+  "bit_rate": 124,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2015-06-01 05:39:51",
+  "locked_until": "None",
+  "locked": 1,
+  "vote_count": 27,
+  "vote_avg": 1.2593,
+  "info": "http://files.tomek.cedro.info/cederom/muzik/mod/CeDeROM-FEAR.mp3",
+  "last_scraped": "2018-05-23 06:54:40",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    4821
+  ],
+  "artist_names": [
+    "CeDeROM"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5170,
+  "type": "song",
+  "title": "Gods",
+  "status": "A",
+  "platform_id": 13,
+  "length": 153,
+  "bit_rate": 256,
+  "sample_rate": 44100,
+  "fav_count": 49,
+  "last_requested": "2018-05-03 10:45:28",
+  "locked_until": "2018-06-04 21:16:44",
+  "locked": 0,
+  "vote_count": 100,
+  "vote_avg": 3.88,
+  "tags": "coop Gamemusic",
+  "info": "The song \"Into the Wonderful\" was written by Nation XII (John Foxx and Tim Simenon).\nThe module was tracked by Richard Joseph. [ExoticA]",
+  "last_scraped": "2018-05-20 20:15:29",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    843,
+    1013
+  ],
+  "artist_names": [
+    "Nation XII",
+    "Richard Joseph"
+  ]
+}

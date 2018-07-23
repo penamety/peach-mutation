@@ -1,0 +1,28 @@
+{
+  "id": 13211,
+  "type": "song",
+  "title": "Ricochet",
+  "status": "A",
+  "platform_id": 2,
+  "length": 200,
+  "uploaded_by": "franz_koopa",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2018-03-17 17:14:46",
+  "locked_until": "2018-04-27 11:14:42",
+  "locked": 0,
+  "vote_count": 30,
+  "vote_avg": 3.2,
+  "tags": "1988 C64samples Gamemusic SID",
+  "info": "Firebird, 1988\n\nThe recording is taken from Stone Oakvalley's collection\n\nThis seems to be a tough song for SID to play due to the heavy use of samples.\n\nThis 8580-R5-chip recording was the only one in which a lead instrument was clearly audible during the \"chorus\" so I picked this one. However, R5 recording has too silent intro so I took the first ten seconds from a 6581-R2 recording.\n\nEspecially the end sounds murky but so it does in the other recordings as well...",
+  "last_scraped": "2018-05-20 14:46:05",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    1021
+  ],
+  "artist_names": [
+    "Rob Hubbard"
+  ]
+}

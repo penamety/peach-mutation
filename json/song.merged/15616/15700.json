@@ -1,0 +1,31 @@
+{
+  "id": 15700,
+  "type": "song",
+  "title": "Killing Floor",
+  "status": "A",
+  "release_year": "1994",
+  "platform_id": 6,
+  "length": 128,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-03-10 02:44:50",
+  "locked_until": "2018-04-17 20:00:12",
+  "locked": 0,
+  "vote_count": 14,
+  "vote_avg": 3.4286,
+  "tags": "1994 Demo Guitar Rock samples",
+  "pouet_id": 7866,
+  "yt_id": "Hn_ekhMfDVU",
+  "last_scraped": "2018-05-22 08:19:16",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    193,
+    1066
+  ],
+  "artist_names": [
+    "Chorus",
+    "Sid"
+  ]
+}

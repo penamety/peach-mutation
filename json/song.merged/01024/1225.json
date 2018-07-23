@@ -1,0 +1,27 @@
+{
+  "id": 1225,
+  "type": "song",
+  "title": "Sonic City",
+  "status": "A",
+  "platform_id": 6,
+  "length": 152,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-06-15 20:55:27",
+  "locked_until": "2017-06-21 05:17:28",
+  "locked": 0,
+  "vote_count": 10,
+  "vote_avg": 3.9,
+  "tags": "1993 Saturne",
+  "pouet_id": 7974,
+  "last_scraped": "2018-05-24 10:09:08",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    218
+  ],
+  "artist_names": [
+    "Clawz"
+  ]
+}

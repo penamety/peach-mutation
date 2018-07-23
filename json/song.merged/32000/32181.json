@@ -1,0 +1,31 @@
+{
+  "id": 32181,
+  "type": "song",
+  "title": "Orbiter",
+  "status": "A",
+  "release_year": "2011",
+  "platform_id": 8,
+  "length": 257,
+  "uploaded_by": "AlphaC",
+  "bit_rate": 224,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-09-17 01:45:21",
+  "locked_until": "2017-09-24 12:41:08",
+  "locked": 0,
+  "vote_count": 10,
+  "vote_avg": 3.3,
+  "tags": "coop",
+  "info": "Cooperation between Alpha C and Xtense for the modules.pl co-op compo held during February 2011.",
+  "last_scraped": "2018-05-22 06:37:07",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    2045,
+    4712
+  ],
+  "artist_names": [
+    "Alpha C",
+    "Xtense"
+  ]
+}

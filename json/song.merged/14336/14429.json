@@ -1,0 +1,28 @@
+{
+  "id": 14429,
+  "type": "song",
+  "title": "Jade",
+  "status": "A",
+  "release_year": "1996",
+  "platform_id": 25,
+  "length": 228,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 9,
+  "last_requested": "2018-03-20 09:35:53",
+  "locked_until": "2018-04-22 05:46:55",
+  "locked": 0,
+  "vote_count": 44,
+  "vote_avg": 3.9091,
+  "tags": "compo OutOfTune Quast",
+  "info": "Song details\nName: Jade\nAuthor: Marek Badkowski (Bac)\nDate: 1996\nASMA version: 2.6\nLocation: Composers/Badkowski_Marek/Jade.sap\nSubsongs: 1\nTime: 01:55.54 LOOP\nMono/stereo: mono\nSpeed: 1\nFile size: 6624 bytes\nTechnical info: type B, init $04F3, player $0503\nBugs:\nSTIL info: COMMENT: QuaST Party 1996 music compo entry. \n\nASMA link: http://asma.atari.org/asmadb/search.php?details=1592",
+  "last_scraped": "2018-05-21 02:31:13",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    2261
+  ],
+  "artist_names": [
+    "Bac"
+  ]
+}

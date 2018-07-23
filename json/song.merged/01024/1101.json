@@ -1,0 +1,27 @@
+{
+  "id": 1101,
+  "type": "song",
+  "title": "Love and Pain",
+  "status": "A",
+  "release_year": "1993",
+  "platform_id": 6,
+  "length": 245,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2018-05-04 01:39:46",
+  "locked_until": "2018-05-23 07:47:53",
+  "locked": 0,
+  "vote_count": 14,
+  "vote_avg": 3.6429,
+  "pouet_id": 2290,
+  "last_scraped": "2018-05-23 07:50:32",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    207
+  ],
+  "artist_names": [
+    "Chromag"
+  ]
+}

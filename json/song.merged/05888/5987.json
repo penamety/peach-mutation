@@ -1,0 +1,27 @@
+{
+  "id": 5987,
+  "type": "song",
+  "title": "Milk",
+  "status": "A",
+  "platform_id": 6,
+  "length": 116,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2017-09-28 05:00:13",
+  "locked_until": "2017-10-05 02:47:40",
+  "locked": 0,
+  "vote_count": 20,
+  "vote_avg": 3.45,
+  "tags": "food",
+  "pouet_id": 3827,
+  "last_scraped": "2018-05-20 17:55:28",
+  "source_id": 12,
+  "source": "Diskmag",
+  "artist_ids": [
+    977
+  ],
+  "artist_names": [
+    "Radix"
+  ]
+}

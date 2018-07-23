@@ -1,0 +1,27 @@
+{
+  "id": 1012,
+  "type": "song",
+  "title": "Hollywood Poker Pro - Title",
+  "status": "A",
+  "release_year": "1989",
+  "platform_id": 13,
+  "length": 365,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 16,
+  "last_requested": "2018-05-29 02:09:54",
+  "locked_until": "2018-07-04 10:34:23",
+  "locked": 1,
+  "vote_count": 48,
+  "vote_avg": 3.6875,
+  "tags": "Amiga Gamemusic",
+  "last_scraped": "2018-05-29 03:46:17",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    205
+  ],
+  "artist_names": [
+    "Chris Hülsbeck"
+  ]
+}

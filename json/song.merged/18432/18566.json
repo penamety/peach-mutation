@@ -1,0 +1,29 @@
+{
+  "id": 18566,
+  "type": "song",
+  "title": "Blondie",
+  "status": "A",
+  "release_year": "1997",
+  "platform_id": 2,
+  "length": 214,
+  "bit_rate": 147,
+  "sample_rate": 44100,
+  "fav_count": 28,
+  "last_requested": "2018-06-16 10:01:51",
+  "locked_until": "2018-07-17 05:52:35",
+  "locked": 1,
+  "vote_count": 74,
+  "vote_avg": 4.3108,
+  "tags": "C64 SID",
+  "pouet_id": 6061,
+  "info": "File exchanged with a recording from MOS6581R4 Chip.",
+  "last_scraped": "2018-06-16 11:43:32",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    476
+  ],
+  "artist_names": [
+    "Geir Tjelta"
+  ]
+}

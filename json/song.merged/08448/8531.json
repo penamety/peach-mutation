@@ -1,0 +1,29 @@
+{
+  "id": 8531,
+  "type": "song",
+  "title": "Two Steps",
+  "status": "A",
+  "platform_id": 8,
+  "length": 241,
+  "uploaded_by": "chrono",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 11,
+  "last_requested": "2018-03-05 03:14:25",
+  "locked_until": "2018-03-23 08:01:08",
+  "locked": 0,
+  "vote_count": 28,
+  "vote_avg": 3.9286,
+  "tags": "coop Piano",
+  "last_scraped": "2018-05-20 16:17:17",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    1076,
+    1631
+  ],
+  "artist_names": [
+    "Siren",
+    "Sirrus"
+  ]
+}

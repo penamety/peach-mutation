@@ -1,0 +1,30 @@
+{
+  "id": 26660,
+  "type": "song",
+  "title": "Echoes",
+  "status": "A",
+  "release_year": "2009",
+  "platform_id": 2,
+  "length": 208,
+  "uploaded_by": "Geir_Tjelta",
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 44,
+  "last_requested": "2018-06-07 17:45:43",
+  "locked_until": "2018-07-07 08:29:12",
+  "locked": 1,
+  "vote_count": 93,
+  "vote_avg": 4.5054,
+  "tags": "C64 SID",
+  "pouet_id": 58677,
+  "info": "Echoes features a technique done on the C-64 for the first time. It resamples the SID chip’s 3rd. voice realtime and plays it back with a delay, thereby creating a “fourth” echoed voice. In this tune Geir programmed this technique along with a new version of Macro Player (V2), and composed the song in assembly language during April 2009.",
+  "last_scraped": "2018-06-07 19:29:58",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    476
+  ],
+  "artist_names": [
+    "Geir Tjelta"
+  ]
+}

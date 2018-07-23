@@ -1,0 +1,27 @@
+{
+  "id": 11008,
+  "type": "song",
+  "title": "Archon",
+  "status": "A",
+  "platform_id": 1,
+  "length": 100,
+  "uploaded_by": "blurry",
+  "bit_rate": 181,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-01-12 05:07:30",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 9,
+  "vote_avg": 2.3333,
+  "info": "Remix of the Archon game theme done in Buzz Tracker",
+  "last_scraped": "2018-05-20 14:00:45",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    1880
+  ],
+  "artist_names": [
+    "Blurry"
+  ]
+}

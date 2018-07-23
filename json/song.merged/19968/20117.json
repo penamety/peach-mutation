@@ -1,0 +1,26 @@
+{
+  "id": 20117,
+  "type": "song",
+  "title": "Phazer Demo",
+  "status": "A",
+  "platform_id": 7,
+  "length": 214,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2018-02-23 14:09:03",
+  "locked_until": "2018-04-01 09:13:14",
+  "locked": 0,
+  "vote_count": 17,
+  "vote_avg": 3.5294,
+  "info": "This is a demonstration of the wave-sequencing technique. More information can be found in Imphobia issue 11 (article). Synthesized effect: Phazer.\n\nMusic created using IMAGO Orpheus 1.0 Beta.",
+  "last_scraped": "2018-05-23 14:45:41",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    2995
+  ],
+  "artist_names": [
+    "Karsten Koch"
+  ]
+}

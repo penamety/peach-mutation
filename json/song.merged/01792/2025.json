@@ -1,0 +1,25 @@
+{
+  "id": 2025,
+  "type": "song",
+  "title": "Gazza",
+  "status": "A",
+  "platform_id": 6,
+  "length": 55,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-03-10 07:01:45",
+  "locked_until": "2018-04-19 22:41:47",
+  "locked": 0,
+  "vote_count": 8,
+  "vote_avg": 3.0,
+  "last_scraped": "2018-05-24 14:46:06",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    378
+  ],
+  "artist_names": [
+    "Dr. Awesome"
+  ]
+}

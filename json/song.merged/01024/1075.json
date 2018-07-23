@@ -1,0 +1,25 @@
+{
+  "id": 1075,
+  "type": "song",
+  "title": "Claire",
+  "status": "A",
+  "platform_id": 6,
+  "length": 123,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-01-12 03:41:22",
+  "locked_until": "2018-01-31 18:07:42",
+  "locked": 0,
+  "vote_count": 12,
+  "vote_avg": 3.5,
+  "last_scraped": "2018-05-21 00:12:59",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    207
+  ],
+  "artist_names": [
+    "Chromag"
+  ]
+}

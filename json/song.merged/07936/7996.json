@@ -1,0 +1,29 @@
+{
+  "id": 7996,
+  "type": "song",
+  "title": "Dreaming Snowdrop",
+  "status": "A",
+  "platform_id": 1,
+  "length": 211,
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 63,
+  "last_requested": "2018-06-01 10:53:08",
+  "locked_until": "2018-06-30 21:52:00",
+  "locked": 1,
+  "vote_count": 105,
+  "vote_avg": 4.3524,
+  "tags": "2008 Breakpoint coop Dream",
+  "info": "6th in streaming compo at breakpoint 2008.",
+  "last_scraped": "2018-06-01 12:31:11",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    1766,
+    1767
+  ],
+  "artist_names": [
+    "Titus",
+    "Masterfaker"
+  ]
+}

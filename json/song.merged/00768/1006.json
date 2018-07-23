@@ -1,0 +1,28 @@
+{
+  "id": 1006,
+  "type": "song",
+  "title": "Giana Sisters Title",
+  "status": "A",
+  "release_year": "1988",
+  "platform_id": 13,
+  "length": 177,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2017-12-20 21:04:28",
+  "locked_until": "2018-01-10 20:41:15",
+  "locked": 0,
+  "vote_count": 33,
+  "vote_avg": 3.1212,
+  "tags": "Gameport",
+  "info": "Format is Beathoven Synthesizer (bss.)",
+  "last_scraped": "2018-05-20 13:42:49",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    533
+  ],
+  "artist_names": [
+    "Dr. Nobody"
+  ]
+}

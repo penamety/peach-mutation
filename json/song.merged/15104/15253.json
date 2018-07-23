@@ -1,0 +1,30 @@
+{
+  "id": 15253,
+  "type": "song",
+  "title": "Blue Max",
+  "status": "A",
+  "platform_id": 13,
+  "length": 56,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 5,
+  "last_requested": "2018-04-01 09:16:55",
+  "locked_until": "2018-04-21 01:59:40",
+  "locked": 0,
+  "vote_count": 18,
+  "vote_avg": 3.4444,
+  "tags": "coop Short",
+  "pouet_id": 13284,
+  "info": "Download link: http://modarchive.org/index.php?request=view_by_moduleid&query=102741",
+  "last_scraped": "2018-05-19 23:41:21",
+  "source_id": 5,
+  "source": "Remix",
+  "artist_ids": [
+    150,
+    591
+  ],
+  "artist_names": [
+    "Bug",
+    "Jogeir"
+  ]
+}

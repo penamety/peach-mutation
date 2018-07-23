@@ -1,0 +1,28 @@
+{
+  "id": 6503,
+  "type": "song",
+  "title": "Crapman",
+  "status": "A",
+  "release_year": "1993",
+  "platform_id": 5,
+  "length": 119,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 21,
+  "last_requested": "2018-06-17 14:10:51",
+  "locked_until": "2018-07-18 14:13:08",
+  "locked": 1,
+  "vote_count": 52,
+  "vote_avg": 4.3077,
+  "tags": "1993 Atari Demo YM",
+  "pouet_id": 752,
+  "last_scraped": "2018-06-17 15:56:56",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1041
+  ],
+  "artist_names": [
+    "Scavenger"
+  ]
+}

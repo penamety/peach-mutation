@@ -1,0 +1,29 @@
+{
+  "id": 34247,
+  "type": "song",
+  "title": "<insert title here> (chip version)",
+  "status": "A",
+  "release_year": "2011",
+  "platform_id": 10,
+  "length": 207,
+  "uploaded_by": "Ultrasyd",
+  "bit_rate": 256,
+  "sample_rate": 44100,
+  "fav_count": 31,
+  "last_requested": "2018-05-16 06:57:08",
+  "locked_until": "2018-06-14 07:03:33",
+  "locked": 0,
+  "vote_count": 79,
+  "vote_avg": 4.3797,
+  "tags": "2011 AtariSTe gameboy",
+  "info": "Atari STe and Game Boy only with hardware effects (miniKP), MIDI sync",
+  "last_scraped": "2018-05-22 02:57:11",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1991
+  ],
+  "artist_names": [
+    "Ultrasyd"
+  ]
+}

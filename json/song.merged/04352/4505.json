@@ -1,0 +1,29 @@
+{
+  "id": 4505,
+  "type": "song",
+  "title": "Denial",
+  "status": "A",
+  "release_year": "1991",
+  "platform_id": 6,
+  "length": 142,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-01-24 09:54:37",
+  "locked_until": "2018-02-12 21:01:02",
+  "locked": 0,
+  "vote_count": 18,
+  "vote_avg": 3.5,
+  "pouet_id": 3023,
+  "last_scraped": "2018-05-24 03:06:11",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    723,
+    1225
+  ],
+  "artist_names": [
+    "Mantronix",
+    "Tip"
+  ]
+}

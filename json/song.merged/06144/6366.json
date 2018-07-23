@@ -1,0 +1,26 @@
+{
+  "id": 6366,
+  "type": "song",
+  "title": "Mark TV",
+  "status": "A",
+  "release_year": "1998",
+  "platform_id": 6,
+  "length": 300,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-12-29 03:38:34",
+  "locked_until": "2018-01-19 18:50:28",
+  "locked": 0,
+  "vote_count": 12,
+  "vote_avg": 3.0,
+  "last_scraped": "2018-05-24 18:33:41",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1029
+  ],
+  "artist_names": [
+    "Roz"
+  ]
+}

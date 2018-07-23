@@ -1,0 +1,32 @@
+{
+  "id": 20162,
+  "type": "song",
+  "title": "Turrican 32k",
+  "status": "A",
+  "release_year": "2000",
+  "platform_id": 2,
+  "length": 347,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 64,
+  "last_requested": "2018-05-17 17:19:49",
+  "locked_until": "2018-06-15 22:16:29",
+  "locked": 0,
+  "vote_count": 121,
+  "vote_avg": 4.5537,
+  "tags": "coop GameRemix medley Platformer SID Turrican video Windows",
+  "pouet_id": 2392,
+  "yt_id": "ZPzPjoxG224",
+  "info": "Contains two Turrican 3 songs: \"Factory Action\" & \"Second Floor\"",
+  "last_scraped": "2018-06-15 22:17:29",
+  "source_id": 5,
+  "source": "Remix",
+  "artist_ids": [
+    613,
+    4171
+  ],
+  "artist_names": [
+    "KB",
+    "Welli"
+  ]
+}

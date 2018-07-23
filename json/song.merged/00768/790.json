@@ -1,0 +1,26 @@
+{
+  "id": 790,
+  "type": "song",
+  "title": "Hired Guns Title",
+  "status": "A",
+  "platform_id": 29,
+  "length": 101,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 34,
+  "last_requested": "2018-06-03 22:50:26",
+  "locked_until": "2018-07-05 20:15:00",
+  "locked": 1,
+  "vote_count": 42,
+  "vote_avg": 4.1667,
+  "tags": "Gamemusic",
+  "last_scraped": "2018-06-04 00:32:55",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    140
+  ],
+  "artist_names": [
+    "Brian Johnston"
+  ]
+}

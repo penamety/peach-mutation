@@ -1,0 +1,25 @@
+{
+  "id": 1574,
+  "type": "song",
+  "title": "Mercury",
+  "status": "A",
+  "platform_id": 6,
+  "length": 225,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-02-13 09:28:54",
+  "locked_until": "2018-03-06 22:54:25",
+  "locked": 0,
+  "vote_count": 12,
+  "vote_avg": 3.0833,
+  "last_scraped": "2018-05-20 10:07:20",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    310
+  ],
+  "artist_names": [
+    "DeLorean"
+  ]
+}

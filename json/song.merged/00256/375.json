@@ -1,0 +1,26 @@
+{
+  "id": 375,
+  "type": "song",
+  "title": "Secret Garden",
+  "status": "A",
+  "length": 628,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-06-01 09:03:59",
+  "locked_until": "2018-07-14 10:19:53",
+  "locked": 1,
+  "vote_count": 20,
+  "vote_avg": 3.05,
+  "tags": "ambient long",
+  "info": "From the \"Part: Second\" CD.",
+  "last_scraped": "2018-06-01 11:00:38",
+  "source_id": 6,
+  "source": "Commercial CD",
+  "artist_ids": [
+    1313
+  ],
+  "artist_names": [
+    "Aural Planet"
+  ]
+}

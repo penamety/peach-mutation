@@ -1,0 +1,27 @@
+{
+  "id": 21278,
+  "type": "song",
+  "title": "Summer Fun",
+  "status": "A",
+  "platform_id": 6,
+  "length": 231,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2018-03-30 03:23:06",
+  "locked_until": "2018-04-17 07:08:37",
+  "locked": 0,
+  "vote_count": 18,
+  "vote_avg": 3.8333,
+  "last_scraped": "2018-05-21 19:48:16",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    3157,
+    3158
+  ],
+  "artist_names": [
+    "Maxsoft",
+    "Invert"
+  ]
+}

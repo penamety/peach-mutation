@@ -1,0 +1,30 @@
+{
+  "id": 7734,
+  "type": "song",
+  "title": "Hip by Satcom101 (Thanks Mattias!) - Remix by Gloom",
+  "status": "A",
+  "platform_id": 1,
+  "length": 157,
+  "bit_rate": 192,
+  "sample_rate": 44100,
+  "fav_count": 16,
+  "last_requested": "2018-06-13 20:27:53",
+  "locked_until": "2018-07-19 13:22:46",
+  "locked": 1,
+  "vote_count": 45,
+  "vote_avg": 3.7111,
+  "tags": "2002 coop underscore",
+  "pouet_id": 6222,
+  "info": "Ripped from the dat file:\n\n<demo title=\"amoeba by excess (final)\">\n  <music title=\"hip by satcom101 (thanks mattias!) - remix by gloom\" file=\"amoeba-test.ogg\" start=\"0.0\">",
+  "last_scraped": "2018-06-13 22:44:45",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1396,
+    1668
+  ],
+  "artist_names": [
+    "Gloom",
+    "satcom101"
+  ]
+}

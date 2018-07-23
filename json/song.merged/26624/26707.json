@@ -1,0 +1,32 @@
+{
+  "id": 26707,
+  "type": "song",
+  "title": "Mystery",
+  "status": "A",
+  "release_year": "1991",
+  "platform_id": 2,
+  "length": 476,
+  "uploaded_by": "prowler",
+  "bit_rate": 224,
+  "sample_rate": 44100,
+  "fav_count": 23,
+  "last_requested": "2018-06-07 01:22:22",
+  "locked_until": "2018-07-08 01:39:38",
+  "locked": 1,
+  "vote_count": 65,
+  "vote_avg": 4.2154,
+  "tags": "coop long",
+  "pouet_id": 10610,
+  "info": "Co-op with S. Pedersen, probably member of Prosonix at the time.\n\nSID chipset: MOS6581R4",
+  "last_scraped": "2018-06-07 03:13:22",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    3323,
+    4661
+  ],
+  "artist_names": [
+    "Ole-Marius Pettersen",
+    "Stein Pedersen"
+  ]
+}

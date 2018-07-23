@@ -1,0 +1,28 @@
+{
+  "id": 18333,
+  "type": "song",
+  "title": "Breakthru",
+  "status": "A",
+  "release_year": "1987",
+  "platform_id": 2,
+  "length": 178,
+  "bit_rate": 95,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-04-18 20:46:57",
+  "locked_until": "2018-05-24 11:15:13",
+  "locked": 0,
+  "vote_count": 28,
+  "vote_avg": 3.4643,
+  "tags": "cracktro Gamemusic",
+  "info": "http://noname.c64.org/csdb/group/?id=1259\n\nhttp://noname.c64.org/csdb/release/?id=37732\n\nRecorded with WinVICE using ReSID, then encoded with LAME using VBR quality 3.  Left 10 seconds' worth of looping, including a fadeout at a sensible point.",
+  "last_scraped": "2018-05-24 11:19:07",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    460
+  ],
+  "artist_names": [
+    "Fred Gray"
+  ]
+}

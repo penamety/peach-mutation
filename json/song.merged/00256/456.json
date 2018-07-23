@@ -1,0 +1,29 @@
+{
+  "id": 456,
+  "type": "song",
+  "title": "Webber - The Demo",
+  "status": "A",
+  "release_year": "1999",
+  "platform_id": 3,
+  "length": 306,
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2018-02-18 02:23:13",
+  "locked_until": "2018-03-08 00:48:01",
+  "locked": 0,
+  "vote_count": 17,
+  "vote_avg": 3.8824,
+  "tags": "video",
+  "pouet_id": 10704,
+  "yt_id": "1ZOWyarIZ0E",
+  "last_scraped": "2018-05-21 13:00:43",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    75
+  ],
+  "artist_names": [
+    "Awesome"
+  ]
+}

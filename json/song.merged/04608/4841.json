@@ -1,0 +1,31 @@
+{
+  "id": 4841,
+  "type": "song",
+  "title": "The Secret of Monkey Island",
+  "status": "A",
+  "release_year": "1990",
+  "platform_id": 35,
+  "length": 234,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 77,
+  "last_requested": "2018-05-30 08:23:33",
+  "locked_until": "2018-06-27 16:21:59",
+  "locked": 1,
+  "vote_count": 124,
+  "vote_avg": 4.4032,
+  "tags": "animal coop Gamemusic",
+  "last_scraped": "2018-05-30 10:07:07",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    205,
+    789,
+    3519
+  ],
+  "artist_names": [
+    "Chris Hülsbeck",
+    "Michael Land",
+    "Rudolf Stember"
+  ]
+}

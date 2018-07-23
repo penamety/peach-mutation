@@ -1,0 +1,28 @@
+{
+  "id": 20100,
+  "type": "song",
+  "title": "Huga",
+  "status": "A",
+  "release_year": "1991",
+  "platform_id": 6,
+  "length": 48,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-05-06 02:20:48",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 9,
+  "vote_avg": 2.6667,
+  "tags": "Short",
+  "pouet_id": 9427,
+  "last_scraped": "2018-05-21 09:36:04",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1704
+  ],
+  "artist_names": [
+    "Dolphin"
+  ]
+}

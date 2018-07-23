@@ -1,0 +1,25 @@
+{
+  "id": 2020,
+  "type": "song",
+  "title": "Fire on High",
+  "status": "A",
+  "platform_id": 6,
+  "length": 380,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 5,
+  "last_requested": "2018-04-26 09:15:10",
+  "locked_until": "2018-06-02 00:34:42",
+  "locked": 0,
+  "vote_count": 19,
+  "vote_avg": 3.6316,
+  "last_scraped": "2018-05-19 14:22:17",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    378
+  ],
+  "artist_names": [
+    "Dr. Awesome"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 7113,
+  "type": "song",
+  "title": "Chéops menu",
+  "status": "I",
+  "length": 184,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2013-08-30 00:46:00",
+  "locked_until": "None",
+  "locked": 1,
+  "vote_count": 0,
+  "vote_avg": "None",
+  "info": "ices0: segmentation fault on this tune, prolly filename encoding stuff that kicks in.",
+  "last_scraped": "2018-05-22 22:12:26",
+  "artist_ids": [
+    1254
+  ],
+  "artist_names": [
+    "Traven"
+  ]
+}

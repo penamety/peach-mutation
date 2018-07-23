@@ -1,0 +1,29 @@
+{
+  "id": 3666,
+  "type": "song",
+  "title": "Gubb i Ladan",
+  "status": "A",
+  "release_year": "1989",
+  "platform_id": 6,
+  "length": 77,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-04-27 10:08:59",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 10,
+  "vote_avg": 2.0,
+  "tags": "Short",
+  "last_scraped": "2018-05-22 17:09:09",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    602,
+    1467
+  ],
+  "artist_names": [
+    "Kaktus",
+    "Mahoney"
+  ]
+}

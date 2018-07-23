@@ -1,0 +1,28 @@
+{
+  "id": 27056,
+  "type": "song",
+  "title": "Orion Journey",
+  "status": "A",
+  "platform_id": 1,
+  "length": 135,
+  "uploaded_by": "bitl",
+  "bit_rate": 256,
+  "sample_rate": 48000,
+  "fav_count": 2,
+  "last_requested": "2017-04-14 01:50:02",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 12,
+  "vote_avg": 3.75,
+  "pouet_id": 25464,
+  "info": "This module was composed for 64kb-intro by f0x. Used sample-generator by f0x\n\nmo3-version:\n ftp://ftp.scenesp.org/pub/modulez/bitl/OrionJny.zip",
+  "last_scraped": "2018-05-20 23:15:13",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    3921
+  ],
+  "artist_names": [
+    "BiTL"
+  ]
+}

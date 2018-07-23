@@ -1,0 +1,25 @@
+{
+  "id": 21400,
+  "type": "song",
+  "title": "Radio Caca",
+  "status": "A",
+  "platform_id": 3,
+  "length": 138,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 6,
+  "last_requested": "2018-04-21 05:06:58",
+  "locked_until": "2018-05-10 15:06:31",
+  "locked": 0,
+  "vote_count": 30,
+  "vote_avg": 3.6,
+  "last_scraped": "2018-05-22 01:31:22",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    760
+  ],
+  "artist_names": [
+    "MED"
+  ]
+}

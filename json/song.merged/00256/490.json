@@ -1,0 +1,28 @@
+{
+  "id": 490,
+  "type": "song",
+  "title": "Cyber Phunk 3",
+  "status": "A",
+  "platform_id": 6,
+  "length": 262,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-10-01 22:15:23",
+  "locked_until": "2017-10-08 10:25:28",
+  "locked": 0,
+  "vote_count": 15,
+  "vote_avg": 3.6,
+  "tags": "coop",
+  "last_scraped": "2018-05-23 23:00:41",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    80,
+    566
+  ],
+  "artist_names": [
+    "Azazel",
+    "Jazz"
+  ]
+}

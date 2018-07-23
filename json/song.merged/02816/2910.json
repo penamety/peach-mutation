@@ -1,0 +1,27 @@
+{
+  "id": 2910,
+  "type": "song",
+  "title": "Sleeping friend",
+  "status": "A",
+  "release_year": "2000",
+  "platform_id": 3,
+  "length": 257,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2017-10-16 01:04:08",
+  "locked_until": "2017-10-22 02:21:30",
+  "locked": 0,
+  "vote_count": 12,
+  "vote_avg": 3.75,
+  "tags": "coop",
+  "last_scraped": "2018-05-22 18:48:05",
+  "artist_ids": [
+    506,
+    1709
+  ],
+  "artist_names": [
+    "Haggeman",
+    "Tonix Media"
+  ]
+}

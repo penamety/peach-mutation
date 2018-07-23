@@ -1,0 +1,27 @@
+{
+  "id": 229,
+  "type": "song",
+  "title": "Superfrog pub",
+  "status": "A",
+  "release_year": "1993",
+  "platform_id": 6,
+  "length": 92,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2017-05-10 23:11:28",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 15,
+  "vote_avg": 3.3333,
+  "tags": "animal",
+  "last_scraped": "2018-05-24 01:47:51",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    38
+  ],
+  "artist_names": [
+    "Allister Brimble"
+  ]
+}

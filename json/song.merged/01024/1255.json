@@ -1,0 +1,25 @@
+{
+  "id": 1255,
+  "type": "song",
+  "title": "Contemporary",
+  "status": "A",
+  "length": 462,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 2,
+  "last_requested": "2018-06-17 00:41:06",
+  "locked_until": "2018-08-09 01:26:22",
+  "locked": 1,
+  "vote_count": 26,
+  "vote_avg": 1.6538,
+  "tags": "long",
+  "last_scraped": "2018-06-17 02:07:20",
+  "source_id": 6,
+  "source": "Commercial CD",
+  "artist_ids": [
+    224
+  ],
+  "artist_names": [
+    "CNCD"
+  ]
+}

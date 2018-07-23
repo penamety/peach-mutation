@@ -1,0 +1,30 @@
+{
+  "id": 32913,
+  "type": "song",
+  "title": "Crank",
+  "status": "A",
+  "release_year": "2011",
+  "platform_id": 10,
+  "length": 129,
+  "uploaded_by": "ViThor",
+  "bit_rate": 127,
+  "sample_rate": 44100,
+  "fav_count": 5,
+  "last_requested": "2018-06-06 11:52:03",
+  "locked_until": "2018-07-11 15:03:49",
+  "locked": 1,
+  "vote_count": 30,
+  "vote_avg": 3.6333,
+  "tags": "NVIDIA video",
+  "yt_id": "SbSo7onX9qI",
+  "info": "\"Crank\" is a realtime graphics demo developed for NVIDIA. The demo showcases several NVIDIA technologies such as:\n\n3D-VISION\nCUDA\nPhysX.\n\nCrank was commissioned by NVIDIA to promote Fermi - NVIDIA's latest brand of GPU architecture, and used during the opening keynote at the 2010 GPU Technology Conference in San Jose, California.\n\nThis application was devloped in C++, using DirectX10 for rendering. The demo contains simulations of rigid bodies and a rendering of a 3D-version of the Koch Snowflake fractal.\n\nUnleashing the massive parallel computing power in NVIDIA's new GeForce 400-series, the demo showcases an unprecedented display of realtime graphics and physics simulation.\n\nDeveloped by Virtex - http://www.virtex.no\nMusic by Transistorbass - http://www.subsquare.com",
+  "last_scraped": "2018-06-06 13:19:57",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1396
+  ],
+  "artist_names": [
+    "Gloom"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 4500,
+  "type": "song",
+  "title": "Agony [Sea Level]",
+  "status": "A",
+  "platform_id": 6,
+  "length": 108,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 5,
+  "last_requested": "2018-03-21 16:57:01",
+  "locked_until": "2018-04-25 12:17:54",
+  "locked": 0,
+  "vote_count": 27,
+  "vote_avg": 3.5556,
+  "tags": "coop",
+  "last_scraped": "2018-05-24 09:06:50",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    723,
+    1225
+  ],
+  "artist_names": [
+    "Mantronix",
+    "Tip"
+  ]
+}

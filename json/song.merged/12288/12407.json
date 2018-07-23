@@ -1,0 +1,27 @@
+{
+  "id": 12407,
+  "type": "song",
+  "title": "Atomix",
+  "status": "D",
+  "platform_id": 6,
+  "length": 223,
+  "uploaded_by": "franz_koopa",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2013-11-24 16:01:23",
+  "locked_until": "None",
+  "locked": 1,
+  "vote_count": 17,
+  "vote_avg": 3.7647,
+  "info": "music from puzzle game's title screen\n\nThalion, 1990\n\nDupe of [song]2722[/song].",
+  "last_scraped": "2018-05-23 00:22:53",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    459
+  ],
+  "artist_names": [
+    "Fred"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 13495,
+  "type": "song",
+  "title": "Antique",
+  "status": "A",
+  "release_year": "2003",
+  "platform_id": 5,
+  "length": 220,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 20,
+  "last_requested": "2018-05-23 15:02:15",
+  "locked_until": "2018-06-24 03:38:17",
+  "locked": 1,
+  "vote_count": 55,
+  "vote_avg": 4.2364,
+  "tags": "syncopated",
+  "pouet_id": 9525,
+  "info": "Song in .sndh format can be found in [url=http://sndh.atari.org/files/sndh34lf.zip]this archive[/url].\n\nUsed in \"Moving into Darkness\" by DHS, ranked 2nd in Error in Line 2003 ST demo compo",
+  "last_scraped": "2018-05-23 17:00:21",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    7
+  ],
+  "artist_names": [
+    "505"
+  ]
+}

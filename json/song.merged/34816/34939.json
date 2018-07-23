@@ -1,0 +1,29 @@
+{
+  "id": 34939,
+  "type": "song",
+  "title": "CPU eater",
+  "status": "A",
+  "release_year": "2005",
+  "platform_id": 5,
+  "length": 223,
+  "uploaded_by": "Gunstick",
+  "bit_rate": 166,
+  "sample_rate": 44100,
+  "fav_count": 9,
+  "last_requested": "2018-04-14 00:56:40",
+  "locked_until": "2018-05-15 15:00:44",
+  "locked": 0,
+  "vote_count": 34,
+  "vote_avg": 3.9412,
+  "tags": "AtariST",
+  "info": "uses simultaneously almost every effect available consuming quite some CPU time of the Atari ST.\nConverted using audio overload 2.0b9 and audacity.\n\nOutline 2005 chip music compo, ranked 1st",
+  "last_scraped": "2018-05-21 13:27:17",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    7
+  ],
+  "artist_names": [
+    "505"
+  ]
+}

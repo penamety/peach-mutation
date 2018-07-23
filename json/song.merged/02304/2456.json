@@ -1,0 +1,27 @@
+{
+  "id": 2456,
+  "type": "song",
+  "title": "Aurora Borealis",
+  "status": "A",
+  "release_year": "1996",
+  "platform_id": 3,
+  "length": 327,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 6,
+  "last_requested": "2018-05-22 23:52:25",
+  "locked_until": "2018-06-27 00:25:10",
+  "locked": 1,
+  "vote_count": 52,
+  "vote_avg": 3.8269,
+  "tags": "whales",
+  "last_scraped": "2018-05-23 01:26:00",
+  "source_id": 8,
+  "source": "Newschool",
+  "artist_ids": [
+    2711
+  ],
+  "artist_names": [
+    "Rapture"
+  ]
+}

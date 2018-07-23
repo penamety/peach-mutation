@@ -1,0 +1,29 @@
+{
+  "id": 11999,
+  "type": "song",
+  "title": "The Jungle",
+  "status": "A",
+  "release_year": "1993",
+  "platform_id": 6,
+  "length": 266,
+  "uploaded_by": "Mystra",
+  "bit_rate": 320,
+  "sample_rate": 48000,
+  "fav_count": 6,
+  "last_requested": "2018-05-22 04:52:48",
+  "locked_until": "2018-06-23 14:16:19",
+  "locked": 1,
+  "vote_count": 31,
+  "vote_avg": 4.129,
+  "tags": "1993 Amiga diskmag saxophone TheParty",
+  "pouet_id": 50452,
+  "last_scraped": "2018-05-22 06:24:36",
+  "source_id": 12,
+  "source": "Diskmag",
+  "artist_ids": [
+    207
+  ],
+  "artist_names": [
+    "Chromag"
+  ]
+}

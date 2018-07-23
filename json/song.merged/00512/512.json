@@ -1,0 +1,25 @@
+{
+  "id": 512,
+  "type": "song",
+  "title": "Wah Wah Mania",
+  "status": "A",
+  "platform_id": 6,
+  "length": 115,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-06-13 04:51:27",
+  "locked_until": "2017-06-23 22:08:55",
+  "locked": 0,
+  "vote_count": 9,
+  "vote_avg": 2.3333,
+  "last_scraped": "2018-05-24 01:11:27",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    80
+  ],
+  "artist_names": [
+    "Azazel"
+  ]
+}

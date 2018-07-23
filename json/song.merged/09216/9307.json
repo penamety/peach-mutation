@@ -1,0 +1,30 @@
+{
+  "id": 9307,
+  "type": "song",
+  "title": "Stars",
+  "status": "A",
+  "release_year": "1996",
+  "platform_id": 5,
+  "length": 456,
+  "uploaded_by": "MyO",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 11,
+  "last_requested": "2018-06-01 10:37:33",
+  "locked_until": "2018-07-06 09:27:44",
+  "locked": 1,
+  "vote_count": 62,
+  "vote_avg": 3.9032,
+  "tags": "1996 AtariST long Musicdisk TruckDriversGearChange YM",
+  "pouet_id": 1032,
+  "info": "Tao's \"Stars\". Atari YM sound with SID style PWM. From \"Songs that make you go hhmm 2\"",
+  "last_scraped": "2018-06-01 12:11:03",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1177
+  ],
+  "artist_names": [
+    "Tao"
+  ]
+}

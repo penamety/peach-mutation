@@ -1,0 +1,26 @@
+{
+  "id": 20909,
+  "type": "song",
+  "title": "Lethal Xcess - Title [ST Version]",
+  "status": "A",
+  "platform_id": 52,
+  "length": 375,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-11-21 10:53:25",
+  "locked_until": "2017-12-12 08:04:51",
+  "locked": 0,
+  "vote_count": 14,
+  "vote_avg": 3.2143,
+  "info": "platform: STe (two PCM channels)",
+  "last_scraped": "2018-05-19 11:00:24",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    713
+  ],
+  "artist_names": [
+    "Mad Max"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1236,
+  "type": "song",
+  "title": "Yolkka",
+  "status": "A",
+  "platform_id": 6,
+  "length": 76,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2018-03-08 19:30:20",
+  "locked_until": "2018-04-08 07:15:45",
+  "locked": 0,
+  "vote_count": 20,
+  "vote_avg": 4.15,
+  "tags": "Chiptune",
+  "info": "by...clawz/complex...",
+  "last_scraped": "2018-05-23 21:34:29",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    218
+  ],
+  "artist_names": [
+    "Clawz"
+  ]
+}

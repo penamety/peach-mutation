@@ -1,0 +1,27 @@
+{
+  "id": 10940,
+  "type": "song",
+  "title": "Cybernoid '97",
+  "status": "R",
+  "platform_id": 6,
+  "length": 412,
+  "uploaded_by": "halvare",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2013-08-26 15:57:33",
+  "locked_until": "None",
+  "locked": 1,
+  "vote_count": 1,
+  "vote_avg": 4.0,
+  "info": "based upon the C64 tune by Jeroen Tel and recreated using Fast Tracker v2.",
+  "last_scraped": "2018-05-22 23:05:07",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1874
+  ],
+  "artist_names": [
+    "G-Knight"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 33368,
+  "type": "song",
+  "title": "fr-08 credits",
+  "status": "A",
+  "release_year": "2000",
+  "platform_id": 41,
+  "length": 353,
+  "uploaded_by": "hornpipe2",
+  "bit_rate": 233,
+  "sample_rate": 44100,
+  "fav_count": 78,
+  "last_requested": "2018-06-04 12:12:37",
+  "locked_until": "2018-07-01 16:16:14",
+  "locked": 1,
+  "vote_count": 120,
+  "vote_avg": 4.7,
+  "tags": "2000 64k Repetitive TheParty video Windows",
+  "pouet_id": 1221,
+  "yt_id": "Y3n3c_8Nn2Y",
+  "info": "1st place in pc 64k compo at The Party 2000\n\nJust the Credits segment from the infamous fr-08 .the .product demo.\n\nhttp://www.theproduct.de/midi.html, downloaded the WAV renderer -> use Audacity to cut in -> lame --preset extreme -q0",
+  "last_scraped": "2018-06-04 13:23:17",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    613
+  ],
+  "artist_names": [
+    "KB"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 26960,
+  "type": "song",
+  "title": "Fuck Your Horse",
+  "status": "A",
+  "release_year": "1988",
+  "platform_id": 6,
+  "length": 230,
+  "uploaded_by": "Rirsuhacker",
+  "bit_rate": 160,
+  "sample_rate": 44100,
+  "fav_count": 46,
+  "last_requested": "2018-05-22 00:09:52",
+  "locked_until": "2018-07-07 08:48:38",
+  "locked": 1,
+  "vote_count": 193,
+  "vote_avg": 2.4767,
+  "tags": "DepecheMode DutchSpeak EarlyMOD Explicit Horse Lyrics polarizing",
+  "pouet_id": 32258,
+  "yt_id": "xKUY6hIRgTo",
+  "info": "Based on \"Just Can't Get Enough\" by Depeche Mode\n\nThis has been modified a little, to reduce the stereo separation.\n\n\"Unbearable on headphones.\" Well, there's nothing I can do about that :P\n\nConverted to .wav with VLC's file output module. Adjusted stereo with Audacity, mixed each channel into the other at -12dB. Converted to mp3 with lame -h -b 256.\n\nReal title of this song in the Digital Force musicdisk is \"Surprise\"",
+  "last_scraped": "2018-05-22 02:15:13",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    983
+  ],
+  "artist_names": [
+    "Ramon"
+  ]
+}

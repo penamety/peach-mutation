@@ -1,0 +1,25 @@
+{
+  "id": 3655,
+  "type": "song",
+  "title": "Custard",
+  "status": "A",
+  "length": 76,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-06-07 11:23:07",
+  "locked_until": "2017-06-17 00:17:04",
+  "locked": 0,
+  "vote_count": 9,
+  "vote_avg": 2.6667,
+  "tags": "food",
+  "last_scraped": "2018-05-21 19:46:32",
+  "artist_ids": [
+    602,
+    1467
+  ],
+  "artist_names": [
+    "Kaktus",
+    "Mahoney"
+  ]
+}

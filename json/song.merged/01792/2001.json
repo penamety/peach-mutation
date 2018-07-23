@@ -1,0 +1,26 @@
+{
+  "id": 2001,
+  "type": "song",
+  "title": "Cosmos (Shortversion)",
+  "status": "A",
+  "platform_id": 6,
+  "length": 590,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2018-06-14 09:09:09",
+  "locked_until": "2018-07-25 04:46:25",
+  "locked": 1,
+  "vote_count": 29,
+  "vote_avg": 3.2759,
+  "tags": "long",
+  "last_scraped": "2018-06-14 10:55:41",
+  "source_id": 3,
+  "source": "Oldskool",
+  "artist_ids": [
+    378
+  ],
+  "artist_names": [
+    "Dr. Awesome"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 10749,
+  "type": "song",
+  "title": "Remember",
+  "status": "A",
+  "platform_id": 13,
+  "length": 215,
+  "uploaded_by": "halvare",
+  "bit_rate": 256,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2017-11-01 08:47:03",
+  "locked_until": "2017-11-20 01:15:20",
+  "locked": 0,
+  "vote_count": 9,
+  "vote_avg": 3.7778,
+  "info": "Created by BrainTrace Design (Carlsten Schlote, Branko Mikic and Carsten Herbst) to demostrate their new tracker called Sonic Arranger",
+  "last_scraped": "2018-05-24 04:54:04",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1869,
+    1870,
+    1871
+  ],
+  "artist_names": [
+    "BodyLove",
+    "Branko Mikic",
+    "Mr Soundwave "
+  ]
+}

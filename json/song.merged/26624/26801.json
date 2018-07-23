@@ -1,0 +1,30 @@
+{
+  "id": 26801,
+  "type": "song",
+  "title": "Butterfly Effect",
+  "status": "A",
+  "platform_id": 3,
+  "length": 250,
+  "uploaded_by": "lemonade",
+  "bit_rate": 128,
+  "sample_rate": 48000,
+  "fav_count": 8,
+  "last_requested": "2018-05-20 09:41:35",
+  "locked_until": "2018-06-20 18:07:48",
+  "locked": 1,
+  "vote_count": 40,
+  "vote_avg": 3.95,
+  "tags": "animal Chiptune",
+  "info": "Third chiptune coop with xaimus.",
+  "last_scraped": "2018-05-20 11:32:07",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    1468,
+    4071
+  ],
+  "artist_names": [
+    "Malmen",
+    "xaimus"
+  ]
+}

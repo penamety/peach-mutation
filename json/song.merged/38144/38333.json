@@ -1,0 +1,29 @@
+{
+  "id": 38333,
+  "type": "song",
+  "title": "Second Day Uptown",
+  "status": "A",
+  "release_year": "2013",
+  "platform_id": 5,
+  "length": 168,
+  "uploaded_by": "ViThor",
+  "bit_rate": 256,
+  "sample_rate": 44100,
+  "fav_count": 4,
+  "last_requested": "2018-05-01 23:46:04",
+  "locked_until": "2018-05-31 19:36:31",
+  "locked": 0,
+  "vote_count": 19,
+  "vote_avg": 4.2105,
+  "tags": "2013 3rd AY compo Forever Speccy ZXSpectrum",
+  "info": "ZX Spectrum AY-3-8912 3 channel stereo (ACB), 3rd place at Forever 14 demoparty in ZX Spectrum music compo.",
+  "last_scraped": "2018-05-31 19:37:20",
+  "source_id": 4,
+  "source": "Compo Entry",
+  "artist_ids": [
+    1725
+  ],
+  "artist_names": [
+    "Factor6"
+  ]
+}

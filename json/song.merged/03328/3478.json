@@ -1,0 +1,26 @@
+{
+  "id": 3478,
+  "type": "song",
+  "title": "Toy palace",
+  "status": "A",
+  "platform_id": 2,
+  "length": 179,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2018-05-31 04:22:11",
+  "locked_until": "2018-07-23 23:35:30",
+  "locked": 1,
+  "vote_count": 14,
+  "vote_avg": 1.4286,
+  "tags": "OutOfTune",
+  "last_scraped": "2018-05-31 05:35:53",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    589
+  ],
+  "artist_names": [
+    "Jörg Rosenstiel"
+  ]
+}

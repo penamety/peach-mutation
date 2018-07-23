@@ -1,0 +1,26 @@
+{
+  "id": 3247,
+  "type": "song",
+  "title": "Family Dog",
+  "status": "A",
+  "platform_id": 5,
+  "length": 98,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2017-10-14 19:54:43",
+  "locked_until": "2017-10-20 01:11:43",
+  "locked": 0,
+  "vote_count": 18,
+  "vote_avg": 3.8333,
+  "tags": "animal",
+  "last_scraped": "2018-05-24 08:19:07",
+  "source_id": 1,
+  "source": "Chiptune",
+  "artist_ids": [
+    555
+  ],
+  "artist_names": [
+    "Iso"
+  ]
+}

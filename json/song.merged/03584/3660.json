@@ -1,0 +1,30 @@
+{
+  "id": 3660,
+  "type": "song",
+  "title": "Fainter",
+  "status": "A",
+  "release_year": "1989",
+  "platform_id": 6,
+  "length": 51,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 0,
+  "last_requested": "2017-05-14 15:10:02",
+  "locked_until": "None",
+  "locked": 0,
+  "vote_count": 8,
+  "vote_avg": 2.0,
+  "tags": "Short",
+  "pouet_id": 5583,
+  "last_scraped": "2018-05-19 07:07:30",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    602,
+    1467
+  ],
+  "artist_names": [
+    "Kaktus",
+    "Mahoney"
+  ]
+}

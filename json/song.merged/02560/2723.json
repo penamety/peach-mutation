@@ -1,0 +1,26 @@
+{
+  "id": 2723,
+  "type": "song",
+  "title": "Legend of Kage",
+  "status": "A",
+  "platform_id": 2,
+  "length": 133,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 13,
+  "last_requested": "2018-05-02 15:03:01",
+  "locked_until": "2018-06-02 13:51:19",
+  "locked": 0,
+  "vote_count": 46,
+  "vote_avg": 4.0217,
+  "tags": "C64 classic Gamemusic",
+  "last_scraped": "2018-06-02 13:53:55",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    460
+  ],
+  "artist_names": [
+    "Fred Gray"
+  ]
+}

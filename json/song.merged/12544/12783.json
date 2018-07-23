@@ -1,0 +1,27 @@
+{
+  "id": 12783,
+  "type": "song",
+  "title": "Bombo (Tune 1)",
+  "status": "R",
+  "platform_id": 2,
+  "length": 102,
+  "uploaded_by": "bif",
+  "bit_rate": 320,
+  "sample_rate": 44100,
+  "fav_count": 1,
+  "last_requested": "2013-08-27 15:22:36",
+  "locked_until": "None",
+  "locked": 1,
+  "vote_count": 5,
+  "vote_avg": 4.4,
+  "info": "Recording of C64 classic MOS6581.\n",
+  "last_scraped": "2018-05-23 01:33:09",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    110
+  ],
+  "artist_names": [
+    "Ben Daglish"
+  ]
+}

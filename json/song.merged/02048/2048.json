@@ -1,0 +1,26 @@
+{
+  "id": 2048,
+  "type": "song",
+  "title": "In Jeopardy",
+  "status": "A",
+  "platform_id": 6,
+  "length": 222,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 3,
+  "last_requested": "2018-02-23 04:58:25",
+  "locked_until": "2018-04-01 08:55:12",
+  "locked": 0,
+  "vote_count": 13,
+  "vote_avg": 3.4615,
+  "pouet_id": 5501,
+  "last_scraped": "2018-05-23 15:31:43",
+  "source_id": 11,
+  "source": "Musicdisk",
+  "artist_ids": [
+    378
+  ],
+  "artist_names": [
+    "Dr. Awesome"
+  ]
+}

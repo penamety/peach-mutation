@@ -1,0 +1,27 @@
+{
+  "id": 11612,
+  "type": "song",
+  "title": "Rapture",
+  "status": "A",
+  "platform_id": 1,
+  "length": 238,
+  "uploaded_by": "Kork",
+  "bit_rate": 318,
+  "sample_rate": 48000,
+  "fav_count": 0,
+  "last_requested": "2018-05-26 22:16:40",
+  "locked_until": "2018-07-12 17:57:45",
+  "locked": 1,
+  "vote_count": 17,
+  "vote_avg": 2.4118,
+  "info": "Fasttracker II module initially created in 1999 for a Quad demo that never got finished.\nIt ended up in a textmode demo from Temulent  with the same name.\n\nThe last 2 minutes of the song are created with help from No-Xs of Oxyron. ",
+  "last_scraped": "2018-05-26 23:57:45",
+  "source_id": 2,
+  "source": "Demo",
+  "artist_ids": [
+    1927
+  ],
+  "artist_names": [
+    "Kork"
+  ]
+}

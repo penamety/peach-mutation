@@ -1,0 +1,30 @@
+{
+  "id": 6360,
+  "type": "song",
+  "title": "Battle Squadron [lose]",
+  "status": "A",
+  "release_year": "1989",
+  "platform_id": 13,
+  "length": 213,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 81,
+  "last_requested": "2018-06-05 00:42:14",
+  "locked_until": "2018-07-01 08:08:01",
+  "locked": 1,
+  "vote_count": 131,
+  "vote_avg": 4.6947,
+  "tags": "Amiga Chillout Chiptune Gamemusic Sad video",
+  "pouet_id": 5398,
+  "yt_id": "Q4LnzE8Ea3g",
+  "info": "Format is Ron Klaren (.rk)\n\nA music and fx format created by Ivo Zoer and Ron Klaren. Files in this format have an eagleplayer specific header. ",
+  "last_scraped": "2018-06-05 02:38:24",
+  "source_id": 7,
+  "source": "Game",
+  "artist_ids": [
+    1027
+  ],
+  "artist_names": [
+    "Ron Klaren"
+  ]
+}

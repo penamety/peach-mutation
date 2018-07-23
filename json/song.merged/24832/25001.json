@@ -1,0 +1,25 @@
+{
+  "id": 25001,
+  "type": "song",
+  "title": "Picknick",
+  "status": "A",
+  "length": 304,
+  "bit_rate": 128,
+  "sample_rate": 44100,
+  "fav_count": 13,
+  "last_requested": "2018-05-22 00:48:34",
+  "locked_until": "2018-06-23 12:21:51",
+  "locked": 1,
+  "vote_count": 46,
+  "vote_avg": 4.1304,
+  "tags": "food",
+  "last_scraped": "2018-05-22 02:51:20",
+  "source_id": 5,
+  "source": "Remix",
+  "artist_ids": [
+    3037
+  ],
+  "artist_names": [
+    "Lastfuture"
+  ]
+}

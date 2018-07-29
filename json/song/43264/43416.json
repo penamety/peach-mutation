@@ -25,5 +25,51 @@
   ],
   "artist_names": [
     "Spiral"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2016-08-28 12:13:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-09-07 18:35:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-09-25 20:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2016-10-16 12:13:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-11-04 09:41:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-22 14:17:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-12 21:25:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-04-07 19:54:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-09-13 22:36:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-01-20 23:02:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-03-28 10:45:00"
+    }
   ]
 }

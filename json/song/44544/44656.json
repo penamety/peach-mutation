@@ -22,5 +22,27 @@
   ],
   "artist_names": [
     "Some1"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2018-02-03 06:06:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-02-20 14:15:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-23 20:41:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-05-08 06:31:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-06-12 13:38:00"
+    }
   ]
 }

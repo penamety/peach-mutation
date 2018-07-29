@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "Ras Bolding"
+  ],
+  "requests": [
+    {
+      "user": "lvdata",
+      "when": "2012-01-12 00:12:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-04-15 00:19:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-05-13 05:46:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-07-21 04:48:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-09-11 14:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-01 02:28:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-04-08 04:38:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-03-28 10:04:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-03-22 01:29:00"
+    }
   ]
 }

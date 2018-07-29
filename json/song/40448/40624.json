@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "Andy Abstract"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2014-07-07 12:00:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-07-18 15:50:00"
+    },
+    {
+      "user": "maep",
+      "when": "2014-08-06 18:25:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-08-26 15:12:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-09-20 01:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-17 17:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "when": "2015-02-10 13:43:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-04 04:35:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-03-19 09:07:00"
+    }
   ]
 }

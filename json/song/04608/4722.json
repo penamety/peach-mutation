@@ -22,5 +22,39 @@
   "artist_names": [
     "Mellow-D",
     "Zake"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-07-10 19:26:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2011-08-12 06:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-10-02 10:09:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-07 04:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-17 00:14:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-25 14:21:00"
+    },
+    {
+      "user": "essential",
+      "when": "2016-10-14 12:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-10 01:11:00"
+    }
   ]
 }

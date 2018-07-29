@@ -16,5 +16,27 @@
   "info": "Dupe of [song]26727[/song]",
   "last_scraped": "2018-05-23 07:32:59",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "BombmanDK",
+      "when": "2011-12-14 12:15:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-09-03 15:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-01-28 00:38:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-05-21 08:31:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-09-29 14:55:00"
+    }
+  ]
 }

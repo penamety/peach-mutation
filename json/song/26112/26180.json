@@ -14,5 +14,15 @@
   "vote_avg": 4.0,
   "last_scraped": "2018-05-23 08:35:14",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "Sensei",
+      "when": "2011-06-13 14:18:00"
+    },
+    {
+      "user": "Tuxality",
+      "when": "2011-08-24 20:26:00"
+    }
+  ]
 }

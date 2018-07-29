@@ -24,5 +24,43 @@
   ],
   "artist_names": [
     "K-Line"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2017-11-07 06:01:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-01 07:05:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-19 13:02:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-06 09:52:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-26 06:30:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-13 04:19:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-03 09:24:00"
+    },
+    {
+      "user": "plc",
+      "when": "2018-04-08 10:13:00"
+    },
+    {
+      "user": "plc",
+      "when": "2018-05-10 19:59:00"
+    }
   ]
 }

@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "SuperNao"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2015-09-05 19:05:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-09-15 08:14:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-10-01 09:33:00"
+    },
+    {
+      "user": "essential",
+      "when": "2015-10-26 13:54:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-04-25 06:35:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-06-01 05:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-07-28 05:50:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-26 14:40:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-06-10 17:45:00"
+    }
   ]
 }

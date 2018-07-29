@@ -15,5 +15,15 @@
   "info": "Dupe of [queue]30869[/queue]",
   "last_scraped": "2018-05-23 04:12:24",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "Sensei",
+      "when": "2011-03-07 10:42:00"
+    },
+    {
+      "user": "Buzzer",
+      "when": "2011-08-28 10:30:00"
+    }
+  ]
 }

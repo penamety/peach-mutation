@@ -21,5 +21,71 @@
   ],
   "artist_names": [
     "Mad Max"
+  ],
+  "requests": [
+    {
+      "user": "matsim",
+      "when": "2011-06-15 02:10:00"
+    },
+    {
+      "user": "Chewrafa",
+      "when": "2011-08-06 03:49:00"
+    },
+    {
+      "user": "clumdon",
+      "when": "2012-01-06 01:38:00"
+    },
+    {
+      "user": "mud",
+      "when": "2012-07-31 04:00:00"
+    },
+    {
+      "user": "mud",
+      "when": "2012-09-04 18:00:00"
+    },
+    {
+      "user": "mud",
+      "when": "2012-11-15 07:08:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-06-17 13:04:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-05-12 02:02:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-11 05:58:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2015-07-29 18:42:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-08-22 09:28:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-06 00:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-08-18 17:21:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-01-06 20:32:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-02-13 00:39:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-01-01 14:05:00"
+    }
   ]
 }

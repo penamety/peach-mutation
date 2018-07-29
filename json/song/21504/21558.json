@@ -19,5 +19,51 @@
   ],
   "artist_names": [
     "Mem'O'Ree"
+  ],
+  "requests": [
+    {
+      "user": "BSC",
+      "when": "2011-03-15 12:34:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-09-17 08:10:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-02 23:50:00"
+    },
+    {
+      "user": "maep",
+      "when": "2013-05-20 22:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-09 03:36:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-15 23:19:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-10-02 02:01:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-05 00:39:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-05-20 07:45:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2016-06-14 23:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-09 11:26:00"
+    }
   ]
 }

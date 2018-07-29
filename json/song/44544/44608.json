@@ -20,5 +20,31 @@
   ],
   "artist_names": [
     "Bee Hunter"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2018-01-05 12:23:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-01-26 14:20:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-13 06:57:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-03 23:03:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-06 05:19:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-05-17 05:32:00"
+    }
   ]
 }

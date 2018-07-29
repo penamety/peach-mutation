@@ -25,5 +25,63 @@
   "artist_names": [
     "BigYo",
     "Graff"
+  ],
+  "requests": [
+    {
+      "user": "SJD",
+      "when": "2011-03-12 20:45:00"
+    },
+    {
+      "user": "SJD",
+      "when": "2011-03-28 01:56:00"
+    },
+    {
+      "user": "SJD",
+      "when": "2011-07-04 02:59:00"
+    },
+    {
+      "user": "SJD",
+      "when": "2011-12-01 11:43:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-05-22 12:47:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-06-29 23:23:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-01-19 14:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-22 22:55:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-10-05 05:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-01-19 18:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-04-07 00:34:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-02-08 01:01:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2017-04-06 05:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-02-13 23:16:00"
+    }
   ]
 }

@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Psycho"
+  ],
+  "requests": [
+    {
+      "user": "matsim",
+      "when": "2011-07-13 05:32:00"
+    },
+    {
+      "user": "matsim",
+      "when": "2012-01-14 02:45:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-08-25 04:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-31 22:28:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-14 23:55:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-02-08 05:18:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-17 08:23:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-11-01 17:19:00"
+    }
   ]
 }

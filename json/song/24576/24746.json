@@ -18,5 +18,43 @@
   ],
   "artist_names": [
     "St0ff"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-03-02 14:10:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-02-16 18:12:00"
+    },
+    {
+      "user": "Sensei",
+      "when": "2013-01-18 00:05:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-04-04 03:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-29 22:56:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-05 14:07:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2014-10-03 22:48:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-10-15 03:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-18 12:42:00"
+    }
   ]
 }

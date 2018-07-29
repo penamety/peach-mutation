@@ -22,5 +22,39 @@
   ],
   "artist_names": [
     "Baz"
+  ],
+  "requests": [
+    {
+      "user": "Aetrin",
+      "when": "2012-04-06 07:39:00"
+    },
+    {
+      "user": "maep",
+      "when": "2013-01-14 20:49:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-17 05:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-06 03:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-04 18:19:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-07 04:39:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-04-02 23:28:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-02-06 09:17:00"
+    }
   ]
 }

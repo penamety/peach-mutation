@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "Baz"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2016-02-02 14:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-02-18 08:39:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-03-13 00:22:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-04-23 12:10:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-05-29 21:38:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-20 05:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2016-10-13 10:54:00"
+    },
+    {
+      "user": "Whitelabel",
+      "when": "2016-12-21 14:08:00"
+    },
+    {
+      "user": "MrsBeanbag",
+      "when": "2017-03-19 16:02:00"
+    }
   ]
 }

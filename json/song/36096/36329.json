@@ -20,5 +20,67 @@
   ],
   "artist_names": [
     "Socrates"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2012-06-14 14:04:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-07-03 01:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-11 14:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-03-07 01:20:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-04-14 11:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-06-23 02:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-31 01:28:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-04-06 06:33:00"
+    },
+    {
+      "user": "kirsche",
+      "when": "2014-12-14 02:13:00"
+    },
+    {
+      "user": "clayer",
+      "when": "2015-02-24 21:54:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-08-03 05:15:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2017-02-20 12:56:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2017-04-22 20:29:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-11-08 00:43:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2018-01-27 08:33:00"
+    }
   ]
 }

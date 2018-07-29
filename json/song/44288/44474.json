@@ -23,5 +23,39 @@
   ],
   "artist_names": [
     "Conrad"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2017-11-08 12:28:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-01 22:16:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2017-12-20 17:27:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-01-08 11:05:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-04 13:39:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-24 14:13:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-01 12:40:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-06-09 16:53:00"
+    }
   ]
 }

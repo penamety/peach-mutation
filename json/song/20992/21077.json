@@ -18,5 +18,35 @@
   ],
   "artist_names": [
     "Malfunction"
+  ],
+  "requests": [
+    {
+      "user": "Sensei",
+      "when": "2011-12-12 15:05:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-06-20 13:50:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2013-08-12 19:29:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-02-18 21:12:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2014-10-07 19:56:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-02-08 13:55:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-03-08 03:11:00"
+    }
   ]
 }

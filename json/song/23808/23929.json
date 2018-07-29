@@ -24,5 +24,39 @@
   ],
   "artist_names": [
     "Ryan Cramer"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-08-30 16:47:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-06-18 05:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-01-19 21:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-28 01:10:00"
+    },
+    {
+      "user": "BINO",
+      "when": "2013-10-08 00:56:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2014-04-05 14:54:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-04 13:02:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-01-17 16:09:00"
+    }
   ]
 }

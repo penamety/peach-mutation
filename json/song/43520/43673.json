@@ -27,5 +27,43 @@
   "artist_names": [
     "d-Zire",
     "Dr Krall"
+  ],
+  "requests": [
+    {
+      "user": "prowler",
+      "when": "2017-01-09 12:44:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-31 17:23:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-03-01 19:19:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-07 19:50:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-08-27 09:26:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-11-19 10:42:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-10 23:34:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-18 10:12:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-05-12 14:17:00"
+    }
   ]
 }

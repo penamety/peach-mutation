@@ -22,5 +22,47 @@
   ],
   "artist_names": [
     "Charles Deenen"
+  ],
+  "requests": [
+    {
+      "user": "neutron",
+      "when": "2011-04-27 14:29:00"
+    },
+    {
+      "user": "neutron",
+      "when": "2011-08-19 11:35:00"
+    },
+    {
+      "user": "neutron",
+      "when": "2011-09-15 15:28:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-16 21:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-14 23:50:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-15 03:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-11 09:15:00"
+    },
+    {
+      "user": "neutron",
+      "when": "2015-05-22 14:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-31 20:20:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-03-07 08:04:00"
+    }
   ]
 }

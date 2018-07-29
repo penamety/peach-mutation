@@ -22,5 +22,39 @@
   ],
   "artist_names": [
     "Scyphe"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-03-20 13:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2011-10-07 02:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-12-30 07:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-24 03:03:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-03-18 16:34:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2014-12-06 20:04:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-04-12 19:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-28 00:22:00"
+    }
   ]
 }

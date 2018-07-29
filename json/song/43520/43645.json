@@ -27,5 +27,39 @@
   ],
   "artist_names": [
     "Buzzer"
+  ],
+  "requests": [
+    {
+      "user": "Shinobi",
+      "when": "2016-12-27 12:47:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-01-12 07:40:00"
+    },
+    {
+      "user": "plc",
+      "when": "2017-02-06 10:44:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-03-04 08:47:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-07 20:03:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-11-12 12:24:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-12-13 13:26:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-04 16:19:00"
+    }
   ]
 }

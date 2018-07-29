@@ -21,5 +21,43 @@
   "artist_names": [
     "Braintumour",
     "Heywood"
+  ],
+  "requests": [
+    {
+      "user": "Mystra",
+      "when": "2011-12-22 20:12:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-04-24 00:59:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-09-18 09:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-09-06 12:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-04-28 05:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-03-13 05:13:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-08 05:02:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2017-06-27 05:19:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-03-08 02:59:00"
+    }
   ]
 }

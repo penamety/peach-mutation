@@ -25,5 +25,55 @@
   ],
   "artist_names": [
     "lemonade"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2015-02-17 08:45:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-06 11:31:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-28 17:21:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2015-05-01 18:32:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-07-05 09:03:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-15 05:02:00"
+    },
+    {
+      "user": "sundog",
+      "when": "2016-03-09 12:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-08-24 00:31:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-09-25 04:05:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-12-28 16:59:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2017-03-08 18:11:00"
+    },
+    {
+      "user": "Triton",
+      "when": "2017-09-13 20:43:00"
+    }
   ]
 }

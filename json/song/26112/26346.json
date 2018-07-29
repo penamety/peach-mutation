@@ -19,5 +19,47 @@
   ],
   "artist_names": [
     "Mice"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-05-26 09:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-06-14 04:43:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-01 04:25:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2013-03-23 12:38:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-09-15 00:40:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-03-28 05:22:00"
+    },
+    {
+      "user": "tohe",
+      "when": "2016-01-22 08:08:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-05-19 05:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-03 17:23:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-17 03:55:00"
+    }
   ]
 }

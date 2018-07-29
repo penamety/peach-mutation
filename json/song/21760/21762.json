@@ -15,5 +15,35 @@
   "info": "Dupe of [song]4893[/song]",
   "last_scraped": "2018-05-23 05:03:42",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "Erk",
+      "when": "2011-05-04 00:19:00"
+    },
+    {
+      "user": "Erk",
+      "when": "2011-05-31 22:06:00"
+    },
+    {
+      "user": "Erk",
+      "when": "2011-06-24 22:21:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2011-08-13 23:49:00"
+    },
+    {
+      "user": "Chaykin",
+      "when": "2011-12-26 16:35:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-01-21 02:49:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-02-29 13:49:00"
+    }
+  ]
 }

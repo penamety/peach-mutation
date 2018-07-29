@@ -24,5 +24,51 @@
   ],
   "artist_names": [
     "Randall"
+  ],
+  "requests": [
+    {
+      "user": "nvictor",
+      "when": "2011-06-30 22:15:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-02-08 13:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-12-11 04:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-16 11:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-11-13 23:03:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-02-28 09:41:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-05-30 10:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-05 22:15:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-03-05 19:14:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-04-22 08:21:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-06-05 11:59:00"
+    }
   ]
 }

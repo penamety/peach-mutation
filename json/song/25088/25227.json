@@ -18,5 +18,39 @@
   ],
   "artist_names": [
     "Tbob"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2011-10-06 14:02:00"
+    },
+    {
+      "user": "maep",
+      "when": "2011-11-10 12:22:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2011-11-30 12:27:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2011-12-22 14:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-26 12:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-05-28 00:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-04-26 22:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-03-25 01:47:00"
+    }
   ]
 }

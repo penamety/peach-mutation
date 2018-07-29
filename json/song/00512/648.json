@@ -24,5 +24,91 @@
   ],
   "artist_names": [
     "Dr. Awesome"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-09-30 07:20:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2011-10-27 16:23:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2012-03-30 20:55:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2012-07-24 23:56:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2013-03-20 11:23:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-07-16 00:28:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-09-22 00:56:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-04-15 04:38:00"
+    },
+    {
+      "user": "Buzzer",
+      "when": "2015-09-14 13:38:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-10-10 06:34:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-24 04:06:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2015-12-30 18:26:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-07-31 14:16:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2017-02-12 20:14:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-04-18 23:13:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2017-06-15 10:05:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2017-08-28 09:29:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-02-06 02:56:00"
+    },
+    {
+      "user": "Aardvark",
+      "when": "2018-03-10 06:57:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2018-04-29 21:15:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2018-06-05 12:36:00"
+    }
   ]
 }

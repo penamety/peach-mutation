@@ -22,5 +22,31 @@
   ],
   "artist_names": [
     "Cyborg Jeff"
+  ],
+  "requests": [
+    {
+      "user": "plc",
+      "when": "2017-12-26 11:59:00"
+    },
+    {
+      "user": "Oldchap",
+      "when": "2018-01-14 19:37:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-03 07:36:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-02-22 10:48:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-29 05:27:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-05-16 12:25:00"
+    }
   ]
 }

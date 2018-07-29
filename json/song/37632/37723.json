@@ -20,5 +20,15 @@
   "source_id": 4,
   "source": "Compo Entry",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2012-12-08 17:24:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2013-01-04 20:16:00"
+    }
+  ]
 }

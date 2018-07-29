@@ -24,5 +24,71 @@
   ],
   "artist_names": [
     "Julian Breeze"
+  ],
+  "requests": [
+    {
+      "user": "pipe",
+      "when": "2011-05-01 01:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-09 05:24:00"
+    },
+    {
+      "user": "Yellowjelly",
+      "when": "2011-09-17 18:35:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-07-05 19:21:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-12-12 01:42:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-03-14 01:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-18 13:59:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-12-15 16:07:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-01-24 17:35:00"
+    },
+    {
+      "user": "_wally",
+      "when": "2014-06-17 00:31:00"
+    },
+    {
+      "user": "Triton",
+      "when": "2015-03-27 17:50:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2015-10-06 06:55:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-11-22 15:01:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2016-02-12 15:01:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-05-06 23:29:00"
+    },
+    {
+      "user": "Korni",
+      "when": "2018-03-11 00:14:00"
+    }
   ]
 }

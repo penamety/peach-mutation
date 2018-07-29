@@ -18,5 +18,67 @@
   ],
   "artist_names": [
     "Andreas Viklund"
+  ],
+  "requests": [
+    {
+      "user": "tyco",
+      "when": "2011-06-10 01:43:00"
+    },
+    {
+      "user": "tyco",
+      "when": "2011-07-14 02:16:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2011-11-23 20:32:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-03-29 07:55:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-06-17 23:29:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2013-04-22 16:52:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-07-14 14:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-01-05 03:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-02-22 07:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-02-02 05:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-05-24 05:38:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2015-11-16 09:03:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-02-06 16:20:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-21 01:50:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-05-19 01:11:00"
+    }
   ]
 }

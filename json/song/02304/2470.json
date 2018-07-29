@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Fajser"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2012-10-10 11:29:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-05-24 05:41:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-08-17 12:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-02-07 22:08:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-04-15 06:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-10-02 05:55:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-12-14 14:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-12-11 12:59:00"
+    }
   ]
 }

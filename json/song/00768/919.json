@@ -21,5 +21,79 @@
   ],
   "artist_names": [
     "Chavez"
+  ],
+  "requests": [
+    {
+      "user": "BombmanDK",
+      "when": "2012-03-14 13:16:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2013-03-18 17:35:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-05-09 08:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-31 06:44:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-10-11 17:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-12-06 00:31:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-08 13:34:00"
+    },
+    {
+      "user": "br4inlock",
+      "when": "2014-11-07 22:22:00"
+    },
+    {
+      "user": "omilian",
+      "when": "2015-05-14 05:01:00"
+    },
+    {
+      "user": "Triton",
+      "when": "2016-03-22 18:36:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2016-05-28 23:55:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-27 05:30:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2016-09-27 19:30:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-02-26 22:00:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2017-07-09 19:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-07-17 04:58:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-10-28 06:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-15 10:52:00"
+    }
   ]
 }

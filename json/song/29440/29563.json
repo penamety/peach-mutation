@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "Virt"
+  ],
+  "requests": [
+    {
+      "user": "Robot2037",
+      "when": "2011-09-02 09:17:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2011-10-03 14:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-25 15:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-04-18 17:34:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2015-02-12 05:51:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-05-10 14:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-06-14 06:40:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-04-02 07:33:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-06-15 00:31:00"
+    }
   ]
 }

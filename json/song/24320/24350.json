@@ -19,5 +19,55 @@
   ],
   "artist_names": [
     "Signal"
+  ],
+  "requests": [
+    {
+      "user": "arrakis",
+      "when": "2011-05-20 09:12:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-12-23 07:15:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-06-01 02:50:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-03-09 11:35:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-06-29 15:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-11-24 14:07:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-12 15:03:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-10-20 13:28:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-05-30 16:11:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-07-16 17:45:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-09-08 20:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-08 11:24:00"
+    }
   ]
 }

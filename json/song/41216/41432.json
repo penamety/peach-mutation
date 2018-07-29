@@ -25,5 +25,51 @@
   ],
   "artist_names": [
     "Judge Brad"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2015-01-24 23:37:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-02-13 08:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-25 03:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-10-30 01:29:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-04-24 13:26:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-09-14 15:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2016-11-15 15:26:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-12 22:07:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-01-24 18:47:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-04-02 14:55:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-05-27 23:12:00"
+    }
   ]
 }

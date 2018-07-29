@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "James"
+  ],
+  "requests": [
+    {
+      "user": "arrakis",
+      "when": "2011-08-31 21:34:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-10-11 07:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-08 01:08:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-04-04 05:01:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2013-10-01 20:17:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-02-18 03:51:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-25 12:03:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-02-10 03:25:00"
+    },
+    {
+      "user": "oview",
+      "when": "2018-06-09 12:34:00"
+    }
   ]
 }

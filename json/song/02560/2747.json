@@ -23,5 +23,43 @@
   ],
   "artist_names": [
     "Fuzz"
+  ],
+  "requests": [
+    {
+      "user": "lroy",
+      "when": "2011-04-02 15:54:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-09-03 15:28:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-11-06 03:44:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-04-03 07:35:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-05-14 04:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-04-03 01:54:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-19 02:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-13 20:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-03-18 05:51:00"
+    }
   ]
 }

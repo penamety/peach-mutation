@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "Andreas Viklund"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2016-01-28 21:21:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-02-15 10:04:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-03-12 21:56:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-04-14 18:18:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-05-25 13:56:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-06-29 10:48:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-07-19 09:42:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-26 10:13:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-31 17:18:00"
+    }
   ]
 }

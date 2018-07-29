@@ -15,5 +15,19 @@
   "info": "Dupe of [song]32367[/song]",
   "last_scraped": "2018-05-23 04:18:21",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-03-13 03:40:00"
+    },
+    {
+      "user": "anerte",
+      "when": "2011-04-30 20:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-06-06 01:53:00"
+    }
+  ]
 }

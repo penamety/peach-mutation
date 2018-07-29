@@ -21,5 +21,35 @@
   ],
   "artist_names": [
     "Solo"
+  ],
+  "requests": [
+    {
+      "user": "khalood",
+      "when": "2012-06-01 16:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-11 01:36:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2013-08-01 20:12:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-08 14:50:00"
+    },
+    {
+      "user": "blb",
+      "when": "2015-01-12 23:15:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-03 01:35:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2018-01-10 05:36:00"
+    }
   ]
 }

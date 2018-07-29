@@ -25,5 +25,51 @@
   ],
   "artist_names": [
     "Trancerboy"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2012-06-07 15:18:00"
+    },
+    {
+      "user": "hptt",
+      "when": "2012-09-04 13:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-17 20:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-03-08 00:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-05 15:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-23 03:32:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2013-11-01 15:33:00"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2014-03-28 08:24:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-03-01 15:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-07-07 23:01:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2018-05-12 17:49:00"
+    }
   ]
 }

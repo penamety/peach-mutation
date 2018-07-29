@@ -26,5 +26,51 @@
   ],
   "artist_names": [
     "Uncle Tom"
+  ],
+  "requests": [
+    {
+      "user": "Mystra",
+      "when": "2013-06-19 09:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-14 03:10:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-09-15 19:55:00"
+    },
+    {
+      "user": "Grit",
+      "when": "2013-11-19 22:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-10 15:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-04-25 01:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-23 20:57:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-06-02 06:53:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-05-15 10:32:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-06-08 18:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-08 00:16:00"
+    }
   ]
 }

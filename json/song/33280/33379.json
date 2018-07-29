@@ -24,5 +24,55 @@
   ],
   "artist_names": [
     "BIT"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-06-27 12:20:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2011-08-19 07:32:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2012-01-27 19:35:00"
+    },
+    {
+      "user": "BeautyNerd",
+      "when": "2012-05-11 03:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-10-30 04:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-06 12:10:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-10-25 11:18:00"
+    },
+    {
+      "user": "RENJPS",
+      "when": "2014-02-18 14:34:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-11-17 21:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-22 04:34:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-01-11 05:07:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2018-02-04 06:17:00"
+    }
   ]
 }

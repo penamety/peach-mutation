@@ -21,5 +21,79 @@
   ],
   "artist_names": [
     "Falcon"
+  ],
+  "requests": [
+    {
+      "user": "Andersson",
+      "when": "2011-02-14 19:39:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2011-06-04 09:38:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2011-10-07 06:54:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2011-12-25 14:22:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2012-02-08 23:26:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-05-02 07:15:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-05-24 04:22:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2014-02-23 14:20:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-04-20 02:26:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-20 18:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-10-02 16:00:00"
+    },
+    {
+      "user": "epso",
+      "when": "2016-03-09 00:10:00"
+    },
+    {
+      "user": "epso",
+      "when": "2016-07-27 06:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-20 13:04:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-01-29 04:01:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-03-28 23:35:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-05-04 22:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-06-07 14:09:00"
+    }
   ]
 }

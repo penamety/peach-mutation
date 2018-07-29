@@ -18,5 +18,39 @@
   ],
   "artist_names": [
     "Baz"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-08-07 07:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-24 05:26:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-11-05 14:59:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-03-15 03:38:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-04-05 11:00:00"
+    },
+    {
+      "user": "venttiili",
+      "when": "2016-11-03 13:16:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-11-23 10:55:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-01-20 04:56:00"
+    }
   ]
 }

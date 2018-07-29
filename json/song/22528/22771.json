@@ -19,5 +19,35 @@
   ],
   "artist_names": [
     "Pink"
+  ],
+  "requests": [
+    {
+      "user": "arrakis",
+      "when": "2011-08-06 17:41:00"
+    },
+    {
+      "user": "crrr",
+      "when": "2012-10-05 23:44:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-22 02:01:00"
+    },
+    {
+      "user": "Triton",
+      "when": "2013-12-03 16:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-13 12:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2016-10-20 20:13:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-19 13:35:00"
+    }
   ]
 }

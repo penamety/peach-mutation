@@ -15,5 +15,31 @@
   "info": "Dupe of [song]9474[/song]",
   "last_scraped": "2018-05-23 03:40:49",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "arrakis",
+      "when": "2011-05-01 21:06:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-06-07 00:49:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-07-03 04:11:00"
+    },
+    {
+      "user": "jolic",
+      "when": "2011-07-30 07:46:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-08-26 02:08:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-09-18 11:23:00"
+    }
+  ]
 }

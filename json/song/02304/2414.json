@@ -24,5 +24,39 @@
   "artist_names": [
     "Estrayk",
     "Evelred"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2012-02-10 14:54:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-11-08 23:57:00"
+    },
+    {
+      "user": "_wally",
+      "when": "2013-04-22 10:54:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-06-06 03:12:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-02-22 21:40:00"
+    },
+    {
+      "user": "thelawnmoverman",
+      "when": "2015-05-08 12:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-10-04 00:57:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-06-07 03:51:00"
+    }
   ]
 }

@@ -25,5 +25,47 @@
   ],
   "artist_names": [
     "Lamer Pinky"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2017-10-10 12:01:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-10-15 06:32:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-10-19 18:07:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-11-07 09:25:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2017-12-01 19:30:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-28 07:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-01-31 11:55:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-02-23 12:16:00"
+    },
+    {
+      "user": "maep",
+      "when": "2018-04-05 11:42:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-05-16 06:16:00"
+    }
   ]
 }

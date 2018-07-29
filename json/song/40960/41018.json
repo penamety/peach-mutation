@@ -24,5 +24,43 @@
   ],
   "artist_names": [
     "joes"
+  ],
+  "requests": [
+    {
+      "user": "Tezar",
+      "when": "2014-09-25 09:15:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2014-10-17 12:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-12-03 21:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-24 11:10:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-04-24 14:56:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-09-08 01:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2016-11-14 15:45:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-12 21:10:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-02 09:51:00"
+    }
   ]
 }

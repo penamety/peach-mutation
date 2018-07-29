@@ -22,5 +22,39 @@
   ],
   "artist_names": [
     "D Fast"
+  ],
+  "requests": [
+    {
+      "user": "Venty",
+      "when": "2011-12-04 19:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-26 17:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-07-09 14:08:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2014-09-06 09:44:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-12-08 00:12:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-02-16 23:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-04-25 19:55:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-07-21 21:04:00"
+    }
   ]
 }

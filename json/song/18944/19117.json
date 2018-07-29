@@ -18,5 +18,51 @@
   ],
   "artist_names": [
     "Hemo"
+  ],
+  "requests": [
+    {
+      "user": "Arne",
+      "when": "2011-05-25 17:06:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2011-06-12 20:57:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-09-06 23:01:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2012-05-22 22:05:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-04-24 00:03:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-10-04 10:57:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-01-11 14:51:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-01-16 15:58:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-02-14 05:54:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2017-03-30 05:13:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-09-25 04:40:00"
+    }
   ]
 }

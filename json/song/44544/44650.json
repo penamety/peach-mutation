@@ -25,5 +25,31 @@
   ],
   "artist_names": [
     "Silok"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2018-01-25 08:12:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-02-12 07:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-03-02 07:30:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-02 13:23:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-05-08 06:42:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-06-11 16:15:00"
+    }
   ]
 }

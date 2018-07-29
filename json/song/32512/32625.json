@@ -23,5 +23,43 @@
   ],
   "artist_names": [
     "Dreamer"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-04-21 10:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-05 07:09:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2013-01-18 22:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-08 04:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-11-29 17:58:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-09 00:25:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-23 12:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-01-26 01:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-08 05:10:00"
+    }
   ]
 }

@@ -21,5 +21,35 @@
   "artist_names": [
     "Carebear",
     "Mellow-D"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2012-02-19 04:46:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-04-12 15:49:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-03 04:52:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-05-17 23:57:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-17 03:14:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-03-15 03:58:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-01-10 08:49:00"
+    }
   ]
 }

@@ -26,5 +26,39 @@
   "artist_names": [
     "Danny Oneway",
     "Ripguy"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-05-13 20:50:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2012-06-10 01:05:00"
+    },
+    {
+      "user": "seppjo",
+      "when": "2012-11-07 23:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-30 01:06:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-12-16 06:45:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-02-23 11:21:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-04-27 06:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-29 12:47:00"
+    }
   ]
 }

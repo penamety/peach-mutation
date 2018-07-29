@@ -19,5 +19,47 @@
   ],
   "artist_names": [
     "Boo"
+  ],
+  "requests": [
+    {
+      "user": "Mystra",
+      "when": "2011-02-13 21:55:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-10 11:39:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-10-04 19:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-07 21:33:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-24 03:51:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-04-06 13:29:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-05 07:28:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-07-26 03:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-22 22:48:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-04-06 05:57:00"
+    }
   ]
 }

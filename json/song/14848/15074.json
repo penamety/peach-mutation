@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Boo"
+  ],
+  "requests": [
+    {
+      "user": "Aetrin",
+      "when": "2011-12-20 11:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-10-28 13:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-17 06:37:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-28 13:29:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-08-18 16:11:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-11-06 22:56:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-02-04 00:36:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-03-03 08:58:00"
+    }
   ]
 }

@@ -25,5 +25,67 @@
   ],
   "artist_names": [
     "Jester"
+  ],
+  "requests": [
+    {
+      "user": "pipe",
+      "when": "2011-04-12 03:53:00"
+    },
+    {
+      "user": "krusty",
+      "when": "2011-05-06 16:20:00"
+    },
+    {
+      "user": "dang",
+      "when": "2011-06-02 19:24:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2011-12-14 08:38:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-03-23 06:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-19 21:50:00"
+    },
+    {
+      "user": "mandylion",
+      "when": "2013-10-25 09:28:00"
+    },
+    {
+      "user": "th4t1guy",
+      "when": "2014-04-02 18:31:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-04 13:20:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-07-17 03:08:00"
+    },
+    {
+      "user": "th4t1guy",
+      "when": "2015-08-05 17:24:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-05-27 13:56:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-03 23:53:00"
+    },
+    {
+      "user": "KIRBY",
+      "when": "2017-04-19 21:43:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2018-04-22 04:33:00"
+    }
   ]
 }

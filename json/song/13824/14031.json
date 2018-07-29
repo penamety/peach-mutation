@@ -20,5 +20,51 @@
   ],
   "artist_names": [
     "AN Cool"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-06-28 02:09:00"
+    },
+    {
+      "user": "chkdsk",
+      "when": "2011-07-29 15:59:00"
+    },
+    {
+      "user": "zerkman",
+      "when": "2011-08-23 12:27:00"
+    },
+    {
+      "user": "zerkman",
+      "when": "2011-09-21 13:45:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-03-28 08:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-26 16:58:00"
+    },
+    {
+      "user": "britelite",
+      "when": "2013-09-24 10:45:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-01-19 05:52:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-04-11 00:35:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2016-07-23 23:09:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2017-01-19 05:56:00"
+    }
   ]
 }

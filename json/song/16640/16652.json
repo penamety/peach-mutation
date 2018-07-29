@@ -21,5 +21,55 @@
   "artist_names": [
     "Cyborg Jeff",
     "DJ 3.14"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-05-27 05:47:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2011-11-25 07:30:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-09-12 04:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-17 05:04:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2013-09-13 22:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-08-24 16:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-05-25 06:38:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-30 23:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-23 13:56:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2018-02-24 23:55:00"
+    },
+    {
+      "user": "BitArts",
+      "when": "2018-04-20 10:41:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-06-15 12:57:00"
+    }
   ]
 }

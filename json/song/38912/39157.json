@@ -22,5 +22,47 @@
   ],
   "artist_names": [
     "Linus"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2013-08-16 06:04:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-09-25 08:57:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-11-07 08:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-10 01:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-03-09 16:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-08 03:30:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-06-24 01:32:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2015-03-16 14:45:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-03-09 13:18:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2018-05-25 21:38:00"
+    }
   ]
 }

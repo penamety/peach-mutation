@@ -23,5 +23,63 @@
   ],
   "artist_names": [
     "Nuke"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2012-01-01 15:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-03-11 00:08:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-06-01 01:10:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2012-09-27 07:34:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-11-10 05:39:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-02-09 15:13:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-03-22 06:26:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-05-07 05:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-08 04:43:00"
+    },
+    {
+      "user": "MyO",
+      "when": "2014-01-27 11:13:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-01-23 04:32:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-01-11 15:06:00"
+    },
+    {
+      "user": "venttiili",
+      "when": "2017-02-14 18:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-18 03:29:00"
+    }
   ]
 }

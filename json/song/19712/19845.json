@@ -15,5 +15,19 @@
   "info": "Dupe of [queue]9295[/queue]",
   "last_scraped": "2018-05-23 05:59:01",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "anni",
+      "when": "2011-04-11 13:56:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-24 05:29:00"
+    },
+    {
+      "user": "lenny",
+      "when": "2012-05-12 12:45:00"
+    }
+  ]
 }

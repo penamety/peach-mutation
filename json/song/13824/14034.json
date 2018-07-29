@@ -20,5 +20,79 @@
   ],
   "artist_names": [
     "AN Cool"
+  ],
+  "requests": [
+    {
+      "user": "chkdsk",
+      "when": "2011-04-07 08:51:00"
+    },
+    {
+      "user": "chkdsk",
+      "when": "2011-05-03 07:38:00"
+    },
+    {
+      "user": "krusty",
+      "when": "2011-07-04 15:11:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-01-01 06:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-02-19 23:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-05-06 06:01:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-28 07:25:00"
+    },
+    {
+      "user": "tommyj1986",
+      "when": "2013-08-25 21:55:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-01-19 05:22:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-25 22:35:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-07-05 00:49:00"
+    },
+    {
+      "user": "Spiral",
+      "when": "2014-10-02 08:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-04-11 08:24:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-07-12 07:20:00"
+    },
+    {
+      "user": "olivierh59",
+      "when": "2017-02-01 19:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-11 17:12:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-01-12 05:04:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-31 23:30:00"
+    }
   ]
 }

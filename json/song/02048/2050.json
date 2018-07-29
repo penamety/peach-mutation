@@ -18,5 +18,291 @@
   ],
   "artist_names": [
     "Dr. Awesome"
+  ],
+  "requests": [
+    {
+      "user": "sqrmax",
+      "when": "2012-06-01 09:10:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2012-09-18 01:50:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-10-15 02:28:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-11-14 01:09:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-12-14 03:29:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-01-12 14:31:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-02-11 03:19:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-03-22 01:30:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-04-29 04:10:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-06-07 05:33:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-07-24 01:51:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-09-28 06:12:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-14 00:49:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-01-07 04:52:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-03-04 03:16:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-04-20 03:36:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-10 16:24:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-06-06 08:07:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-06-25 09:52:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-07-15 03:52:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-08-04 04:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-08-25 04:48:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-09-15 02:10:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-10-05 05:01:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-10-25 00:07:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-11-16 20:39:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-12-07 21:14:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-12-29 03:18:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-01-20 02:49:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-02-11 03:19:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-04-07 04:39:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-04-28 01:54:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-05-18 03:09:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-06-09 01:05:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-08-12 02:41:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-09-02 03:15:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-09-25 03:53:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-10-17 05:13:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-11-14 15:41:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-12-07 00:56:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-12-28 16:19:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-01-18 03:40:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-02-08 01:04:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-02-28 22:40:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-03-27 04:38:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-04-17 23:05:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-05-10 00:25:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-06-04 05:34:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-07-07 00:41:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-07-29 01:26:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-08-19 00:10:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-09-08 00:17:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-09-29 01:42:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-10-19 02:54:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-11-08 03:16:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-11-28 02:28:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-12-19 02:11:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-01-16 01:13:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-02-13 01:46:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-03-15 22:57:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-05-19 00:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-06-16 03:57:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-07-04 03:32:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-07-21 02:40:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-08-16 04:29:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-09-02 02:44:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-09-19 22:44:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-10-07 04:55:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-10-25 00:48:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-11-14 23:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-12-05 02:27:00"
+    }
   ]
 }

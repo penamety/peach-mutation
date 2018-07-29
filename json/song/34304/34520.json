@@ -25,5 +25,35 @@
   ],
   "artist_names": [
     "Boogaloo"
+  ],
+  "requests": [
+    {
+      "user": "Galancy",
+      "when": "2011-11-20 12:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-02 12:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-19 07:34:00"
+    },
+    {
+      "user": "Galancy",
+      "when": "2013-06-18 23:46:00"
+    },
+    {
+      "user": "Galancy",
+      "when": "2014-03-28 11:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2016-11-16 19:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-30 14:21:00"
+    }
   ]
 }

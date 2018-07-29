@@ -20,5 +20,55 @@
   "source_id": 5,
   "source": "Remix",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "Yohabro",
+      "when": "2011-12-07 17:59:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2012-01-20 13:30:00"
+    },
+    {
+      "user": "anni",
+      "when": "2012-06-23 12:24:00"
+    },
+    {
+      "user": "anni",
+      "when": "2012-08-16 17:13:00"
+    },
+    {
+      "user": "anni",
+      "when": "2012-10-13 00:32:00"
+    },
+    {
+      "user": "maep",
+      "when": "2012-11-20 11:59:00"
+    },
+    {
+      "user": "java311",
+      "when": "2013-01-30 05:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-03-28 13:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-24 15:46:00"
+    },
+    {
+      "user": "jxx",
+      "when": "2013-09-15 04:48:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2013-12-04 11:34:00"
+    },
+    {
+      "user": "_wally",
+      "when": "2014-01-30 17:06:00"
+    }
+  ]
 }

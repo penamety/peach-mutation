@@ -31,5 +31,83 @@
     "Naks",
     "PAM",
     "Vesuri"
+  ],
+  "requests": [
+    {
+      "user": "Buzzer",
+      "when": "2013-07-30 06:45:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-08-23 00:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-30 03:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-10 01:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-05-20 18:04:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-07-07 04:59:00"
+    },
+    {
+      "user": "_wally",
+      "when": "2014-09-23 01:07:00"
+    },
+    {
+      "user": "codehead",
+      "when": "2015-01-20 11:14:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-17 09:44:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-04-15 05:16:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2016-10-25 11:01:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2017-03-23 17:50:00"
+    },
+    {
+      "user": "_wally",
+      "when": "2017-06-02 16:57:00"
+    },
+    {
+      "user": "_wally",
+      "when": "2017-08-17 17:45:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2017-11-29 19:05:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-01-02 11:13:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-02-08 23:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-03-06 16:54:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-04-25 17:05:00"
+    }
   ]
 }

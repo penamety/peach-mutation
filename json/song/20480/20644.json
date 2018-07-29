@@ -24,5 +24,63 @@
   ],
   "artist_names": [
     "Lluvia"
+  ],
+  "requests": [
+    {
+      "user": "matsim",
+      "when": "2011-05-07 03:02:00"
+    },
+    {
+      "user": "matsim",
+      "when": "2011-07-18 03:44:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-09-17 08:47:00"
+    },
+    {
+      "user": "jimee",
+      "when": "2012-01-09 21:45:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-02-18 10:01:00"
+    },
+    {
+      "user": "crrr",
+      "when": "2013-02-07 01:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-29 01:12:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-10-23 07:38:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-02-20 14:05:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "when": "2014-08-02 17:04:00"
+    },
+    {
+      "user": "OSH",
+      "when": "2014-09-01 18:21:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-13 19:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-23 03:19:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-01-28 04:05:00"
+    }
   ]
 }

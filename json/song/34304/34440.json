@@ -25,5 +25,67 @@
   ],
   "artist_names": [
     "Jozz"
+  ],
+  "requests": [
+    {
+      "user": "Galancy",
+      "when": "2011-11-08 19:17:00"
+    },
+    {
+      "user": "Galancy",
+      "when": "2012-01-09 09:10:00"
+    },
+    {
+      "user": "Buzzer",
+      "when": "2012-09-22 18:23:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-03-16 10:48:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-05-17 16:51:00"
+    },
+    {
+      "user": "thelastV8",
+      "when": "2013-08-13 16:33:00"
+    },
+    {
+      "user": "maxpayne",
+      "when": "2014-01-06 10:32:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-03-10 18:44:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-04-06 20:21:00"
+    },
+    {
+      "user": "grazey",
+      "when": "2016-08-30 19:21:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2016-10-25 05:13:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-12-15 07:29:00"
+    },
+    {
+      "user": "grazey",
+      "when": "2017-01-28 18:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-08-28 07:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-06-13 06:21:00"
+    }
   ]
 }

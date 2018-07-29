@@ -19,5 +19,91 @@
   ],
   "artist_names": [
     "Kangaroo MusiQue"
+  ],
+  "requests": [
+    {
+      "user": "Lundager",
+      "when": "2011-03-22 09:45:00"
+    },
+    {
+      "user": "temp01",
+      "when": "2011-04-06 03:44:00"
+    },
+    {
+      "user": "Argolyn",
+      "when": "2011-06-08 15:31:00"
+    },
+    {
+      "user": "temp01",
+      "when": "2011-07-03 02:33:00"
+    },
+    {
+      "user": "temp01",
+      "when": "2011-10-03 07:15:00"
+    },
+    {
+      "user": "Lundager",
+      "when": "2012-01-03 02:11:00"
+    },
+    {
+      "user": "BlackDot",
+      "when": "2012-03-17 20:38:00"
+    },
+    {
+      "user": "Lundager",
+      "when": "2012-06-15 11:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-04 18:53:00"
+    },
+    {
+      "user": "Lundager",
+      "when": "2013-05-21 11:39:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-07-11 20:21:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-12-08 03:21:00"
+    },
+    {
+      "user": "temp01",
+      "when": "2014-03-17 09:47:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-20 02:56:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-10-27 03:39:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2016-03-07 11:12:00"
+    },
+    {
+      "user": "epso",
+      "when": "2016-06-01 15:38:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-07-12 05:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2016-10-08 15:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-06 12:43:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-04-09 02:06:00"
+    }
   ]
 }

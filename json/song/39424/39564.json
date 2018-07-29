@@ -27,5 +27,123 @@
   "artist_names": [
     "Phoenix",
     "Xerxes"
+  ],
+  "requests": [
+    {
+      "user": "arab",
+      "when": "2013-11-10 09:05:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-12-05 06:21:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-01-06 13:57:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2014-03-30 17:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-04-19 11:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-07 16:12:00"
+    },
+    {
+      "user": "epso",
+      "when": "2014-06-25 12:56:00"
+    },
+    {
+      "user": "epso",
+      "when": "2014-08-21 13:34:00"
+    },
+    {
+      "user": "epso",
+      "when": "2014-10-06 21:28:00"
+    },
+    {
+      "user": "epso",
+      "when": "2014-11-13 16:40:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-12-02 03:33:00"
+    },
+    {
+      "user": "Mimosaa",
+      "when": "2014-12-27 07:56:00"
+    },
+    {
+      "user": "AtomicReindeer",
+      "when": "2015-05-05 05:19:00"
+    },
+    {
+      "user": "epso",
+      "when": "2015-06-28 09:25:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-09-11 03:58:00"
+    },
+    {
+      "user": "toms",
+      "when": "2015-10-17 11:17:00"
+    },
+    {
+      "user": "Perennially",
+      "when": "2015-11-20 10:15:00"
+    },
+    {
+      "user": "epso",
+      "when": "2016-01-02 04:20:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2016-04-06 16:28:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-05-11 00:41:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-08-08 00:07:00"
+    },
+    {
+      "user": "Perennially",
+      "when": "2016-10-16 07:36:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-12-31 02:53:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-02-11 05:14:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-03-14 07:16:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-05-21 12:49:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2017-07-24 00:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-03-12 00:19:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-06-16 15:00:00"
+    }
   ]
 }

@@ -18,5 +18,67 @@
   ],
   "artist_names": [
     "Maxsoft"
+  ],
+  "requests": [
+    {
+      "user": "Radar",
+      "when": "2011-06-03 06:34:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-06-28 05:13:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2011-12-12 15:33:00"
+    },
+    {
+      "user": "Dimouse",
+      "when": "2012-02-15 08:11:00"
+    },
+    {
+      "user": "Sensei",
+      "when": "2013-01-03 14:32:00"
+    },
+    {
+      "user": "chellomere",
+      "when": "2013-02-25 16:41:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-09-10 08:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-02-08 06:14:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2014-04-07 20:58:00"
+    },
+    {
+      "user": "Gismo",
+      "when": "2015-04-17 09:36:00"
+    },
+    {
+      "user": "bucky",
+      "when": "2016-02-16 14:08:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-03-09 20:31:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2017-05-19 09:16:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-09-28 05:17:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-04-29 02:23:00"
+    }
   ]
 }

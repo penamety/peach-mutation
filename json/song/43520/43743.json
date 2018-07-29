@@ -23,5 +23,39 @@
   ],
   "artist_names": [
     "Skaven"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2017-02-13 07:45:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-03-01 06:56:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-03-31 10:00:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-08-13 09:14:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-16 07:27:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-11 09:11:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-23 18:18:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-06-10 12:48:00"
+    }
   ]
 }

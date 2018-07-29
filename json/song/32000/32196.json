@@ -21,5 +21,351 @@
   ],
   "artist_names": [
     "Drax"
+  ],
+  "requests": [
+    {
+      "user": "shift",
+      "when": "2011-03-30 11:00:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2011-04-16 16:08:00"
+    },
+    {
+      "user": "shift",
+      "when": "2011-05-22 14:53:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-06-11 09:26:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2011-07-06 08:00:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-07-31 03:02:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-08-26 01:17:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-09-18 03:31:00"
+    },
+    {
+      "user": "dasepsilon",
+      "when": "2011-10-10 21:21:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-11-03 07:28:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-11-19 06:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-12-10 03:27:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-01-04 07:20:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-01-29 09:44:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-02-24 06:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2012-03-26 09:21:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-04-24 06:52:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-05-20 08:28:00"
+    },
+    {
+      "user": "Colidace",
+      "when": "2012-06-24 01:45:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2012-07-23 07:20:00"
+    },
+    {
+      "user": "Colidace",
+      "when": "2012-09-01 17:22:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-09-28 01:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2012-10-23 12:14:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-11-18 06:10:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-12-12 07:58:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-01-05 05:00:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2013-02-01 02:09:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2013-03-06 02:59:00"
+    },
+    {
+      "user": "hedning",
+      "when": "2013-04-06 14:17:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-05-07 18:31:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2013-06-09 13:57:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2013-09-04 06:42:00"
+    },
+    {
+      "user": "BINO",
+      "when": "2013-10-08 02:01:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2013-11-18 20:07:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-12-22 07:23:00"
+    },
+    {
+      "user": "Colidace",
+      "when": "2014-01-04 12:19:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-03-02 07:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-04-08 23:48:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-07-06 12:04:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2014-08-08 22:36:00"
+    },
+    {
+      "user": "Zabchob",
+      "when": "2014-08-22 16:07:00"
+    },
+    {
+      "user": "Jerry",
+      "when": "2014-09-05 10:27:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2014-09-21 10:13:00"
+    },
+    {
+      "user": "Colidace",
+      "when": "2014-10-11 17:37:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2014-11-28 23:27:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2014-12-14 03:01:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2015-01-12 06:49:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2015-01-27 13:17:00"
+    },
+    {
+      "user": "jxx",
+      "when": "2015-05-03 09:50:00"
+    },
+    {
+      "user": "Zabchob",
+      "when": "2015-06-11 20:58:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-03 02:42:00"
+    },
+    {
+      "user": "Zabchob",
+      "when": "2015-08-14 19:26:00"
+    },
+    {
+      "user": "drislands",
+      "when": "2015-09-01 14:52:00"
+    },
+    {
+      "user": "Lancastersilk",
+      "when": "2015-09-16 14:57:00"
+    },
+    {
+      "user": "Zabchob",
+      "when": "2015-10-12 16:08:00"
+    },
+    {
+      "user": "Zabchob",
+      "when": "2015-10-26 17:29:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2015-12-17 02:42:00"
+    },
+    {
+      "user": "adsfdgfhgjhkjlk",
+      "when": "2016-01-21 20:40:00"
+    },
+    {
+      "user": "Colidace",
+      "when": "2016-02-06 00:38:00"
+    },
+    {
+      "user": "Zabchob",
+      "when": "2016-03-01 17:49:00"
+    },
+    {
+      "user": "Colidace",
+      "when": "2016-04-02 23:53:00"
+    },
+    {
+      "user": "Lancastersilk",
+      "when": "2016-04-19 17:11:00"
+    },
+    {
+      "user": "Colidace",
+      "when": "2016-05-04 03:29:00"
+    },
+    {
+      "user": "Colidace",
+      "when": "2016-05-22 20:13:00"
+    },
+    {
+      "user": "Colidace",
+      "when": "2016-06-10 03:50:00"
+    },
+    {
+      "user": "BBB",
+      "when": "2016-07-11 16:48:00"
+    },
+    {
+      "user": "Zabchob",
+      "when": "2016-07-28 21:50:00"
+    },
+    {
+      "user": "Lancastersilk",
+      "when": "2016-08-09 14:31:00"
+    },
+    {
+      "user": "Lancastersilk",
+      "when": "2016-08-26 17:39:00"
+    },
+    {
+      "user": "Lancastersilk",
+      "when": "2016-09-07 14:57:00"
+    },
+    {
+      "user": "BBB",
+      "when": "2016-09-20 22:14:00"
+    },
+    {
+      "user": "Lancastersilk",
+      "when": "2016-10-07 16:31:00"
+    },
+    {
+      "user": "BBB",
+      "when": "2016-10-31 16:00:00"
+    },
+    {
+      "user": "wig",
+      "when": "2016-11-19 12:59:00"
+    },
+    {
+      "user": "Zabchob",
+      "when": "2016-12-13 14:43:00"
+    },
+    {
+      "user": "plc",
+      "when": "2016-12-30 11:35:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2017-01-18 22:15:00"
+    },
+    {
+      "user": "plc",
+      "when": "2017-02-12 10:26:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2017-03-14 23:20:00"
+    },
+    {
+      "user": "Zabchob",
+      "when": "2017-04-24 14:09:00"
+    },
+    {
+      "user": "Zabchob",
+      "when": "2017-06-05 14:12:00"
+    },
+    {
+      "user": "BBB",
+      "when": "2017-07-19 14:09:00"
+    },
+    {
+      "user": "plc",
+      "when": "2017-12-22 10:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-03-15 23:54:00"
+    },
+    {
+      "user": "Zabchob",
+      "when": "2018-04-26 13:29:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-05-27 15:01:00"
+    }
   ]
 }

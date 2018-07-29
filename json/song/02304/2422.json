@@ -20,5 +20,39 @@
   ],
   "artist_names": [
     "Estrayk"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2012-01-02 01:45:00"
+    },
+    {
+      "user": "silok",
+      "when": "2012-02-12 20:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-07-18 03:35:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 07:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-04 23:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-03 06:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-07-21 13:18:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-01-13 22:15:00"
+    }
   ]
 }

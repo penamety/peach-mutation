@@ -25,5 +25,31 @@
   ],
   "artist_names": [
     "Mark II"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2017-12-31 15:22:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-19 06:08:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-08 05:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-02-27 14:20:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-04-05 10:17:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-05-14 08:14:00"
+    }
   ]
 }

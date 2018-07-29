@@ -20,5 +20,39 @@
   ],
   "artist_names": [
     "DeLorean"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2012-07-09 09:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-26 07:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-12-02 01:29:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-04-05 10:29:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2015-01-08 17:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-03 21:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-08-28 07:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-03-27 06:33:00"
+    }
   ]
 }

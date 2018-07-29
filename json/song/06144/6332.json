@@ -23,5 +23,39 @@
   ],
   "artist_names": [
     "Rock"
+  ],
+  "requests": [
+    {
+      "user": "Buzzer",
+      "when": "2011-06-24 08:58:00"
+    },
+    {
+      "user": "Buzzer",
+      "when": "2011-08-12 20:12:00"
+    },
+    {
+      "user": "Buzzer",
+      "when": "2011-11-17 12:52:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-06-25 06:52:00"
+    },
+    {
+      "user": "Buzzer",
+      "when": "2013-06-14 09:09:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-04-06 23:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-27 20:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-22 16:10:00"
+    }
   ]
 }

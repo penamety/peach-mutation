@@ -17,5 +17,23 @@
   "info": "Dupe of [song]23574[/song].",
   "last_scraped": "2018-05-23 11:31:40",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "maep",
+      "when": "2012-07-26 19:46:00"
+    },
+    {
+      "user": "_wally",
+      "when": "2012-09-28 17:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-16 02:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-01-20 14:37:00"
+    }
+  ]
 }

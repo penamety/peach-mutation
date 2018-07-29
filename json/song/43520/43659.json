@@ -27,5 +27,39 @@
   "artist_names": [
     "Bacter",
     "Saga Musix"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2017-01-01 03:38:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-01-24 21:42:00"
+    },
+    {
+      "user": "venttiili",
+      "when": "2017-02-16 06:03:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-03-14 06:53:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-05-02 19:28:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-08-30 12:32:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-29 12:54:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-06 06:43:00"
+    }
   ]
 }

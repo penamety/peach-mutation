@@ -23,5 +23,43 @@
   ],
   "artist_names": [
     "Jerry"
+  ],
+  "requests": [
+    {
+      "user": "silok",
+      "when": "2013-08-19 14:21:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-09-12 16:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-31 08:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-08 23:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-04-04 03:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-07 01:54:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-11-29 08:51:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-12-31 21:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-26 23:18:00"
+    }
   ]
 }

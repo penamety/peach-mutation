@@ -20,5 +20,59 @@
   ],
   "artist_names": [
     "Mr Young"
+  ],
+  "requests": [
+    {
+      "user": "Toto",
+      "when": "2011-05-22 12:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-01 07:36:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2011-11-10 21:06:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-09-25 01:32:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-12-14 04:35:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-03-05 07:42:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-06-30 04:11:00"
+    },
+    {
+      "user": "etray",
+      "when": "2014-05-30 22:42:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-07-24 09:36:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-08-21 09:33:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-09-14 13:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-14 19:48:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-10-15 18:39:00"
+    }
   ]
 }

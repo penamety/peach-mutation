@@ -22,5 +22,51 @@
   ],
   "artist_names": [
     "Fanta"
+  ],
+  "requests": [
+    {
+      "user": "prowler",
+      "when": "2013-07-31 09:04:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-09-06 10:50:00"
+    },
+    {
+      "user": "BombmanDK",
+      "when": "2013-10-16 12:04:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-11-25 10:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-11 04:19:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2014-03-10 20:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-20 22:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-15 06:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-05 01:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-27 23:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-07-24 23:19:00"
+    }
   ]
 }

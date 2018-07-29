@@ -19,5 +19,15 @@
   "source_id": 11,
   "source": "Musicdisk",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "BombmanDK",
+      "when": "2012-04-13 09:18:00"
+    },
+    {
+      "user": "_wally",
+      "when": "2012-06-19 17:53:00"
+    }
+  ]
 }

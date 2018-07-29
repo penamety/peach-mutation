@@ -18,5 +18,79 @@
   ],
   "artist_names": [
     "Funky Fish"
+  ],
+  "requests": [
+    {
+      "user": "SJD",
+      "when": "2011-04-03 05:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-04-25 00:49:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-07-18 20:19:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2011-12-24 19:20:00"
+    },
+    {
+      "user": "clumdon",
+      "when": "2012-02-13 03:42:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-04-03 00:41:00"
+    },
+    {
+      "user": "Longbow",
+      "when": "2012-10-11 17:05:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-03-07 09:09:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-05-15 03:43:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-06-21 08:21:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-09-12 16:01:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-11-10 01:19:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2014-02-27 18:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-26 18:52:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-10-12 05:52:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2016-10-25 03:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-24 15:31:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-14 00:55:00"
+    }
   ]
 }

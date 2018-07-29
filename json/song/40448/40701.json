@@ -27,5 +27,43 @@
   "artist_names": [
     "Triace",
     "Virgill"
+  ],
+  "requests": [
+    {
+      "user": "Shinobi",
+      "when": "2014-07-28 12:55:00"
+    },
+    {
+      "user": "maep",
+      "when": "2014-08-08 14:04:00"
+    },
+    {
+      "user": "beavis77",
+      "when": "2014-08-26 15:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-07 18:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-12-09 02:14:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-08 13:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-01 07:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-11-01 22:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-14 23:11:00"
+    }
   ]
 }

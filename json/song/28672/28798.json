@@ -25,5 +25,439 @@
   ],
   "artist_names": [
     "Romeo Knight"
+  ],
+  "requests": [
+    {
+      "user": "shift",
+      "when": "2011-02-24 09:50:00"
+    },
+    {
+      "user": "numerus",
+      "when": "2011-03-11 08:02:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2011-03-26 09:21:00"
+    },
+    {
+      "user": "SJD",
+      "when": "2011-04-09 16:52:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2011-04-27 10:20:00"
+    },
+    {
+      "user": "t4s0thcmdr",
+      "when": "2011-05-17 05:56:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2011-06-03 19:26:00"
+    },
+    {
+      "user": "dukzcry",
+      "when": "2011-06-20 05:53:00"
+    },
+    {
+      "user": "The_Tubes",
+      "when": "2011-07-18 15:49:00"
+    },
+    {
+      "user": "numerus",
+      "when": "2011-08-16 08:52:00"
+    },
+    {
+      "user": "Cyborg",
+      "when": "2011-09-14 21:00:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-10-09 08:25:00"
+    },
+    {
+      "user": "Ishaan",
+      "when": "2011-10-25 21:20:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-11-13 01:11:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-12-03 06:33:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-12-29 19:45:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-01-22 01:07:00"
+    },
+    {
+      "user": "numerus",
+      "when": "2012-02-14 11:59:00"
+    },
+    {
+      "user": "numerus",
+      "when": "2012-03-08 13:36:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-04-01 03:59:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-04-24 06:05:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-05-17 01:13:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-06-08 00:49:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-06-30 02:21:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-07-27 02:41:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-08-19 10:20:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-09-13 19:48:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-10-05 23:10:00"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2012-10-31 18:35:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-12-03 01:02:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-12-31 20:42:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2013-01-24 05:12:00"
+    },
+    {
+      "user": "Lundager",
+      "when": "2013-02-16 13:39:00"
+    },
+    {
+      "user": "Sensei",
+      "when": "2013-03-25 13:49:00"
+    },
+    {
+      "user": "The_Tubes",
+      "when": "2013-04-28 06:21:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2013-05-24 15:35:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2013-06-29 00:44:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2013-07-30 10:58:00"
+    },
+    {
+      "user": "Ishaan",
+      "when": "2013-09-10 10:22:00"
+    },
+    {
+      "user": "brm_",
+      "when": "2013-10-11 09:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-11-11 13:10:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2013-12-11 19:39:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2014-01-14 05:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-03-06 08:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-04-07 17:34:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2014-04-20 08:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-05-03 03:06:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2014-05-25 09:31:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2014-06-29 18:16:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2014-07-13 15:07:00"
+    },
+    {
+      "user": "SJD",
+      "when": "2014-08-08 04:10:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2014-08-21 21:22:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2014-09-07 08:54:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-01-02 11:33:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2015-01-18 14:00:00"
+    },
+    {
+      "user": "egreek",
+      "when": "2015-03-17 15:43:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-04-27 04:50:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2015-05-16 20:01:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-05-31 06:59:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2015-06-21 16:44:00"
+    },
+    {
+      "user": "Chocoholic",
+      "when": "2015-07-17 13:41:00"
+    },
+    {
+      "user": "brm_",
+      "when": "2015-08-18 09:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-09-13 17:13:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2015-10-06 12:06:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2015-10-21 20:02:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2015-11-29 22:58:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2015-12-13 16:28:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-01-11 23:00:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-01-24 15:04:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-02-29 14:09:00"
+    },
+    {
+      "user": "brm_",
+      "when": "2016-03-23 07:28:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-05-02 23:11:00"
+    },
+    {
+      "user": "sdjm",
+      "when": "2016-05-20 00:33:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-05-31 18:38:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2016-06-18 01:50:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-07-03 19:44:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2016-07-17 00:52:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-08-04 18:11:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-08-19 12:20:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2016-09-30 15:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2016-10-18 03:57:00"
+    },
+    {
+      "user": "SJD",
+      "when": "2016-11-12 23:37:00"
+    },
+    {
+      "user": "Zabchob",
+      "when": "2016-12-12 20:04:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-12-30 13:06:00"
+    },
+    {
+      "user": "foster",
+      "when": "2017-01-21 15:47:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2017-03-06 10:31:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2017-03-27 08:04:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2017-04-25 08:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-23 10:57:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-06-01 13:29:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-06-17 17:03:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-06-21 15:59:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-07-11 19:58:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-08-02 10:25:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-08-10 20:31:00"
+    },
+    {
+      "user": "gauri",
+      "when": "2017-08-14 20:16:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-08-26 16:20:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-09-12 19:05:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-10-12 14:55:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-11-05 19:34:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-12-08 14:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-12-26 00:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-01-14 04:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-01-31 21:46:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2018-02-24 23:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-03-24 23:32:00"
+    },
+    {
+      "user": "Zabchob",
+      "when": "2018-04-25 20:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-05-23 21:34:00"
+    }
   ]
 }

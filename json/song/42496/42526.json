@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "Amigo"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2015-11-09 20:35:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-11-25 09:19:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-12-16 11:01:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-01-20 06:09:00"
+    },
+    {
+      "user": "Triton",
+      "when": "2016-03-22 20:06:00"
+    },
+    {
+      "user": "Triton",
+      "when": "2016-08-14 19:22:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-20 15:00:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-10 05:24:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-31 17:01:00"
+    }
   ]
 }

@@ -19,5 +19,55 @@
   ],
   "artist_names": [
     "Turtle"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-03-06 10:20:00"
+    },
+    {
+      "user": "Yellowjelly",
+      "when": "2011-05-13 23:30:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2011-10-24 02:42:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-06-19 07:34:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-06-14 16:04:00"
+    },
+    {
+      "user": "mazkirov",
+      "when": "2013-09-18 20:44:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-28 19:37:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2014-08-09 20:53:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-06-26 05:20:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2015-09-29 09:38:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-16 05:38:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-01-15 07:34:00"
+    }
   ]
 }

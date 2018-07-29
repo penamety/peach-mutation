@@ -20,5 +20,55 @@
   "artist_names": [
     "Dane",
     "Mitch"
+  ],
+  "requests": [
+    {
+      "user": "Elrinth",
+      "when": "2011-02-28 10:50:00"
+    },
+    {
+      "user": "Venty",
+      "when": "2011-07-17 17:43:00"
+    },
+    {
+      "user": "Venty",
+      "when": "2011-09-18 19:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-28 06:09:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-30 05:35:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-08-13 03:52:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-11-14 02:02:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-05-31 05:07:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2015-01-14 06:19:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-03-30 01:18:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-07-14 20:31:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-08-04 17:31:00"
+    }
   ]
 }

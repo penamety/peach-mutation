@@ -23,5 +23,51 @@
   ],
   "artist_names": [
     "Smith"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-06-21 06:13:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-22 03:38:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-04-20 01:53:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-07-13 01:00:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-10-10 12:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-26 05:34:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-02-21 09:12:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2014-05-23 10:35:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2014-10-13 10:51:00"
+    },
+    {
+      "user": "Whitelabel",
+      "when": "2016-02-14 12:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-03-28 03:34:00"
+    }
   ]
 }

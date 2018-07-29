@@ -21,5 +21,51 @@
   "artist_names": [
     "Alkama",
     "Mo"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2011-09-24 13:53:00"
+    },
+    {
+      "user": "WoDK",
+      "when": "2011-11-10 01:07:00"
+    },
+    {
+      "user": "WoDK",
+      "when": "2012-03-22 09:30:00"
+    },
+    {
+      "user": "WoDK",
+      "when": "2012-06-30 17:17:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-12-26 15:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-07 10:58:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-01-14 04:35:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-03 01:50:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-05-26 05:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-05 03:07:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-10-31 18:30:00"
+    }
   ]
 }

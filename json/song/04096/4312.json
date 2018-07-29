@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Mad God"
+  ],
+  "requests": [
+    {
+      "user": "Yellowjelly",
+      "when": "2011-11-03 18:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-12-29 21:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-14 23:32:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-04-08 01:24:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-02-28 07:31:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-04-11 10:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-03-13 14:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-07-12 04:26:00"
+    }
   ]
 }

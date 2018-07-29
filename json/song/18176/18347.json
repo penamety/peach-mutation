@@ -22,5 +22,63 @@
   ],
   "artist_names": [
     "Fred"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2011-11-25 09:21:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2012-09-18 09:33:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-02-09 11:58:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-05-16 02:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-28 07:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-09-22 04:18:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-04-22 05:20:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2015-06-15 18:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-06-22 16:54:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2015-08-12 12:03:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-04-25 07:00:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-05-29 09:15:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-01 22:46:00"
+    },
+    {
+      "user": "rombust",
+      "when": "2018-01-09 15:50:00"
+    }
   ]
 }

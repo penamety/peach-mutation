@@ -22,5 +22,55 @@
   ],
   "artist_names": [
     "Metal"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-09-21 09:22:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-10-29 09:21:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-12-19 06:08:00"
+    },
+    {
+      "user": "BeautyNerd",
+      "when": "2012-10-15 11:47:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-01 04:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-22 12:24:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-03-01 02:51:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-10-04 00:19:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-02-06 19:43:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-04-17 04:53:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-02-17 07:29:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-08-16 00:02:00"
+    }
   ]
 }

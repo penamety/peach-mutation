@@ -22,5 +22,67 @@
   ],
   "artist_names": [
     "rc55"
+  ],
+  "requests": [
+    {
+      "user": "prowler",
+      "when": "2011-03-02 10:34:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2011-05-09 11:00:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2011-07-22 09:47:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2012-01-27 09:57:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-07-15 00:51:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2013-05-30 20:17:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-01 00:48:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-27 23:19:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-06-20 20:36:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-10-08 05:45:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-02-15 08:32:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2016-12-26 12:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-02 03:35:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-03-31 00:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-12-18 03:28:00"
+    }
   ]
 }

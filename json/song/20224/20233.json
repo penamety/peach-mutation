@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Kenet"
+  ],
+  "requests": [
+    {
+      "user": "Chakotay",
+      "when": "2011-10-12 20:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-10-25 03:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-16 00:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-17 16:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-11-20 16:48:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-09 15:04:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-03 21:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-12-04 13:13:00"
+    }
   ]
 }

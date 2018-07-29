@@ -23,5 +23,335 @@
   ],
   "artist_names": [
     "Mad Max"
+  ],
+  "requests": [
+    {
+      "user": "LittleWhite",
+      "when": "2011-03-04 22:27:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2011-03-20 15:09:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2011-04-15 20:52:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2011-05-01 15:50:00"
+    },
+    {
+      "user": "Qumran",
+      "when": "2011-05-20 07:22:00"
+    },
+    {
+      "user": "Zeerios",
+      "when": "2011-06-05 08:39:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2011-06-21 18:15:00"
+    },
+    {
+      "user": "Zeerios",
+      "when": "2011-07-17 22:25:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-08-15 18:41:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2011-09-09 21:00:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2011-10-03 16:25:00"
+    },
+    {
+      "user": "Zeerios",
+      "when": "2011-10-23 23:36:00"
+    },
+    {
+      "user": "Zeerios",
+      "when": "2011-11-12 00:02:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2011-12-13 22:35:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-01-09 23:19:00"
+    },
+    {
+      "user": "Zeerios",
+      "when": "2012-02-14 01:49:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-03-11 03:14:00"
+    },
+    {
+      "user": "MyO",
+      "when": "2012-04-04 18:14:00"
+    },
+    {
+      "user": "NickyOne",
+      "when": "2012-05-02 09:08:00"
+    },
+    {
+      "user": "NickyOne",
+      "when": "2012-05-28 10:07:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-06-30 14:02:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2012-07-27 18:27:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-08-30 01:41:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2012-09-27 11:13:00"
+    },
+    {
+      "user": "Zeerios",
+      "when": "2012-10-22 01:53:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-11-15 09:57:00"
+    },
+    {
+      "user": "Gunstick",
+      "when": "2012-12-09 22:15:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2013-01-15 09:45:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2013-02-08 22:36:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2013-03-11 10:58:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2013-04-08 11:53:00"
+    },
+    {
+      "user": "anni",
+      "when": "2013-05-07 16:40:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2013-06-09 22:17:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2013-07-16 11:31:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2013-08-20 12:11:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2013-09-29 10:04:00"
+    },
+    {
+      "user": "anni",
+      "when": "2013-10-31 20:29:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-12-02 10:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-19 02:52:00"
+    },
+    {
+      "user": "Zeerios",
+      "when": "2014-03-13 00:07:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-04-30 13:01:00"
+    },
+    {
+      "user": "DennyGSXR",
+      "when": "2014-06-05 00:11:00"
+    },
+    {
+      "user": "Zeerios",
+      "when": "2014-07-06 10:01:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2014-07-20 15:06:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2014-10-18 18:53:00"
+    },
+    {
+      "user": "Zeerios",
+      "when": "2014-11-06 03:38:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2014-11-30 10:06:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2015-01-21 13:37:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2015-02-27 16:06:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2015-03-24 07:32:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2015-04-06 17:35:00"
+    },
+    {
+      "user": "swe",
+      "when": "2015-05-03 05:45:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2015-05-16 18:47:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-06-30 00:49:00"
+    },
+    {
+      "user": "Zeerios",
+      "when": "2015-07-31 23:57:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-08-17 23:45:00"
+    },
+    {
+      "user": "WTFcore",
+      "when": "2015-09-14 00:32:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-02-01 06:48:00"
+    },
+    {
+      "user": "t3l",
+      "when": "2016-02-14 09:15:00"
+    },
+    {
+      "user": "t3l",
+      "when": "2016-03-05 11:06:00"
+    },
+    {
+      "user": "epso",
+      "when": "2016-04-12 06:26:00"
+    },
+    {
+      "user": "jxx",
+      "when": "2016-04-27 17:11:00"
+    },
+    {
+      "user": "PhotonStorm",
+      "when": "2016-05-17 23:32:00"
+    },
+    {
+      "user": "epso",
+      "when": "2016-07-30 02:34:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2016-08-24 15:49:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2016-09-24 15:06:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2016-10-23 20:15:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-11-12 13:13:00"
+    },
+    {
+      "user": "olivierh59",
+      "when": "2017-01-06 07:28:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-01-28 15:36:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-02-21 13:21:00"
+    },
+    {
+      "user": "Kleingeist",
+      "when": "2017-03-15 15:40:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-04-23 07:39:00"
+    },
+    {
+      "user": "olivierh59",
+      "when": "2017-08-14 12:32:00"
+    },
+    {
+      "user": "Mindiell",
+      "when": "2017-10-17 08:44:00"
+    },
+    {
+      "user": "Mindiell",
+      "when": "2017-11-27 13:57:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2018-01-29 09:31:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-02-28 22:51:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2018-03-19 13:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-04-17 15:33:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2018-05-18 10:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-06-15 20:13:00"
+    }
   ]
 }

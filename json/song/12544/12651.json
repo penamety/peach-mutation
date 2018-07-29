@@ -24,5 +24,39 @@
   "artist_names": [
     "Front 6",
     "Tommy [de]"
+  ],
+  "requests": [
+    {
+      "user": "MrsBidette",
+      "when": "2011-12-15 02:54:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-06-14 22:07:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-08-29 07:53:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-04-04 21:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-29 13:49:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-02-07 09:34:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2014-09-01 14:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-04-30 20:38:00"
+    }
   ]
 }

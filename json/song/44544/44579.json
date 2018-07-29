@@ -23,5 +23,31 @@
   ],
   "artist_names": [
     "AD"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2017-12-31 21:33:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-19 05:42:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-08 06:23:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-02-28 07:19:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-08 15:51:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-05-18 07:34:00"
+    }
   ]
 }

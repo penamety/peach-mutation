@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Jhavna"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2012-10-16 15:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-19 20:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-15 14:08:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-02-15 13:38:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-21 02:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-02-19 20:36:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-05-06 13:28:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-04-17 22:06:00"
+    }
   ]
 }

@@ -24,5 +24,79 @@
   ],
   "artist_names": [
     "Mister Beep"
+  ],
+  "requests": [
+    {
+      "user": "ViThor",
+      "when": "2015-03-21 08:41:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-04-05 06:50:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-04-19 17:36:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-05-19 23:47:00"
+    },
+    {
+      "user": "maep",
+      "when": "2015-06-03 13:44:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-06-16 22:27:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-07-08 00:16:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-07-23 15:34:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-09-05 01:38:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-01-04 11:15:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-03-22 04:47:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-05-18 06:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-09-03 01:29:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-01-06 03:30:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2017-08-25 22:18:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-12-02 14:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-12-20 23:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-02-18 03:01:00"
+    }
   ]
 }

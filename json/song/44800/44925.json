@@ -24,5 +24,15 @@
   "artist_names": [
     "Wiklund",
     "Xylo"
+  ],
+  "requests": [
+    {
+      "user": "plc",
+      "when": "2018-05-11 19:45:00"
+    },
+    {
+      "user": "bmn",
+      "when": "2018-06-13 22:29:00"
+    }
   ]
 }

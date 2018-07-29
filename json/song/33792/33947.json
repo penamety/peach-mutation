@@ -23,5 +23,51 @@
   ],
   "artist_names": [
     "Jonathan Dunn"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-09-01 15:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2011-11-25 08:30:00"
+    },
+    {
+      "user": "ritvarsd2r",
+      "when": "2012-10-13 16:28:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-03-12 18:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-17 03:02:00"
+    },
+    {
+      "user": "Rauss",
+      "when": "2014-01-23 20:30:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-04-18 10:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-19 02:59:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-12-15 06:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-12-12 22:47:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-17 01:41:00"
+    }
   ]
 }

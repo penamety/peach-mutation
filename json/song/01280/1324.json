@@ -19,5 +19,35 @@
   ],
   "artist_names": [
     "Crazy"
+  ],
+  "requests": [
+    {
+      "user": "Aetrin",
+      "when": "2012-05-01 15:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-30 18:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-04 00:10:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2014-01-25 22:04:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-28 23:31:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-06-27 16:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-15 22:50:00"
+    }
   ]
 }

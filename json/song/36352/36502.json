@@ -20,5 +20,55 @@
   ],
   "artist_names": [
     "Mr Ploppy"
+  ],
+  "requests": [
+    {
+      "user": "foz",
+      "when": "2012-07-04 13:02:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2012-07-29 14:57:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2012-09-15 15:24:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-10-13 21:39:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-12-14 05:52:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2013-03-14 18:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-07-07 05:15:00"
+    },
+    {
+      "user": "foz",
+      "when": "2014-01-07 23:28:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-20 03:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-07-02 07:11:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-05-04 01:58:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-17 04:20:00"
+    }
   ]
 }

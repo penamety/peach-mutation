@@ -20,5 +20,51 @@
   ],
   "artist_names": [
     "Mr. Death"
+  ],
+  "requests": [
+    {
+      "user": "Yohabro",
+      "when": "2013-01-21 21:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-09 04:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-16 23:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-28 01:19:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-08-03 05:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-10-10 10:43:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-13 03:07:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-09-12 14:32:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-11-09 07:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-27 18:03:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-06-15 22:29:00"
+    }
   ]
 }

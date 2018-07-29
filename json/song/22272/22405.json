@@ -23,5 +23,35 @@
   ],
   "artist_names": [
     "Oliver"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-05-05 07:15:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-09-26 19:08:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-15 04:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-09 04:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-09-18 22:02:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-06-04 21:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-07 23:33:00"
+    }
   ]
 }

@@ -14,5 +14,15 @@
   "vote_avg": 3.0,
   "last_scraped": "2018-05-23 01:46:45",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-04-24 01:39:00"
+    },
+    {
+      "user": "fkey",
+      "when": "2011-08-31 08:43:00"
+    }
+  ]
 }

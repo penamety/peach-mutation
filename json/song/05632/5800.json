@@ -23,5 +23,39 @@
   "artist_names": [
     "Psycho",
     "Stoned"
+  ],
+  "requests": [
+    {
+      "user": "matsim",
+      "when": "2011-07-16 03:11:00"
+    },
+    {
+      "user": "iTowah68k",
+      "when": "2011-09-04 14:53:00"
+    },
+    {
+      "user": "piter",
+      "when": "2012-02-19 09:06:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2013-04-29 02:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-11 12:15:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-09-27 03:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-13 02:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-04-26 15:15:00"
+    }
   ]
 }

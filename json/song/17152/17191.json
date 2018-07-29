@@ -19,5 +19,31 @@
   ],
   "artist_names": [
     "DJ 3.14"
+  ],
+  "requests": [
+    {
+      "user": "G_Signal",
+      "when": "2011-03-02 15:00:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2012-12-12 10:45:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-05-28 20:57:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2014-02-20 13:42:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-09-30 00:58:00"
+    },
+    {
+      "user": "AnonymousCoward",
+      "when": "2017-03-31 10:47:00"
+    }
   ]
 }

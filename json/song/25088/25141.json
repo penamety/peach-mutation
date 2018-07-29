@@ -23,5 +23,47 @@
   ],
   "artist_names": [
     "TAR"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-03-09 16:10:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-01-25 02:43:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-08-02 04:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-08 23:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-29 01:25:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2014-04-09 06:51:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-10-20 14:48:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-14 04:24:00"
+    },
+    {
+      "user": "AtomicReindeer",
+      "when": "2015-11-15 02:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-17 16:57:00"
+    }
   ]
 }

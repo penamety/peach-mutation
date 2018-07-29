@@ -24,5 +24,47 @@
   ],
   "artist_names": [
     "Edwin van Santen"
+  ],
+  "requests": [
+    {
+      "user": "pipe",
+      "when": "2016-02-08 19:50:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2016-02-19 14:42:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2016-03-09 20:49:00"
+    },
+    {
+      "user": "Siegfried",
+      "when": "2016-03-24 15:31:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-04-14 15:10:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2016-07-27 20:02:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-08 16:13:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-01-31 08:39:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-01-22 02:31:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-04-03 03:02:00"
+    }
   ]
 }

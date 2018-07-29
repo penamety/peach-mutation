@@ -24,5 +24,55 @@
   ],
   "artist_names": [
     "Unknown Artist"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2013-03-25 08:30:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2013-04-12 18:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-08 01:08:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-09-04 19:59:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-12-02 12:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-02-09 20:54:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-05-18 20:43:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-08-18 00:08:00"
+    },
+    {
+      "user": "Buzzer",
+      "when": "2016-01-14 10:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-07-20 21:34:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-12-24 19:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-02-27 02:58:00"
+    }
   ]
 }

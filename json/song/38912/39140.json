@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "Frazer"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2013-08-11 20:40:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-09-18 09:48:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-10-22 10:36:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-11-22 09:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-12 05:31:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-18 07:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-06-20 23:39:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-17 11:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-19 06:45:00"
+    }
   ]
 }

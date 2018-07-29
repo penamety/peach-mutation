@@ -21,5 +21,79 @@
   ],
   "artist_names": [
     "Fleshbrain"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-03-21 05:15:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2012-09-15 20:30:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-03-22 01:26:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-05-16 06:14:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-10-04 10:22:00"
+    },
+    {
+      "user": "nschnabel",
+      "when": "2013-11-26 10:21:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2014-02-02 10:22:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-04-22 05:49:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-06-09 12:20:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-24 09:26:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2015-07-12 17:49:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-08-31 07:13:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2016-11-05 17:14:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2017-02-14 21:10:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2017-03-18 12:13:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2017-06-02 12:20:00"
+    },
+    {
+      "user": "Aardvark",
+      "when": "2018-03-10 07:11:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2018-06-02 13:22:00"
+    }
   ]
 }

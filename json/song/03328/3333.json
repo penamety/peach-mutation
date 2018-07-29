@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "Jeff"
+  ],
+  "requests": [
+    {
+      "user": "jinx",
+      "when": "2011-07-07 15:10:00"
+    },
+    {
+      "user": "AuMTRoN",
+      "when": "2011-11-26 19:36:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-12-26 09:07:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-06-23 05:13:00"
+    },
+    {
+      "user": "Sensei",
+      "when": "2012-10-09 12:05:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-02-23 18:14:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2013-07-19 21:42:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-08-10 07:07:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-06-15 23:01:00"
+    }
   ]
 }

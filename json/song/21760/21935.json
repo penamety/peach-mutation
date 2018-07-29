@@ -19,5 +19,55 @@
   ],
   "artist_names": [
     "Mr Moses"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-03-08 08:52:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2012-03-23 20:38:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-12-15 01:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-14 13:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-26 20:26:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-12-15 00:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-02-27 13:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-02-12 06:06:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-06 14:35:00"
+    },
+    {
+      "user": "Tobbeo",
+      "when": "2015-10-19 13:25:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-03-11 03:47:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-06-22 21:56:00"
+    }
   ]
 }

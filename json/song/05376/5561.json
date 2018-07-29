@@ -18,5 +18,43 @@
   ],
   "artist_names": [
     "PG"
+  ],
+  "requests": [
+    {
+      "user": "Chakotay",
+      "when": "2012-04-13 01:23:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-05-16 00:24:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-06-22 14:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-09-22 04:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-30 04:37:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2013-12-04 22:38:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-02-20 08:36:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-01-27 23:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-06 12:51:00"
+    }
   ]
 }

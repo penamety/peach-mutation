@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "Kangaroo MusiQue"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2017-04-16 17:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-01 07:14:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-06-02 07:50:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-08-13 18:00:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-10-21 04:57:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-11 04:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-01-30 01:14:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-03-16 21:30:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-05-25 20:10:00"
+    }
   ]
 }

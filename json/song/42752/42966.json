@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "AMJ"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2016-03-11 19:03:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-03-22 16:56:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-04-11 09:15:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-05-07 17:16:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-05-31 06:22:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-08-02 19:41:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-05 16:43:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-19 10:57:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-05-03 03:24:00"
+    }
   ]
 }

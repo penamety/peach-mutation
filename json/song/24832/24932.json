@@ -14,5 +14,19 @@
   "vote_avg": 3.0,
   "last_scraped": "2018-05-23 06:40:17",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "maep",
+      "when": "2011-10-01 00:46:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-02-04 02:35:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-03-24 22:50:00"
+    }
+  ]
 }

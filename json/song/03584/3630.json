@@ -26,5 +26,339 @@
   ],
   "artist_names": [
     "Julius"
+  ],
+  "requests": [
+    {
+      "user": "Mystra",
+      "when": "2011-03-22 08:45:00"
+    },
+    {
+      "user": "Axel",
+      "when": "2011-05-24 09:50:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2011-06-15 23:50:00"
+    },
+    {
+      "user": "cube",
+      "when": "2011-07-14 09:36:00"
+    },
+    {
+      "user": "clumdon",
+      "when": "2011-08-12 03:43:00"
+    },
+    {
+      "user": "elusive",
+      "when": "2011-11-30 01:59:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2012-01-21 11:46:00"
+    },
+    {
+      "user": "bk237",
+      "when": "2012-02-18 19:08:00"
+    },
+    {
+      "user": "MMX",
+      "when": "2012-03-21 02:55:00"
+    },
+    {
+      "user": "wiseman",
+      "when": "2012-04-18 10:02:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-05-16 21:44:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-06-09 10:07:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-09-09 08:47:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-10-18 18:16:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-12-08 15:33:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-01-01 09:55:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-02-02 14:27:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-03-05 19:58:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-04-09 12:14:00"
+    },
+    {
+      "user": "rombust",
+      "when": "2013-05-09 17:03:00"
+    },
+    {
+      "user": "juky",
+      "when": "2013-06-14 15:38:00"
+    },
+    {
+      "user": "rombust",
+      "when": "2013-07-18 09:48:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2013-09-03 16:43:00"
+    },
+    {
+      "user": "maep",
+      "when": "2013-10-16 18:38:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2013-11-22 13:17:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-12-29 10:53:00"
+    },
+    {
+      "user": "rombust",
+      "when": "2014-01-17 20:37:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2014-03-07 19:57:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2014-04-12 11:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-04-26 09:21:00"
+    },
+    {
+      "user": "unfy",
+      "when": "2014-05-10 00:41:00"
+    },
+    {
+      "user": "fkey",
+      "when": "2014-05-23 09:13:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2014-06-12 13:39:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-07-10 05:19:00"
+    },
+    {
+      "user": "Thexder",
+      "when": "2014-09-03 19:00:00"
+    },
+    {
+      "user": "Thexder",
+      "when": "2014-10-02 21:46:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-11-28 17:08:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-12-14 17:55:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-12-30 18:23:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2015-01-30 23:46:00"
+    },
+    {
+      "user": "br4inlock",
+      "when": "2015-02-11 14:31:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2015-03-07 12:38:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2015-03-25 05:33:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-04-18 20:14:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2015-05-27 00:10:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-06-08 18:14:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2015-06-23 23:39:00"
+    },
+    {
+      "user": "mAZE",
+      "when": "2015-07-21 01:58:00"
+    },
+    {
+      "user": "silok",
+      "when": "2015-09-07 13:13:00"
+    },
+    {
+      "user": "ajwen",
+      "when": "2015-10-14 10:53:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2015-11-04 23:20:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2015-11-20 17:04:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2015-12-06 17:42:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-12-28 09:27:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-01-23 19:25:00"
+    },
+    {
+      "user": "br4inlock",
+      "when": "2016-03-06 15:53:00"
+    },
+    {
+      "user": "br4inlock",
+      "when": "2016-03-21 23:17:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-05-10 20:47:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-05-28 22:20:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-06-10 00:12:00"
+    },
+    {
+      "user": "Fireball",
+      "when": "2016-06-24 12:24:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-07-14 14:24:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-07-29 21:28:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2016-10-09 16:46:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2016-10-26 21:58:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-12-22 15:41:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-01-17 14:59:00"
+    },
+    {
+      "user": "Thexder",
+      "when": "2017-02-05 10:11:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2017-02-24 19:52:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2017-03-25 11:56:00"
+    },
+    {
+      "user": "SLMOE",
+      "when": "2017-05-06 01:41:00"
+    },
+    {
+      "user": "Fireball",
+      "when": "2017-06-01 12:20:00"
+    },
+    {
+      "user": "PhotonStorm",
+      "when": "2017-07-21 00:48:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-07-28 14:12:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-09-28 18:10:00"
+    },
+    {
+      "user": "PhotonStorm",
+      "when": "2017-10-06 15:47:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-10-28 15:58:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2017-11-18 17:10:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2017-12-18 10:39:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-01-15 01:43:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2018-02-09 18:51:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2018-03-15 18:58:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2018-04-14 12:47:00"
+    }
   ]
 }

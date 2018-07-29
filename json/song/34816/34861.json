@@ -25,5 +25,39 @@
   ],
   "artist_names": [
     "Elrinth"
+  ],
+  "requests": [
+    {
+      "user": "crosbow",
+      "when": "2012-01-03 11:03:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-02-03 12:20:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-03-22 14:36:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-06-23 14:23:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-09-20 00:51:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-11-06 19:20:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-12-25 09:59:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2013-04-01 17:03:00"
+    }
   ]
 }

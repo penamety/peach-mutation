@@ -15,5 +15,31 @@
   "info": "Dupe of [song]4766[/song]",
   "last_scraped": "2018-05-22 22:59:23",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-07-24 02:39:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-02-09 11:20:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-07 03:25:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-07-02 21:56:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-10-07 09:41:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-01-13 19:30:00"
+    }
+  ]
 }

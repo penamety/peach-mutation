@@ -16,5 +16,27 @@
   "info": "deleted song cause author don't want it here.",
   "last_scraped": "2018-05-23 09:25:31",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2012-01-30 11:34:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-04-06 01:31:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-05-14 03:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-06-23 20:39:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-09-05 13:18:00"
+    }
+  ]
 }

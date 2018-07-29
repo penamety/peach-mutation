@@ -23,5 +23,47 @@
   ],
   "artist_names": [
     "Gamma"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-10-04 14:37:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2011-11-11 13:01:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2012-02-11 17:21:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-01-09 22:17:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-05-13 06:34:00"
+    },
+    {
+      "user": "rockmonitor",
+      "when": "2013-07-22 21:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-13 04:20:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-08-17 19:07:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2016-10-01 01:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-14 22:54:00"
+    }
   ]
 }

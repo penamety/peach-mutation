@@ -25,5 +25,79 @@
   ],
   "artist_names": [
     "Makke"
+  ],
+  "requests": [
+    {
+      "user": "Zitrax",
+      "when": "2011-05-07 01:11:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-10 08:58:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-09-12 22:03:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-01-08 11:42:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-09-01 16:29:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-12-15 07:28:00"
+    },
+    {
+      "user": "Fredu",
+      "when": "2013-04-07 22:47:00"
+    },
+    {
+      "user": "constant_ural",
+      "when": "2013-07-02 05:52:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-12-18 19:43:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2014-01-10 23:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-05-06 11:47:00"
+    },
+    {
+      "user": "Fredu",
+      "when": "2016-12-16 09:08:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2017-01-22 03:03:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-18 21:00:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2017-06-03 00:09:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2017-10-27 09:03:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2018-02-13 14:58:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2018-04-01 02:23:00"
+    }
   ]
 }

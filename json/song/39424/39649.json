@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "Marek Roczniak"
+  ],
+  "requests": [
+    {
+      "user": "Arne",
+      "when": "2013-12-03 16:07:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-01-07 12:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-02-25 18:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-04 01:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-09-04 00:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-16 16:55:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-04-16 23:25:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-10-27 01:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-25 13:14:00"
+    }
   ]
 }

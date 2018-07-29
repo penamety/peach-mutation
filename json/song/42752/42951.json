@@ -23,5 +23,43 @@
   ],
   "artist_names": [
     "Archon"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2016-03-08 17:01:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-03-20 09:34:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-04-05 13:24:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-04-23 13:22:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-05-29 17:52:00"
+    },
+    {
+      "user": "BombmanDK",
+      "when": "2016-09-01 13:51:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-10-13 04:12:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-11-27 17:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-05-03 04:48:00"
+    }
   ]
 }

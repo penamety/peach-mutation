@@ -18,5 +18,39 @@
   ],
   "artist_names": [
     "Blackstar"
+  ],
+  "requests": [
+    {
+      "user": "BombmanDK",
+      "when": "2012-01-12 16:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-10-30 23:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-19 21:52:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2013-07-18 17:19:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-11-14 02:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-11 00:35:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-01-20 09:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-16 20:49:00"
+    }
   ]
 }

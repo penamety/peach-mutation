@@ -25,5 +25,35 @@
   ],
   "artist_names": [
     "BeeZerk"
+  ],
+  "requests": [
+    {
+      "user": "hornpipe2",
+      "when": "2017-12-08 20:15:00"
+    },
+    {
+      "user": "plc",
+      "when": "2017-12-23 10:40:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-11 11:00:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-01 22:06:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-23 06:48:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-03 04:25:00"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2018-05-12 22:17:00"
+    }
   ]
 }

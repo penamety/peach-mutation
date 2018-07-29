@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "Michael"
+  ],
+  "requests": [
+    {
+      "user": "rombust",
+      "when": "2012-05-17 12:34:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-11-12 06:04:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-02 02:58:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-03-17 08:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-19 00:38:00"
+    },
+    {
+      "user": "rombust",
+      "when": "2014-02-01 09:11:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-09-28 19:23:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2015-05-24 21:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-31 16:15:00"
+    }
   ]
 }

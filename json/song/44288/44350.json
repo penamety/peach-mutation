@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "Tempest"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2017-09-17 09:03:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-09-26 11:24:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-10-03 13:22:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-10-11 12:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-10-23 11:11:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-15 07:07:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-11 12:24:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-03-07 07:38:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-04-17 12:19:00"
+    }
   ]
 }

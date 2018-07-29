@@ -22,5 +22,51 @@
   ],
   "artist_names": [
     "Massage"
+  ],
+  "requests": [
+    {
+      "user": "MyO",
+      "when": "2011-12-20 13:24:00"
+    },
+    {
+      "user": "MyO",
+      "when": "2012-01-12 12:52:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-03-01 15:34:00"
+    },
+    {
+      "user": "Dimouse",
+      "when": "2012-04-06 20:15:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2012-09-06 03:05:00"
+    },
+    {
+      "user": "MyO",
+      "when": "2012-11-17 07:35:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-11 05:36:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2013-05-27 22:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-05-04 18:00:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-03-04 09:21:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-04-18 23:59:00"
+    }
   ]
 }

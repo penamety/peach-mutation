@@ -24,5 +24,31 @@
   ],
   "artist_names": [
     "Mad Max"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2018-01-14 07:14:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-01-31 12:22:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-18 21:37:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-25 08:53:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-04-30 10:52:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-06-04 10:46:00"
+    }
   ]
 }

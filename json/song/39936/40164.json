@@ -27,5 +27,55 @@
   ],
   "artist_names": [
     "mch"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2014-03-18 12:54:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-04 12:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-05-20 01:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-04 01:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-09-01 00:13:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2014-10-18 10:53:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-02-09 06:08:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-04-28 12:36:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-30 00:36:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-08-18 23:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-12-19 22:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2017-11-03 03:31:00"
+    }
   ]
 }

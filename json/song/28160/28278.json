@@ -22,5 +22,67 @@
   ],
   "artist_names": [
     "FBY"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-02-13 16:00:00"
+    },
+    {
+      "user": "Yellowjelly",
+      "when": "2011-06-03 17:04:00"
+    },
+    {
+      "user": "encelo",
+      "when": "2011-07-30 20:18:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-05-05 22:55:00"
+    },
+    {
+      "user": "encelo",
+      "when": "2013-04-25 13:08:00"
+    },
+    {
+      "user": "spekki",
+      "when": "2013-08-21 11:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-10-23 14:04:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-02-05 02:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-31 05:39:00"
+    },
+    {
+      "user": "Ozgu",
+      "when": "2015-02-21 19:17:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-16 12:13:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2015-09-13 14:39:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-11-06 06:15:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-12-16 04:26:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-05-27 05:28:00"
+    }
   ]
 }

@@ -23,5 +23,51 @@
   ],
   "artist_names": [
     "Trashcan"
+  ],
+  "requests": [
+    {
+      "user": "ViThor",
+      "when": "2013-06-03 10:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-13 12:55:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-09-09 15:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-11-01 08:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-11 04:28:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-03-12 07:20:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-18 01:09:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2014-10-30 22:58:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-01-10 22:31:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-06-22 02:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-03 21:57:00"
+    }
   ]
 }

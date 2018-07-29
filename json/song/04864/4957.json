@@ -19,5 +19,43 @@
   ],
   "artist_names": [
     "Mr dice"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-07-07 01:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-12-23 07:55:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-06-12 14:05:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-12-15 03:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-16 02:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-19 07:40:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2014-08-10 11:48:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-02-16 15:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-07-05 08:03:00"
+    }
   ]
 }

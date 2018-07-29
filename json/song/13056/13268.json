@@ -23,5 +23,79 @@
   ],
   "artist_names": [
     "Michael Tschögl"
+  ],
+  "requests": [
+    {
+      "user": "halvare",
+      "when": "2011-04-14 03:48:00"
+    },
+    {
+      "user": "halvare",
+      "when": "2011-05-11 02:13:00"
+    },
+    {
+      "user": "halvare",
+      "when": "2011-05-26 05:36:00"
+    },
+    {
+      "user": "halvare",
+      "when": "2011-06-23 05:08:00"
+    },
+    {
+      "user": "halvare",
+      "when": "2011-08-18 02:59:00"
+    },
+    {
+      "user": "halvare",
+      "when": "2011-09-22 03:31:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-10-19 00:13:00"
+    },
+    {
+      "user": "Jonttu",
+      "when": "2011-11-22 19:43:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-01-22 14:45:00"
+    },
+    {
+      "user": "halvare",
+      "when": "2012-03-08 04:48:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-04-25 03:37:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-05-25 21:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-10 00:03:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2014-01-22 18:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-07-04 04:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-04-27 16:58:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-07-10 01:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-22 05:42:00"
+    }
   ]
 }

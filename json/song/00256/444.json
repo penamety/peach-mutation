@@ -18,5 +18,43 @@
   ],
   "artist_names": [
     "Awesome"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-02-21 07:24:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-06-28 07:43:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2011-11-26 13:57:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-01 00:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-17 00:15:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-20 06:07:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-02-22 09:37:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-06-23 11:37:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-04-25 20:22:00"
+    }
   ]
 }

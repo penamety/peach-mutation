@@ -20,5 +20,79 @@
   ],
   "artist_names": [
     "Awesome"
+  ],
+  "requests": [
+    {
+      "user": "Twinsun",
+      "when": "2011-05-01 00:10:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2011-07-25 20:32:00"
+    },
+    {
+      "user": "sergeeo",
+      "when": "2012-01-11 20:09:00"
+    },
+    {
+      "user": "Shaduck",
+      "when": "2012-02-28 11:20:00"
+    },
+    {
+      "user": "Shaduck",
+      "when": "2012-08-13 19:52:00"
+    },
+    {
+      "user": "TinGrill",
+      "when": "2012-11-01 10:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-05 01:16:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-11-17 07:32:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-02-06 23:17:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-04-04 06:48:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-05-21 03:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-07-04 00:09:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-05-17 12:15:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-13 03:26:00"
+    },
+    {
+      "user": "Spiral",
+      "when": "2015-10-08 13:39:00"
+    },
+    {
+      "user": "Spiral",
+      "when": "2016-12-22 10:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-19 04:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-03-21 00:06:00"
+    }
   ]
 }

@@ -15,5 +15,27 @@
   "info": "Dupe of [queue]35162[/queue]",
   "last_scraped": "2018-05-23 07:19:05",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "t4s0thcmdr",
+      "when": "2011-05-12 03:13:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2011-08-29 20:58:00"
+    },
+    {
+      "user": "jkolb",
+      "when": "2011-10-16 23:57:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-06-18 02:01:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2012-09-15 19:15:00"
+    }
+  ]
 }

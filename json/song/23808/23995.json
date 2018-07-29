@@ -19,5 +19,55 @@
   ],
   "artist_names": [
     "Scavenger"
+  ],
+  "requests": [
+    {
+      "user": "faraday",
+      "when": "2011-05-22 10:57:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-02 11:34:00"
+    },
+    {
+      "user": "BSC",
+      "when": "2012-03-25 22:33:00"
+    },
+    {
+      "user": "anni",
+      "when": "2013-05-13 13:21:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2013-08-27 22:34:00"
+    },
+    {
+      "user": "jxx",
+      "when": "2015-06-30 04:25:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-20 01:18:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2015-12-07 11:47:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2016-09-20 00:09:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2016-12-09 10:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-12-14 15:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-29 05:42:00"
+    }
   ]
 }

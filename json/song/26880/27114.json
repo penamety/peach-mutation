@@ -23,5 +23,47 @@
   ],
   "artist_names": [
     "Weltie"
+  ],
+  "requests": [
+    {
+      "user": "crrr",
+      "when": "2011-05-01 21:03:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2012-01-02 20:28:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2012-11-24 15:30:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-04-13 23:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-08-10 15:44:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-08 17:16:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-04-16 03:23:00"
+    },
+    {
+      "user": "Rapture",
+      "when": "2016-10-15 04:35:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-11-24 13:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-04 05:47:00"
+    }
   ]
 }

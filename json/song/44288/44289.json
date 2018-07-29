@@ -27,5 +27,43 @@
   "artist_names": [
     "cTrix",
     "h0ffman"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2017-09-02 15:24:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-09-09 15:17:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-09-16 13:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-09-28 09:42:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-11-06 08:30:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-28 05:15:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-25 09:20:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-04-08 11:01:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-05-17 16:38:00"
+    }
   ]
 }

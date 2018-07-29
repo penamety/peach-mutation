@@ -23,5 +23,43 @@
   ],
   "artist_names": [
     "A-Man"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2016-05-02 09:37:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-05-16 00:15:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-05-30 18:44:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-06-13 12:25:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-06-29 14:29:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-09-13 17:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-10-13 05:30:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-29 14:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-01-22 03:48:00"
+    }
   ]
 }

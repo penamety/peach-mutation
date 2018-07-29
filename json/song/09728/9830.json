@@ -23,5 +23,35 @@
   ],
   "artist_names": [
     "Count Zero"
+  ],
+  "requests": [
+    {
+      "user": "BSC",
+      "when": "2011-06-25 19:12:00"
+    },
+    {
+      "user": "maep",
+      "when": "2013-01-10 19:05:00"
+    },
+    {
+      "user": "Sketch",
+      "when": "2013-04-11 09:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-13 23:56:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-04-01 22:43:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-05 05:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-26 11:16:00"
+    }
   ]
 }

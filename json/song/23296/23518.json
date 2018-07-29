@@ -16,5 +16,51 @@
   "info": "Dupe of [song]6238[/song]",
   "last_scraped": "2018-05-23 05:13:38",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-07-19 00:52:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2011-08-28 10:16:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2011-09-22 10:57:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2011-10-17 14:50:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2011-11-02 20:47:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2011-11-19 11:27:00"
+    },
+    {
+      "user": "SampL",
+      "when": "2011-12-09 13:13:00"
+    },
+    {
+      "user": "SampL",
+      "when": "2012-01-02 10:53:00"
+    },
+    {
+      "user": "SampL",
+      "when": "2012-01-26 10:00:00"
+    },
+    {
+      "user": "Riphur",
+      "when": "2012-02-19 17:44:00"
+    },
+    {
+      "user": "SampL",
+      "when": "2012-03-14 14:15:00"
+    }
+  ]
 }

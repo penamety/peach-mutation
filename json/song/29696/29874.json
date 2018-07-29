@@ -27,5 +27,87 @@
   "artist_names": [
     "Bass-Cadet",
     "Little Bitchard"
+  ],
+  "requests": [
+    {
+      "user": "Zac",
+      "when": "2011-03-01 09:30:00"
+    },
+    {
+      "user": "Saga_Musix",
+      "when": "2011-03-15 16:35:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-08-28 09:03:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2011-09-22 21:13:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2012-02-13 17:12:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2012-10-05 21:04:00"
+    },
+    {
+      "user": "main",
+      "when": "2012-12-17 06:46:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-02-12 03:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-04 02:26:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-06 04:09:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-04-21 10:08:00"
+    },
+    {
+      "user": "HaasiD",
+      "when": "2014-07-07 19:56:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-08-26 00:03:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-12-07 03:00:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2016-09-15 16:49:00"
+    },
+    {
+      "user": "rombust",
+      "when": "2016-10-16 09:30:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2017-07-26 19:55:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-03-06 18:46:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-04-14 18:08:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-05-21 16:59:00"
+    }
   ]
 }

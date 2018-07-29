@@ -23,5 +23,39 @@
   "artist_names": [
     "Kaktus",
     "Mahoney"
+  ],
+  "requests": [
+    {
+      "user": "Nosferatu",
+      "when": "2011-08-20 19:13:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-11-21 14:17:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-03-03 06:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-02-01 09:59:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-07-23 16:29:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-22 05:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-13 18:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-12-04 02:14:00"
+    }
   ]
 }

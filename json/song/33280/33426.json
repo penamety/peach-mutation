@@ -24,5 +24,51 @@
   ],
   "artist_names": [
     "Preston"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-07-07 11:46:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2011-10-01 21:23:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-09-03 04:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-01-29 13:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-14 11:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-11-20 00:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-13 05:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-12-24 00:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-08-17 15:42:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-12-04 05:58:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-06-08 15:23:00"
+    }
   ]
 }

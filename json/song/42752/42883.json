@@ -24,5 +24,43 @@
   ],
   "artist_names": [
     "Nemo"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2016-02-12 06:43:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-02-28 10:43:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-03-20 13:29:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-04-11 10:03:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-05-13 06:58:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-06-02 09:55:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-06-21 11:46:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-25 12:51:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-10-27 15:54:00"
+    }
   ]
 }

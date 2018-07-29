@@ -18,5 +18,39 @@
   ],
   "artist_names": [
     "Roberts"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2012-01-26 13:24:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-07-03 01:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-01-29 00:12:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2013-07-10 09:59:00"
+    },
+    {
+      "user": "0A000h",
+      "when": "2014-01-27 15:22:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-04-28 02:17:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-10-08 05:53:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-05-13 11:43:00"
+    }
   ]
 }

@@ -19,5 +19,79 @@
   ],
   "artist_names": [
     "Jason"
+  ],
+  "requests": [
+    {
+      "user": "Mel",
+      "when": "2011-07-26 13:33:00"
+    },
+    {
+      "user": "Mel",
+      "when": "2011-09-16 18:10:00"
+    },
+    {
+      "user": "Mel",
+      "when": "2011-10-26 13:24:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-12-25 08:14:00"
+    },
+    {
+      "user": "Mel",
+      "when": "2012-02-23 10:58:00"
+    },
+    {
+      "user": "Scribblette",
+      "when": "2013-01-22 05:15:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-04-04 06:25:00"
+    },
+    {
+      "user": "Mel",
+      "when": "2013-05-15 14:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-17 13:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-15 00:16:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2014-02-28 07:28:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-06-22 09:02:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-09-13 00:24:00"
+    },
+    {
+      "user": "Mel",
+      "when": "2015-10-05 11:28:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-01-15 03:05:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-06-10 03:23:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-03-14 01:32:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-06-04 04:36:00"
+    }
   ]
 }

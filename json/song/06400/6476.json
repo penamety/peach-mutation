@@ -14,5 +14,39 @@
   "vote_avg": 3.2222,
   "last_scraped": "2018-05-23 01:46:13",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "LittleWhite",
+      "when": "2011-03-22 12:19:00"
+    },
+    {
+      "user": "Erk",
+      "when": "2011-04-07 23:07:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-04-27 06:19:00"
+    },
+    {
+      "user": "ctsnlc",
+      "when": "2011-07-17 23:34:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-08-12 22:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-26 22:05:00"
+    },
+    {
+      "user": "Lixus",
+      "when": "2013-10-31 01:41:00"
+    },
+    {
+      "user": "_wally",
+      "when": "2014-02-10 23:12:00"
+    }
+  ]
 }

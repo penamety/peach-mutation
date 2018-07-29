@@ -27,5 +27,43 @@
   "artist_names": [
     "Mahoney",
     "Spexhane"
+  ],
+  "requests": [
+    {
+      "user": "BSC",
+      "when": "2016-04-24 14:15:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-05-03 10:51:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-05-23 02:33:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-06-13 21:20:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-07-10 17:34:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-08-04 10:24:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-03 22:04:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-18 17:52:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-02 16:47:00"
+    }
   ]
 }

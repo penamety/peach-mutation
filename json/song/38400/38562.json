@@ -23,5 +23,51 @@
   ],
   "artist_names": [
     "Lloyd Rosen"
+  ],
+  "requests": [
+    {
+      "user": "Mystra",
+      "when": "2013-04-13 18:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-02 08:54:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-06-10 13:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-04 20:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-14 02:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-24 11:18:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-11-03 13:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-01-28 22:07:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-29 03:56:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-09 02:20:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-12 19:00:00"
+    }
   ]
 }

@@ -25,5 +25,419 @@
   ],
   "artist_names": [
     "Puryx"
+  ],
+  "requests": [
+    {
+      "user": "atom32k",
+      "when": "2011-02-14 14:51:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2011-02-28 11:20:00"
+    },
+    {
+      "user": "ZULGHAR",
+      "when": "2011-03-14 07:59:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2011-03-28 05:54:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2011-04-10 18:38:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2011-04-26 08:53:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2011-05-11 13:31:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2011-05-27 06:26:00"
+    },
+    {
+      "user": "ZULGHAR",
+      "when": "2011-06-15 09:00:00"
+    },
+    {
+      "user": "dukzcry",
+      "when": "2011-07-09 12:32:00"
+    },
+    {
+      "user": "chudik",
+      "when": "2011-08-04 20:34:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2011-08-29 19:34:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2011-09-21 12:10:00"
+    },
+    {
+      "user": "Ishaan",
+      "when": "2011-10-14 09:36:00"
+    },
+    {
+      "user": "RaGE_Newgen",
+      "when": "2011-11-01 23:07:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2011-11-25 08:21:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2011-12-15 09:53:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2012-01-08 08:16:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-01-31 10:44:00"
+    },
+    {
+      "user": "br4inlock",
+      "when": "2012-02-24 15:38:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-03-18 09:44:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2012-04-10 15:38:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-05-04 21:11:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-05-27 22:33:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-06-19 20:36:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2012-07-12 09:40:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-08-03 17:54:00"
+    },
+    {
+      "user": "storm",
+      "when": "2012-08-26 10:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2012-09-18 12:42:00"
+    },
+    {
+      "user": "storm",
+      "when": "2012-10-10 17:30:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-11-02 20:24:00"
+    },
+    {
+      "user": "Colidace",
+      "when": "2012-11-25 11:35:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2012-12-18 14:14:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2013-01-10 10:05:00"
+    },
+    {
+      "user": "Longbow",
+      "when": "2013-02-05 13:43:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2013-03-04 08:08:00"
+    },
+    {
+      "user": "ezal",
+      "when": "2013-03-30 20:23:00"
+    },
+    {
+      "user": "storm",
+      "when": "2013-04-26 08:14:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2013-05-29 14:26:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-06-30 08:41:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2013-07-31 22:46:00"
+    },
+    {
+      "user": "kronowolf",
+      "when": "2013-09-04 00:20:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-10-04 21:23:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2013-11-05 14:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-12-07 07:50:00"
+    },
+    {
+      "user": "le5h",
+      "when": "2013-12-28 08:14:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2014-01-04 11:05:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-03-04 08:05:00"
+    },
+    {
+      "user": "xphere",
+      "when": "2014-04-30 17:51:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2014-05-28 20:16:00"
+    },
+    {
+      "user": "kronowolf",
+      "when": "2014-06-16 23:21:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2014-07-15 20:19:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2014-07-30 23:23:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2014-08-12 21:53:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2014-09-12 10:24:00"
+    },
+    {
+      "user": "ZULGHAR",
+      "when": "2014-10-04 07:52:00"
+    },
+    {
+      "user": "br4inlock",
+      "when": "2014-10-26 23:09:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2014-11-09 22:05:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2014-11-24 13:13:00"
+    },
+    {
+      "user": "Longbow",
+      "when": "2014-12-16 10:43:00"
+    },
+    {
+      "user": "Longbow",
+      "when": "2014-12-30 14:26:00"
+    },
+    {
+      "user": "ezal",
+      "when": "2015-02-20 18:45:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2015-04-21 18:45:00"
+    },
+    {
+      "user": "Cyan",
+      "when": "2015-05-07 05:29:00"
+    },
+    {
+      "user": "Spiral",
+      "when": "2015-05-19 14:22:00"
+    },
+    {
+      "user": "bif",
+      "when": "2015-07-10 19:27:00"
+    },
+    {
+      "user": "brm_",
+      "when": "2015-08-27 08:58:00"
+    },
+    {
+      "user": "kirsche",
+      "when": "2015-10-15 00:30:00"
+    },
+    {
+      "user": "koisoke",
+      "when": "2015-11-20 06:47:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2015-12-21 23:33:00"
+    },
+    {
+      "user": "le5h",
+      "when": "2016-01-05 23:10:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-01-20 03:23:00"
+    },
+    {
+      "user": "Whitelabel",
+      "when": "2016-02-10 00:40:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2016-02-25 18:25:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-03-12 10:54:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2016-04-07 11:40:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2016-04-20 11:18:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2016-05-13 13:23:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2016-06-07 15:25:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2016-06-24 16:51:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2016-07-18 18:43:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2016-08-05 08:30:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2016-08-17 12:19:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2016-08-31 01:40:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2016-09-21 00:37:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2016-10-09 15:54:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2016-10-27 10:44:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2016-11-15 17:56:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2016-12-05 08:39:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2016-12-22 07:45:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2017-01-21 07:47:00"
+    },
+    {
+      "user": "Tuxality",
+      "when": "2017-02-16 22:22:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2017-03-10 08:00:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2017-04-18 07:56:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2017-05-25 05:58:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2017-07-03 18:40:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2017-07-23 19:53:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2017-12-04 11:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-01-12 00:52:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2018-02-23 08:49:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2018-03-27 08:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-05-01 15:11:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-05-31 16:31:00"
+    }
   ]
 }

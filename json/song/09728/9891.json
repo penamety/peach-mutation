@@ -22,5 +22,55 @@
   ],
   "artist_names": [
     "Baz"
+  ],
+  "requests": [
+    {
+      "user": "Sensei",
+      "when": "2011-05-10 13:05:00"
+    },
+    {
+      "user": "Zitrax",
+      "when": "2011-05-30 12:38:00"
+    },
+    {
+      "user": "Zitrax",
+      "when": "2011-08-26 09:40:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-06 07:46:00"
+    },
+    {
+      "user": "Zitrax",
+      "when": "2012-07-09 15:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-01 03:09:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-10 03:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-12 23:53:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-11 09:53:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2016-01-24 22:11:00"
+    },
+    {
+      "user": "Zitrax",
+      "when": "2016-07-26 11:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-26 23:05:00"
+    }
   ]
 }

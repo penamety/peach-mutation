@@ -25,5 +25,67 @@
   ],
   "artist_names": [
     "T-101"
+  ],
+  "requests": [
+    {
+      "user": "arrakis",
+      "when": "2011-04-01 08:10:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2011-08-04 19:59:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-01-26 03:30:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2012-03-30 18:31:00"
+    },
+    {
+      "user": "TinGrill",
+      "when": "2012-10-27 20:21:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-03-10 14:26:00"
+    },
+    {
+      "user": "rockmonitor",
+      "when": "2013-06-24 22:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-09-27 05:58:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-02-18 00:29:00"
+    },
+    {
+      "user": "SoanoS",
+      "when": "2015-07-19 19:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-05-06 06:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-09-06 03:34:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-01-29 17:09:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-04-12 02:48:00"
+    },
+    {
+      "user": "DJJoge",
+      "when": "2017-08-02 09:27:00"
+    }
   ]
 }

@@ -21,5 +21,39 @@
   "artist_names": [
     "Revisq",
     "Spectra"
+  ],
+  "requests": [
+    {
+      "user": "MrsBidette",
+      "when": "2012-03-22 04:07:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2012-07-01 08:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-06 12:58:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-01-23 10:05:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-01-31 21:27:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-21 19:29:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-17 23:10:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2018-02-02 01:50:00"
+    }
   ]
 }

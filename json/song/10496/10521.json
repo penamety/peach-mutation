@@ -24,5 +24,79 @@
   ],
   "artist_names": [
     "Bruno"
+  ],
+  "requests": [
+    {
+      "user": "spekki",
+      "when": "2011-05-18 13:01:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-11 20:55:00"
+    },
+    {
+      "user": "Chapelier",
+      "when": "2013-07-10 00:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-11-17 14:22:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-03-15 08:34:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-23 10:40:00"
+    },
+    {
+      "user": "Ozgu",
+      "when": "2015-02-21 16:15:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-22 08:11:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2015-05-25 09:24:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2015-08-16 09:18:00"
+    },
+    {
+      "user": "Ozgu",
+      "when": "2015-11-27 18:04:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-12-28 08:26:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-06-06 05:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-07-29 17:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-12-20 05:28:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2017-05-19 20:36:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-10-28 02:54:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-01-20 23:24:00"
+    }
   ]
 }

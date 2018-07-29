@@ -24,5 +24,43 @@
   ],
   "artist_names": [
     "Dascon"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2015-02-17 06:15:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-02-25 10:21:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-12 23:46:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-29 15:23:00"
+    },
+    {
+      "user": "zoner",
+      "when": "2015-04-15 16:12:00"
+    },
+    {
+      "user": "silok",
+      "when": "2016-04-26 22:25:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-05-21 00:10:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-22 14:00:00"
+    },
+    {
+      "user": "venttiili",
+      "when": "2017-02-16 10:13:00"
+    }
   ]
 }

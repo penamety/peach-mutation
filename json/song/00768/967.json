@@ -20,5 +20,51 @@
   "artist_names": [
     "Chorus",
     "Sid"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-07-09 06:05:00"
+    },
+    {
+      "user": "maep",
+      "when": "2011-11-10 17:50:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-17 23:27:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-06-02 05:27:00"
+    },
+    {
+      "user": "Mantalow",
+      "when": "2012-12-09 09:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-24 15:34:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-13 03:05:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-03-19 06:27:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-01-02 05:56:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-05-12 04:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-30 20:30:00"
+    }
   ]
 }

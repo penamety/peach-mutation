@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "Fatal Snipe"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-03-16 10:27:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2011-05-03 09:31:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-06-10 12:03:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-09-19 10:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-01 00:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-03-31 22:56:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-06-24 01:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-04-15 20:14:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2018-05-05 20:42:00"
+    }
   ]
 }

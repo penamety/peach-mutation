@@ -22,5 +22,51 @@
   ],
   "artist_names": [
     "benJam"
+  ],
+  "requests": [
+    {
+      "user": "maep",
+      "when": "2011-07-22 03:02:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-08-19 08:00:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-09-06 12:48:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-03-12 14:49:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-05-02 10:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-11-16 15:03:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-04-25 07:12:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-16 01:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-13 22:32:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-01-29 04:07:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-03-04 03:18:00"
+    }
   ]
 }

@@ -14,5 +14,19 @@
   "vote_avg": 3.0,
   "last_scraped": "2018-05-23 02:30:40",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "blindpilot",
+      "when": "2011-03-29 03:16:00"
+    },
+    {
+      "user": "Sensei",
+      "when": "2011-07-08 12:19:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-03-02 20:24:00"
+    }
+  ]
 }

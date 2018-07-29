@@ -21,5 +21,51 @@
   ],
   "artist_names": [
     "A-Lin"
+  ],
+  "requests": [
+    {
+      "user": "Yohabro",
+      "when": "2013-09-10 19:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-04 14:18:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-11-13 10:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-09 01:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-03-31 18:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-04 20:04:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-11 23:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-27 03:54:00"
+    },
+    {
+      "user": "Spiral",
+      "when": "2016-09-12 14:05:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2016-10-25 00:03:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-05-13 02:37:00"
+    }
   ]
 }

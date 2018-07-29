@@ -23,5 +23,39 @@
   ],
   "artist_names": [
     "rockmonitor"
+  ],
+  "requests": [
+    {
+      "user": "franz_koopa",
+      "when": "2012-01-19 14:07:00"
+    },
+    {
+      "user": "grachev",
+      "when": "2012-09-22 16:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-02-12 23:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-28 16:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-07-31 20:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-04-21 17:36:00"
+    },
+    {
+      "user": "codehead",
+      "when": "2015-06-30 14:33:00"
+    },
+    {
+      "user": "codehead",
+      "when": "2015-09-18 07:51:00"
+    }
   ]
 }

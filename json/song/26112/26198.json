@@ -18,5 +18,47 @@
   ],
   "artist_names": [
     "Unknown"
+  ],
+  "requests": [
+    {
+      "user": "sqrmax",
+      "when": "2011-10-07 01:25:00"
+    },
+    {
+      "user": "NaN",
+      "when": "2011-10-25 04:01:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-17 05:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-02-20 11:32:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-02-04 09:38:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-06-27 12:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-10-16 19:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-10-05 11:20:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-11-21 14:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-29 00:29:00"
+    }
   ]
 }

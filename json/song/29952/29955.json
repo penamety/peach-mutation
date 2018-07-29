@@ -21,5 +21,55 @@
   ],
   "artist_names": [
     "Chaser"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-07-22 12:34:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-03-02 14:02:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2012-04-06 12:22:00"
+    },
+    {
+      "user": "Latis",
+      "when": "2012-07-14 00:46:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-04-08 10:08:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-15 04:40:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-01-26 04:33:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2014-03-28 20:29:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-01 08:56:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-09-02 01:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-04-22 15:12:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2018-06-06 08:19:00"
+    }
   ]
 }

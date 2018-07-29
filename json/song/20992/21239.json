@@ -22,5 +22,47 @@
   ],
   "artist_names": [
     "Matt Gray"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-03-15 11:19:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2011-07-27 18:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-02-05 05:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-04-24 04:48:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2012-11-01 19:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-19 19:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-08 23:32:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-15 11:46:00"
+    },
+    {
+      "user": "plc",
+      "when": "2016-12-29 10:47:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-19 11:34:00"
+    }
   ]
 }

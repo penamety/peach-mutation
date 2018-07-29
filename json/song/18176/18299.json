@@ -23,5 +23,39 @@
   ],
   "artist_names": [
     "Float 7"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-02-19 06:50:00"
+    },
+    {
+      "user": "HaCKa",
+      "when": "2011-08-09 06:45:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-05-24 11:35:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-04-29 00:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-11-01 13:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-10 03:26:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-09-14 22:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-14 00:20:00"
+    }
   ]
 }

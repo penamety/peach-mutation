@@ -20,5 +20,15 @@
   "source_id": 3,
   "source": "Oldskool",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "abaddon",
+      "when": "2011-08-07 00:46:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2011-11-05 09:04:00"
+    }
+  ]
 }

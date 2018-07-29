@@ -18,5 +18,47 @@
   ],
   "artist_names": [
     "Jazz"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-03-27 08:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-08-01 07:29:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-10-21 09:02:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-04-02 08:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-24 18:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-11-16 21:47:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-06-22 07:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-02-15 06:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-11 16:12:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-04-05 02:13:00"
+    }
   ]
 }

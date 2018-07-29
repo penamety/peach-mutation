@@ -23,5 +23,47 @@
   ],
   "artist_names": [
     "Jerry"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2011-11-25 17:00:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-02-22 09:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-07 17:12:00"
+    },
+    {
+      "user": "maep",
+      "when": "2013-01-29 13:42:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-03-16 08:50:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-25 06:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-14 23:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-07-24 14:35:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-08-16 21:44:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-03-07 22:33:00"
+    }
   ]
 }

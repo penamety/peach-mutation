@@ -19,5 +19,43 @@
   ],
   "artist_names": [
     "Dynamic"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-03-23 12:04:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-03-01 22:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-04-07 00:19:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-05-13 11:21:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-06-11 03:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-08-25 08:57:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-04-11 23:55:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-08-26 23:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-13 23:24:00"
+    }
   ]
 }

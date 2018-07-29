@@ -25,5 +25,79 @@
   ],
   "artist_names": [
     "Mad Max"
+  ],
+  "requests": [
+    {
+      "user": "Andersson",
+      "when": "2011-03-16 13:09:00"
+    },
+    {
+      "user": "Yellowjelly",
+      "when": "2011-04-22 15:24:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2011-08-14 19:11:00"
+    },
+    {
+      "user": "Yellowjelly",
+      "when": "2011-09-18 12:15:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-04-04 05:10:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-06-09 00:49:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2012-08-10 07:34:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-10-14 15:22:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2013-01-27 00:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-04 01:25:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-11-03 02:03:00"
+    },
+    {
+      "user": "tych",
+      "when": "2014-02-13 06:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-12 02:06:00"
+    },
+    {
+      "user": "epso",
+      "when": "2015-08-19 06:17:00"
+    },
+    {
+      "user": "Korni",
+      "when": "2015-10-24 21:58:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-17 08:19:00"
+    },
+    {
+      "user": "olivierh59",
+      "when": "2017-01-25 09:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-06-10 05:34:00"
+    }
   ]
 }

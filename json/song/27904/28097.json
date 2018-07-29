@@ -22,5 +22,91 @@
   ],
   "artist_names": [
     "Dubmood"
+  ],
+  "requests": [
+    {
+      "user": "Sensei",
+      "when": "2011-07-29 15:35:00"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2011-09-23 21:25:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2011-10-17 01:54:00"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2011-11-04 17:43:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2011-11-24 21:25:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2011-12-26 05:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-05-13 04:22:00"
+    },
+    {
+      "user": "WTFcore",
+      "when": "2012-12-07 21:36:00"
+    },
+    {
+      "user": "WTFcore",
+      "when": "2013-02-17 00:19:00"
+    },
+    {
+      "user": "Metronomicon",
+      "when": "2013-04-28 20:27:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-06-16 09:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-20 21:12:00"
+    },
+    {
+      "user": "epso",
+      "when": "2014-02-20 09:17:00"
+    },
+    {
+      "user": "toms",
+      "when": "2015-01-11 11:43:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2015-05-26 18:21:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-10-14 01:20:00"
+    },
+    {
+      "user": "MMX",
+      "when": "2016-01-29 21:32:00"
+    },
+    {
+      "user": "epso",
+      "when": "2016-06-15 21:50:00"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2016-08-11 03:38:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2017-02-17 13:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-04-17 17:13:00"
+    }
   ]
 }

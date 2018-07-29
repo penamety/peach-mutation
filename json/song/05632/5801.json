@@ -22,5 +22,55 @@
   "artist_names": [
     "Psycho",
     "X-Ceed"
+  ],
+  "requests": [
+    {
+      "user": "matsim",
+      "when": "2011-07-16 02:35:00"
+    },
+    {
+      "user": "matsim",
+      "when": "2011-08-24 03:24:00"
+    },
+    {
+      "user": "aoi",
+      "when": "2011-10-21 14:27:00"
+    },
+    {
+      "user": "oddern",
+      "when": "2012-06-17 01:57:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-08-25 02:58:00"
+    },
+    {
+      "user": "matsim",
+      "when": "2012-12-08 02:32:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-01-28 10:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-03 00:42:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-01-27 22:59:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-04-09 15:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-26 23:04:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-02-24 22:18:00"
+    }
   ]
 }

@@ -15,5 +15,27 @@
   "info": "Dupe of [song]13176[/song]",
   "last_scraped": "2018-05-23 05:51:26",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "Ishaan",
+      "when": "2011-02-15 14:04:00"
+    },
+    {
+      "user": "Ishaan",
+      "when": "2011-05-04 14:44:00"
+    },
+    {
+      "user": "BSC",
+      "when": "2011-05-19 20:49:00"
+    },
+    {
+      "user": "zerkman",
+      "when": "2011-06-10 10:12:00"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2011-07-05 16:55:00"
+    }
+  ]
 }

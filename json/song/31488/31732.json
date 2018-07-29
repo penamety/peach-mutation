@@ -25,5 +25,131 @@
   ],
   "artist_names": [
     "Vincenzo"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-02-25 15:05:00"
+    },
+    {
+      "user": "Rumpel",
+      "when": "2011-04-26 00:42:00"
+    },
+    {
+      "user": "Buzzer",
+      "when": "2011-06-22 19:16:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-08-10 07:59:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2011-09-18 04:43:00"
+    },
+    {
+      "user": "Rumpel",
+      "when": "2011-10-15 17:40:00"
+    },
+    {
+      "user": "Rumpel",
+      "when": "2011-12-31 14:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-02-06 05:28:00"
+    },
+    {
+      "user": "Rumpel",
+      "when": "2012-03-27 13:19:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-04-25 19:38:00"
+    },
+    {
+      "user": "jkolb",
+      "when": "2012-09-02 01:36:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2013-01-07 16:56:00"
+    },
+    {
+      "user": "Rumpel",
+      "when": "2013-04-02 20:55:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2013-05-09 18:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-31 04:42:00"
+    },
+    {
+      "user": "DJJoge",
+      "when": "2014-01-22 10:35:00"
+    },
+    {
+      "user": "Spiral",
+      "when": "2014-03-20 09:18:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-06-20 09:22:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2014-12-10 07:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-06 06:58:00"
+    },
+    {
+      "user": "Rumpel",
+      "when": "2016-01-23 21:51:00"
+    },
+    {
+      "user": "toms",
+      "when": "2016-03-25 11:13:00"
+    },
+    {
+      "user": "PhotonStorm",
+      "when": "2016-04-26 00:10:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-05-11 00:30:00"
+    },
+    {
+      "user": "PhotonStorm",
+      "when": "2016-05-26 17:33:00"
+    },
+    {
+      "user": "PhotonStorm",
+      "when": "2016-10-13 02:12:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-11-09 05:41:00"
+    },
+    {
+      "user": "Spiral",
+      "when": "2017-03-16 08:15:00"
+    },
+    {
+      "user": "PhotonStorm",
+      "when": "2017-05-17 21:41:00"
+    },
+    {
+      "user": "DJJoge",
+      "when": "2018-03-12 13:00:00"
+    },
+    {
+      "user": "PhotonStorm",
+      "when": "2018-04-14 00:37:00"
+    }
   ]
 }

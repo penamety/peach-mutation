@@ -23,5 +23,43 @@
   ],
   "artist_names": [
     "Lord Performer"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-07-07 14:37:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-08-03 09:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-12-13 06:48:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-02-05 02:48:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-05-01 05:27:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-10-17 09:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-09-22 22:41:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-04-28 21:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-29 09:03:00"
+    }
   ]
 }

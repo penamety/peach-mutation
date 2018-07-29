@@ -21,5 +21,55 @@
   ],
   "artist_names": [
     "Captain Bifat"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2012-03-08 16:06:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-03-30 09:36:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-05-19 21:51:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-08-06 12:36:00"
+    },
+    {
+      "user": "funnyn8",
+      "when": "2013-03-13 21:26:00"
+    },
+    {
+      "user": "dang",
+      "when": "2013-05-01 15:09:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-18 00:37:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2014-05-03 21:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-08-17 06:35:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-12-13 08:05:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-12-23 03:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-10-29 06:40:00"
+    }
   ]
 }

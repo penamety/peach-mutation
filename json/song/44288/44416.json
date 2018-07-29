@@ -27,5 +27,47 @@
   ],
   "artist_names": [
     "AND"
+  ],
+  "requests": [
+    {
+      "user": "ViThor",
+      "when": "2017-10-10 07:02:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-10-14 20:14:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-10-20 22:07:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-11-10 07:25:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-02 08:20:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-28 17:44:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2018-01-23 19:14:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2018-02-19 18:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-04-15 14:51:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2018-05-27 15:44:00"
+    }
   ]
 }

@@ -19,5 +19,51 @@
   ],
   "artist_names": [
     "TNO"
+  ],
+  "requests": [
+    {
+      "user": "atom32k",
+      "when": "2011-03-08 10:15:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2011-10-08 17:18:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2011-12-12 02:56:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-05-24 08:29:00"
+    },
+    {
+      "user": "maep",
+      "when": "2013-04-12 17:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-13 17:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-08-24 14:59:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-26 04:23:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-03-27 18:05:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-04-06 02:06:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-09-21 16:12:00"
+    }
   ]
 }

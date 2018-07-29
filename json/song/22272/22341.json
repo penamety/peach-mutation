@@ -14,5 +14,31 @@
   "vote_avg": 4.1,
   "last_scraped": "2018-05-23 02:34:03",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "lroy",
+      "when": "2012-08-25 18:36:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-11-09 04:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-01-08 02:46:00"
+    },
+    {
+      "user": "BeautyNerd",
+      "when": "2013-02-25 09:46:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-22 01:05:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-06-07 08:21:00"
+    }
+  ]
 }

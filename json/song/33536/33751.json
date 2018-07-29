@@ -24,5 +24,51 @@
   ],
   "artist_names": [
     "Pirat"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-08-15 10:59:00"
+    },
+    {
+      "user": "Korni",
+      "when": "2012-01-15 21:51:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-10-12 04:02:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-12-04 07:10:00"
+    },
+    {
+      "user": "Korni",
+      "when": "2013-04-26 16:28:00"
+    },
+    {
+      "user": "tommyj1986",
+      "when": "2013-08-25 23:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-07-28 18:23:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2015-01-26 06:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-13 05:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-12-24 03:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-12-16 15:53:00"
+    }
   ]
 }

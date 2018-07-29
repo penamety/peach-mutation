@@ -25,5 +25,51 @@
   ],
   "artist_names": [
     "Arne"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2013-12-19 09:20:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2013-12-27 18:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-08 22:12:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2014-04-01 18:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-04-18 23:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-07 03:06:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-12-28 08:15:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-01-30 21:50:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2017-02-21 18:24:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2017-05-24 17:42:00"
+    },
+    {
+      "user": "silok",
+      "when": "2018-01-28 12:51:00"
+    }
   ]
 }

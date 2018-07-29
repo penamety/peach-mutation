@@ -19,5 +19,19 @@
   "info": "Dupe of [queue]13145[/queue]",
   "last_scraped": "2018-05-23 10:24:19",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "silok",
+      "when": "2011-11-07 19:22:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-01-12 11:46:00"
+    },
+    {
+      "user": "Galancy",
+      "when": "2012-08-28 00:00:00"
+    }
+  ]
 }

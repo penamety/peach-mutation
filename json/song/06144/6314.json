@@ -16,5 +16,19 @@
   "info": "Dupe of [song]2285[/song]",
   "last_scraped": "2018-05-22 20:19:40",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-02-16 06:30:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-02 02:33:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2011-08-03 11:02:00"
+    }
+  ]
 }

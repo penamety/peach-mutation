@@ -20,5 +20,15 @@
   "source_id": 12,
   "source": "Diskmag",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "arrakis",
+      "when": "2011-07-17 09:04:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2011-09-23 04:06:00"
+    }
+  ]
 }

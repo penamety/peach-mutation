@@ -24,5 +24,131 @@
   ],
   "artist_names": [
     "Linus"
+  ],
+  "requests": [
+    {
+      "user": "Andersson",
+      "when": "2011-02-13 01:43:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2011-02-27 04:00:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2011-03-21 20:21:00"
+    },
+    {
+      "user": "Tobbeo",
+      "when": "2011-04-09 15:55:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2011-04-25 14:24:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2011-05-27 10:20:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2011-06-14 10:57:00"
+    },
+    {
+      "user": "Stormdragonblue",
+      "when": "2011-07-13 11:13:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2011-08-07 00:05:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2011-08-31 10:04:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2011-09-23 17:49:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2011-10-16 13:38:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2011-11-14 15:36:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-01-30 06:54:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-04-26 22:09:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2012-06-07 07:30:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-08-04 00:47:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-09-01 01:17:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2012-10-03 14:26:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-02-12 03:19:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2013-04-07 00:53:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2013-10-16 12:13:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-04-12 20:55:00"
+    },
+    {
+      "user": "jinx",
+      "when": "2015-01-29 09:52:00"
+    },
+    {
+      "user": "titus",
+      "when": "2015-08-31 12:04:00"
+    },
+    {
+      "user": "codehead",
+      "when": "2015-11-10 12:32:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-29 17:51:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-04-28 11:54:00"
+    },
+    {
+      "user": "Whitelabel",
+      "when": "2017-11-11 07:24:00"
+    },
+    {
+      "user": "Whitelabel",
+      "when": "2018-01-21 14:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-06-08 16:41:00"
+    }
   ]
 }

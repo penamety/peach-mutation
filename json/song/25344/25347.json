@@ -22,5 +22,51 @@
   ],
   "artist_names": [
     "TDK"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-06-06 13:13:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-01-18 04:40:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-07-30 01:01:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-18 08:06:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-08-21 06:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-02-25 01:24:00"
+    },
+    {
+      "user": "williwucher",
+      "when": "2014-05-27 12:29:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-06-12 00:32:00"
+    },
+    {
+      "user": "atom32k",
+      "when": "2016-02-04 12:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-07-04 00:16:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-07-16 09:42:00"
+    }
   ]
 }

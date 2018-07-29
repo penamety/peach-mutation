@@ -25,5 +25,39 @@
   ],
   "artist_names": [
     "Tim Wright"
+  ],
+  "requests": [
+    {
+      "user": "arab",
+      "when": "2017-03-23 09:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-04-11 05:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-28 13:35:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-07-30 07:43:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-10-14 15:55:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-03 14:22:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-14 10:02:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-18 10:01:00"
+    }
   ]
 }

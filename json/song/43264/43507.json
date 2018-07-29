@@ -26,5 +26,55 @@
   ],
   "artist_names": [
     "serpent"
+  ],
+  "requests": [
+    {
+      "user": "Rapture",
+      "when": "2016-10-08 18:00:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-10-24 14:26:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-12 09:25:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-01 23:13:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-17 14:40:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-12 13:29:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-06 16:09:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-03-27 19:41:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-05-18 20:48:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2017-07-06 14:49:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-11-28 08:02:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-04-05 14:59:00"
+    }
   ]
 }

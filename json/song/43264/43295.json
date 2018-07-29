@@ -26,5 +26,43 @@
   ],
   "artist_names": [
     "Rock"
+  ],
+  "requests": [
+    {
+      "user": "Bobik",
+      "when": "2016-08-14 18:58:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-08-23 15:29:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-09-07 08:45:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-09-28 13:37:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-10-31 15:13:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-28 16:39:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-28 15:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-09 05:07:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-01-06 13:11:00"
+    }
   ]
 }

@@ -21,5 +21,79 @@
   ],
   "artist_names": [
     "A-Lin"
+  ],
+  "requests": [
+    {
+      "user": "Yohabro",
+      "when": "2013-09-10 17:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-04 14:09:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-11-18 13:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-09 01:18:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2014-03-12 01:09:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2014-05-07 02:05:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2014-05-22 08:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-08-04 01:29:00"
+    },
+    {
+      "user": "Spiral",
+      "when": "2014-12-04 14:32:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-05-18 04:01:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-11 12:58:00"
+    },
+    {
+      "user": "Spiral",
+      "when": "2015-10-05 14:28:00"
+    },
+    {
+      "user": "zeograd",
+      "when": "2016-02-19 15:43:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-03-19 20:13:00"
+    },
+    {
+      "user": "yota7_13",
+      "when": "2016-08-21 03:27:00"
+    },
+    {
+      "user": "Spiral",
+      "when": "2016-09-12 15:49:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2016-10-25 00:03:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-05-14 00:56:00"
+    }
   ]
 }

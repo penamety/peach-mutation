@@ -25,5 +25,51 @@
   ],
   "artist_names": [
     "MRLB"
+  ],
+  "requests": [
+    {
+      "user": "silok",
+      "when": "2012-04-09 10:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-12 14:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-03-14 01:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-07 00:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-03 09:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-14 22:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-12-15 07:20:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-07-22 13:25:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-05-03 06:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-09-16 18:20:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-03-27 12:49:00"
+    }
   ]
 }

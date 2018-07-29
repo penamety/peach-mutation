@@ -16,5 +16,63 @@
   "info": "Dupe of [queue]5398[/queue]",
   "last_scraped": "2018-05-22 22:19:39",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "dang",
+      "when": "2011-02-19 02:48:00"
+    },
+    {
+      "user": "dang",
+      "when": "2011-03-05 01:20:00"
+    },
+    {
+      "user": "dang",
+      "when": "2011-03-20 05:34:00"
+    },
+    {
+      "user": "SJD",
+      "when": "2011-04-03 06:59:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2011-05-03 09:26:00"
+    },
+    {
+      "user": "dang",
+      "when": "2011-05-22 20:29:00"
+    },
+    {
+      "user": "SJD",
+      "when": "2011-07-04 02:22:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2011-07-31 13:09:00"
+    },
+    {
+      "user": "cannonfodder",
+      "when": "2011-08-24 23:08:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-11-14 21:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-04-30 06:42:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-06-10 18:24:00"
+    },
+    {
+      "user": "dang",
+      "when": "2012-07-22 02:18:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-09-08 08:32:00"
+    }
+  ]
 }

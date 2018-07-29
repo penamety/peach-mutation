@@ -26,5 +26,43 @@
   ],
   "artist_names": [
     "YET11"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2017-01-20 11:04:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-06 09:52:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-03-13 08:15:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-06-11 14:15:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2017-09-29 19:50:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-02 20:21:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2018-01-07 08:03:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2018-02-22 05:30:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2018-05-10 06:27:00"
+    }
   ]
 }

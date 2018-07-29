@@ -25,5 +25,79 @@
   ],
   "artist_names": [
     "Shinobi"
+  ],
+  "requests": [
+    {
+      "user": "sqrmax",
+      "when": "2013-04-01 08:00:00"
+    },
+    {
+      "user": "Sensei",
+      "when": "2013-05-03 12:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-12 06:22:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2013-07-29 19:52:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2013-09-13 16:14:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-11-01 08:11:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2014-02-27 01:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-05-04 09:13:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-06-07 04:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-09-12 23:47:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-05 13:11:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-09-05 21:30:00"
+    },
+    {
+      "user": "Spiral",
+      "when": "2015-10-28 14:29:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2016-04-23 10:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-25 04:53:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-11-26 03:20:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-01-15 04:44:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2018-02-03 14:02:00"
+    }
   ]
 }

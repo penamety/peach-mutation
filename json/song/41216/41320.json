@@ -27,5 +27,55 @@
   "artist_names": [
     "!cube",
     "Prob"
+  ],
+  "requests": [
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-12-16 16:40:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-12-29 18:21:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2015-02-03 06:55:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2015-02-26 04:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-04-14 19:09:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2015-07-18 21:34:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-05 08:10:00"
+    },
+    {
+      "user": "zoner",
+      "when": "2016-06-24 19:04:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2016-10-04 19:09:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-20 20:05:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-09 07:46:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-01-29 11:29:00"
+    }
   ]
 }

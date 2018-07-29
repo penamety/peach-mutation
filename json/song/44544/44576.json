@@ -22,5 +22,31 @@
   ],
   "artist_names": [
     "Vogue"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2017-12-31 21:20:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-19 05:39:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-08 05:26:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-02-27 08:51:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-05 04:57:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-05-16 11:51:00"
+    }
   ]
 }

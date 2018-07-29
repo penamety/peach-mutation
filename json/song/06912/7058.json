@@ -15,5 +15,27 @@
   "info": "Dupe of [queue]33850[/queue]",
   "last_scraped": "2018-05-23 06:31:34",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-06-25 18:57:00"
+    },
+    {
+      "user": "maep",
+      "when": "2011-11-13 13:51:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2011-12-09 03:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-08-12 08:09:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-02-14 13:46:00"
+    }
+  ]
 }

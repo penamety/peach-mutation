@@ -27,5 +27,51 @@
   "artist_names": [
     "Carlos",
     "Zipp [se]"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-04-02 06:11:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2011-08-11 03:49:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-13 17:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-28 13:35:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-17 04:05:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-02-14 03:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-31 16:18:00"
+    },
+    {
+      "user": "essential",
+      "when": "2014-08-13 11:54:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-04-03 09:17:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-09-17 06:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-11 13:56:00"
+    }
   ]
 }

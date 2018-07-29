@@ -21,5 +21,39 @@
   ],
   "artist_names": [
     "Groove"
+  ],
+  "requests": [
+    {
+      "user": "sqrmax",
+      "when": "2011-10-02 09:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-17 18:04:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-07 07:24:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-09-07 12:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-12-08 03:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-23 01:37:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-04-01 02:14:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2017-04-11 18:31:00"
+    }
   ]
 }

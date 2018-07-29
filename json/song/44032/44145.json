@@ -25,5 +25,39 @@
   ],
   "artist_names": [
     "XTD"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2017-06-24 19:00:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-06-29 05:20:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-07-08 20:19:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-08-18 09:35:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-10-30 01:20:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-11 04:49:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-15 07:22:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-17 18:39:00"
+    }
   ]
 }

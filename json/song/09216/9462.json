@@ -23,5 +23,39 @@
   ],
   "artist_names": [
     "AnaMark"
+  ],
+  "requests": [
+    {
+      "user": "SPACE",
+      "when": "2012-03-03 16:08:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-05-30 23:45:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-07-06 22:35:00"
+    },
+    {
+      "user": "funnyn8",
+      "when": "2012-12-30 23:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-16 23:41:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-01-23 02:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-01 03:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-11 09:11:00"
+    }
   ]
 }

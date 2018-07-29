@@ -22,5 +22,395 @@
   ],
   "artist_names": [
     "Jeff"
+  ],
+  "requests": [
+    {
+      "user": "maep",
+      "when": "2011-02-23 15:57:00"
+    },
+    {
+      "user": "Starbreaker",
+      "when": "2011-03-12 08:46:00"
+    },
+    {
+      "user": "Starbreaker",
+      "when": "2011-03-30 01:01:00"
+    },
+    {
+      "user": "Starbreaker",
+      "when": "2011-04-17 12:02:00"
+    },
+    {
+      "user": "uridium",
+      "when": "2011-05-03 14:20:00"
+    },
+    {
+      "user": "uridium",
+      "when": "2011-05-19 05:45:00"
+    },
+    {
+      "user": "Starbreaker",
+      "when": "2011-06-04 00:54:00"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2011-06-27 18:10:00"
+    },
+    {
+      "user": "Starbreaker",
+      "when": "2011-07-23 18:08:00"
+    },
+    {
+      "user": "sLASH",
+      "when": "2011-08-22 08:25:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2011-09-22 20:24:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2011-10-20 09:18:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2011-11-04 21:57:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2011-11-25 09:10:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2011-12-15 09:53:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-01-08 13:19:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-02-01 12:25:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2012-02-28 18:15:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-03-24 20:43:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-04-18 10:40:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-05-15 12:08:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-06-08 23:51:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2012-07-05 13:50:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2012-07-31 09:13:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2012-08-29 16:23:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2012-09-25 13:05:00"
+    },
+    {
+      "user": "minus",
+      "when": "2012-10-21 15:27:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2012-11-15 10:04:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-12-14 10:04:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2013-01-09 10:29:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2013-02-06 23:07:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-03-09 12:26:00"
+    },
+    {
+      "user": "hyde",
+      "when": "2013-04-15 21:35:00"
+    },
+    {
+      "user": "FroggyMe",
+      "when": "2013-05-22 05:05:00"
+    },
+    {
+      "user": "minus",
+      "when": "2013-06-28 19:33:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2013-08-06 16:59:00"
+    },
+    {
+      "user": "Galancy",
+      "when": "2013-08-08 07:47:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2013-09-13 18:16:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2013-10-22 14:15:00"
+    },
+    {
+      "user": "deot",
+      "when": "2013-11-26 08:24:00"
+    },
+    {
+      "user": "minus",
+      "when": "2013-12-30 21:51:00"
+    },
+    {
+      "user": "tas",
+      "when": "2014-02-25 08:40:00"
+    },
+    {
+      "user": "maep",
+      "when": "2014-03-31 16:25:00"
+    },
+    {
+      "user": "tas",
+      "when": "2014-04-15 08:18:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-05-01 13:54:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2014-05-16 09:44:00"
+    },
+    {
+      "user": "jxx",
+      "when": "2014-07-05 17:18:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2014-07-28 12:55:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2014-08-12 08:04:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2014-08-28 08:37:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2014-09-09 13:33:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2014-10-20 14:24:00"
+    },
+    {
+      "user": "SoanoS",
+      "when": "2014-11-08 00:38:00"
+    },
+    {
+      "user": "jinx",
+      "when": "2014-11-25 16:54:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2014-12-08 08:32:00"
+    },
+    {
+      "user": "jinx",
+      "when": "2014-12-22 11:12:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2015-01-05 13:41:00"
+    },
+    {
+      "user": "jinx",
+      "when": "2015-01-29 10:42:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2015-02-24 09:12:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-03-15 20:13:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-04-10 21:11:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2015-05-08 09:43:00"
+    },
+    {
+      "user": "yzi",
+      "when": "2015-07-03 14:47:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2015-10-12 11:28:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2015-10-26 13:16:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2015-11-11 15:33:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2015-12-08 10:07:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2015-12-30 11:05:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2016-01-11 08:56:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2016-02-08 09:10:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2016-02-22 09:36:00"
+    },
+    {
+      "user": "Siegfried",
+      "when": "2016-03-14 18:24:00"
+    },
+    {
+      "user": "tas",
+      "when": "2016-04-05 07:43:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2016-04-19 09:41:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-05-24 19:29:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2016-06-13 14:02:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-28 05:30:00"
+    },
+    {
+      "user": "Triton",
+      "when": "2016-07-28 12:31:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2016-08-12 15:12:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2016-08-26 11:15:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2016-09-15 21:09:00"
+    },
+    {
+      "user": "sdjm",
+      "when": "2016-10-07 20:21:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2016-12-04 17:14:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2016-12-21 12:16:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-01-15 23:36:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2017-02-09 11:28:00"
+    },
+    {
+      "user": "morgium",
+      "when": "2017-03-10 14:09:00"
+    },
+    {
+      "user": "pipe",
+      "when": "2017-05-22 21:39:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2017-06-07 17:45:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2017-06-13 11:15:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2017-06-22 11:30:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2018-01-02 18:05:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2018-01-26 08:12:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-02-12 04:03:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2018-03-06 10:13:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2018-04-05 11:06:00"
+    },
+    {
+      "user": "Archmage",
+      "when": "2018-05-07 08:23:00"
+    }
   ]
 }

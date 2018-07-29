@@ -18,5 +18,39 @@
   ],
   "artist_names": [
     "Lord Pegasus"
+  ],
+  "requests": [
+    {
+      "user": "vanward",
+      "when": "2011-08-15 12:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-10-24 01:18:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-02-03 05:58:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-08-23 09:12:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-11-12 17:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-06 20:01:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-12-23 14:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-12-18 19:28:00"
+    }
   ]
 }

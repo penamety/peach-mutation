@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Awesome"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-04-22 04:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-06-18 04:58:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2012-02-16 22:15:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-04-29 11:29:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-22 03:39:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-03-15 07:43:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2016-10-11 17:27:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-08-08 23:21:00"
+    }
   ]
 }

@@ -20,5 +20,11 @@
   "source_id": 2,
   "source": "Demo",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "prowler",
+      "when": "2011-02-22 13:27:00"
+    }
+  ]
 }

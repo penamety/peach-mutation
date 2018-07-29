@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Ferrara"
+  ],
+  "requests": [
+    {
+      "user": "pipe",
+      "when": "2011-05-01 02:41:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-02-20 14:19:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-05-20 05:41:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-10-10 15:45:00"
+    },
+    {
+      "user": "neural",
+      "when": "2014-02-18 10:52:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2015-12-18 12:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-09-17 07:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-05 07:49:00"
+    }
   ]
 }

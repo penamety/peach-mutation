@@ -24,5 +24,43 @@
   ],
   "artist_names": [
     "GTO"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-09-19 13:55:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-01-06 10:45:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-07-21 07:43:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-10-30 13:01:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-04-30 05:18:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-08-31 17:31:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-29 00:51:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-10-01 22:16:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-05-13 11:32:00"
+    }
   ]
 }

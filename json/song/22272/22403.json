@@ -22,5 +22,51 @@
   ],
   "artist_names": [
     "Oliver"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-02-27 21:28:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-05-08 07:44:00"
+    },
+    {
+      "user": "Sensei",
+      "when": "2011-10-03 10:39:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-11-19 14:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-10-04 05:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-07 02:32:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-07-12 06:00:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-02-11 21:17:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-07-12 23:56:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-03-20 12:38:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-03-14 03:53:00"
+    }
   ]
 }

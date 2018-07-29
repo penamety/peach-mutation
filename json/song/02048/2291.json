@@ -21,5 +21,31 @@
   ],
   "artist_names": [
     "Einstein"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2012-06-28 13:30:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-06-11 02:37:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-09-06 03:01:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-06-22 14:46:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-11-25 15:37:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-07-27 04:15:00"
+    }
   ]
 }

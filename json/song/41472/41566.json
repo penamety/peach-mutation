@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "Marty Party"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2015-01-23 23:28:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-02-06 07:36:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-02-19 15:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-07 11:45:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-07-31 22:58:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-12-26 11:23:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-10-12 09:12:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-01 12:50:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-04-28 11:14:00"
+    }
   ]
 }

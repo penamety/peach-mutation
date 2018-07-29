@@ -20,5 +20,39 @@
   ],
   "artist_names": [
     "Trixie"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2016-12-20 22:37:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-01-12 07:37:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-07 09:14:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-03-10 07:39:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-08-30 10:54:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-11-02 12:21:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-31 23:30:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-16 07:01:00"
+    }
   ]
 }

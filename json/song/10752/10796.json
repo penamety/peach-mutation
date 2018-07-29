@@ -23,5 +23,39 @@
   ],
   "artist_names": [
     "Chuck Biscuits"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-09-10 11:00:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-21 12:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-06 03:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-10 22:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-09-21 13:43:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-12 06:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-20 08:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-02-07 02:48:00"
+    }
   ]
 }

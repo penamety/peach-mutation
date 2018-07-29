@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "Flex"
+  ],
+  "requests": [
+    {
+      "user": "Buzzer",
+      "when": "2017-11-17 07:23:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-04 20:21:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-21 08:43:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-07 12:13:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-26 22:15:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-13 04:19:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-03 08:08:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-01 12:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-05-01 14:49:00"
+    }
   ]
 }

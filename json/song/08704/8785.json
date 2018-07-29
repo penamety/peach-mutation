@@ -24,5 +24,79 @@
   ],
   "artist_names": [
     "Rob Hubbard"
+  ],
+  "requests": [
+    {
+      "user": "arrakis",
+      "when": "2011-03-27 10:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-04-10 06:20:00"
+    },
+    {
+      "user": "silok",
+      "when": "2011-06-08 18:15:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-07-14 19:52:00"
+    },
+    {
+      "user": "dox",
+      "when": "2011-08-26 20:22:00"
+    },
+    {
+      "user": "crrr",
+      "when": "2012-09-26 23:56:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-06-13 13:23:00"
+    },
+    {
+      "user": "jakov",
+      "when": "2013-07-31 11:15:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-09-21 08:58:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-01-19 18:41:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-04-06 11:05:00"
+    },
+    {
+      "user": "SoanoS",
+      "when": "2015-03-21 01:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-10-03 08:45:00"
+    },
+    {
+      "user": "nikamota",
+      "when": "2016-01-08 23:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-05-11 02:55:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2017-04-16 04:07:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2017-07-23 01:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-03-20 04:08:00"
+    }
   ]
 }

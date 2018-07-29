@@ -27,5 +27,39 @@
   "artist_names": [
     "Triace",
     "Vedder"
+  ],
+  "requests": [
+    {
+      "user": "franz_koopa",
+      "when": "2017-07-30 19:51:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2017-08-04 19:39:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-08-12 15:15:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-08-25 16:50:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-11-03 13:02:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-27 07:09:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-25 16:02:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-12 04:44:00"
+    }
   ]
 }

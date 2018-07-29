@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "Ben Daglish"
+  ],
+  "requests": [
+    {
+      "user": "arrakis",
+      "when": "2011-06-20 22:05:00"
+    },
+    {
+      "user": "Galancy",
+      "when": "2011-11-26 19:13:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-06 09:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-27 12:05:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-10-05 14:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-20 01:53:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-02-09 14:37:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2018-03-04 05:02:00"
+    },
+    {
+      "user": "Wolfgang",
+      "when": "2018-06-10 04:32:00"
+    }
   ]
 }

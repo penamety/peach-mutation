@@ -27,5 +27,39 @@
   "artist_names": [
     "AdDe",
     "Fup"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2014-08-15 09:24:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-08-24 15:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-02 21:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-12-06 23:16:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-23 06:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-12-02 01:46:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-20 17:16:00"
+    },
+    {
+      "user": "64odore",
+      "when": "2017-05-07 16:43:00"
+    }
   ]
 }

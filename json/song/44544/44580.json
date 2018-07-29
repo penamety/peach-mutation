@@ -25,5 +25,35 @@
   ],
   "artist_names": [
     "X-Agon"
+  ],
+  "requests": [
+    {
+      "user": "ViThor",
+      "when": "2017-12-31 20:35:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-17 16:44:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2018-02-05 14:54:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-24 10:16:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-02 06:27:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2018-05-07 19:53:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-06-12 08:58:00"
+    }
   ]
 }

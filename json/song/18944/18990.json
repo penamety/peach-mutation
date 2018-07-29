@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Hamster Alliance"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-03-01 16:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-06-23 07:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-16 05:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-09-24 05:17:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-03 00:52:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-09-28 21:19:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-04-09 07:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-09-24 02:33:00"
+    }
   ]
 }

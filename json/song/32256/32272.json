@@ -22,5 +22,59 @@
   ],
   "artist_names": [
     "Impulse"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-04-05 12:01:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-03-08 19:03:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-04-25 18:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-05 22:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-09-07 03:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-08-03 12:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-05 08:02:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-07 04:23:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-02-18 06:41:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-02-08 03:12:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-21 05:48:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-11-28 03:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-02-08 08:26:00"
+    }
   ]
 }

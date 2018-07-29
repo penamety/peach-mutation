@@ -24,5 +24,55 @@
   ],
   "artist_names": [
     "Wacek"
+  ],
+  "requests": [
+    {
+      "user": "arab",
+      "when": "2017-02-10 15:45:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-25 19:53:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-03-22 06:57:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-05-18 21:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-08-12 13:22:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-08-21 07:18:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-08-29 11:14:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-10-25 07:59:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2018-01-12 17:37:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2018-02-18 12:57:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2018-04-07 22:16:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2018-05-18 16:24:00"
+    }
   ]
 }

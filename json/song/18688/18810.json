@@ -19,5 +19,63 @@
   ],
   "artist_names": [
     "Graff"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-04-23 11:38:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2011-05-18 03:57:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-01-16 17:04:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-02-12 16:05:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-03-20 03:21:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-05-05 01:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-15 00:20:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-02-10 07:07:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-11-22 07:01:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2015-02-11 05:05:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-04-12 16:47:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-10-05 23:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-18 08:56:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-12-23 00:42:00"
+    }
   ]
 }

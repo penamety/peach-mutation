@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "Celtic"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-03-28 07:35:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-14 10:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-06-05 01:05:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2013-04-16 13:40:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-09-21 23:45:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-16 04:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-10 09:49:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-06-13 06:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-08 16:04:00"
+    }
   ]
 }

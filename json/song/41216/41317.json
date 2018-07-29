@@ -24,5 +24,43 @@
   ],
   "artist_names": [
     "Loonie"
+  ],
+  "requests": [
+    {
+      "user": "Fireball",
+      "when": "2014-12-16 11:08:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2015-02-21 10:03:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2015-03-16 19:04:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-04-11 09:53:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-04-24 12:00:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-08-30 16:40:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-26 13:27:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-09 09:00:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-13 06:35:00"
+    }
   ]
 }

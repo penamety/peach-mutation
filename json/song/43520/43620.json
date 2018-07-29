@@ -24,5 +24,43 @@
   ],
   "artist_names": [
     "Malmen"
+  ],
+  "requests": [
+    {
+      "user": "zoner",
+      "when": "2016-12-06 02:02:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-27 03:44:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-17 17:25:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-02-09 13:03:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-03-06 16:23:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-01 06:16:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2017-07-19 05:15:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2017-09-14 22:01:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-02-15 02:34:00"
+    }
   ]
 }

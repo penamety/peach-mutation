@@ -19,5 +19,55 @@
   ],
   "artist_names": [
     "Banana"
+  ],
+  "requests": [
+    {
+      "user": "Bornheim",
+      "when": "2011-04-11 00:36:00"
+    },
+    {
+      "user": "Bornheim",
+      "when": "2011-05-30 17:49:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-02 23:07:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-10-21 04:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-17 15:39:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-12 05:35:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-03-15 03:28:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-29 23:43:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2015-06-05 19:59:00"
+    },
+    {
+      "user": "jxx",
+      "when": "2015-08-01 07:45:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-12-31 11:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-25 21:08:00"
+    }
   ]
 }

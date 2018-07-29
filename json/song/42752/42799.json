@@ -25,5 +25,47 @@
   ],
   "artist_names": [
     "EatMe"
+  ],
+  "requests": [
+    {
+      "user": "Spiral",
+      "when": "2016-02-02 11:04:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-02-13 14:42:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-04-19 09:24:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-06-24 09:21:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-08-27 15:25:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-01 15:34:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-13 18:23:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-02-12 22:15:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-04-08 07:57:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2017-08-11 16:33:00"
+    }
   ]
 }

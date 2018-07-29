@@ -23,5 +23,39 @@
   ],
   "artist_names": [
     "Dan"
+  ],
+  "requests": [
+    {
+      "user": "Mystra",
+      "when": "2011-10-26 08:32:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-01-28 13:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-03-29 02:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-05 01:21:00"
+    },
+    {
+      "user": "ajwen",
+      "when": "2013-10-24 11:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-09-24 11:47:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-02-22 11:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-01-13 04:53:00"
+    }
   ]
 }

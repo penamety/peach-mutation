@@ -18,5 +18,55 @@
   ],
   "artist_names": [
     "Chotaire"
+  ],
+  "requests": [
+    {
+      "user": "Arne",
+      "when": "2011-07-17 20:01:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-18 00:59:00"
+    },
+    {
+      "user": "ypnos",
+      "when": "2012-10-09 00:40:00"
+    },
+    {
+      "user": "vtuulos",
+      "when": "2013-04-17 00:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-12 01:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-12 22:57:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-03-19 03:57:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-04-09 15:54:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-08 00:37:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-01-27 05:08:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2017-11-17 10:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-04 03:30:00"
+    }
   ]
 }

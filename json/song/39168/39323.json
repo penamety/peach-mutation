@@ -22,5 +22,51 @@
   ],
   "artist_names": [
     "Andy [FI]"
+  ],
+  "requests": [
+    {
+      "user": "Jerry",
+      "when": "2013-09-11 11:19:00"
+    },
+    {
+      "user": "Dakota",
+      "when": "2013-10-06 20:27:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-11-15 14:45:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-01-05 17:53:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2014-04-10 06:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-06 00:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-04-08 03:43:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-22 08:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-21 21:40:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-05-19 00:47:00"
+    },
+    {
+      "user": "nyingen",
+      "when": "2018-01-15 00:45:00"
+    }
   ]
 }

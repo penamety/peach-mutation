@@ -25,5 +25,51 @@
   ],
   "artist_names": [
     "Walkman"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2012-10-23 09:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-20 17:39:00"
+    },
+    {
+      "user": "Sensei",
+      "when": "2013-01-10 14:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-03-18 03:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-26 02:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-11-28 20:53:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-25 14:48:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2014-07-02 20:18:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2015-01-14 22:51:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-04-22 11:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-09-27 17:48:00"
+    }
   ]
 }

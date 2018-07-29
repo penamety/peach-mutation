@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "Mr Fancy"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2017-06-28 05:51:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-07-07 19:21:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-07-23 17:18:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-08-16 13:39:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-09-12 01:48:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-02 16:39:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-14 10:09:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-18 15:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-30 07:03:00"
+    }
   ]
 }

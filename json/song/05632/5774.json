@@ -20,5 +20,95 @@
   ],
   "artist_names": [
     "Psycho"
+  ],
+  "requests": [
+    {
+      "user": "communicator",
+      "when": "2011-04-11 02:45:00"
+    },
+    {
+      "user": "matsim",
+      "when": "2011-05-07 01:42:00"
+    },
+    {
+      "user": "communicator",
+      "when": "2011-06-08 01:38:00"
+    },
+    {
+      "user": "matsim",
+      "when": "2011-07-09 02:39:00"
+    },
+    {
+      "user": "matsim",
+      "when": "2011-08-06 04:23:00"
+    },
+    {
+      "user": "matsim",
+      "when": "2011-12-25 04:47:00"
+    },
+    {
+      "user": "matsim",
+      "when": "2012-02-04 03:08:00"
+    },
+    {
+      "user": "communicator",
+      "when": "2012-04-02 01:43:00"
+    },
+    {
+      "user": "communicator",
+      "when": "2012-05-02 01:28:00"
+    },
+    {
+      "user": "communicator",
+      "when": "2012-06-14 00:04:00"
+    },
+    {
+      "user": "communicator",
+      "when": "2012-07-24 02:08:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-08-25 05:58:00"
+    },
+    {
+      "user": "communicator",
+      "when": "2012-10-01 01:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-01 09:27:00"
+    },
+    {
+      "user": "Erk",
+      "when": "2013-12-23 15:24:00"
+    },
+    {
+      "user": "communicator",
+      "when": "2014-01-20 01:19:00"
+    },
+    {
+      "user": "matsim",
+      "when": "2015-01-03 05:27:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-02-08 04:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-09 21:09:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-03-07 14:59:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-04-17 09:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-05-27 22:26:00"
+    }
   ]
 }

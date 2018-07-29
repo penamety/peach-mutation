@@ -14,5 +14,19 @@
   "vote_avg": 3.6667,
   "last_scraped": "2018-05-23 03:45:45",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "Sensei",
+      "when": "2011-06-03 10:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2011-12-26 17:23:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2012-02-12 16:33:00"
+    }
+  ]
 }

@@ -18,5 +18,79 @@
   ],
   "artist_names": [
     "Dune"
+  ],
+  "requests": [
+    {
+      "user": "Flatline",
+      "when": "2011-06-12 22:18:00"
+    },
+    {
+      "user": "Flatline",
+      "when": "2011-08-20 01:30:00"
+    },
+    {
+      "user": "Flatline",
+      "when": "2012-01-07 14:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-05-07 04:01:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-06-13 06:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-17 15:13:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-11-14 01:46:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2014-01-27 21:01:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-06-08 04:09:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-12-30 22:16:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2015-12-12 20:28:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2016-03-10 22:50:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2016-07-02 10:36:00"
+    },
+    {
+      "user": "Flatline",
+      "when": "2016-12-29 00:18:00"
+    },
+    {
+      "user": "Flatline",
+      "when": "2017-01-30 22:47:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-12-16 05:24:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2018-02-24 23:36:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2018-05-10 06:10:00"
+    }
   ]
 }

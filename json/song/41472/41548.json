@@ -25,5 +25,55 @@
   "artist_names": [
     "Liam the Lemming",
     "Radix"
+  ],
+  "requests": [
+    {
+      "user": "BrittletheFly",
+      "when": "2015-01-12 10:30:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-01-22 20:29:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2015-03-31 22:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-04-21 02:20:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-05-09 13:51:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-30 22:32:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-02-17 22:59:00"
+    },
+    {
+      "user": "Flatline",
+      "when": "2016-12-23 16:29:00"
+    },
+    {
+      "user": "Flatline",
+      "when": "2017-02-01 23:49:00"
+    },
+    {
+      "user": "venttiili",
+      "when": "2017-03-06 10:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-04-17 08:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-02-07 07:21:00"
+    }
   ]
 }

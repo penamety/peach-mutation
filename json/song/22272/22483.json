@@ -18,5 +18,51 @@
   ],
   "artist_names": [
     "Oxbow"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-03-21 09:18:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-01-18 20:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-05-30 13:20:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-10-14 07:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-09 22:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-05 01:20:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-01-20 03:42:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-03 03:24:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-02-01 06:37:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-17 00:49:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2017-06-16 23:07:00"
+    }
   ]
 }

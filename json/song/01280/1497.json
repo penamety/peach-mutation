@@ -19,5 +19,43 @@
   ],
   "artist_names": [
     "David Filskov"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-08-12 01:02:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-01-11 22:29:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-05-23 07:41:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-09-09 15:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-07 09:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-11-16 08:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-12 09:07:00"
+    },
+    {
+      "user": "jxx",
+      "when": "2015-09-20 06:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-15 15:29:00"
+    }
   ]
 }

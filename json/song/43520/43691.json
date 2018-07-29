@@ -27,5 +27,39 @@
   "artist_names": [
     "Crome [de]",
     "Titus"
+  ],
+  "requests": [
+    {
+      "user": "trenki",
+      "when": "2017-01-12 12:42:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-29 09:40:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-21 16:22:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-03-16 06:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-21 06:32:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-11-15 05:03:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-03 11:30:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-12 20:17:00"
+    }
   ]
 }

@@ -26,5 +26,43 @@
   "artist_names": [
     "motherchip",
     "Starpath"
+  ],
+  "requests": [
+    {
+      "user": "Arne",
+      "when": "2015-09-03 06:28:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-09-18 21:30:00"
+    },
+    {
+      "user": "Spiral",
+      "when": "2015-10-09 11:29:00"
+    },
+    {
+      "user": "zilog",
+      "when": "2015-12-29 09:19:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-04-24 15:35:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-08-11 04:24:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-09 18:07:00"
+    },
+    {
+      "user": "SJD",
+      "when": "2016-12-31 20:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-11-11 22:19:00"
+    }
   ]
 }

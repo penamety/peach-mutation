@@ -25,5 +25,59 @@
   "artist_names": [
     "Merlin",
     "Soul"
+  ],
+  "requests": [
+    {
+      "user": "arrakis",
+      "when": "2011-06-05 19:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2011-11-25 12:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-12-21 03:26:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-06-02 00:44:00"
+    },
+    {
+      "user": "Korni",
+      "when": "2012-12-20 19:03:00"
+    },
+    {
+      "user": "jumped_sharl",
+      "when": "2013-04-07 21:37:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-08-11 08:21:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-02-01 05:58:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-10-02 02:40:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-05-20 00:26:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-06-07 22:40:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-12-18 09:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-17 16:07:00"
+    }
   ]
 }

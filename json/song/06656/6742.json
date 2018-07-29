@@ -18,5 +18,79 @@
   ],
   "artist_names": [
     "Stu taylor"
+  ],
+  "requests": [
+    {
+      "user": "MyO",
+      "when": "2011-03-04 20:12:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-08-31 03:16:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-10-16 09:31:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-02-18 06:29:00"
+    },
+    {
+      "user": "MyO",
+      "when": "2012-08-30 20:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-16 13:34:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-02-22 07:47:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-11-01 14:18:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-02-09 00:40:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2015-07-28 13:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-12-08 05:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-02-12 01:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-08-26 14:23:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-12-14 13:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-02-03 21:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-01-30 23:47:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-04-14 21:51:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-06-02 23:10:00"
+    }
   ]
 }

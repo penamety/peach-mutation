@@ -20,5 +20,39 @@
   ],
   "artist_names": [
     "Orange"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-03-21 09:54:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2012-01-11 12:22:00"
+    },
+    {
+      "user": "rockmonitor",
+      "when": "2012-05-13 22:01:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-10-23 06:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-08 00:58:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2013-12-09 16:29:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-14 10:15:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-01-30 11:21:00"
+    }
   ]
 }

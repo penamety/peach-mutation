@@ -20,5 +20,19 @@
   "source_id": 4,
   "source": "Compo Entry",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "maep",
+      "when": "2011-09-12 10:57:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2012-04-25 18:34:00"
+    },
+    {
+      "user": "TinGrill",
+      "when": "2012-09-24 12:59:00"
+    }
+  ]
 }

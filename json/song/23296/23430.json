@@ -21,5 +21,67 @@
   "artist_names": [
     "Jazz",
     "Reed"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-02-22 08:11:00"
+    },
+    {
+      "user": "shift",
+      "when": "2011-06-28 06:10:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-02-15 09:11:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-07-19 04:59:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-08-25 16:15:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-04-02 07:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-06-21 05:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-17 00:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-02 03:38:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-06-19 08:51:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-07-13 06:05:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-11-26 08:30:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-12-19 02:56:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-04-27 02:44:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-16 04:07:00"
+    }
   ]
 }

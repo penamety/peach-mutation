@@ -22,5 +22,35 @@
   ],
   "artist_names": [
     "Mad Max"
+  ],
+  "requests": [
+    {
+      "user": "rockmonitor",
+      "when": "2011-08-08 21:13:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2011-10-02 09:03:00"
+    },
+    {
+      "user": "rockmonitor",
+      "when": "2012-04-22 10:05:00"
+    },
+    {
+      "user": "rockmonitor",
+      "when": "2013-01-19 16:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-04 01:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-01-26 09:05:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-11-04 12:44:00"
+    }
   ]
 }

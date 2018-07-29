@@ -26,5 +26,79 @@
   "artist_names": [
     "Bug",
     "Jogeir"
+  ],
+  "requests": [
+    {
+      "user": "sqrmax",
+      "when": "2011-03-08 05:32:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-06-25 21:37:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-09-06 18:25:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-13 01:48:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-06-26 09:11:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-08-13 02:25:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-03-22 05:30:00"
+    },
+    {
+      "user": "Sketch",
+      "when": "2013-06-06 09:14:00"
+    },
+    {
+      "user": "Rapture",
+      "when": "2013-08-12 05:27:00"
+    },
+    {
+      "user": "Rapture",
+      "when": "2013-09-22 06:37:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-22 06:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-10 21:37:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-05-23 07:09:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-07-20 05:35:00"
+    },
+    {
+      "user": "directive0",
+      "when": "2014-08-18 21:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-05-17 03:21:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2017-04-10 16:33:00"
+    },
+    {
+      "user": "directive0",
+      "when": "2018-04-30 18:03:00"
+    }
   ]
 }

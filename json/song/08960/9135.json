@@ -22,5 +22,39 @@
   ],
   "artist_names": [
     "Aragorn"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-03-20 08:10:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-03-30 09:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-23 11:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-25 05:40:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-31 21:04:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-29 16:05:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-07-31 05:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-22 18:51:00"
+    }
   ]
 }

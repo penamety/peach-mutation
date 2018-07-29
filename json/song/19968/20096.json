@@ -18,5 +18,47 @@
   ],
   "artist_names": [
     "Karsten Koch"
+  ],
+  "requests": [
+    {
+      "user": "SPACE",
+      "when": "2011-12-13 05:46:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-03-01 22:05:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-06-07 07:07:00"
+    },
+    {
+      "user": "maep",
+      "when": "2013-01-11 13:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-08 03:21:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2013-11-11 18:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-07 14:08:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2015-12-08 15:54:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-03-05 03:05:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-15 02:55:00"
+    }
   ]
 }

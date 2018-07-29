@@ -25,5 +25,55 @@
   ],
   "artist_names": [
     "Stinsen"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2017-02-14 08:00:00"
+    },
+    {
+      "user": "venttiili",
+      "when": "2017-02-27 11:49:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2017-03-22 06:36:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-05-07 05:46:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2017-07-23 16:40:00"
+    },
+    {
+      "user": "ALPAidUS",
+      "when": "2017-11-06 07:20:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-31 20:07:00"
+    },
+    {
+      "user": "plc",
+      "when": "2018-01-18 11:50:00"
+    },
+    {
+      "user": "ALPAidUS",
+      "when": "2018-02-09 17:58:00"
+    },
+    {
+      "user": "plc",
+      "when": "2018-03-16 16:29:00"
+    },
+    {
+      "user": "pipe",
+      "when": "2018-04-21 17:25:00"
+    },
+    {
+      "user": "plc",
+      "when": "2018-05-22 19:56:00"
+    }
   ]
 }

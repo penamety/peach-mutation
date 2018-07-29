@@ -15,5 +15,15 @@
   "info": "Dupe of [song]22414[/song]",
   "last_scraped": "2018-05-23 02:10:13",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "wabe",
+      "when": "2011-02-28 06:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-25 07:02:00"
+    }
+  ]
 }

@@ -24,5 +24,455 @@
   ],
   "artist_names": [
     "POW"
+  ],
+  "requests": [
+    {
+      "user": "Antibyte",
+      "when": "2011-02-26 08:32:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2011-03-12 17:08:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2011-04-02 09:00:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2011-04-23 08:28:00"
+    },
+    {
+      "user": "MyO",
+      "when": "2011-06-11 16:38:00"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2011-07-22 22:40:00"
+    },
+    {
+      "user": "MyO",
+      "when": "2011-08-18 13:03:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2011-09-14 16:12:00"
+    },
+    {
+      "user": "MyO",
+      "when": "2011-10-08 08:33:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2011-10-30 09:20:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2011-12-02 07:29:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2011-12-27 15:52:00"
+    },
+    {
+      "user": "Chaykin",
+      "when": "2012-01-21 20:32:00"
+    },
+    {
+      "user": "Flatline",
+      "when": "2012-02-18 22:24:00"
+    },
+    {
+      "user": "MyO",
+      "when": "2012-03-17 09:15:00"
+    },
+    {
+      "user": "mu6k",
+      "when": "2012-04-12 21:09:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-05-07 07:35:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-06-02 08:00:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-07-01 17:07:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-07-26 21:03:00"
+    },
+    {
+      "user": "mu6k",
+      "when": "2012-08-20 19:51:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-09-15 08:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-10-10 00:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-03 06:54:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-11-26 19:42:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2012-12-19 19:10:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-01-15 19:43:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-02-11 18:38:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-03-16 09:18:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-04-14 09:06:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-05-16 19:42:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-06-19 18:51:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-07-26 10:07:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2013-09-03 07:17:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2013-10-09 05:26:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2013-11-14 05:09:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2013-12-19 20:04:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-01-18 20:07:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2014-03-04 07:13:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-04-12 18:29:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-05-01 08:06:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-08-17 17:13:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2014-10-30 05:23:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-11-15 18:32:00"
+    },
+    {
+      "user": "debarrb",
+      "when": "2014-11-30 05:08:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-12-20 12:10:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-01-01 16:54:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2015-01-20 00:36:00"
+    },
+    {
+      "user": "Chaykin",
+      "when": "2015-02-07 11:44:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-03-01 14:56:00"
+    },
+    {
+      "user": "debarrb",
+      "when": "2015-03-27 13:54:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2015-06-16 04:19:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-08-05 02:47:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-08-18 00:26:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-09-02 02:46:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-09-17 05:41:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-09-29 03:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-10-12 23:25:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-10-27 02:17:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-11-11 02:39:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-11-24 01:45:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-12-07 00:52:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-12-21 00:27:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-01-04 03:16:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-01-17 03:28:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-01-30 03:01:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-02-13 01:24:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-02-27 01:45:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-03-13 15:55:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-03-31 20:15:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-04-15 00:50:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-04-27 03:15:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-05-12 00:43:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-05-26 00:00:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2016-07-07 20:15:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-07-23 01:47:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-08-05 04:09:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-08-19 01:14:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-08-31 04:55:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-09-12 18:59:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-10-01 02:22:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-10-17 01:41:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-11-01 23:46:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-11-18 02:32:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-12-05 02:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-12-23 04:04:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-01-10 01:42:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-01-28 06:49:00"
+    },
+    {
+      "user": "silencer",
+      "when": "2017-02-17 03:39:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-03-08 01:25:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-03-26 07:19:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-04-25 20:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-05-24 04:02:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-05-30 02:55:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2017-06-02 01:10:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-06-24 04:26:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-07-10 04:35:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2017-07-24 17:04:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-08-18 03:45:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-09-03 03:11:00"
+    },
+    {
+      "user": "debarrb",
+      "when": "2017-09-17 13:55:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-10-01 15:55:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-10-09 06:56:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-10-26 01:24:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-11-12 05:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-12-02 02:13:00"
+    },
+    {
+      "user": "HappyDude",
+      "when": "2018-01-10 03:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-02-01 02:47:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2018-02-18 09:13:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2018-03-22 09:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-04-23 23:57:00"
+    },
+    {
+      "user": "silencer",
+      "when": "2018-05-23 00:50:00"
+    }
   ]
 }

@@ -18,5 +18,47 @@
   ],
   "artist_names": [
     "Keith303"
+  ],
+  "requests": [
+    {
+      "user": "neutron",
+      "when": "2011-03-18 14:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-03 08:19:00"
+    },
+    {
+      "user": "neutron",
+      "when": "2011-08-19 17:08:00"
+    },
+    {
+      "user": "neutron",
+      "when": "2011-09-27 11:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-30 15:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-09 05:57:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2016-03-11 00:18:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2016-07-02 01:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-17 01:29:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-03-18 10:25:00"
+    }
   ]
 }

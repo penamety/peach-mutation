@@ -19,5 +19,43 @@
   ],
   "artist_names": [
     "Cerror"
+  ],
+  "requests": [
+    {
+      "user": "Aetrin",
+      "when": "2012-03-04 20:30:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-06-10 08:45:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2013-03-18 10:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-09-15 04:37:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-17 05:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-12 22:54:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-09-14 03:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-15 23:34:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2018-04-30 14:53:00"
+    }
   ]
 }

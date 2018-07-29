@@ -23,5 +23,63 @@
   ],
   "artist_names": [
     "Jerry"
+  ],
+  "requests": [
+    {
+      "user": "Arne",
+      "when": "2013-08-22 18:24:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-09-15 19:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-25 17:07:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-12-12 09:53:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-01-09 10:23:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2014-03-29 14:54:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2014-10-23 14:29:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2015-03-01 11:34:00"
+    },
+    {
+      "user": "Spiral",
+      "when": "2015-12-02 10:44:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2015-12-20 07:45:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-02-11 22:12:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-04-08 21:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-04-30 02:48:00"
+    },
+    {
+      "user": "d_vibe",
+      "when": "2018-05-30 21:23:00"
+    }
   ]
 }

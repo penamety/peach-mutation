@@ -23,5 +23,47 @@
   ],
   "artist_names": [
     "DJ 3.14"
+  ],
+  "requests": [
+    {
+      "user": "PypeBros",
+      "when": "2011-04-06 12:31:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-10 06:01:00"
+    },
+    {
+      "user": "SampL",
+      "when": "2011-08-04 14:14:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-11-27 14:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-09 15:37:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-07-20 04:11:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2014-04-06 07:52:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2016-11-03 18:30:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-01-12 02:06:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-04-24 21:03:00"
+    }
   ]
 }

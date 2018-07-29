@@ -16,5 +16,31 @@
   "info": "Dupe of [song]7319[/song]",
   "last_scraped": "2018-05-23 03:16:37",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-02-25 18:37:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-04-08 05:26:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-17 01:01:00"
+    },
+    {
+      "user": "maep",
+      "when": "2012-03-06 14:47:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-09-13 10:45:00"
+    },
+    {
+      "user": "_wally",
+      "when": "2013-04-04 12:46:00"
+    }
+  ]
 }

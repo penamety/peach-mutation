@@ -24,5 +24,39 @@
   ],
   "artist_names": [
     "u4ia"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2015-12-31 15:01:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-01-09 22:04:00"
+    },
+    {
+      "user": "nahob",
+      "when": "2016-07-05 19:36:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2016-09-22 12:10:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-08 08:06:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-27 07:27:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-14 08:41:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-14 13:27:00"
+    }
   ]
 }

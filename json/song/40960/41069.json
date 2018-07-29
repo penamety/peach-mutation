@@ -24,5 +24,91 @@
   ],
   "artist_names": [
     "Stinsen"
+  ],
+  "requests": [
+    {
+      "user": "ViThor",
+      "when": "2014-09-30 20:14:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-10-09 12:17:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-10-26 13:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-12 06:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-29 10:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-12-14 06:44:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-12 01:05:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-04-11 19:56:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-07-11 20:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-05 03:22:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-03-25 20:30:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-04-16 18:28:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-07-20 00:35:00"
+    },
+    {
+      "user": "brm_",
+      "when": "2016-08-17 07:46:00"
+    },
+    {
+      "user": "moellpauk",
+      "when": "2016-10-01 00:33:00"
+    },
+    {
+      "user": "moellpauk",
+      "when": "2017-01-25 21:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "when": "2017-04-27 07:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-10-28 13:03:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2018-01-27 01:20:00"
+    },
+    {
+      "user": "silok",
+      "when": "2018-04-03 17:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-05-07 23:30:00"
+    }
   ]
 }

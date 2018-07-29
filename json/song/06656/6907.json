@@ -22,5 +22,79 @@
   ],
   "artist_names": [
     "DHS"
+  ],
+  "requests": [
+    {
+      "user": "ubbabar",
+      "when": "2011-12-10 19:14:00"
+    },
+    {
+      "user": "stokescomp",
+      "when": "2012-05-27 10:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-04 05:08:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-07-20 05:54:00"
+    },
+    {
+      "user": "lenny",
+      "when": "2013-12-23 06:17:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-03-30 08:59:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-12 00:05:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-02-24 06:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-05-19 21:23:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-10-10 07:53:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2016-01-19 14:37:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-11-04 06:24:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-02-05 21:05:00"
+    },
+    {
+      "user": "ck2nb",
+      "when": "2017-04-07 19:11:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-08-08 02:30:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-08-25 14:32:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-05-09 13:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-06-14 15:13:00"
+    }
   ]
 }

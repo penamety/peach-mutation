@@ -24,5 +24,43 @@
   ],
   "artist_names": [
     "SLL"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2017-11-05 10:02:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-11-21 18:59:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-10 14:12:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-29 08:30:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-17 17:07:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-02-06 14:43:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-02-26 08:58:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-02 06:44:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-05-15 06:42:00"
+    }
   ]
 }

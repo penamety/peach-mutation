@@ -19,5 +19,47 @@
   ],
   "artist_names": [
     "Maybebop"
+  ],
+  "requests": [
+    {
+      "user": "neutron",
+      "when": "2011-03-15 13:23:00"
+    },
+    {
+      "user": "lenny",
+      "when": "2011-11-22 06:01:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-10 02:22:00"
+    },
+    {
+      "user": "funnyn8",
+      "when": "2013-02-14 23:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-28 12:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-05-08 15:12:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-09-11 05:51:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-12 01:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-14 04:38:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2018-06-03 20:17:00"
+    }
   ]
 }

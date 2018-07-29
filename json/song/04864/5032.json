@@ -19,5 +19,51 @@
   ],
   "artist_names": [
     "Mr Young"
+  ],
+  "requests": [
+    {
+      "user": "Toto",
+      "when": "2011-05-21 23:21:00"
+    },
+    {
+      "user": "maep",
+      "when": "2011-09-12 18:47:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2011-10-23 13:24:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-03-05 02:10:00"
+    },
+    {
+      "user": "BeautyNerd",
+      "when": "2012-11-20 10:50:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-27 04:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-10-10 21:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-09-19 00:26:00"
+    },
+    {
+      "user": "SoanoS",
+      "when": "2014-12-18 19:34:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-04-28 10:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-09-30 11:34:00"
+    }
   ]
 }

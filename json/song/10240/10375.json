@@ -25,5 +25,51 @@
   ],
   "artist_names": [
     "Praiser"
+  ],
+  "requests": [
+    {
+      "user": "neutron",
+      "when": "2011-03-10 14:11:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-06 00:23:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-03-23 05:35:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-09-04 03:22:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-07-03 20:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-18 03:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-09-04 22:39:00"
+    },
+    {
+      "user": "yzi",
+      "when": "2015-11-25 13:57:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-09-15 08:52:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-11-24 10:01:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-06-14 04:14:00"
+    }
   ]
 }

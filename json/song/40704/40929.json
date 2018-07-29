@@ -21,5 +21,39 @@
   ],
   "artist_names": [
     "Kangaroo MusiQue"
+  ],
+  "requests": [
+    {
+      "user": "ViThor",
+      "when": "2014-09-01 07:32:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-09-12 09:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-03 11:31:00"
+    },
+    {
+      "user": "AtomicReindeer",
+      "when": "2014-11-28 06:21:00"
+    },
+    {
+      "user": "pzinz130",
+      "when": "2014-12-28 23:56:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-11-14 15:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-11-06 07:22:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2017-09-19 23:39:00"
+    }
   ]
 }

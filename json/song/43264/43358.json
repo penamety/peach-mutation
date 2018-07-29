@@ -21,5 +21,43 @@
   ],
   "artist_names": [
     "Phoenix [US]"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2016-08-20 19:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-08-29 07:48:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-09-18 13:08:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-10-13 09:46:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-20 10:41:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-01 05:08:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-09 09:59:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-24 22:24:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-12 05:24:00"
+    }
   ]
 }

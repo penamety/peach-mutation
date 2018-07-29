@@ -23,5 +23,43 @@
   ],
   "artist_names": [
     "XPEH"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2015-01-07 23:32:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-01-22 10:50:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-02-09 16:00:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-03 15:08:00"
+    },
+    {
+      "user": "fkey",
+      "when": "2015-05-19 08:16:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-07-10 18:45:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-06 16:42:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-01-03 00:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-08-17 17:08:00"
+    }
   ]
 }

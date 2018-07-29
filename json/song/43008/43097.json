@@ -26,5 +26,43 @@
   "artist_names": [
     "Drax",
     "Metal"
+  ],
+  "requests": [
+    {
+      "user": "Creonix",
+      "when": "2016-05-02 10:46:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-05-17 19:07:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-06-04 00:42:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-07-10 17:18:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-08-28 15:02:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-09-30 00:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2016-11-12 15:32:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2016-12-27 09:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-12-13 23:53:00"
+    }
   ]
 }

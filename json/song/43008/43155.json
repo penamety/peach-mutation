@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "T.o.B"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2016-05-27 09:09:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2016-06-11 14:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-07-18 10:23:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2016-08-26 22:03:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-10-08 08:18:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-15 22:50:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-20 15:07:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-06 04:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-04-04 23:33:00"
+    }
   ]
 }

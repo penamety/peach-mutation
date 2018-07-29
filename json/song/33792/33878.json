@@ -24,5 +24,51 @@
   ],
   "artist_names": [
     "Mr. Rose"
+  ],
+  "requests": [
+    {
+      "user": "Mystra",
+      "when": "2011-08-28 09:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-04 01:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-26 16:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-02 04:36:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-01-14 16:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-22 22:50:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-01-10 23:20:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-03-27 08:57:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2015-12-29 17:50:00"
+    },
+    {
+      "user": "Shinsakuto",
+      "when": "2016-09-11 12:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-10 11:14:00"
+    }
   ]
 }

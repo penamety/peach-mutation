@@ -24,5 +24,43 @@
   ],
   "artist_names": [
     "Rock"
+  ],
+  "requests": [
+    {
+      "user": "Buzzer",
+      "when": "2015-01-20 11:50:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-01-29 12:20:00"
+    },
+    {
+      "user": "maep",
+      "when": "2015-02-13 18:28:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-28 10:57:00"
+    },
+    {
+      "user": "Buzzer",
+      "when": "2015-05-07 11:34:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-04-17 05:25:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-10-12 09:47:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-01 11:47:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-14 06:12:00"
+    }
   ]
 }

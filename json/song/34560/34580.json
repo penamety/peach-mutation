@@ -23,5 +23,31 @@
   ],
   "artist_names": [
     "Cerror"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2011-11-22 17:59:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2011-12-14 01:20:00"
+    },
+    {
+      "user": "Triton",
+      "when": "2012-05-01 21:44:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2012-08-31 01:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-26 09:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-10 18:30:00"
+    }
   ]
 }

@@ -20,5 +20,43 @@
   ],
   "artist_names": [
     "Genetic Gemini"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-02-26 09:37:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-04-07 00:12:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-09-11 07:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-08 03:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-02-09 07:42:00"
+    },
+    {
+      "user": "BeautyNerd",
+      "when": "2015-01-04 18:34:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-11-30 23:45:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-01-11 08:33:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-02-15 13:26:00"
+    }
   ]
 }

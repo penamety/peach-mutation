@@ -22,5 +22,51 @@
   "artist_names": [
     "Chris Hülsbeck",
     "Rudolf Stember"
+  ],
+  "requests": [
+    {
+      "user": "blindpilot",
+      "when": "2011-03-29 03:45:00"
+    },
+    {
+      "user": "gri",
+      "when": "2012-03-03 18:25:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-07-18 02:26:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-30 08:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-22 03:57:00"
+    },
+    {
+      "user": "Rapture",
+      "when": "2014-04-11 09:19:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-10-10 00:54:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2014-12-25 09:46:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-11-09 13:53:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-03 12:54:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-01 05:25:00"
+    }
   ]
 }

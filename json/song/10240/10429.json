@@ -25,5 +25,415 @@
   ],
   "artist_names": [
     "Rob Hubbard"
+  ],
+  "requests": [
+    {
+      "user": "jolic",
+      "when": "2011-02-13 20:25:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-03-27 07:25:00"
+    },
+    {
+      "user": "jolic",
+      "when": "2011-04-14 02:17:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-05-01 08:11:00"
+    },
+    {
+      "user": "Bonstra",
+      "when": "2011-06-22 00:39:00"
+    },
+    {
+      "user": "vanward",
+      "when": "2011-08-15 09:30:00"
+    },
+    {
+      "user": "Khayde",
+      "when": "2011-09-09 18:23:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2011-12-23 11:36:00"
+    },
+    {
+      "user": "matsim",
+      "when": "2012-01-21 05:23:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-02-16 02:07:00"
+    },
+    {
+      "user": "Brm",
+      "when": "2012-03-26 16:59:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-04-28 18:55:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2012-05-27 19:10:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2012-07-25 22:14:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2012-08-31 19:33:00"
+    },
+    {
+      "user": "skall",
+      "when": "2012-09-28 16:35:00"
+    },
+    {
+      "user": "tomi",
+      "when": "2012-10-24 22:00:00"
+    },
+    {
+      "user": "Mantalow",
+      "when": "2012-12-06 07:46:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-01-06 10:09:00"
+    },
+    {
+      "user": "Sketch",
+      "when": "2013-03-09 11:49:00"
+    },
+    {
+      "user": "finrock",
+      "when": "2013-04-14 23:37:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2013-05-17 17:28:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2013-06-25 14:26:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-08-02 20:33:00"
+    },
+    {
+      "user": "Ishaan",
+      "when": "2013-09-13 11:26:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-10-27 07:51:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-12-17 08:47:00"
+    },
+    {
+      "user": "DrFlay",
+      "when": "2014-01-16 17:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-03-07 12:12:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-04-06 11:26:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2014-06-16 20:12:00"
+    },
+    {
+      "user": "finrock",
+      "when": "2014-10-05 07:44:00"
+    },
+    {
+      "user": "guru64",
+      "when": "2014-11-06 07:14:00"
+    },
+    {
+      "user": "satan",
+      "when": "2015-01-03 15:56:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-02-08 19:34:00"
+    },
+    {
+      "user": "jolic",
+      "when": "2015-02-25 21:30:00"
+    },
+    {
+      "user": "SoanoS",
+      "when": "2015-03-19 12:34:00"
+    },
+    {
+      "user": "sgtcrispy",
+      "when": "2015-04-16 09:07:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2015-05-31 17:08:00"
+    },
+    {
+      "user": "satan",
+      "when": "2015-08-20 20:43:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-09-13 17:23:00"
+    },
+    {
+      "user": "brm_",
+      "when": "2015-09-30 12:26:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-11-01 11:57:00"
+    },
+    {
+      "user": "jolic",
+      "when": "2015-11-17 18:42:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-12-30 19:10:00"
+    },
+    {
+      "user": "sgtcrispy",
+      "when": "2016-01-21 01:03:00"
+    },
+    {
+      "user": "ChipOManiac",
+      "when": "2016-02-12 15:09:00"
+    },
+    {
+      "user": "sgtcrispy",
+      "when": "2016-03-02 18:14:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-03-19 12:20:00"
+    },
+    {
+      "user": "sgtcrispy",
+      "when": "2016-04-07 21:39:00"
+    },
+    {
+      "user": "Siegfried",
+      "when": "2016-05-18 18:39:00"
+    },
+    {
+      "user": "Siegfried",
+      "when": "2016-06-06 17:02:00"
+    },
+    {
+      "user": "Siegfried",
+      "when": "2016-06-20 17:02:00"
+    },
+    {
+      "user": "Siegfried",
+      "when": "2016-07-11 07:23:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2016-08-15 20:54:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2016-09-01 11:27:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2016-09-18 11:29:00"
+    },
+    {
+      "user": "DrFlay",
+      "when": "2016-10-06 15:50:00"
+    },
+    {
+      "user": "DrFlay",
+      "when": "2016-12-05 15:21:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2016-12-24 17:00:00"
+    },
+    {
+      "user": "olivierh59",
+      "when": "2017-01-17 10:50:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-02-11 10:08:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-03-13 19:57:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-04-18 08:16:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-05-30 11:23:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-06-01 10:19:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-06-06 08:31:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-06-17 05:27:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-06-23 06:57:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-06-29 19:46:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-07-05 08:35:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-07-11 07:28:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-07-15 20:00:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-07-20 05:40:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-07-25 07:42:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-07-29 19:41:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-08-03 14:09:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-08-08 06:26:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-08-12 16:09:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-08-17 05:01:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-08-22 06:09:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-08-27 06:32:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-09-01 07:41:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-09-06 06:13:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-09-10 17:19:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-09-15 05:20:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-09-20 12:20:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-09-25 06:31:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-09-30 07:38:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-10-04 19:44:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-10-09 11:14:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-10-14 19:45:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-10-21 07:16:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-11-07 08:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-24 21:29:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-12-23 20:18:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2018-01-17 08:48:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2018-02-03 13:09:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2018-02-21 09:56:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2018-03-24 07:55:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2018-04-23 06:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-05-23 00:15:00"
+    }
   ]
 }

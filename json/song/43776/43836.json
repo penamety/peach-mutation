@@ -26,5 +26,39 @@
   ],
   "artist_names": [
     "Turtle"
+  ],
+  "requests": [
+    {
+      "user": "Mystra",
+      "when": "2017-03-04 14:23:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-03-26 13:37:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-05-16 21:20:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-06-11 11:57:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-08-15 13:21:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-10-18 07:35:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-11-08 08:23:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-12-12 01:34:00"
+    }
   ]
 }

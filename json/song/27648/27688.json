@@ -16,5 +16,23 @@
   "info": "Dupe of [song]20567[/song]",
   "last_scraped": "2018-05-23 06:33:03",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "besh",
+      "when": "2011-05-29 22:08:00"
+    },
+    {
+      "user": "besh",
+      "when": "2011-06-29 18:57:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-08-23 04:59:00"
+    },
+    {
+      "user": "anni",
+      "when": "2011-09-09 14:30:00"
+    }
+  ]
 }

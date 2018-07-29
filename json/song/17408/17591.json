@@ -20,5 +20,39 @@
   ],
   "artist_names": [
     "Dr. Emok"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2011-11-28 17:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-10-28 03:30:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-03-13 15:53:00"
+    },
+    {
+      "user": "FroggyMe",
+      "when": "2013-06-21 03:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-30 19:31:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-15 14:28:00"
+    },
+    {
+      "user": "funkygaucho",
+      "when": "2015-03-11 00:41:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-01-09 03:59:00"
+    }
   ]
 }

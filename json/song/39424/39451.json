@@ -22,5 +22,63 @@
   ],
   "artist_names": [
     "Dan"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2013-10-28 13:50:00"
+    },
+    {
+      "user": "maep",
+      "when": "2013-12-07 01:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-04 04:32:00"
+    },
+    {
+      "user": "maep",
+      "when": "2014-02-26 15:15:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2014-04-29 06:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-08 02:59:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-24 17:53:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2016-06-19 23:25:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2016-07-18 14:35:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-01-02 02:26:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-04-06 16:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-01-05 11:41:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-02-22 10:11:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-06-13 17:41:00"
+    }
   ]
 }

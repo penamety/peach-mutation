@@ -24,5 +24,47 @@
   ],
   "artist_names": [
     "Dane"
+  ],
+  "requests": [
+    {
+      "user": "prowler",
+      "when": "2016-01-01 19:51:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-01-12 19:54:00"
+    },
+    {
+      "user": "Venty",
+      "when": "2016-01-28 04:31:00"
+    },
+    {
+      "user": "Scribblette",
+      "when": "2016-02-24 16:01:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-04-03 15:33:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2016-07-10 16:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2016-11-06 14:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-02-03 18:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-07-11 19:43:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-11-24 22:46:00"
+    }
   ]
 }

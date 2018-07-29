@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "Baz"
+  ],
+  "requests": [
+    {
+      "user": "Sensei",
+      "when": "2011-05-06 12:43:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-06-13 01:57:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-02-26 04:36:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-04-16 15:10:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 03:06:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-09-07 22:44:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-06 04:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-23 01:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-01 18:52:00"
+    }
   ]
 }

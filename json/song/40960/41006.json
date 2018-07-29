@@ -29,5 +29,75 @@
   "artist_names": [
     "A-move",
     "Velvet"
+  ],
+  "requests": [
+    {
+      "user": "franz_koopa",
+      "when": "2014-09-24 13:07:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-10-13 12:34:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-10-27 15:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-09 04:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-21 14:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-12-06 13:39:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2015-01-23 06:47:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-07-04 09:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-27 03:16:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-08-20 01:50:00"
+    },
+    {
+      "user": "mog",
+      "when": "2015-11-02 01:55:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-05-20 17:29:00"
+    },
+    {
+      "user": "SJD",
+      "when": "2016-11-05 00:00:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2017-01-02 20:36:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-06-22 07:51:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-03-20 04:41:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2018-06-17 10:12:00"
+    }
   ]
 }

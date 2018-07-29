@@ -26,5 +26,55 @@
   "artist_names": [
     "Droid",
     "Mad Freak"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2015-01-04 12:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-01-21 10:44:00"
+    },
+    {
+      "user": "maep",
+      "when": "2015-02-10 19:15:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-07-28 21:31:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-04-24 13:47:00"
+    },
+    {
+      "user": "jxx",
+      "when": "2016-06-24 05:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2016-10-14 00:56:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-07 11:13:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-20 03:30:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-05-24 23:53:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-12-21 07:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-03-17 04:09:00"
+    }
   ]
 }

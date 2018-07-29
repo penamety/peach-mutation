@@ -25,5 +25,51 @@
   ],
   "artist_names": [
     "Coma"
+  ],
+  "requests": [
+    {
+      "user": "sqrmax",
+      "when": "2013-02-16 10:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-03-09 01:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-16 07:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-27 02:40:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-08-05 22:27:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-09-04 05:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-07-14 08:50:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2014-10-22 11:43:00"
+    },
+    {
+      "user": "eefi",
+      "when": "2015-01-03 23:47:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-01-09 15:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-10-31 18:12:00"
+    }
   ]
 }

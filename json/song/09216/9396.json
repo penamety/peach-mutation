@@ -23,5 +23,39 @@
   ],
   "artist_names": [
     "Pink Silver"
+  ],
+  "requests": [
+    {
+      "user": "RoC",
+      "when": "2011-03-15 19:21:00"
+    },
+    {
+      "user": "RoC",
+      "when": "2011-05-23 10:41:00"
+    },
+    {
+      "user": "talbot",
+      "when": "2011-12-07 02:30:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-09-17 04:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-30 02:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-18 05:33:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-04-09 03:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-04-26 16:00:00"
+    }
   ]
 }

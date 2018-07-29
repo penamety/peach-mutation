@@ -24,5 +24,39 @@
   ],
   "artist_names": [
     "Cyborg Jeff"
+  ],
+  "requests": [
+    {
+      "user": "SPACE",
+      "when": "2012-01-10 20:12:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-06-08 04:54:00"
+    },
+    {
+      "user": "Grit",
+      "when": "2012-08-13 21:29:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-30 18:31:00"
+    },
+    {
+      "user": "Grit",
+      "when": "2013-12-12 22:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-23 18:41:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-12-16 08:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-02-20 02:15:00"
+    }
   ]
 }

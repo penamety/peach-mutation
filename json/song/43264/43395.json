@@ -25,5 +25,47 @@
   ],
   "artist_names": [
     "Pink"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2016-08-25 08:39:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-09-02 15:15:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-09-16 09:57:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-10-03 10:37:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-10-20 09:15:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-11-09 14:43:00"
+    },
+    {
+      "user": "venttiili",
+      "when": "2016-11-30 09:53:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2017-01-07 08:26:00"
+    },
+    {
+      "user": "venttiili",
+      "when": "2017-02-13 15:23:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-04-28 14:37:00"
+    }
   ]
 }

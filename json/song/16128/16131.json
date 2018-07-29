@@ -21,5 +21,35 @@
   ],
   "artist_names": [
     "Count Zero"
+  ],
+  "requests": [
+    {
+      "user": "faraday",
+      "when": "2011-06-05 21:25:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-07-31 19:57:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-01-03 20:38:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-08 14:12:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-05 01:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-27 00:42:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2018-02-19 08:31:00"
+    }
   ]
 }

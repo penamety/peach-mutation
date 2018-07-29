@@ -24,5 +24,79 @@
   ],
   "artist_names": [
     "Mallard"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2012-01-05 08:35:00"
+    },
+    {
+      "user": "AnonymousCoward",
+      "when": "2012-03-04 14:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-05-18 03:42:00"
+    },
+    {
+      "user": "Neutral",
+      "when": "2012-10-30 08:45:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-12-06 01:19:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-16 05:05:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-04-04 02:21:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-05-16 04:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-13 08:42:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-02-07 18:03:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-04-17 23:59:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-07-23 11:45:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2016-04-16 12:51:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2016-05-15 10:30:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-08-24 06:51:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2016-12-31 13:19:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-03-08 03:15:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2017-05-21 10:42:00"
+    }
   ]
 }

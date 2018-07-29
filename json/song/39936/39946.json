@@ -20,5 +20,43 @@
   ],
   "artist_names": [
     "Perrra"
+  ],
+  "requests": [
+    {
+      "user": "0A000h",
+      "when": "2014-01-15 22:35:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-02-15 18:05:00"
+    },
+    {
+      "user": "maep",
+      "when": "2014-04-16 16:24:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2014-05-07 17:29:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-03 02:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-09 13:23:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-07-31 11:36:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-11-21 13:25:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-11-01 03:02:00"
+    }
   ]
 }

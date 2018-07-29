@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Heatbeat"
+  ],
+  "requests": [
+    {
+      "user": "franz_koopa",
+      "when": "2011-12-31 09:03:00"
+    },
+    {
+      "user": "crrr",
+      "when": "2012-06-06 18:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-04-27 05:21:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-09-11 22:49:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-06-20 08:24:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2015-09-17 10:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-15 20:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-12-25 00:14:00"
+    }
   ]
 }

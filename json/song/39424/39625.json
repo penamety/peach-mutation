@@ -25,5 +25,35 @@
   ],
   "artist_names": [
     "Silok"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2013-11-17 18:30:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-12-11 09:04:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-01-08 22:41:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2014-07-22 18:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-12-03 19:43:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2015-02-11 13:20:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-05-03 20:39:00"
+    }
   ]
 }

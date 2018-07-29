@@ -23,5 +23,27 @@
   ],
   "artist_names": [
     "Bar"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-08-02 03:51:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-02 23:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-12-25 23:33:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-02-18 22:21:00"
+    },
+    {
+      "user": "Desirsar",
+      "when": "2015-03-21 02:02:00"
+    }
   ]
 }

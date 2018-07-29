@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "Blue Zone"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2017-01-31 17:13:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-02-16 11:18:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-03-20 12:21:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2017-05-31 18:17:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-08-21 11:26:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2017-10-06 05:15:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2017-11-10 19:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-12-08 06:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-19 18:46:00"
+    }
   ]
 }

@@ -22,5 +22,35 @@
   ],
   "artist_names": [
     "Dr. Awesome"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-04-01 03:08:00"
+    },
+    {
+      "user": "Sensei",
+      "when": "2011-05-27 13:03:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-02-08 08:19:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-07-15 20:42:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-04-22 05:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-30 05:15:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-04-05 03:21:00"
+    }
   ]
 }

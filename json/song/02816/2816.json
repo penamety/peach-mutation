@@ -21,5 +21,79 @@
   ],
   "artist_names": [
     "Gladiator"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-05-06 03:21:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-02-28 09:34:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-05-25 07:28:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-12-02 05:12:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-01-30 11:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-04-13 06:03:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-10-11 11:05:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-02-27 08:44:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-10-16 23:21:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2016-12-21 22:18:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2017-01-29 14:39:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2017-04-22 18:37:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2017-06-18 11:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-07-16 09:47:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2017-10-10 13:50:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2018-03-03 14:49:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2018-04-29 17:05:00"
+    },
+    {
+      "user": "Nosferatu",
+      "when": "2018-06-07 10:57:00"
+    }
   ]
 }

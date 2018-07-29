@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "Betelgeuze"
+  ],
+  "requests": [
+    {
+      "user": "thebleh",
+      "when": "2012-04-01 00:35:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-05-06 13:18:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-08-28 15:17:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-01-10 05:52:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-04-03 11:02:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-29 06:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-21 12:46:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2017-01-09 18:12:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-05-06 03:58:00"
+    }
   ]
 }

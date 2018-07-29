@@ -24,5 +24,31 @@
   ],
   "artist_names": [
     "David Whittaker"
+  ],
+  "requests": [
+    {
+      "user": "crosbow",
+      "when": "2012-01-02 12:09:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-09-20 00:04:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-03-12 09:05:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-08-03 06:41:00"
+    },
+    {
+      "user": "SoanoS",
+      "when": "2015-03-05 02:32:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-13 14:00:00"
+    }
   ]
 }

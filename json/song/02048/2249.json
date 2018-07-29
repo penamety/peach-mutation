@@ -24,5 +24,43 @@
   ],
   "artist_names": [
     "Echo"
+  ],
+  "requests": [
+    {
+      "user": "Bonstra",
+      "when": "2011-04-28 01:50:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2011-09-18 09:03:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-04-17 20:10:00"
+    },
+    {
+      "user": "maep",
+      "when": "2012-09-25 13:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-06-12 05:46:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-04-12 06:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-07-03 06:52:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-04-14 10:12:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-02-08 21:26:00"
+    }
   ]
 }

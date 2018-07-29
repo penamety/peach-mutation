@@ -20,5 +20,19 @@
   ],
   "artist_names": [
     "Dr. Awesome"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-09-03 12:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-01-01 09:40:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-08-26 12:29:00"
+    }
   ]
 }

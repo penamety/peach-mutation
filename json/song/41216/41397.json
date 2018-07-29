@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "Mister Beep"
+  ],
+  "requests": [
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-12-24 08:00:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-01-08 19:41:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2015-04-03 07:19:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-07 03:01:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-09-01 12:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-02-15 09:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2016-10-08 19:34:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-29 12:44:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-07 04:44:00"
+    }
   ]
 }

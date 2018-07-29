@@ -26,5 +26,39 @@
   ],
   "artist_names": [
     "Rock"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2017-04-01 12:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-04-21 17:03:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-06-01 05:31:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-07-30 12:05:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-08-17 10:16:00"
+    },
+    {
+      "user": "Whitelabel",
+      "when": "2017-11-04 10:33:00"
+    },
+    {
+      "user": "Whitelabel",
+      "when": "2017-12-13 08:55:00"
+    },
+    {
+      "user": "nyingen",
+      "when": "2018-01-13 22:24:00"
+    }
   ]
 }

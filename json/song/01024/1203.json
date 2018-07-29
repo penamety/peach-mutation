@@ -18,5 +18,43 @@
   ],
   "artist_names": [
     "Clawz"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2012-04-18 10:02:00"
+    },
+    {
+      "user": "anerte",
+      "when": "2012-10-17 17:09:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-06-09 09:28:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-11 06:27:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-03-20 04:25:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-06 00:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-11 10:19:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-03 02:55:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-06-07 23:53:00"
+    }
   ]
 }

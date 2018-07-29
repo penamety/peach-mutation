@@ -20,5 +20,19 @@
   "source_id": 2,
   "source": "Demo",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "Erk",
+      "when": "2011-04-07 23:04:00"
+    },
+    {
+      "user": "zoner",
+      "when": "2011-07-08 19:05:00"
+    },
+    {
+      "user": "drybrain",
+      "when": "2012-01-26 15:01:00"
+    }
+  ]
 }

@@ -25,5 +25,55 @@
   ],
   "artist_names": [
     "Blue Zone"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2015-02-16 16:35:00"
+    },
+    {
+      "user": "maep",
+      "when": "2015-03-04 18:43:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-20 17:59:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-04-07 11:28:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-05-01 20:31:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-06-03 10:51:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-01-11 22:00:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-03-31 12:18:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-09-27 05:48:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-02-21 11:44:00"
+    },
+    {
+      "user": "Whitelabel",
+      "when": "2017-11-02 04:13:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2018-04-23 05:36:00"
+    }
   ]
 }

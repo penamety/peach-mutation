@@ -24,5 +24,67 @@
   ],
   "artist_names": [
     "Darwin"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2013-07-04 12:21:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2013-07-31 10:21:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-12-18 09:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-11 18:07:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2014-09-11 21:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-18 01:31:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-13 21:52:00"
+    },
+    {
+      "user": "SoanoS",
+      "when": "2015-06-01 18:57:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-08-04 08:02:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-10-30 22:51:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-07 06:20:00"
+    },
+    {
+      "user": "codehead",
+      "when": "2016-04-04 12:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-30 02:57:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-09-29 00:38:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2017-06-30 06:09:00"
+    }
   ]
 }

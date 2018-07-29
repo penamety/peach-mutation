@@ -19,5 +19,35 @@
   ],
   "artist_names": [
     "CJ Imperium"
+  ],
+  "requests": [
+    {
+      "user": "Aetrin",
+      "when": "2012-04-21 20:12:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-07-22 07:59:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-10-05 21:23:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-02-10 14:53:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-08-26 05:11:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-05-07 10:03:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-06-27 08:31:00"
+    }
   ]
 }

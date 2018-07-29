@@ -25,5 +25,31 @@
   "artist_names": [
     "Energizer",
     "Stax"
+  ],
+  "requests": [
+    {
+      "user": "Oldchap",
+      "when": "2017-12-31 20:36:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-18 08:11:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-05 21:16:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-24 09:27:00"
+    },
+    {
+      "user": "Oldchap",
+      "when": "2018-03-30 00:04:00"
+    },
+    {
+      "user": "Oldchap",
+      "when": "2018-05-07 17:41:00"
+    }
   ]
 }

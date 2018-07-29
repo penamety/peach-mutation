@@ -24,5 +24,51 @@
   ],
   "artist_names": [
     "Vain"
+  ],
+  "requests": [
+    {
+      "user": "Buzzer",
+      "when": "2012-10-15 12:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-03 14:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-12-07 14:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-03-16 21:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-25 01:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-11-27 04:05:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-01-17 19:40:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-04-06 23:34:00"
+    },
+    {
+      "user": "silok",
+      "when": "2016-04-14 17:07:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-04-14 02:38:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-03-19 09:16:00"
+    }
   ]
 }

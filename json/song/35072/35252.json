@@ -25,5 +25,39 @@
   ],
   "artist_names": [
     "Killer Fish"
+  ],
+  "requests": [
+    {
+      "user": "Aetrin",
+      "when": "2012-02-12 11:35:00"
+    },
+    {
+      "user": "Hasse",
+      "when": "2012-07-02 17:23:00"
+    },
+    {
+      "user": "grachev",
+      "when": "2012-09-22 16:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-07 16:54:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-06-09 05:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-29 07:35:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-09-29 01:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-02-24 07:28:00"
+    }
   ]
 }

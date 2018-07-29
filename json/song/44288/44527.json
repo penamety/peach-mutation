@@ -23,5 +23,35 @@
   "artist_names": [
     "Dirk",
     "Yorak"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2017-12-10 09:10:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-27 15:59:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-15 04:34:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-02-02 10:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-02-22 09:04:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-30 08:42:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-05-30 06:12:00"
+    }
   ]
 }

@@ -23,5 +23,43 @@
   ],
   "artist_names": [
     "PaleDeth"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-04-21 10:30:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-09 08:02:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-10-30 07:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-08-03 03:26:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-10-09 04:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-18 16:59:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-04-06 13:47:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-03 14:35:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-12 23:11:00"
+    }
   ]
 }

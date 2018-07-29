@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "TAR"
+  ],
+  "requests": [
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-02 02:23:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-01-16 04:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-04-27 22:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-11 02:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-05 13:01:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2016-10-28 13:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-25 23:26:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-02-21 01:29:00"
+    }
   ]
 }

@@ -23,5 +23,43 @@
   ],
   "artist_names": [
     "Warhawk"
+  ],
+  "requests": [
+    {
+      "user": "Aetrin",
+      "when": "2011-12-01 13:24:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-02-25 15:47:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-10-02 02:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-07 02:27:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-30 05:23:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-05-13 09:20:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2014-03-30 17:13:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-04-05 15:57:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-05-15 03:24:00"
+    }
   ]
 }

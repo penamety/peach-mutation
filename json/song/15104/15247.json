@@ -18,5 +18,39 @@
   ],
   "artist_names": [
     "Bubrak"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2012-03-01 08:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-01-18 02:34:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-04-29 12:03:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-08-26 13:42:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2013-12-05 09:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-22 20:18:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-07-25 12:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-09-14 01:42:00"
+    }
   ]
 }

@@ -22,5 +22,55 @@
   ],
   "artist_names": [
     "Baz"
+  ],
+  "requests": [
+    {
+      "user": "dang",
+      "when": "2011-02-20 04:11:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-08-28 04:19:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-10-02 18:57:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-06 08:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-10-16 16:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-03-15 01:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-05-04 20:47:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-11-11 12:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-07 19:45:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-07-06 11:56:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-11-24 09:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-02 12:46:00"
+    }
   ]
 }

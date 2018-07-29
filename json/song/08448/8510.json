@@ -19,5 +19,79 @@
   ],
   "artist_names": [
     "Dane"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-03-30 06:53:00"
+    },
+    {
+      "user": "Elrinth",
+      "when": "2011-08-30 17:14:00"
+    },
+    {
+      "user": "skall",
+      "when": "2012-04-30 15:57:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-06-17 22:54:00"
+    },
+    {
+      "user": "caiwan",
+      "when": "2012-07-19 21:59:00"
+    },
+    {
+      "user": "skall",
+      "when": "2012-09-07 13:31:00"
+    },
+    {
+      "user": "skall",
+      "when": "2012-10-10 20:48:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-03-29 23:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-12 09:40:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-08-14 04:06:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-11-23 17:51:00"
+    },
+    {
+      "user": "chellomere",
+      "when": "2014-02-10 09:04:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-08-18 23:57:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2015-01-13 06:44:00"
+    },
+    {
+      "user": "edlinfan",
+      "when": "2016-03-03 21:18:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-15 05:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-09 13:12:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-27 07:56:00"
+    }
   ]
 }

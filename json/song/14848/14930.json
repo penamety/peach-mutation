@@ -20,5 +20,31 @@
   ],
   "artist_names": [
     "Black Dot"
+  ],
+  "requests": [
+    {
+      "user": "cederom",
+      "when": "2011-06-02 01:35:00"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2011-06-29 22:59:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2011-09-07 19:11:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2011-10-25 08:47:00"
+    },
+    {
+      "user": "rockmonitor",
+      "when": "2012-04-23 23:45:00"
+    },
+    {
+      "user": "michu",
+      "when": "2012-07-22 13:42:00"
+    }
   ]
 }

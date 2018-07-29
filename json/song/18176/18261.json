@@ -21,5 +21,39 @@
   ],
   "artist_names": [
     "Flapjack"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2012-07-06 08:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-01-21 20:28:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-05-17 02:46:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-11-08 15:01:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-03-22 17:57:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-12-27 09:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-01-30 03:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-06-01 13:30:00"
+    }
   ]
 }

@@ -25,5 +25,79 @@
   ],
   "artist_names": [
     "Jammer"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2015-01-15 09:22:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2015-01-30 23:39:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2015-04-08 14:42:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-06-08 07:47:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2015-08-08 17:31:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2015-10-13 03:34:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2015-12-12 13:16:00"
+    },
+    {
+      "user": "pipe",
+      "when": "2016-02-15 15:52:00"
+    },
+    {
+      "user": "jxx",
+      "when": "2016-04-27 04:59:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2016-07-01 20:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2016-10-28 22:28:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2016-12-17 10:36:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-04-30 14:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-05-29 04:34:00"
+    },
+    {
+      "user": "Whitelabel",
+      "when": "2018-01-23 04:48:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2018-02-21 14:42:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-04-15 23:59:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2018-06-08 10:45:00"
+    }
   ]
 }

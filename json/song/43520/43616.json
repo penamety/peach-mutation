@@ -28,5 +28,39 @@
   "artist_names": [
     "Triace",
     "Vedder"
+  ],
+  "requests": [
+    {
+      "user": "ViThor",
+      "when": "2016-11-27 22:21:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-16 11:11:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2017-01-10 06:31:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-02-06 10:43:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-03-05 08:45:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-01 08:07:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-29 06:45:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-11 10:58:00"
+    }
   ]
 }

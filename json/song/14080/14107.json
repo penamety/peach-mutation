@@ -22,5 +22,39 @@
   ],
   "artist_names": [
     "The Loop"
+  ],
+  "requests": [
+    {
+      "user": "lroy",
+      "when": "2011-06-15 10:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2011-12-26 08:46:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-06-13 09:05:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-01-19 14:12:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-03-06 15:51:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-06-07 20:12:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-26 04:48:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2014-01-25 15:42:00"
+    }
   ]
 }

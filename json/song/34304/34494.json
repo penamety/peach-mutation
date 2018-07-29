@@ -24,5 +24,79 @@
   ],
   "artist_names": [
     "Skyline"
+  ],
+  "requests": [
+    {
+      "user": "Sensei",
+      "when": "2011-11-09 10:36:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2011-11-30 09:25:00"
+    },
+    {
+      "user": "Seiklus",
+      "when": "2012-04-21 01:47:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-10-14 05:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-03 16:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-15 00:56:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-01-04 09:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-04-21 10:45:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2015-02-16 20:37:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-05-15 01:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-06-28 02:56:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-09-02 12:24:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-04-26 13:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-07 03:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-07-31 13:38:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-05-12 02:18:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-11-22 14:31:00"
+    },
+    {
+      "user": "velusip",
+      "when": "2018-03-31 07:50:00"
+    }
   ]
 }

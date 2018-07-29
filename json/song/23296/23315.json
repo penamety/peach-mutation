@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Ranger Rick"
+  ],
+  "requests": [
+    {
+      "user": "Sensei",
+      "when": "2012-02-02 11:45:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-03-12 03:44:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-05-24 19:40:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-07-24 03:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-29 01:59:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-02-20 14:39:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-02-09 20:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-10 05:30:00"
+    }
   ]
 }

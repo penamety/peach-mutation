@@ -24,5 +24,55 @@
   ],
   "artist_names": [
     "Andy Fer"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2013-12-17 16:18:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-01-02 02:12:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-02 15:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-04-19 16:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-05 11:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-09 01:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-09-05 07:15:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-10-04 14:52:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-10-27 15:36:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-11-23 22:48:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-01-10 11:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-16 20:06:00"
+    }
   ]
 }

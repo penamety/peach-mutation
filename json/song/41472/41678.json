@@ -25,5 +25,55 @@
   ],
   "artist_names": [
     "Wiklund"
+  ],
+  "requests": [
+    {
+      "user": "Arne",
+      "when": "2015-03-03 18:12:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2015-03-13 12:19:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-26 18:14:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-04-13 01:26:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-04-25 09:56:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-06-01 05:28:00"
+    },
+    {
+      "user": "BombmanDK",
+      "when": "2015-11-10 10:01:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-05 07:38:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-07-29 12:48:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-10-19 05:03:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-08-10 03:42:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-11-24 04:04:00"
+    }
   ]
 }

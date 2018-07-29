@@ -24,5 +24,43 @@
   ],
   "artist_names": [
     "Caesar"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2014-09-15 13:50:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2014-09-26 10:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-22 18:43:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-08-07 01:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-15 05:05:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-07-15 23:50:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-16 18:10:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-10 05:19:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-08-23 06:40:00"
+    }
   ]
 }

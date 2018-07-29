@@ -21,5 +21,39 @@
   ],
   "artist_names": [
     "Cyborg Jeff"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-04-26 09:13:00"
+    },
+    {
+      "user": "maep",
+      "when": "2012-10-30 23:12:00"
+    },
+    {
+      "user": "Grit",
+      "when": "2013-04-19 18:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-17 11:11:00"
+    },
+    {
+      "user": "Grit",
+      "when": "2014-04-03 02:53:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-04-05 23:05:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-05-05 07:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-29 16:15:00"
+    }
   ]
 }

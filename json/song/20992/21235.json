@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "Matt Gray"
+  ],
+  "requests": [
+    {
+      "user": "arrakis",
+      "when": "2011-07-14 19:27:00"
+    },
+    {
+      "user": "Dimouse",
+      "when": "2012-11-13 08:44:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-06-19 11:08:00"
+    },
+    {
+      "user": "Galancy",
+      "when": "2013-08-15 16:12:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-06 15:35:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2016-12-28 11:04:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-01-25 23:04:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-02-28 17:10:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2018-04-25 16:04:00"
+    }
   ]
 }

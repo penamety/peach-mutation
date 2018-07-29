@@ -22,5 +22,31 @@
   ],
   "artist_names": [
     "Elrinth"
+  ],
+  "requests": [
+    {
+      "user": "lroy",
+      "when": "2011-09-11 20:23:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-10-12 23:28:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-11-10 14:15:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-05-31 13:47:00"
+    },
+    {
+      "user": "omilian",
+      "when": "2012-07-09 20:46:00"
+    },
+    {
+      "user": "liquidstupid",
+      "when": "2013-03-12 01:55:00"
+    }
   ]
 }

@@ -25,5 +25,39 @@
   ],
   "artist_names": [
     "Vedder"
+  ],
+  "requests": [
+    {
+      "user": "voy",
+      "when": "2017-08-26 20:41:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-08-29 08:15:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-09-03 20:21:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-09-10 14:25:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-09-26 09:50:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-10-13 12:34:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-29 22:00:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-10 17:45:00"
+    }
   ]
 }

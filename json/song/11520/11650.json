@@ -24,5 +24,39 @@
   ],
   "artist_names": [
     "Bart of Noise"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2012-02-19 00:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-12 02:35:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-10-11 21:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-04 17:48:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2015-05-24 21:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-04-02 07:10:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-05-07 20:27:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-05-13 20:56:00"
+    }
   ]
 }

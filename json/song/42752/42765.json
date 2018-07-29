@@ -23,5 +23,47 @@
   ],
   "artist_names": [
     "Yelm"
+  ],
+  "requests": [
+    {
+      "user": "lroy",
+      "when": "2016-01-16 20:37:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-02-02 19:58:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-02-25 14:09:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-03-15 08:41:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-05-07 18:05:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-07-26 21:38:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-09-05 12:21:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-27 14:11:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-06-18 05:37:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-01-05 03:34:00"
+    }
   ]
 }

@@ -27,5 +27,91 @@
   "artist_names": [
     "h0ffman",
     "tEiS"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2016-03-29 08:41:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2016-04-15 06:31:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2016-04-30 10:22:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-05-15 14:08:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-05-30 07:42:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-06-14 08:29:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2016-06-30 18:35:00"
+    },
+    {
+      "user": "Triton",
+      "when": "2016-07-28 12:33:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2016-09-12 09:15:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-10-04 15:03:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2016-11-12 13:00:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2016-12-03 10:18:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2016-12-31 10:06:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2017-04-26 11:15:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2017-10-07 10:47:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-12-23 07:12:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2018-01-12 07:18:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2018-02-10 00:32:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-03-20 17:11:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-04-25 06:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-05-30 03:39:00"
+    }
   ]
 }

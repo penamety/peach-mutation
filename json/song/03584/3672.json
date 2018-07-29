@@ -20,5 +20,47 @@
   "artist_names": [
     "Kaktus",
     "Mahoney"
+  ],
+  "requests": [
+    {
+      "user": "silok",
+      "when": "2011-08-29 09:33:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-02-03 12:48:00"
+    },
+    {
+      "user": "Jeminami",
+      "when": "2012-08-18 23:11:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-19 06:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-03-02 05:11:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-06-26 00:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-05-27 23:42:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-09-16 13:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-02 06:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-05 06:16:00"
+    }
   ]
 }

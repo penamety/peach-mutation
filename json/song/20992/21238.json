@@ -22,5 +22,79 @@
   ],
   "artist_names": [
     "Matt Gray"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2011-07-14 19:00:00"
+    },
+    {
+      "user": "prowler",
+      "when": "2011-09-14 14:47:00"
+    },
+    {
+      "user": "Galancy",
+      "when": "2011-11-26 21:39:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2012-02-02 21:38:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-03-29 09:16:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-06-22 20:46:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2012-07-21 21:27:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2012-08-18 03:13:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2012-09-17 12:24:00"
+    },
+    {
+      "user": "Andersson",
+      "when": "2013-02-08 21:28:00"
+    },
+    {
+      "user": "Fireball",
+      "when": "2013-05-08 15:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-30 22:43:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-12-08 04:23:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-03-15 19:53:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-05 01:26:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-01-05 05:30:00"
+    },
+    {
+      "user": "Buzzer",
+      "when": "2017-05-22 06:37:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2018-04-25 16:03:00"
+    }
   ]
 }

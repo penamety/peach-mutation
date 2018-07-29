@@ -18,5 +18,39 @@
   ],
   "artist_names": [
     "Mad Max"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2012-05-03 02:02:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2012-08-11 11:11:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-09-15 23:23:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-27 02:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-22 01:48:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-05-27 01:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-01-14 14:27:00"
+    },
+    {
+      "user": "venttiili",
+      "when": "2017-02-14 11:25:00"
+    }
   ]
 }

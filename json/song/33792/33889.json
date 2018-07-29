@@ -25,5 +25,63 @@
   "artist_names": [
     "Elf",
     "Gorfy"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-08-29 12:03:00"
+    },
+    {
+      "user": "Sensei",
+      "when": "2011-10-03 13:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-10-22 00:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-09 12:28:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-05-04 05:02:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-10-10 03:36:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-02-24 12:51:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-10-27 02:54:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-25 10:31:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2016-04-03 09:53:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-06-25 05:06:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-12-23 06:05:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-01-18 04:31:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-05-06 00:59:00"
+    }
   ]
 }

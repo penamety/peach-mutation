@@ -20,5 +20,43 @@
   ],
   "artist_names": [
     "Willbe"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2013-12-18 10:17:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-01-07 10:45:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-13 21:33:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-22 22:37:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-06-19 15:59:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-07-30 23:55:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2015-01-15 06:13:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-04 03:43:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-12 05:36:00"
+    }
   ]
 }

@@ -24,5 +24,51 @@
   ],
   "artist_names": [
     "David Whittaker"
+  ],
+  "requests": [
+    {
+      "user": "arrakis",
+      "when": "2011-07-17 09:01:00"
+    },
+    {
+      "user": "hammett",
+      "when": "2011-10-01 18:13:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-02-27 13:25:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-04-28 04:05:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-06-10 16:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-31 21:00:00"
+    },
+    {
+      "user": "jakov",
+      "when": "2014-02-27 22:59:00"
+    },
+    {
+      "user": "macq",
+      "when": "2014-06-14 11:45:00"
+    },
+    {
+      "user": "SoanoS",
+      "when": "2015-08-07 17:35:00"
+    },
+    {
+      "user": "bucky",
+      "when": "2016-02-26 12:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-07-07 09:58:00"
+    }
   ]
 }

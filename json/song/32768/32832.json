@@ -24,5 +24,51 @@
   ],
   "artist_names": [
     "Awesome"
+  ],
+  "requests": [
+    {
+      "user": "anni",
+      "when": "2011-05-02 17:08:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-01-21 23:25:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-02-24 15:04:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-04-01 01:15:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-06-06 18:15:00"
+    },
+    {
+      "user": "Chakotay",
+      "when": "2012-07-10 17:42:00"
+    },
+    {
+      "user": "cccddd",
+      "when": "2013-05-26 21:21:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-21 15:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-03-11 06:36:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-05 01:11:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-04-25 19:54:00"
+    }
   ]
 }

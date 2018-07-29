@@ -21,5 +21,43 @@
   ],
   "artist_names": [
     "Echo"
+  ],
+  "requests": [
+    {
+      "user": "rombust",
+      "when": "2012-04-12 13:23:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-30 06:54:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-06-10 03:20:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-09-17 08:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-08-27 21:21:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-26 10:58:00"
+    },
+    {
+      "user": "Rage",
+      "when": "2015-09-18 23:06:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-12-06 07:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-17 13:25:00"
+    }
   ]
 }

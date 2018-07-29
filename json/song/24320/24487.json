@@ -24,5 +24,51 @@
   ],
   "artist_names": [
     "Skyrunner"
+  ],
+  "requests": [
+    {
+      "user": "Arne",
+      "when": "2011-08-10 18:02:00"
+    },
+    {
+      "user": "silok",
+      "when": "2012-02-25 17:04:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-05-07 06:20:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-02-25 05:56:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2013-06-20 06:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-10 20:39:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2013-11-22 04:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-05-07 21:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-12-02 05:27:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2017-05-02 17:18:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-05-25 21:04:00"
+    }
   ]
 }

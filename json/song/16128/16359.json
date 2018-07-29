@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Cyborg"
+  ],
+  "requests": [
+    {
+      "user": "Elrinth",
+      "when": "2011-05-31 11:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-10-23 20:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-28 00:48:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-11-10 10:42:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2014-01-27 17:48:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-23 23:51:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-09-29 07:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-16 15:35:00"
+    }
   ]
 }

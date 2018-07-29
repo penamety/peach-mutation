@@ -23,5 +23,79 @@
   ],
   "artist_names": [
     "BiTL"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-02-14 16:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-24 02:06:00"
+    },
+    {
+      "user": "Darkman007",
+      "when": "2011-10-08 21:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-11-22 03:35:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-08 21:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-10-07 00:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-05-01 05:44:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-07-17 03:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-26 08:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-10-14 07:19:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-11-26 07:03:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2014-06-01 05:57:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-11-02 07:48:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-09-06 07:57:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-03-20 23:58:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-05-17 03:27:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-04-12 03:00:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-11-01 05:26:00"
+    }
   ]
 }

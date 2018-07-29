@@ -15,5 +15,23 @@
   "info": "Dupe of [song]203[/song]",
   "last_scraped": "2018-05-23 06:55:00",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "arrakis",
+      "when": "2011-07-03 18:06:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-03-25 13:01:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2013-02-19 11:14:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2013-04-22 15:49:00"
+    }
+  ]
 }

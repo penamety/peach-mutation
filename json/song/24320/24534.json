@@ -22,5 +22,55 @@
   ],
   "artist_names": [
     "SLL"
+  ],
+  "requests": [
+    {
+      "user": "franz_koopa",
+      "when": "2011-12-31 23:12:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-05-02 03:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-07 17:13:00"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2013-06-19 10:24:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-11-09 16:29:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-03 00:15:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-01-19 01:27:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-05-07 21:42:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-06-12 08:32:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-03-31 21:56:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-02-12 03:31:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-04-23 02:47:00"
+    }
   ]
 }

@@ -23,5 +23,47 @@
   ],
   "artist_names": [
     "Jerry"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2012-06-22 10:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-10-08 22:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-26 01:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-03-17 00:15:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-07-12 06:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-11-27 01:38:00"
+    },
+    {
+      "user": "timmy",
+      "when": "2014-02-19 13:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-02-23 19:24:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-17 05:00:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2017-05-12 13:10:00"
+    }
   ]
 }

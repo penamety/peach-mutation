@@ -19,5 +19,43 @@
   ],
   "artist_names": [
     "DJ 3.14"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-06-25 18:07:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2011-11-14 22:54:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-04-10 09:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-01-16 07:07:00"
+    },
+    {
+      "user": "maep",
+      "when": "2013-05-27 13:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-14 08:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-09-17 17:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-01 10:36:00"
+    },
+    {
+      "user": "Whitelabel",
+      "when": "2018-01-14 20:46:00"
+    }
   ]
 }

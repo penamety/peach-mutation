@@ -24,5 +24,51 @@
   ],
   "artist_names": [
     "Dave Rogers"
+  ],
+  "requests": [
+    {
+      "user": "TurboHz",
+      "when": "2011-03-31 01:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-22 06:15:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-10-02 21:54:00"
+    },
+    {
+      "user": "Floh",
+      "when": "2012-02-19 18:30:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-05-26 14:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-27 03:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-11-16 16:33:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-02-11 09:15:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2016-01-21 18:17:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-11-12 04:56:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-05-23 21:01:00"
+    }
   ]
 }

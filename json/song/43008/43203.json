@@ -21,5 +21,39 @@
   ],
   "artist_names": [
     "Algar"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2016-06-17 09:21:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-07-01 07:53:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-07-19 10:16:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-08-23 15:40:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-09-18 14:50:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-10-11 10:15:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-11-30 20:12:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-12 21:12:00"
+    }
   ]
 }

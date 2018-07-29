@@ -25,5 +25,67 @@
   ],
   "artist_names": [
     "Stinsen"
+  ],
+  "requests": [
+    {
+      "user": "kirsche",
+      "when": "2015-07-12 00:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-07-25 09:53:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2015-08-10 06:58:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-08-23 22:55:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-09-07 21:19:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-09-24 21:09:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-10-08 10:40:00"
+    },
+    {
+      "user": "Zabchob",
+      "when": "2016-05-31 16:54:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2016-07-20 01:27:00"
+    },
+    {
+      "user": "venttiili",
+      "when": "2017-01-31 13:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-09 05:48:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-11-01 01:10:00"
+    },
+    {
+      "user": "silok",
+      "when": "2017-11-26 12:27:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2018-03-26 18:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-14 04:58:00"
+    }
   ]
 }

@@ -20,5 +20,35 @@
   ],
   "artist_names": [
     "Nino"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2012-02-01 15:02:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-03-08 18:08:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-11-10 07:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-19 23:36:00"
+    },
+    {
+      "user": "etray",
+      "when": "2014-05-27 15:47:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-03-22 19:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-15 22:04:00"
+    }
   ]
 }

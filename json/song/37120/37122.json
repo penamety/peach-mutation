@@ -24,5 +24,63 @@
   ],
   "artist_names": [
     "Rodney Balai"
+  ],
+  "requests": [
+    {
+      "user": "Mystra",
+      "when": "2012-09-11 19:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-10-15 23:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-25 02:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-03-09 19:47:00"
+    },
+    {
+      "user": "Galancy",
+      "when": "2013-06-18 21:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-15 00:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-02-23 07:59:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-02-28 02:56:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-05-10 09:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-28 17:04:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-04-29 13:23:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-02-24 23:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-05-25 05:01:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-11-25 01:55:00"
+    }
   ]
 }

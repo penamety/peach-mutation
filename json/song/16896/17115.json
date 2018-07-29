@@ -21,5 +21,59 @@
   "artist_names": [
     "Dipswitch",
     "Psychofreud"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-04-26 09:13:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-11-02 04:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-08-25 14:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-30 14:09:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-05-04 13:06:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-06-24 02:18:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2015-01-25 11:34:00"
+    },
+    {
+      "user": "epso",
+      "when": "2015-06-19 16:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-04-23 18:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2017-11-23 13:40:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-03-06 13:16:00"
+    },
+    {
+      "user": "kimpsa",
+      "when": "2018-04-23 13:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-06-10 07:04:00"
+    }
   ]
 }

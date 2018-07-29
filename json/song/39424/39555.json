@@ -22,5 +22,59 @@
   ],
   "artist_names": [
     "Dan"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2013-11-09 07:34:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-12-22 15:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-06 23:34:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-01 17:28:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2014-04-09 21:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-05 19:23:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-08-04 02:16:00"
+    },
+    {
+      "user": "ajwen",
+      "when": "2014-11-24 12:05:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-09-01 05:46:00"
+    },
+    {
+      "user": "epso",
+      "when": "2016-04-07 10:21:00"
+    },
+    {
+      "user": "epso",
+      "when": "2016-08-16 11:59:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-01-03 03:57:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-05-08 17:31:00"
+    }
   ]
 }

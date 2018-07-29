@@ -23,5 +23,51 @@
   ],
   "artist_names": [
     "Dr. Awesome"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-08-31 07:00:00"
+    },
+    {
+      "user": "Korni",
+      "when": "2012-01-13 23:29:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-03-29 12:13:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-05-19 05:16:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-01-18 07:22:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-05-19 08:29:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-07-19 05:58:00"
+    },
+    {
+      "user": "teddy",
+      "when": "2013-10-31 09:18:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-04-15 03:29:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-09-07 06:20:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-04-03 02:18:00"
+    }
   ]
 }

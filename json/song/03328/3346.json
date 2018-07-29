@@ -25,5 +25,75 @@
   ],
   "artist_names": [
     "Jesper Kyd"
+  ],
+  "requests": [
+    {
+      "user": "Scope",
+      "when": "2011-05-25 23:45:00"
+    },
+    {
+      "user": "jellybubble",
+      "when": "2011-07-25 16:25:00"
+    },
+    {
+      "user": "jellybubble",
+      "when": "2011-08-24 12:24:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2011-09-27 07:26:00"
+    },
+    {
+      "user": "jellybubble",
+      "when": "2012-02-13 13:26:00"
+    },
+    {
+      "user": "Paranoid",
+      "when": "2012-12-11 17:37:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-03-26 06:06:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-11-30 14:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-21 22:33:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2015-02-08 19:03:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-24 06:52:00"
+    },
+    {
+      "user": "epso",
+      "when": "2015-07-08 23:38:00"
+    },
+    {
+      "user": "fred532",
+      "when": "2016-06-13 15:29:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-08-01 07:40:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-05-09 13:36:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-08-15 00:00:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-03-22 05:54:00"
+    }
   ]
 }

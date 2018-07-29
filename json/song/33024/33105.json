@@ -25,5 +25,55 @@
   ],
   "artist_names": [
     "Mad Max"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2012-05-07 12:02:00"
+    },
+    {
+      "user": "_wally",
+      "when": "2012-08-08 16:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-13 02:01:00"
+    },
+    {
+      "user": "Venty",
+      "when": "2013-01-19 23:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-27 16:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-05 16:58:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-11-18 00:17:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-08 01:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-09-09 00:52:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-05 03:31:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-12-25 23:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-06-02 03:51:00"
+    }
   ]
 }

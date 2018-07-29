@@ -23,5 +23,43 @@
   ],
   "artist_names": [
     "Jogeir"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2017-09-04 17:31:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-09-10 11:10:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-09-16 10:50:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-09-28 10:17:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-02 09:57:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-28 18:26:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-25 09:10:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-10 04:58:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-06-09 18:23:00"
+    }
   ]
 }

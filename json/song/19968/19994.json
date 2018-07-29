@@ -18,5 +18,39 @@
   ],
   "artist_names": [
     "Kangaroo MusiQue"
+  ],
+  "requests": [
+    {
+      "user": "Sensei",
+      "when": "2011-03-18 13:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-12-30 02:48:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-03-01 03:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-30 08:48:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-02-04 01:05:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-10-20 10:36:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-01-17 10:47:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-04-07 15:17:00"
+    }
   ]
 }

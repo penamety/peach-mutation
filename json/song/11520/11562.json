@@ -23,5 +23,31 @@
   ],
   "artist_names": [
     "Baz"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2012-09-29 00:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-15 15:27:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-11 01:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-03-15 05:10:00"
+    },
+    {
+      "user": "anchor",
+      "when": "2014-11-22 21:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-02 12:15:00"
+    }
   ]
 }

@@ -24,5 +24,43 @@
   ],
   "artist_names": [
     "Arne"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-09-01 03:40:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-01-25 20:54:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-06-27 04:12:00"
+    },
+    {
+      "user": "maep",
+      "when": "2012-10-11 11:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-15 22:51:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2014-01-14 20:25:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2015-09-17 13:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-15 13:23:00"
+    },
+    {
+      "user": "KangarooMusiQue",
+      "when": "2018-04-03 17:17:00"
+    }
   ]
 }

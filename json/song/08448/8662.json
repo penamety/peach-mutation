@@ -20,5 +20,383 @@
   ],
   "artist_names": [
     "Virgill"
+  ],
+  "requests": [
+    {
+      "user": "halvare",
+      "when": "2011-02-23 03:12:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-03-11 06:22:00"
+    },
+    {
+      "user": "Susanna",
+      "when": "2011-03-25 07:21:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2011-04-07 23:02:00"
+    },
+    {
+      "user": "Longbow",
+      "when": "2011-04-23 14:06:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2011-05-09 13:48:00"
+    },
+    {
+      "user": "halvare",
+      "when": "2011-05-25 05:12:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-06-10 19:55:00"
+    },
+    {
+      "user": "jinx",
+      "when": "2011-07-06 14:41:00"
+    },
+    {
+      "user": "Susanna",
+      "when": "2011-07-31 11:42:00"
+    },
+    {
+      "user": "TheNalex",
+      "when": "2011-08-25 21:59:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2011-09-17 12:08:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2011-10-10 08:44:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2011-10-26 06:33:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2011-11-11 01:49:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2011-12-01 23:51:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2011-12-30 04:53:00"
+    },
+    {
+      "user": "Sensei",
+      "when": "2012-01-25 14:30:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-02-18 01:57:00"
+    },
+    {
+      "user": "halvare",
+      "when": "2012-03-15 01:27:00"
+    },
+    {
+      "user": "LoveMetal",
+      "when": "2012-04-07 15:10:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-05-06 16:09:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2012-05-30 19:43:00"
+    },
+    {
+      "user": "anni",
+      "when": "2012-06-23 10:54:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2012-07-17 09:26:00"
+    },
+    {
+      "user": "halvare",
+      "when": "2012-08-10 11:25:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-09-03 19:43:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2012-09-27 22:17:00"
+    },
+    {
+      "user": "Longbow",
+      "when": "2012-10-21 10:52:00"
+    },
+    {
+      "user": "jinx",
+      "when": "2012-11-15 12:10:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2012-12-08 19:25:00"
+    },
+    {
+      "user": "chellomere",
+      "when": "2013-01-01 18:34:00"
+    },
+    {
+      "user": "chellomere",
+      "when": "2013-02-01 13:42:00"
+    },
+    {
+      "user": "Starbreaker",
+      "when": "2013-03-03 00:22:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2013-03-31 20:26:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2013-05-08 21:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-10 11:40:00"
+    },
+    {
+      "user": "chellomere",
+      "when": "2013-07-12 16:05:00"
+    },
+    {
+      "user": "chellomere",
+      "when": "2013-09-05 09:06:00"
+    },
+    {
+      "user": "chellomere",
+      "when": "2013-10-08 14:26:00"
+    },
+    {
+      "user": "chellomere",
+      "when": "2013-11-11 14:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-12-14 03:05:00"
+    },
+    {
+      "user": "chellomere",
+      "when": "2014-01-17 12:54:00"
+    },
+    {
+      "user": "LoveMetal",
+      "when": "2014-03-04 22:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-04-16 01:32:00"
+    },
+    {
+      "user": "spekki",
+      "when": "2014-04-30 09:54:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-05-31 16:59:00"
+    },
+    {
+      "user": "DiGiT",
+      "when": "2014-06-14 12:02:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2014-07-05 12:26:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-07-20 18:28:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2014-08-02 15:37:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-08-17 11:48:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2014-08-30 11:30:00"
+    },
+    {
+      "user": "Susanna",
+      "when": "2014-09-24 12:52:00"
+    },
+    {
+      "user": "Susanna",
+      "when": "2014-10-06 09:58:00"
+    },
+    {
+      "user": "egreek",
+      "when": "2014-10-20 15:43:00"
+    },
+    {
+      "user": "jxx",
+      "when": "2014-11-22 05:19:00"
+    },
+    {
+      "user": "jinx",
+      "when": "2015-01-23 10:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2015-02-06 06:12:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-03-04 14:44:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2015-05-23 13:01:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2015-06-18 19:41:00"
+    },
+    {
+      "user": "0A000h",
+      "when": "2015-07-03 18:38:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2015-07-19 15:19:00"
+    },
+    {
+      "user": "0A000h",
+      "when": "2015-08-05 21:44:00"
+    },
+    {
+      "user": "0A000h",
+      "when": "2015-08-31 20:12:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-09-26 11:49:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2015-10-24 16:14:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2015-11-22 17:31:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2015-12-06 17:05:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2015-12-21 13:52:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-01-24 16:55:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-02-11 05:22:00"
+    },
+    {
+      "user": "asbjornu",
+      "when": "2016-03-14 10:07:00"
+    },
+    {
+      "user": "LittleWhite",
+      "when": "2016-05-19 09:17:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2016-06-04 19:05:00"
+    },
+    {
+      "user": "LoveMetal",
+      "when": "2016-06-18 15:31:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-07-02 09:12:00"
+    },
+    {
+      "user": "BombmanDK",
+      "when": "2016-09-08 11:01:00"
+    },
+    {
+      "user": "LoveMetal",
+      "when": "2016-09-24 06:15:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2016-11-21 20:20:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2016-12-30 05:50:00"
+    },
+    {
+      "user": "BombmanDK",
+      "when": "2017-01-18 10:03:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-04-10 19:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-19 04:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-08-01 23:28:00"
+    },
+    {
+      "user": "LoveMetal",
+      "when": "2017-10-01 13:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-12-04 09:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-12-22 00:00:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2018-01-26 11:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-02-26 22:33:00"
+    },
+    {
+      "user": "Rapture",
+      "when": "2018-04-08 14:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-05-07 15:12:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "when": "2018-06-05 15:00:00"
+    }
   ]
 }

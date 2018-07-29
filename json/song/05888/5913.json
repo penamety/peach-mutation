@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Radiance"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-08-02 17:14:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-05-04 09:18:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-08-11 03:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-12 04:15:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-01-14 13:27:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-02-19 12:01:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-04-09 06:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-28 00:12:00"
+    }
   ]
 }

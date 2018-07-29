@@ -21,5 +21,31 @@
   ],
   "artist_names": [
     "DEATHLOK"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2018-01-01 09:30:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-19 05:42:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-02-07 07:49:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-02-26 19:08:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-08 09:32:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-05-24 04:30:00"
+    }
   ]
 }

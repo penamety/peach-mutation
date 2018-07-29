@@ -24,5 +24,47 @@
   ],
   "artist_names": [
     "Flex"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2017-03-22 11:46:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-04-14 06:44:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-05-24 06:22:00"
+    },
+    {
+      "user": "arab",
+      "when": "2017-05-31 14:11:00"
+    },
+    {
+      "user": "nyingen",
+      "when": "2017-08-26 22:06:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-11-18 11:33:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-07 03:17:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2018-01-28 17:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-03-09 02:48:00"
+    },
+    {
+      "user": "plc",
+      "when": "2018-03-31 10:05:00"
+    }
   ]
 }

@@ -21,5 +21,63 @@
   ],
   "artist_names": [
     "Erk"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2013-11-21 11:07:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2013-12-15 11:42:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-01-07 10:28:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-14 02:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-08-31 05:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-14 19:53:00"
+    },
+    {
+      "user": "silok",
+      "when": "2015-05-03 17:54:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-11-10 02:40:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-12-13 20:46:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-01-25 01:37:00"
+    },
+    {
+      "user": "HappyDude",
+      "when": "2017-04-25 01:51:00"
+    },
+    {
+      "user": "HappyDude",
+      "when": "2018-02-06 18:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-02-26 02:12:00"
+    },
+    {
+      "user": "HappyDude",
+      "when": "2018-05-16 01:00:00"
+    }
   ]
 }

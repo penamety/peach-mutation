@@ -22,5 +22,71 @@
   ],
   "artist_names": [
     "Baz"
+  ],
+  "requests": [
+    {
+      "user": "prowler",
+      "when": "2011-11-19 10:02:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-06 08:22:00"
+    },
+    {
+      "user": "Longbow",
+      "when": "2013-04-01 18:29:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-24 19:53:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-12 05:43:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-02-02 21:31:00"
+    },
+    {
+      "user": "silencer",
+      "when": "2015-08-29 06:50:00"
+    },
+    {
+      "user": "silencer",
+      "when": "2015-09-22 16:12:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-05-22 05:06:00"
+    },
+    {
+      "user": "silencer",
+      "when": "2016-07-25 19:06:00"
+    },
+    {
+      "user": "silencer",
+      "when": "2016-09-01 01:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-26 03:57:00"
+    },
+    {
+      "user": "silencer",
+      "when": "2017-05-11 19:29:00"
+    },
+    {
+      "user": "silencer",
+      "when": "2017-08-29 01:06:00"
+    },
+    {
+      "user": "silencer",
+      "when": "2018-04-25 01:04:00"
+    },
+    {
+      "user": "silencer",
+      "when": "2018-06-01 02:33:00"
+    }
   ]
 }

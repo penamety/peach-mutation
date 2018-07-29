@@ -24,5 +24,39 @@
   ],
   "artist_names": [
     "Klav"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2017-11-04 15:10:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-11-21 13:54:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-10 11:25:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-28 12:03:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-01-25 13:31:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2018-02-14 23:49:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-03-21 10:29:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2018-05-07 14:11:00"
+    }
   ]
 }

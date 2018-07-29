@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "Danalog"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-05-30 11:22:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2012-09-25 19:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-07 07:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-01 04:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-17 14:17:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2015-06-23 15:42:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-15 03:58:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-05-19 02:04:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-06-26 12:13:00"
+    }
   ]
 }

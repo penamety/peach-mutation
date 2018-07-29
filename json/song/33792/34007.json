@@ -24,5 +24,51 @@
   ],
   "artist_names": [
     "Jakim"
+  ],
+  "requests": [
+    {
+      "user": "Elrinth",
+      "when": "2011-09-07 17:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-11-05 18:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-02-20 05:48:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-04-05 05:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-09 05:26:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-12-02 06:19:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-01-01 08:25:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-03-15 23:12:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-08-21 08:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-12 21:06:00"
+    },
+    {
+      "user": "wig",
+      "when": "2017-08-07 23:40:00"
+    }
   ]
 }

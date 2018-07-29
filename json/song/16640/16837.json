@@ -15,5 +15,31 @@
   "info": "Dupe of [queue]38235[/queue]",
   "last_scraped": "2018-05-23 04:32:08",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-03-31 11:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-08-07 06:25:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-05-29 01:49:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-07-11 06:17:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-09-06 12:02:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-05-21 08:41:00"
+    }
+  ]
 }

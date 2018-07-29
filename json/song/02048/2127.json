@@ -19,5 +19,59 @@
   ],
   "artist_names": [
     "Dr. Awesome"
+  ],
+  "requests": [
+    {
+      "user": "Rumpel",
+      "when": "2011-03-22 08:45:00"
+    },
+    {
+      "user": "Zitrax",
+      "when": "2011-05-07 23:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-06-28 07:40:00"
+    },
+    {
+      "user": "Rumpel",
+      "when": "2011-08-31 16:11:00"
+    },
+    {
+      "user": "archipos",
+      "when": "2012-01-30 17:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-30 00:15:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-07-18 04:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-29 23:48:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-04-13 04:21:00"
+    },
+    {
+      "user": "shftd_",
+      "when": "2015-04-06 02:01:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-07-16 05:11:00"
+    },
+    {
+      "user": "shftd_",
+      "when": "2017-03-21 11:32:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-06-04 02:06:00"
+    }
   ]
 }

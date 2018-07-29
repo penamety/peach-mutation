@@ -23,5 +23,47 @@
   ],
   "artist_names": [
     "Banana"
+  ],
+  "requests": [
+    {
+      "user": "maep",
+      "when": "2012-04-15 23:10:00"
+    },
+    {
+      "user": "BombmanDK",
+      "when": "2012-05-04 10:48:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-07-07 08:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-01-21 21:51:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2013-05-22 12:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-13 19:25:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-03-15 04:49:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-04-15 19:15:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-03-17 23:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-02-09 03:00:00"
+    }
   ]
 }

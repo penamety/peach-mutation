@@ -24,5 +24,47 @@
   ],
   "artist_names": [
     "Gammasutra"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2012-02-16 11:12:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2012-03-14 12:29:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2012-04-23 01:57:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2012-06-03 12:40:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2012-10-01 11:24:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-05-13 06:14:00"
+    },
+    {
+      "user": "rockmonitor",
+      "when": "2013-07-22 22:20:00"
+    },
+    {
+      "user": "SPACE",
+      "when": "2014-01-09 09:44:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-12-13 01:09:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-02-07 01:22:00"
+    }
   ]
 }

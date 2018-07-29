@@ -25,5 +25,39 @@
   "artist_names": [
     "Greg [PL]",
     "X-Ray"
+  ],
+  "requests": [
+    {
+      "user": "MrsBidette",
+      "when": "2011-08-25 02:21:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2012-07-13 21:07:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2013-04-18 15:29:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-02-17 16:32:00"
+    },
+    {
+      "user": "epso",
+      "when": "2016-02-18 20:42:00"
+    },
+    {
+      "user": "epso",
+      "when": "2016-07-11 07:35:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-09-16 00:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-11-12 03:06:00"
+    }
   ]
 }

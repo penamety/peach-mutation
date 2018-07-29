@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Devilock"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2011-12-31 00:23:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-02-13 13:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-09 15:57:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-07-22 03:24:00"
+    },
+    {
+      "user": "etray",
+      "when": "2014-06-11 19:37:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-10-08 06:09:00"
+    },
+    {
+      "user": "silok",
+      "when": "2016-04-13 10:53:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-10 09:53:00"
+    }
   ]
 }

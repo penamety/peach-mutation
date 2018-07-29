@@ -16,5 +16,31 @@
   "vote_avg": 2.8,
   "last_scraped": "2018-05-23 01:35:58",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-05-02 19:16:00"
+    },
+    {
+      "user": "besh",
+      "when": "2011-05-30 19:50:00"
+    },
+    {
+      "user": "dukzcry",
+      "when": "2011-07-09 09:13:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-09-04 02:03:00"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2012-02-02 22:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-06-14 23:48:00"
+    }
+  ]
 }

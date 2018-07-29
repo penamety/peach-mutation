@@ -27,5 +27,63 @@
   "artist_names": [
     "Dubmood",
     "Wasp"
+  ],
+  "requests": [
+    {
+      "user": "lroy",
+      "when": "2016-11-24 19:30:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-08 22:10:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-27 04:26:00"
+    },
+    {
+      "user": "venttiili",
+      "when": "2017-01-16 08:04:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-02-06 11:30:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-26 13:27:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-03-17 06:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-04-23 06:26:00"
+    },
+    {
+      "user": "Neobyte",
+      "when": "2017-08-06 12:47:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2018-01-27 09:03:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-02-14 03:50:00"
+    },
+    {
+      "user": "sharps030",
+      "when": "2018-03-23 12:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-04-25 02:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-31 23:01:00"
+    }
   ]
 }

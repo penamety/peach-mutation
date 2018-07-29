@@ -20,5 +20,47 @@
   "source_id": 4,
   "source": "Compo Entry",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "Mystra",
+      "when": "2013-09-16 09:16:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-10-10 09:19:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-12-08 16:26:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2014-01-10 13:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-05-25 22:22:00"
+    },
+    {
+      "user": "codehead",
+      "when": "2014-12-11 10:10:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2015-04-15 09:19:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-20 08:11:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-05-24 23:01:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-10-29 04:06:00"
+    }
+  ]
 }

@@ -16,5 +16,31 @@
   "info": "Dupe of [song]12511[/song]",
   "last_scraped": "2018-05-23 22:04:15",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2014-10-01 09:18:00"
+    },
+    {
+      "user": "maep",
+      "when": "2014-10-16 16:57:00"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2014-11-01 09:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-20 03:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-12-11 09:42:00"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2015-06-05 16:19:00"
+    }
+  ]
 }

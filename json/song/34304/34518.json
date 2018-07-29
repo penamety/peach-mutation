@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "lemonade"
+  ],
+  "requests": [
+    {
+      "user": "Mystra",
+      "when": "2011-11-12 23:09:00"
+    },
+    {
+      "user": "SampL",
+      "when": "2011-12-03 18:20:00"
+    },
+    {
+      "user": "crrr",
+      "when": "2012-05-30 21:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-01-19 00:05:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-03-23 10:48:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-09-30 04:33:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-02-09 19:57:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-06-24 03:40:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-02-21 09:25:00"
+    }
   ]
 }

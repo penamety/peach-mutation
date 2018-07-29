@@ -23,5 +23,47 @@
   ],
   "artist_names": [
     "Pip Malt"
+  ],
+  "requests": [
+    {
+      "user": "Arne",
+      "when": "2011-06-25 01:06:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2011-09-03 03:47:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-02-15 06:23:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-09-03 16:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-06-26 10:56:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2013-09-17 22:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-09-04 18:16:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-01-17 01:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-04-19 23:42:00"
+    },
+    {
+      "user": "oview",
+      "when": "2018-04-23 11:22:00"
+    }
   ]
 }

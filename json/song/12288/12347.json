@@ -24,5 +24,39 @@
   ],
   "artist_names": [
     "Charles Callet"
+  ],
+  "requests": [
+    {
+      "user": "Aetrin",
+      "when": "2012-04-16 20:05:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2013-02-02 12:05:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-09-10 13:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-08-04 20:05:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-12-02 16:32:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2015-06-17 17:18:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-04-23 00:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-09-28 00:40:00"
+    }
   ]
 }

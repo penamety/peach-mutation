@@ -23,5 +23,35 @@
   ],
   "artist_names": [
     "rockmonitor"
+  ],
+  "requests": [
+    {
+      "user": "Arne",
+      "when": "2013-09-05 20:21:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-09-29 20:18:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-11-18 11:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-01-09 02:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-06-03 15:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-11 00:14:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2015-07-08 23:57:00"
+    }
   ]
 }

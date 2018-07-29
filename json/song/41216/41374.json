@@ -22,5 +22,39 @@
   ],
   "artist_names": [
     "Hunz"
+  ],
+  "requests": [
+    {
+      "user": "melcom",
+      "when": "2014-12-18 17:30:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-01-01 00:44:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-02-11 10:13:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-03 01:20:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-08-25 15:29:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-10-18 18:10:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-05 03:20:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-21 09:01:00"
+    }
   ]
 }

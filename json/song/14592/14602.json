@@ -25,5 +25,79 @@
   ],
   "artist_names": [
     "Banana"
+  ],
+  "requests": [
+    {
+      "user": "lroy",
+      "when": "2011-07-19 14:47:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2011-08-27 21:46:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2011-11-05 13:26:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-04-02 21:12:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2013-01-31 11:31:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-12 06:14:00"
+    },
+    {
+      "user": "DrFlay",
+      "when": "2014-01-16 00:58:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-03-14 09:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-05-13 12:46:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-04-17 17:18:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-05-07 07:50:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-05-28 17:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-08-21 06:59:00"
+    },
+    {
+      "user": "DrFlay",
+      "when": "2016-10-05 11:16:00"
+    },
+    {
+      "user": "Thexder",
+      "when": "2017-02-26 10:50:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2017-07-10 22:21:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2017-09-04 19:14:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-03-14 15:33:00"
+    }
   ]
 }

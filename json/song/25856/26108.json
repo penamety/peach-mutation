@@ -21,5 +21,35 @@
   ],
   "artist_names": [
     "Christophe Fevre"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-05-14 05:21:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-07-27 06:35:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2013-04-24 13:43:00"
+    },
+    {
+      "user": "ezal",
+      "when": "2013-06-20 19:40:00"
+    },
+    {
+      "user": "etray",
+      "when": "2014-05-27 17:58:00"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-01-19 13:12:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-23 03:12:00"
+    }
   ]
 }

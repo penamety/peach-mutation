@@ -19,5 +19,39 @@
   ],
   "artist_names": [
     "Josh"
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-04-29 02:02:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-07-01 14:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-01-21 23:55:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-03-17 03:40:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-09-26 17:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-04-01 11:52:00"
+    },
+    {
+      "user": "Solo",
+      "when": "2016-05-15 02:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-02 01:02:00"
+    }
   ]
 }

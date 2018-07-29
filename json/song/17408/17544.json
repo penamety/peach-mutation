@@ -15,5 +15,31 @@
   "info": "Dupe of [queue]17545[/queue]",
   "last_scraped": "2018-05-23 02:35:30",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-04-29 03:07:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-08-22 02:57:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-05-14 05:58:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-10-30 06:08:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-30 02:45:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-07-02 10:40:00"
+    }
+  ]
 }

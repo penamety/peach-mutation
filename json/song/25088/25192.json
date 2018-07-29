@@ -20,5 +20,55 @@
   "artist_names": [
     "Cyborg Jeff",
     "Tbob"
+  ],
+  "requests": [
+    {
+      "user": "ZTube",
+      "when": "2011-05-09 09:24:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2012-01-16 05:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-10-22 06:03:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-01-16 03:58:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-04-21 20:57:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-10-30 03:31:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-04-02 04:36:00"
+    },
+    {
+      "user": "Spiral",
+      "when": "2016-02-10 09:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-07-05 07:22:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-02-23 14:25:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-04-13 11:45:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-06-01 07:32:00"
+    }
   ]
 }

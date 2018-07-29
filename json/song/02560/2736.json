@@ -22,5 +22,43 @@
   ],
   "artist_names": [
     "FTC"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-04-12 20:32:00"
+    },
+    {
+      "user": "crt",
+      "when": "2012-09-06 01:46:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-03-11 09:49:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-05-15 03:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-11 16:55:00"
+    },
+    {
+      "user": "Erk",
+      "when": "2014-03-21 13:53:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-03-25 19:39:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-03-03 11:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-07-08 07:13:00"
+    }
   ]
 }

@@ -18,5 +18,47 @@
   ],
   "artist_names": [
     "Einstein"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-05-30 15:24:00"
+    },
+    {
+      "user": "maep",
+      "when": "2011-11-08 15:55:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-09-19 20:41:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-15 20:47:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-06-11 03:25:00"
+    },
+    {
+      "user": "Erk",
+      "when": "2014-02-14 16:48:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-04-23 13:35:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-05-30 05:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-06-01 09:36:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-06-28 20:51:00"
+    }
   ]
 }

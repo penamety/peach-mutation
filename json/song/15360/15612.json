@@ -21,5 +21,43 @@
   ],
   "artist_names": [
     "Boo"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-02-17 19:02:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-06-28 05:10:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-01-18 18:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-03-28 15:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-30 13:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-09-14 00:56:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-07-26 04:33:00"
+    },
+    {
+      "user": "Antibyte",
+      "when": "2017-03-24 08:45:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-03-02 01:59:00"
+    }
   ]
 }

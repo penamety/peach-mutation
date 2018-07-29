@@ -23,5 +23,43 @@
   ],
   "artist_names": [
     "EatMe"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2016-02-02 12:34:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-02-13 12:56:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-03-16 12:51:00"
+    },
+    {
+      "user": "Creonix",
+      "when": "2016-05-07 09:59:00"
+    },
+    {
+      "user": "Shinsakuto",
+      "when": "2016-06-24 02:33:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-09-18 20:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2016-11-12 12:09:00"
+    },
+    {
+      "user": "den32ds",
+      "when": "2017-03-09 14:50:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-04-02 07:01:00"
+    }
   ]
 }

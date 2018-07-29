@@ -15,5 +15,23 @@
   "info": "Dupe of [song]19541[/song]",
   "last_scraped": "2018-05-23 06:53:50",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "BombmanDK",
+      "when": "2011-05-18 13:21:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2011-10-25 15:07:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-06-02 22:41:00"
+    },
+    {
+      "user": "Buzzer",
+      "when": "2012-07-26 12:43:00"
+    }
+  ]
 }

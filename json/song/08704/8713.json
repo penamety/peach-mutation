@@ -22,5 +22,63 @@
   ],
   "artist_names": [
     "Virt"
+  ],
+  "requests": [
+    {
+      "user": "BSC",
+      "when": "2011-03-02 00:59:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-06-26 03:44:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-08-20 07:37:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2011-09-18 02:18:00"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2012-02-03 18:27:00"
+    },
+    {
+      "user": "grachev",
+      "when": "2012-06-24 22:26:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-10-25 16:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-31 02:22:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-11-14 02:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-09 01:56:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-08-01 23:10:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-04-26 06:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-07-25 03:30:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-03-27 06:11:00"
+    }
   ]
 }

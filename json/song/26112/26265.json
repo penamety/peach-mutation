@@ -15,5 +15,27 @@
   "info": "Dupe of [song]33086[/song]",
   "last_scraped": "2018-05-23 04:07:46",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "sqrmax",
+      "when": "2011-04-20 05:28:00"
+    },
+    {
+      "user": "communicator",
+      "when": "2011-05-10 01:11:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2011-05-28 05:21:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2011-09-26 05:31:00"
+    },
+    {
+      "user": "BSC",
+      "when": "2012-03-18 17:44:00"
+    }
+  ]
 }

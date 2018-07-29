@@ -15,5 +15,15 @@
   "info": "Dupe of [song]33050[/song]. [artist]728[/artist] is the original artist of this track ([url=http://asle.free.fr/groups/Silents/tsl-bhdemo.php3]source[/url]).",
   "last_scraped": "2018-05-23 00:17:12",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-07-08 08:18:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2012-07-09 19:59:00"
+    }
+  ]
 }

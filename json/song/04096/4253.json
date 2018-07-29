@@ -18,5 +18,43 @@
   ],
   "artist_names": [
     "Lunde"
+  ],
+  "requests": [
+    {
+      "user": "lemonade",
+      "when": "2011-08-01 07:20:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-08-07 00:04:00"
+    },
+    {
+      "user": "maep",
+      "when": "2012-10-17 18:08:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-28 03:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-10 05:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-02-14 01:01:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-04-24 20:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-28 19:51:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-02-12 03:03:00"
+    }
   ]
 }

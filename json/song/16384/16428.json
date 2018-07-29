@@ -24,5 +24,43 @@
   "artist_names": [
     "Codasm",
     "Cyborg Jeff"
+  ],
+  "requests": [
+    {
+      "user": "ViThor",
+      "when": "2017-04-27 19:24:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-05-13 08:55:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-06-06 07:31:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-09-10 18:51:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-02 10:23:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-01-12 06:37:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-02-23 09:43:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-04-06 13:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2018-05-18 13:54:00"
+    }
   ]
 }

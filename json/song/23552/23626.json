@@ -22,5 +22,39 @@
   ],
   "artist_names": [
     "Rhino"
+  ],
+  "requests": [
+    {
+      "user": "Mystra",
+      "when": "2012-06-21 07:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-01-20 13:14:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-04-13 23:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-09-12 22:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-08-24 14:30:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-07-28 03:53:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-11-02 17:47:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-05-03 18:15:00"
+    }
   ]
 }

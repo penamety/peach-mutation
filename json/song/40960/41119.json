@@ -22,5 +22,51 @@
   ],
   "artist_names": [
     "Mano"
+  ],
+  "requests": [
+    {
+      "user": "Shinobi",
+      "when": "2014-10-18 18:10:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-10-29 08:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-13 14:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-11-29 01:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-12-15 23:36:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-02-23 11:46:00"
+    },
+    {
+      "user": "SJD",
+      "when": "2016-02-26 19:04:00"
+    },
+    {
+      "user": "malmen",
+      "when": "2016-06-05 01:02:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2016-09-18 03:39:00"
+    },
+    {
+      "user": "H3LL4Sphoros",
+      "when": "2017-03-23 23:20:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-08 03:35:00"
+    }
   ]
 }

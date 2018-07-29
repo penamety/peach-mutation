@@ -22,5 +22,91 @@
   ],
   "artist_names": [
     "Baz"
+  ],
+  "requests": [
+    {
+      "user": "Danger",
+      "when": "2011-05-20 11:36:00"
+    },
+    {
+      "user": "Riphur",
+      "when": "2011-06-20 22:45:00"
+    },
+    {
+      "user": "Riphur",
+      "when": "2011-07-29 14:28:00"
+    },
+    {
+      "user": "Riphur",
+      "when": "2011-08-24 10:08:00"
+    },
+    {
+      "user": "Riphur",
+      "when": "2011-09-20 16:46:00"
+    },
+    {
+      "user": "Riphur",
+      "when": "2012-02-19 22:00:00"
+    },
+    {
+      "user": "Riphur",
+      "when": "2012-03-27 16:17:00"
+    },
+    {
+      "user": "Riphur",
+      "when": "2012-04-27 12:52:00"
+    },
+    {
+      "user": "Flashlight",
+      "when": "2013-03-26 09:58:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-07-28 18:58:00"
+    },
+    {
+      "user": "Kosmos",
+      "when": "2013-09-08 10:04:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-07 03:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-24 10:29:00"
+    },
+    {
+      "user": "Fireball",
+      "when": "2015-09-22 16:43:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2015-12-15 19:10:00"
+    },
+    {
+      "user": "Fireball",
+      "when": "2016-09-23 09:32:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-11-23 01:56:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-26 04:13:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-10-28 21:56:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-11-19 07:13:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-04-06 03:14:00"
+    }
   ]
 }

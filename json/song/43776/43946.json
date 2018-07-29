@@ -23,5 +23,43 @@
   ],
   "artist_names": [
     "MRT"
+  ],
+  "requests": [
+    {
+      "user": "serpent",
+      "when": "2017-04-23 15:34:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-05-28 12:00:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-06-02 14:04:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-07-04 01:57:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-10-14 12:52:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-03 10:11:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-11 12:01:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-03-17 12:55:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-05-25 09:11:00"
+    }
   ]
 }

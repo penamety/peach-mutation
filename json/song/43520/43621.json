@@ -24,5 +24,51 @@
   ],
   "artist_names": [
     "Uncle Tom"
+  ],
+  "requests": [
+    {
+      "user": "Accidental",
+      "when": "2016-12-08 10:02:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-27 07:11:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-23 18:13:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-02-20 07:43:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-03-20 12:19:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-05-14 10:08:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2017-06-25 18:08:00"
+    },
+    {
+      "user": "Triton",
+      "when": "2017-09-14 10:11:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2017-12-27 10:41:00"
+    },
+    {
+      "user": "Tobbeo",
+      "when": "2018-02-10 09:10:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2018-03-16 17:28:00"
+    }
   ]
 }

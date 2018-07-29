@@ -25,5 +25,43 @@
   ],
   "artist_names": [
     "Lizard [se]"
+  ],
+  "requests": [
+    {
+      "user": "maep",
+      "when": "2015-06-02 16:17:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-06-18 07:11:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-07-05 16:33:00"
+    },
+    {
+      "user": "maep",
+      "when": "2015-07-24 12:25:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2015-10-31 12:22:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-13 05:27:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-02-03 00:30:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-21 08:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-07-28 00:05:00"
+    }
   ]
 }

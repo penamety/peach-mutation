@@ -28,5 +28,63 @@
   "artist_names": [
     "Abaddon",
     "Vent"
+  ],
+  "requests": [
+    {
+      "user": "Cook",
+      "when": "2011-07-04 10:22:00"
+    },
+    {
+      "user": "neutron",
+      "when": "2011-08-11 16:52:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-03-16 16:52:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2012-07-25 17:57:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2012-09-04 07:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-08 15:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-01-28 05:15:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-03-28 07:23:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-04-16 04:28:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-11-24 08:38:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-12-10 01:57:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-01-05 02:46:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-04-10 23:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-05-18 01:19:00"
+    }
   ]
 }

@@ -27,5 +27,35 @@
   ],
   "artist_names": [
     "lft"
+  ],
+  "requests": [
+    {
+      "user": "MyO",
+      "when": "2017-12-06 23:06:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-12-25 09:20:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-11 22:12:00"
+    },
+    {
+      "user": "Accidental",
+      "when": "2018-01-30 06:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-02-17 18:53:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2018-03-23 11:06:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2018-05-12 17:28:00"
+    }
   ]
 }

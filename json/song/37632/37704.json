@@ -25,5 +25,55 @@
   ],
   "artist_names": [
     "Linus"
+  ],
+  "requests": [
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2012-12-02 13:30:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-12-21 10:28:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2013-01-26 22:46:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2013-03-04 12:41:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2013-05-03 22:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-10-23 12:14:00"
+    },
+    {
+      "user": "jinx",
+      "when": "2014-06-27 10:29:00"
+    },
+    {
+      "user": "jinx",
+      "when": "2015-01-26 13:34:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2015-06-19 11:48:00"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2015-08-22 17:33:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2017-05-24 04:41:00"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2018-02-27 00:33:00"
+    }
   ]
 }

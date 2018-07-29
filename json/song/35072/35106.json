@@ -22,5 +22,39 @@
   ],
   "artist_names": [
     "Malekith"
+  ],
+  "requests": [
+    {
+      "user": "lroy",
+      "when": "2012-02-15 14:00:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2012-04-09 16:53:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-05-09 22:30:00"
+    },
+    {
+      "user": "AnonymousCoward",
+      "when": "2012-06-18 21:49:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2012-07-22 04:34:00"
+    },
+    {
+      "user": "nvictor",
+      "when": "2012-08-29 05:22:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2012-10-04 10:30:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-19 00:54:00"
+    }
   ]
 }

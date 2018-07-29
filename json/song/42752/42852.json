@@ -24,5 +24,47 @@
   ],
   "artist_names": [
     "Elijah"
+  ],
+  "requests": [
+    {
+      "user": "zeograd",
+      "when": "2016-02-12 11:02:00"
+    },
+    {
+      "user": "Scribblette",
+      "when": "2016-02-24 14:37:00"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-03-10 10:45:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-03-29 09:24:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-04-11 12:16:00"
+    },
+    {
+      "user": "maep",
+      "when": "2016-05-13 16:40:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-09-24 00:18:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2017-01-12 01:59:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-04-03 19:40:00"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2018-04-12 22:24:00"
+    }
   ]
 }

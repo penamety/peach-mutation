@@ -18,5 +18,35 @@
   "info": "Dupe of [song]39179[/song]",
   "last_scraped": "2018-05-23 17:01:12",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "requests": [
+    {
+      "user": "ViThor",
+      "when": "2014-03-24 08:13:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-04-06 15:59:00"
+    },
+    {
+      "user": "Arne",
+      "when": "2014-04-22 20:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-05-07 23:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-05-29 03:23:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2014-06-14 12:06:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2014-06-29 15:04:00"
+    }
+  ]
 }

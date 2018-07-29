@@ -21,5 +21,59 @@
   ],
   "artist_names": [
     "Baz"
+  ],
+  "requests": [
+    {
+      "user": "NerdN",
+      "when": "2012-01-01 21:16:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-07-28 16:34:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-11-29 23:34:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-30 15:56:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2013-07-27 18:08:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-08-25 07:55:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-12-06 03:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-10-23 02:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-08-18 02:13:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-09-07 16:53:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-09-27 17:58:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2016-07-02 20:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-10-16 02:00:00"
+    }
   ]
 }

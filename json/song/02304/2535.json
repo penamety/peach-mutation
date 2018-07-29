@@ -19,5 +19,43 @@
   ],
   "artist_names": [
     "Unknown"
+  ],
+  "requests": [
+    {
+      "user": "zerkman",
+      "when": "2011-07-01 10:41:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-08-05 06:02:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2012-07-21 10:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-31 04:45:00"
+    },
+    {
+      "user": "arrakis",
+      "when": "2014-02-10 19:55:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-11-04 02:32:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-03-08 19:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2017-05-14 18:14:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2018-02-01 08:03:00"
+    }
   ]
 }

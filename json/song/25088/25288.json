@@ -24,6 +24,58 @@
   "artist_names": [
     "TDK"
   ],
+  "votes": [
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Willisica",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-11 05:49:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2014-10-07 10:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-07 10:30:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-10-07 10:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

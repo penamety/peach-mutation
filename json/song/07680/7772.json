@@ -19,5 +19,17 @@
   "artist_names": [
     "Interphace"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-08-27"
+    }
+  ],
   "requests": []
 }

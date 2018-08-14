@@ -21,5 +21,17 @@
   "artist_names": [
     "Johan Alpmar"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-03 10:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-31"
+    }
+  ],
   "requests": []
 }

@@ -26,6 +26,63 @@
   "artist_names": [
     "Mad Phantom"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "liquidstupid",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-06 01:31:00"
+    },
+    {
+      "user": "deot",
+      "vote": 2,
+      "when": "2013-09-02 09:28:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-02-16 07:22:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-06 16:40:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-08-18 03:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

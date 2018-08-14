@@ -19,6 +19,88 @@
   "artist_names": [
     "Jobe"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 1,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-09-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-09-03"
+    },
+    {
+      "user": "zmurf",
+      "vote": 1,
+      "when": "2016-08-01"
+    },
+    {
+      "user": "KangarooMusiQue",
+      "vote": 5,
+      "when": "2018-03-26 00:47:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-03-26 00:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-03-26 00:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -23,6 +23,78 @@
   "artist_names": [
     "KaEnn"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "uploader",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "bitl",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-04 01:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2016-12-01 11:07:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-12-01 11:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "SPACE",

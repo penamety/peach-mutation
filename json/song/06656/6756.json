@@ -20,6 +20,73 @@
   "artist_names": [
     "Subi"
   ],
+  "votes": [
+    {
+      "user": "ProgZmax",
+      "vote": 1,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Zac",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Kalroth",
+      "vote": 2,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-01 09:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-04-09 23:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-06-09 21:03:00"
+    },
+    {
+      "user": "besh",
+      "vote": 1,
+      "when": "2014-06-09 21:05:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2015-06-02 16:53:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-06-02 16:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

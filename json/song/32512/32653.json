@@ -23,6 +23,93 @@
   "artist_names": [
     "XTD"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "zuo",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "selmi",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-10-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-09 17:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-07 21:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-08 13:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "wiseman",

@@ -21,6 +21,53 @@
   "artist_names": [
     "Stun"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "tomi",
+      "vote": 3,
+      "when": "2015-09-06"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-11-11 12:04:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-11-05 09:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

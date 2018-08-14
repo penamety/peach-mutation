@@ -19,6 +19,48 @@
   "artist_names": [
     "JCH"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-05-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-27 10:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-18 03:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-04 22:05:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-09-27"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

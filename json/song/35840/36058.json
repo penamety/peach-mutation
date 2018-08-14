@@ -25,6 +25,48 @@
   "artist_names": [
     "Bernard Sumner"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Radar",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Sketch",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2013-06-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-21 21:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

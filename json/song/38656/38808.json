@@ -26,6 +26,68 @@
   "artist_names": [
     "WAVE"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-06-17 09:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-30 14:41:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-07-30 14:42:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 2,
+      "when": "2013-09-14 05:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-02 01:17:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-02 01:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-11-02 01:19:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-05-14 21:25:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2014-12-31 23:13:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2014-12-31 23:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "minus",

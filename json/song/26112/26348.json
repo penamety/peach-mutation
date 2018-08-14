@@ -20,6 +20,98 @@
   "artist_names": [
     "Mice"
   ],
+  "votes": [
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "wiseman",
+      "vote": 5,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "matsim",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "velusip",
+      "vote": 1,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-09 03:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-09 03:39:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-02 06:25:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-07-08 11:34:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2018-03-30 18:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "Starchaser",

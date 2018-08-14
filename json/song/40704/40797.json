@@ -23,6 +23,63 @@
   "artist_names": [
     "Archangel [NO]"
   ],
+  "votes": [
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2014-08-12 11:16:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-08-12 11:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-12 11:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-08-22 13:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-10 00:27:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 5,
+      "when": "2014-10-16 14:09:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 3,
+      "when": "2014-11-09 17:44:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-26 10:30:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2017-01-26 10:31:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2017-11-16 01:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "Jerry",

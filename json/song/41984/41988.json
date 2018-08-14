@@ -23,6 +23,53 @@
   "artist_names": [
     "Gargoyle"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-05-02 10:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-05-02 10:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-05-02 10:05:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-05-26 08:16:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-05-26 08:17:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-07-11"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-10-03"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-24 04:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-09-28 01:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

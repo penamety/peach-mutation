@@ -20,6 +20,53 @@
   "artist_names": [
     "Uncle Tom"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "anderaiso",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-30 02:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-30 02:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-14 12:19:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-02-14 12:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "dukzcry",

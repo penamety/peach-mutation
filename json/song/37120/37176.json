@@ -24,6 +24,73 @@
   "artist_names": [
     "Anders Hamre"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Telach",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "liquidstupid",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-09-02 11:18:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-09-02 11:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-02 11:20:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-01-13 14:54:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2016-01-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-18"
+    }
+  ],
   "requests": [
     {
       "user": "sLASH",

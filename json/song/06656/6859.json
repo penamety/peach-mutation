@@ -25,6 +25,68 @@
   "artist_names": [
     "Tebirod"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-27 22:30:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-07-27 22:30:00"
+    },
+    {
+      "user": "Chapelier",
+      "vote": 4,
+      "when": "2013-07-27 22:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-27 22:31:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 3,
+      "when": "2013-07-27 22:33:00"
+    },
+    {
+      "user": "arab",
+      "vote": 4,
+      "when": "2016-10-27 11:50:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-02-21 06:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

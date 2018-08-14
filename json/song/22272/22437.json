@@ -20,6 +20,98 @@
   "artist_names": [
     "Omega"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "korkut",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "SampL",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-12-18 10:40:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-12-18 10:40:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 3,
+      "when": "2014-10-29 00:50:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-03-20 10:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-20 10:19:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-03-20 10:20:00"
+    },
+    {
+      "user": "nikamota",
+      "vote": 3,
+      "when": "2016-01-15"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-01-10 03:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

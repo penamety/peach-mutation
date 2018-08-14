@@ -23,5 +23,47 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "korkut",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Longbow",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2010-10-02"
+    }
+  ],
   "requests": []
 }

@@ -26,6 +26,98 @@
   "artist_names": [
     "Robric"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-02-23 19:40:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-02-23 20:02:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-02-23 20:02:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-02-23 20:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-02-23 20:20:00"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2016-04-29 22:52:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "BBB",
+      "vote": 2,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-08-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-15 14:00:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-10-15 14:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-11-08 10:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-11-08 11:00:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 5,
+      "when": "2017-01-03 09:58:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-05-29 13:29:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-08-12 20:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

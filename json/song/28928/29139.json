@@ -23,6 +23,63 @@
   "artist_names": [
     "Griffin"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-24 17:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-05 23:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-10-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-08-27"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

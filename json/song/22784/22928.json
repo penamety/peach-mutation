@@ -23,6 +23,88 @@
   "artist_names": [
     "Power of Creation"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-27 09:40:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2014-03-27 09:41:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-08-26 14:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-08-26 14:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-08-26 14:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-08-26 14:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-02-13 18:24:00"
+    },
+    {
+      "user": "Zitrax",
+      "vote": 3,
+      "when": "2018-01-05 10:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

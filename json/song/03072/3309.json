@@ -19,6 +19,68 @@
   "artist_names": [
     "Jazz"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-24 20:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-24 20:57:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-06-22 07:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

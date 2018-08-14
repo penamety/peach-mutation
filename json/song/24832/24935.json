@@ -21,6 +21,58 @@
   "artist_names": [
     "Subversive Elements"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-27 02:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-27 23:04:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-04 16:29:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-01-13"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

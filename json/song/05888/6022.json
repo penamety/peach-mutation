@@ -20,6 +20,58 @@
   "artist_names": [
     "Radix"
   ],
+  "votes": [
+    {
+      "user": "alienNeWbeat",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "sneh",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "mud",
+      "vote": 2,
+      "when": "2013-06-02 17:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-03 22:04:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-09-03 22:05:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 2,
+      "when": "2016-08-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-08-04"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

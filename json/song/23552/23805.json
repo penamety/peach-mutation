@@ -19,6 +19,53 @@
   "artist_names": [
     "Rolemusic"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Vampire",
+      "vote": 3,
+      "when": "2013-06-17 19:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-17 19:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-02 22:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "Stormdragonblue",

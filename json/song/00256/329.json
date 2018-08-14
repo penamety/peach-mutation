@@ -22,6 +22,98 @@
   "artist_names": [
     "Arpegiator"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2008-12-01"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Colidace",
+      "vote": 4,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-26 13:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-10-19 16:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-02-25 06:38:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-07-11 04:31:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-10-15 20:16:00"
+    },
+    {
+      "user": "medic",
+      "vote": 4,
+      "when": "2014-10-15 20:19:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2015-09-24"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-03-21 17:57:00"
+    },
+    {
+      "user": "Rahta",
+      "vote": 5,
+      "when": "2017-03-30"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2017-03-30"
+    }
+  ],
   "requests": [
     {
       "user": "Tangerine",

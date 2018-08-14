@@ -23,6 +23,73 @@
   "artist_names": [
     "Parsec"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Jerry",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "K",
+      "vote": 1,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-12 01:20:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-03-18 21:20:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2015-03-18 21:22:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2015-03-18 21:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "cxw",

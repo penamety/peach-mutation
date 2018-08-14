@@ -21,6 +21,73 @@
   "artist_names": [
     "TLF"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 4,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-26 14:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-05-28 00:13:00"
+    },
+    {
+      "user": "chiefsucker",
+      "vote": 5,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "t3l",
+      "vote": 4,
+      "when": "2016-02-26 08:22:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2016-02-26 08:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

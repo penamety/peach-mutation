@@ -26,6 +26,88 @@
   "artist_names": [
     "Unknown Artist"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-05-15 19:39:00"
+    },
+    {
+      "user": "DJJoge",
+      "vote": 4,
+      "when": "2015-05-16 11:46:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-05-16 14:29:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2015-05-31 13:23:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-05-31 13:24:00"
+    },
+    {
+      "user": "thelawnmoverman",
+      "vote": 3,
+      "when": "2015-06-16 14:52:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-03-16 21:29:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-27 14:24:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-27 14:25:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-05-26 07:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-04 07:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

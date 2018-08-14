@@ -23,6 +23,58 @@
   "artist_names": [
     "Baz"
   ],
+  "votes": [
+    {
+      "user": "FishGuy876",
+      "vote": 5,
+      "when": "2009-06-02"
+    },
+    {
+      "user": "deathy",
+      "vote": 1,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "ubbabar",
+      "vote": 1,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-30 03:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-06 01:58:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-09-24"
+    },
+    {
+      "user": "silok",
+      "vote": 1,
+      "when": "2017-05-02 16:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-05-02 16:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

@@ -26,6 +26,53 @@
   "artist_names": [
     "Oedipus"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Sketch",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-01-15 03:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-20 20:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -24,6 +24,83 @@
   "artist_names": [
     "Madbit"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "error_spirit",
+      "vote": 5,
+      "when": "2013-05-27 21:00:00"
+    },
+    {
+      "user": "Herute",
+      "vote": 3,
+      "when": "2013-05-28 00:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-28 00:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-09 23:56:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-04-09 23:56:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-15 19:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-04-15 19:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -20,6 +20,78 @@
   "artist_names": [
     "Gojita"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "psyd3r",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-18 20:26:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-08-18 20:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-18 20:27:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-01-14 10:54:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-14 10:55:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2014-01-14 10:55:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2014-12-02 01:42:00"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 2,
+      "when": "2014-12-02 01:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

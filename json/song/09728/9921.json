@@ -23,6 +23,58 @@
   "artist_names": [
     "Igoval"
   ],
+  "votes": [
+    {
+      "user": "Gunn",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-01 10:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-01 11:31:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-06 23:28:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-12-27 16:57:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-12-27 17:00:00"
+    },
+    {
+      "user": "medinuxx",
+      "vote": 4,
+      "when": "2017-12-08 14:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

@@ -23,6 +23,73 @@
   "artist_names": [
     "Pixel"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-15 10:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-15 10:08:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-15 10:08:00"
+    },
+    {
+      "user": "Grit",
+      "vote": 4,
+      "when": "2013-09-25 01:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-25 01:12:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-06-27 00:12:00"
+    },
+    {
+      "user": "HaasiD",
+      "vote": 5,
+      "when": "2014-06-27 00:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "Speeder",

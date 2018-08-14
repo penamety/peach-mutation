@@ -25,6 +25,103 @@
   "artist_names": [
     "Time Traveller"
   ],
+  "votes": [
+    {
+      "user": "aaai",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-01-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-27 04:34:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-02-10 12:58:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-02-10 12:59:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-10 13:01:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-06-14 22:58:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2014-06-14 23:01:00"
+    },
+    {
+      "user": "el_infame",
+      "vote": 3,
+      "when": "2015-09-24"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-11-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-11-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-10"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-08-09"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

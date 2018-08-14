@@ -22,6 +22,73 @@
   "artist_names": [
     "d-Zire"
   ],
+  "votes": [
+    {
+      "user": "melcom",
+      "vote": 3,
+      "when": "2014-12-18 10:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-12-28 22:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-12-30 15:08:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-12-30 15:11:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-01-27 12:34:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-01-27 12:34:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-01-27 12:34:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-01-27 12:37:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2015-03-12 01:36:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-10-06 11:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-10-06 11:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "bc2001",

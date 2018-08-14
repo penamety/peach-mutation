@@ -19,6 +19,58 @@
   "artist_names": [
     "K93"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2011-11-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-08-23 12:32:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2013-08-23 12:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-11 03:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-11 03:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-20 02:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

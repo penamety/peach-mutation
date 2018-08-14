@@ -19,6 +19,58 @@
   "artist_names": [
     "Taxim"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-04 02:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-04 02:23:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2017-10-18 16:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

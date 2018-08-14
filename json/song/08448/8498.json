@@ -21,6 +21,23 @@
   "artist_names": [
     "Dubmood"
   ],
+  "votes": [
+    {
+      "user": "Radar",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2017-06-23 20:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Ishaan",

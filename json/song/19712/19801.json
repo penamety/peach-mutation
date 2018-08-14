@@ -20,6 +20,78 @@
   "artist_names": [
     "Jonhywalker"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-10-23 14:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-10-23 14:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-10-23 14:00:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 1,
+      "when": "2013-10-23 14:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-10-23 14:00:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2016-01-13"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-01-13"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

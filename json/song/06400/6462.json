@@ -19,6 +19,58 @@
   "artist_names": [
     "Shyne"
   ],
+  "votes": [
+    {
+      "user": "Ishma",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-14 10:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-16 06:23:00"
+    },
+    {
+      "user": "JaPeK",
+      "vote": 5,
+      "when": "2014-08-27 01:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-31 08:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

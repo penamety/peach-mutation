@@ -26,6 +26,73 @@
   "artist_names": [
     "Vinnie"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-05-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-01 18:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-01 18:30:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-10-21"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-21 00:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

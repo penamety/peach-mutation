@@ -20,6 +20,68 @@
   "artist_names": [
     "CSM"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "eefi",
+      "vote": 4,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-27 15:24:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-12-16 17:45:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-22 23:59:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-03-23 00:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

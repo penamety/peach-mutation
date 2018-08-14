@@ -20,6 +20,83 @@
   "artist_names": [
     "Mefis"
   ],
+  "votes": [
+    {
+      "user": "matsim",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Machforr",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "bitl",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "Thjodolf",
+      "vote": 4,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-08-04 10:12:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-08-04 10:15:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-30 19:16:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-10-15 18:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-15 18:57:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2014-10-15 18:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-15 19:01:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-16 16:53:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2017-01-16 16:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

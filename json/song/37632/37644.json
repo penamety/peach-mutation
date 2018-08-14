@@ -25,6 +25,83 @@
   "artist_names": [
     "Doktor"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-07-08 08:03:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-07-08 08:03:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-07-08 08:04:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-31"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2016-06-25"
+    },
+    {
+      "user": "atom32k",
+      "vote": 1,
+      "when": "2016-12-08 10:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-12-08 10:41:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2017-05-04 14:08:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-05-04 14:10:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 3,
+      "when": "2017-05-04 14:10:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-03-05 10:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

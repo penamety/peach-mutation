@@ -28,6 +28,58 @@
     "Nula",
     "Raist"
   ],
+  "votes": [
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-03-14 11:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2015-10-08"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-03-07"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-01-06 17:23:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-06 17:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

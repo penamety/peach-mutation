@@ -23,6 +23,113 @@
   "artist_names": [
     "Interphace"
   ],
+  "votes": [
+    {
+      "user": "Gluttony",
+      "vote": 5,
+      "when": "2009-01-02"
+    },
+    {
+      "user": "Helioth",
+      "vote": 4,
+      "when": "2009-02-01"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 5,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-22 23:08:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2014-02-25 09:25:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-06-13 09:07:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-12-11"
+    },
+    {
+      "user": "Archmage",
+      "vote": 5,
+      "when": "2015-12-11"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2015-12-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-12-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-05-27"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2016-06-27"
+    }
+  ],
   "requests": [
     {
       "user": "Helioth",

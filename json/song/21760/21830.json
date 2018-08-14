@@ -21,6 +21,48 @@
   "artist_names": [
     "Moonove"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 5,
+      "when": "2011-09-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "nvictor",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Mordi",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-28 18:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-10-07 02:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

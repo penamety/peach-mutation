@@ -21,6 +21,73 @@
   "artist_names": [
     "Boo"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "streki",
+      "vote": 2,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-11-07 00:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-18 11:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-18 11:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-18 11:25:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-12-03 18:12:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-12-03 18:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

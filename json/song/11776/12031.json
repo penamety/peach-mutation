@@ -24,6 +24,53 @@
   "artist_names": [
     "Nightshade"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Venty",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2014-02-10 20:06:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-10 20:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-22 20:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

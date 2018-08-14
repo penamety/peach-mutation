@@ -25,6 +25,193 @@
   "artist_names": [
     "Dave Rogers"
   ],
+  "votes": [
+    {
+      "user": "Daedalus",
+      "vote": 3,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Zac",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "faraday",
+      "vote": 5,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-06-02"
+    },
+    {
+      "user": "FishGuy876",
+      "vote": 5,
+      "when": "2009-06-02"
+    },
+    {
+      "user": "Latis",
+      "vote": 5,
+      "when": "2009-06-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "qbit",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Ultrasyd",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "vacheatuba",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Smanux",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "NickyOne",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "didel_pticelov",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "BSC",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 5,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "silok",
+      "vote": 1,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-09-21 15:12:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-04-10 07:52:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-07-06"
+    },
+    {
+      "user": "wig",
+      "vote": 3,
+      "when": "2016-07-06"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-01-04 11:53:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2018-02-24 19:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "faraday",

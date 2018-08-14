@@ -20,6 +20,83 @@
   "artist_names": [
     "Ben Hanke"
   ],
+  "votes": [
+    {
+      "user": "magipp",
+      "vote": 1,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "menthes",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "seizki",
+      "vote": 1,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-02 17:00:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2013-10-02 17:00:00"
+    },
+    {
+      "user": "Archmage",
+      "vote": 1,
+      "when": "2014-09-13 22:48:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2014-09-13 22:48:00"
+    },
+    {
+      "user": "Thexder",
+      "vote": 1,
+      "when": "2014-09-13 22:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-13 22:57:00"
+    },
+    {
+      "user": "plc",
+      "vote": 1,
+      "when": "2017-04-11 12:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2017-04-11 12:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

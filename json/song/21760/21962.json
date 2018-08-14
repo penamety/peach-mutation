@@ -23,6 +23,53 @@
   "artist_names": [
     "MSG"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "zerkman",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-06-21 11:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-24 01:28:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2016-03-23 07:56:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-14 13:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "zerkman",

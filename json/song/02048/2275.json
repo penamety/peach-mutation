@@ -25,6 +25,138 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2011-01-31"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-10-03"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 2,
+      "when": "2012-10-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-10-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2012-10-03"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-10-03"
+    },
+    {
+      "user": "mud",
+      "vote": 1,
+      "when": "2012-10-03"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-10-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-19 04:02:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2014-05-14 17:28:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-03-04 10:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-03-04 10:51:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2015-03-04 10:51:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-03-04 10:51:00"
+    },
+    {
+      "user": "BBB",
+      "vote": 1,
+      "when": "2017-07-18 16:53:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2018-05-05 20:12:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2018-05-05 20:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

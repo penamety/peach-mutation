@@ -19,6 +19,53 @@
   "artist_names": [
     "Kenet"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-24 01:19:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-10-05 09:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-11-05 07:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

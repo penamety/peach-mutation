@@ -27,6 +27,83 @@
   "artist_names": [
     "Vinyl"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Melo",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-02 05:52:00"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 1,
+      "when": "2014-01-17 04:58:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-08-03 11:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-08-03 11:38:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2015-03-21 16:32:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-03-21 16:32:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-03-21 16:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

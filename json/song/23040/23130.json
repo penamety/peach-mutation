@@ -19,6 +19,78 @@
   "artist_names": [
     "RabiteMan"
   ],
+  "votes": [
+    {
+      "user": "colonel_mustard",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "lilelk",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-07-05 11:51:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-05 11:53:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2014-06-03 22:00:00"
+    },
+    {
+      "user": "etray",
+      "vote": 3,
+      "when": "2014-06-03 22:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-03 22:31:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-02-21 01:54:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 3,
+      "when": "2015-02-21 01:56:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-22 16:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-04-22 16:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "rockmonitor",

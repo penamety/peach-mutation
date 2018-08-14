@@ -23,6 +23,78 @@
   "artist_names": [
     "Mel o'Dee"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Danger",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Neutral",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-11-06 22:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-19 14:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-30 06:03:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-03-04 12:19:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2017-03-04 12:19:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-03-04 12:19:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-03-04 12:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

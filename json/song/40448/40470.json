@@ -26,6 +26,88 @@
   "artist_names": [
     "rams"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-05-25 22:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-05-25 22:20:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-06-25 14:24:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2014-06-25 14:25:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-06-25 14:27:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-08-24 19:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-30 20:40:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 4,
+      "when": "2014-12-18 22:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-01-21 20:20:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-03-03 20:46:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-03-03 20:46:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-03-03 20:46:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2015-04-24 15:51:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-05-01 02:11:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-10-03 19:05:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2017-12-05 18:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

@@ -23,6 +23,83 @@
   "artist_names": [
     "Madminder"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "SampL",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "tas",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "grachev",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-02 07:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-16 22:28:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-16 22:30:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-09-30"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

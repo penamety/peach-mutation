@@ -24,5 +24,17 @@
   "artist_names": [
     "Michael Land"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "dukzcry",
+      "vote": 5,
+      "when": "2010-05-05"
+    }
+  ],
   "requests": []
 }

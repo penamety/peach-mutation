@@ -22,6 +22,73 @@
   "artist_names": [
     "Poison Mick Ivy"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-03 05:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-29 22:55:00"
+    },
+    {
+      "user": "omilian",
+      "vote": 3,
+      "when": "2015-02-02 04:53:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-02-20 20:17:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2018-02-20 20:18:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2018-02-20 20:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

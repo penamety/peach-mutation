@@ -24,6 +24,73 @@
   "artist_names": [
     "Ron Klaren"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-04 21:16:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-08-04 21:16:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-01-18 19:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-06-14"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-14"
+    },
+    {
+      "user": "sdjm",
+      "vote": 2,
+      "when": "2016-06-14"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 5,
+      "when": "2017-04-06"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

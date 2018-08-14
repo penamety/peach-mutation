@@ -20,6 +20,58 @@
   "artist_names": [
     "Slightly Magic"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2009-01-31"
+    },
+    {
+      "user": "Manwe",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-30 16:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-26 12:12:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-26 12:13:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-26 12:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-03-24 17:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "MyO",

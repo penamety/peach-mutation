@@ -25,6 +25,58 @@
   "artist_names": [
     "Mallard"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "dang",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-01-26 21:02:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2014-04-15 15:51:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2015-02-21 19:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-06-17"
+    }
+  ],
   "requests": [
     {
       "user": "franz_koopa",

@@ -23,5 +23,32 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 3,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Rudee",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2010-07-03"
+    }
+  ],
   "requests": []
 }

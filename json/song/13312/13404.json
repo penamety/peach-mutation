@@ -20,6 +20,93 @@
   "artist_names": [
     "DJ Beep"
   ],
+  "votes": [
+    {
+      "user": "Vampire",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Latis",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "MyO",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-09-17 16:01:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-09-17 16:01:00"
+    },
+    {
+      "user": "silok",
+      "vote": 1,
+      "when": "2014-09-17 16:01:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2014-09-17 16:02:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-09-17 16:02:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-06-08 01:07:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2017-05-23 11:59:00"
+    },
+    {
+      "user": "plc",
+      "vote": 1,
+      "when": "2017-05-23 11:59:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-05-23 11:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2017-05-23 12:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

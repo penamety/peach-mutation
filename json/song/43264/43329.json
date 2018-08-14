@@ -23,6 +23,63 @@
   "artist_names": [
     "Green Den"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-08-10"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-08-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-11-25 19:38:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-25 19:38:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-08-12 07:32:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2018-03-06 18:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-04-19 17:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

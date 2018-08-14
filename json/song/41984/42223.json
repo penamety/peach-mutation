@@ -26,6 +26,58 @@
   "artist_names": [
     "Tomchi"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-10"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-07-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "Clanfear",
+      "vote": 2,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "Machforr",
+      "vote": 1,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-11 10:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

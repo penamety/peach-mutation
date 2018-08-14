@@ -20,6 +20,53 @@
   "artist_names": [
     "Lurios"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-05-28 10:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-05-11 21:32:00"
+    },
+    {
+      "user": "turbine5",
+      "vote": 3,
+      "when": "2014-05-11 21:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2016-11-09 10:32:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-11-09 10:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "BeautyNerd",

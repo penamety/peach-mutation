@@ -19,6 +19,103 @@
   "artist_names": [
     "Chaser"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Scope",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "ZTube",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-15 08:23:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-19 20:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

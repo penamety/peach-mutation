@@ -20,6 +20,83 @@
   "artist_names": [
     "Necros"
   ],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 2,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 1,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Rapidkirby3k",
+      "vote": 4,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-28 00:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-28 00:18:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2014-03-10 13:01:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2014-03-10 13:01:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-03-10 13:02:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-03-10 13:02:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-03-10 13:03:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2015-07-04 08:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

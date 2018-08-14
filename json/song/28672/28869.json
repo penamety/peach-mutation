@@ -25,6 +25,23 @@
   "artist_names": [
     "Kanonmat"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2016-04-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2017-03-13"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

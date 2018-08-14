@@ -20,6 +20,68 @@
   "artist_names": [
     "The Nuke"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lilelk",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-27 18:55:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-10-01 22:09:00"
+    },
+    {
+      "user": "Madsy",
+      "vote": 4,
+      "when": "2013-10-01 22:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-04-11 06:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

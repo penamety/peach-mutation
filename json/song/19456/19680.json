@@ -19,6 +19,83 @@
   "artist_names": [
     "Jinx"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sneh",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-08-05 04:55:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-09-06 00:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

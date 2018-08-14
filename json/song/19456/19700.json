@@ -19,6 +19,78 @@
   "artist_names": [
     "Jobe"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2012-03-11"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-10-18 17:03:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 1,
+      "when": "2013-10-18 17:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-10-28 13:43:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2015-10-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-01-23 00:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

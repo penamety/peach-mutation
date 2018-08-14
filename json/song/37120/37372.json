@@ -24,6 +24,58 @@
   "artist_names": [
     "MC Coolbeat"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-11-28 18:19:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-10-12 10:00:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 3,
+      "when": "2017-02-14 15:10:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-14 15:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "Shinobi",

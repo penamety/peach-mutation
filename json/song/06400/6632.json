@@ -19,6 +19,58 @@
   "artist_names": [
     "Sound Killer"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-02-05 09:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-05 09:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-05 09:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

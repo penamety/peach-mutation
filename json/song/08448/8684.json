@@ -20,6 +20,53 @@
   "artist_names": [
     "deathy"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "aaai",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-11-14 07:29:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2016-03-03 12:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-05-16 19:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

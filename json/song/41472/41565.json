@@ -23,6 +23,58 @@
   "artist_names": [
     "Marty Party"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-22 20:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-23 23:57:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-02-09 11:57:00"
+    },
+    {
+      "user": "mmx64",
+      "vote": 5,
+      "when": "2015-02-09 11:58:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-02-09 12:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-04-21 21:18:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2015-04-21 21:20:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-10-09 03:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

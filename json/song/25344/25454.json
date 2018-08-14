@@ -19,6 +19,118 @@
   "artist_names": [
     "Terminal Storm"
   ],
+  "votes": [
+    {
+      "user": "Kane",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "BeautyNerd",
+      "vote": 5,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "Nicknack",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "aaai",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Kaot",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "ldc",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-01 01:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-01 01:39:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-10-31 09:48:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 3,
+      "when": "2014-01-22 20:28:00"
+    },
+    {
+      "user": "robert",
+      "vote": 3,
+      "when": "2016-09-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-02"
+    }
+  ],
   "requests": [
     {
       "user": "Nicknack",

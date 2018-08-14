@@ -20,6 +20,48 @@
   "artist_names": [
     "Ian Waugh"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-10 12:01:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-10 12:01:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-02-19 23:29:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-05-18"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

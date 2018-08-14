@@ -23,6 +23,73 @@
   "artist_names": [
     "BigYo"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "stokescomp",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-05-18"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2013-06-12"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2014-01-19 17:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-19 17:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-01-19 17:58:00"
+    },
+    {
+      "user": "Melo",
+      "vote": 4,
+      "when": "2014-03-28 02:10:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-05-10 12:06:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-05-10 12:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-05-10 12:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "SJD",

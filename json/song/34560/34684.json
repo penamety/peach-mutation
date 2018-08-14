@@ -25,6 +25,178 @@
   "artist_names": [
     "CyberZip"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "HaCKa",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Jerry",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Riphur",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "numerus",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "tas",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 1,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "Mantalow",
+      "vote": 3,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "r043v",
+      "vote": 4,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "MikuroK",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "mud",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-02 17:47:00"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 4,
+      "when": "2014-04-18 14:55:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-04-18 14:55:00"
+    },
+    {
+      "user": "BeautyNerd",
+      "vote": 5,
+      "when": "2015-07-13"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2015-07-13"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-12-24 15:12:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-04-22 14:01:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-06-10 16:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

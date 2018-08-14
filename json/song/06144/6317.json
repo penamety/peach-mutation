@@ -19,6 +19,58 @@
   "artist_names": [
     "Robert Olofsson"
   ],
+  "votes": [
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Speeder",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "zilym",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-07-08"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-28 17:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-01-22 21:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-04-14 21:18:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 2,
+      "when": "2015-04-14 21:18:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2015-04-14 21:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

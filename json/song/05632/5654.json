@@ -23,6 +23,78 @@
   "artist_names": [
     "Pink"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Speeder",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-06-16 18:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-16 18:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-16 18:27:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2013-09-21 14:57:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-02-08 04:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

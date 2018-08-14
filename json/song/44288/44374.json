@@ -21,6 +21,48 @@
   "artist_names": [
     "Cavell"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-09-27 08:38:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-09-27 08:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-09-27 08:40:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-09-30 08:30:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-09-30 08:32:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-10-17 14:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-17 14:05:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-05-30 14:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

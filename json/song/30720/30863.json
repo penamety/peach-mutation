@@ -22,6 +22,113 @@
   "artist_names": [
     "Evil"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "atom32k",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-30 05:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-30 05:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-14 03:56:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-12-05 07:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-02 17:20:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2014-06-27 10:03:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-10-14 02:20:00"
+    },
+    {
+      "user": "SpecialDefect",
+      "vote": 4,
+      "when": "2014-11-01 07:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-26 07:10:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 5,
+      "when": "2018-04-16 13:37:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2018-05-22 13:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "silok",

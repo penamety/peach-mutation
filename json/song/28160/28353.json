@@ -24,5 +24,17 @@
   "artist_names": [
     "Kris Hatlelid"
   ],
+  "votes": [
+    {
+      "user": "Wabash",
+      "vote": 5,
+      "when": "2013-08-15"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-07-01 21:00:00"
+    }
+  ],
   "requests": []
 }

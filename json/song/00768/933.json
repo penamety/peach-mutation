@@ -19,6 +19,113 @@
   "artist_names": [
     "Chimera"
   ],
+  "votes": [
+    {
+      "user": "eltopo",
+      "vote": 1,
+      "when": "2008-11-01"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 2,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 1,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "atom32k",
+      "vote": 1,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "venttiili",
+      "vote": 3,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "wiseman",
+      "vote": 2,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-09-16 02:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-16 02:53:00"
+    },
+    {
+      "user": "Triton",
+      "vote": 2,
+      "when": "2014-03-25 17:54:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2014-03-25 17:56:00"
+    },
+    {
+      "user": "sprocket",
+      "vote": 1,
+      "when": "2015-04-14 08:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-04-14 08:45:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-04-14 08:46:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-04-14 08:46:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 2,
+      "when": "2015-04-14 08:47:00"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 1,
+      "when": "2015-04-14 08:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

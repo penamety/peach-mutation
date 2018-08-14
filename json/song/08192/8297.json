@@ -19,6 +19,73 @@
   "artist_names": [
     "Timmy"
   ],
+  "votes": [
+    {
+      "user": "Mindless",
+      "vote": 3,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 2,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Latis",
+      "vote": 2,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-26 23:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-26 23:00:00"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 2,
+      "when": "2013-05-26 23:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-26 23:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-04-11 06:54:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-04-11 06:56:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2017-11-15 12:56:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-11-15 12:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "hornpipe2",

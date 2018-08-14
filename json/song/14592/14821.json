@@ -24,6 +24,88 @@
   "artist_names": [
     "Bethoven"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "SageBF",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "zmurf",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "omilian",
+      "vote": 5,
+      "when": "2013-10-07 06:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-12-01 01:52:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-03 09:55:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-04-03 09:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-03 09:56:00"
+    },
+    {
+      "user": "Tezar",
+      "vote": 4,
+      "when": "2014-04-03 09:56:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-07-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-12-13 17:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Spiral",

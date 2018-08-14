@@ -24,6 +24,88 @@
   "artist_names": [
     "4-mat"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "funnyn8",
+      "vote": 2,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-03 18:43:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-01-31 06:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-31 06:17:00"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 3,
+      "when": "2014-08-12 23:53:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-08-12 23:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-12 15:07:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-01-12 15:08:00"
+    },
+    {
+      "user": "morgium",
+      "vote": 5,
+      "when": "2017-04-21 10:32:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-01-20 15:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

@@ -26,6 +26,128 @@
   "artist_names": [
     "Danko"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "Rudee",
+      "vote": 3,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "zneek",
+      "vote": 5,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "unfy",
+      "vote": 4,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-08-31"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-10-10"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-27 11:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-02-27 11:01:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-05-06 21:34:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-02-20 16:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-07-06 14:58:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-07-06 14:58:00"
+    },
+    {
+      "user": "Archmage",
+      "vote": 5,
+      "when": "2018-02-27 13:46:00"
+    },
+    {
+      "user": "jzp",
+      "vote": 5,
+      "when": "2018-02-27 13:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "silok",

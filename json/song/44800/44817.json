@@ -23,6 +23,38 @@
   "artist_names": [
     "Gryzor"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-04-18 06:12:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2018-05-22 08:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-05-22 08:51:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-04-15"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-05-22 09:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-05-22 08:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

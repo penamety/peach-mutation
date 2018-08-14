@@ -19,6 +19,48 @@
   "artist_names": [
     "Kangaroo MusiQue"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-14 18:07:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-10-12 12:34:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-06-18"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

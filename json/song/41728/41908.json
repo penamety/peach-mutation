@@ -27,6 +27,88 @@
   "artist_names": [
     "BeRo"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-04-07 18:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-04-07 18:55:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-04-07 18:56:00"
+    },
+    {
+      "user": "sgtcrispy",
+      "vote": 5,
+      "when": "2015-04-07 18:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-05-03 21:47:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2015-06-03 00:46:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-11-03"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2016-01-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-05-05 22:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-05-05 22:11:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-05-05 22:13:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2016-10-26 04:27:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2016-12-05 03:13:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-06-30 06:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-11-08 02:29:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2018-01-18 16:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

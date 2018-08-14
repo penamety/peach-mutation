@@ -23,5 +23,22 @@
   "artist_names": [
     "Jogeir"
   ],
+  "votes": [
+    {
+      "user": "Dakota",
+      "vote": 5,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2015-10-09"
+    }
+  ],
   "requests": []
 }

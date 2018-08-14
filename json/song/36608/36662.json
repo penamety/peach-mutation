@@ -26,6 +26,58 @@
   "artist_names": [
     "Laxical"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-07-19"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 2,
+      "when": "2015-11-27"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-11-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-06-22 23:19:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-07-15"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-07-15"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2016-07-15"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-11-11"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2015-11-27"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

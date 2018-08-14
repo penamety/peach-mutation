@@ -19,6 +19,63 @@
   "artist_names": [
     "Genetic Gemini"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "qbit",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-06-17 02:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-04-27 12:28:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-04-09 14:48:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-03-25 23:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-03-25 23:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

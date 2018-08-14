@@ -24,6 +24,68 @@
   "artist_names": [
     "Floppi"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "rams",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "GeekShadow",
+      "vote": 5,
+      "when": "2013-05-28 23:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-28 23:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-12-30 21:55:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-12-30 21:55:00"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 2,
+      "when": "2017-01-06 18:54:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2017-08-20 17:08:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-08-20 17:09:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-03-12 08:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

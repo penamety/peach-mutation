@@ -20,6 +20,53 @@
   "artist_names": [
     "Em Cee"
   ],
+  "votes": [
+    {
+      "user": "Kleingeist",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Renderwahn",
+      "vote": 3,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "matsim",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "chkdsk",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-03 08:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-03 08:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-20 08:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-07-11 17:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "matsim",

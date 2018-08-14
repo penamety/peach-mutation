@@ -21,5 +21,42 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "Mindless",
+      "vote": 4,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "_wally",
+      "vote": 5,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Zac",
+      "vote": 3,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "Reez",
+      "vote": 5,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-07 01:00:00"
+    }
+  ],
   "requests": []
 }

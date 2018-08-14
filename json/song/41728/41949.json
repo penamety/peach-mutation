@@ -25,6 +25,53 @@
   "artist_names": [
     "u4ia"
   ],
+  "votes": [
+    {
+      "user": "Ishma",
+      "vote": 3,
+      "when": "2015-04-17 17:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-17 17:15:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-04-17 17:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-26 00:33:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-04-26 00:35:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-09-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-09-26"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-11-04 17:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-04 17:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

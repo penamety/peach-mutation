@@ -26,6 +26,48 @@
   "artist_names": [
     "XTD"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-11-13 20:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2017-11-14 10:32:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-02 00:09:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2017-12-02 00:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-12-20 01:11:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2018-03-19 14:10:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-05-15 09:46:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2018-05-15 09:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

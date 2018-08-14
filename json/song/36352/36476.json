@@ -26,6 +26,98 @@
   "artist_names": [
     "Deadbeat"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 4,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-15 01:32:00"
+    },
+    {
+      "user": "arab",
+      "vote": 1,
+      "when": "2013-08-15 01:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-15 01:35:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-05-16 11:50:00"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2014-07-01 15:22:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-08-25 15:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-08-25 15:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-12-13 10:18:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2015-07-30"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-07-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-09-13"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

@@ -24,6 +24,123 @@
   "artist_names": [
     "The Weasel"
   ],
+  "votes": [
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Moses",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "mortengh",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "mud",
+      "vote": 2,
+      "when": "2012-10-04"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-06-14 08:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-28 05:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-05 20:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-01-05 20:35:00"
+    },
+    {
+      "user": "SpecialDefect",
+      "vote": 2,
+      "when": "2014-10-21 05:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-04-23 14:42:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 3,
+      "when": "2015-04-23 14:44:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-01-20"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-07-12 04:40:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-08-24 19:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

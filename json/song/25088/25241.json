@@ -20,6 +20,113 @@
   "artist_names": [
     "TDK"
   ],
+  "votes": [
+    {
+      "user": "ubbabar",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "YaroslaF",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "infinigon",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-06-05 12:16:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-06-05 12:19:00"
+    },
+    {
+      "user": "DrFlay",
+      "vote": 4,
+      "when": "2015-12-19"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2016-01-12"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-01-12"
+    },
+    {
+      "user": "HideawayStudio",
+      "vote": 4,
+      "when": "2016-06-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-06-26"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2016-08-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-10-06"
+    }
+  ],
   "requests": [
     {
       "user": "yoshi252",

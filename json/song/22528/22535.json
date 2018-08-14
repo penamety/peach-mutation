@@ -19,6 +19,68 @@
   "artist_names": [
     "Parmesan"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-31 06:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-07 02:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-18 21:45:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2015-03-18 21:46:00"
+    },
+    {
+      "user": "epso",
+      "vote": 1,
+      "when": "2015-09-22"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-04-06 08:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-04-06 08:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "ZTube",

@@ -22,6 +22,63 @@
   "artist_names": [
     "Marvin"
   ],
+  "votes": [
+    {
+      "user": "The_Tubes",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Chapelier",
+      "vote": 4,
+      "when": "2013-07-14 18:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-14 18:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-10-23 14:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-10-23 14:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "The_Tubes",

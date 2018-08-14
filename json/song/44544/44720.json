@@ -26,6 +26,38 @@
   "artist_names": [
     "Manwe"
   ],
+  "votes": [
+    {
+      "user": "Aardvark",
+      "vote": 3,
+      "when": "2018-03-10 14:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-03-10 14:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-03-10 19:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2018-04-03 22:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-05-10 08:57:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-06-13 21:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aardvark",

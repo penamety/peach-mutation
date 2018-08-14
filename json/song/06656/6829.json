@@ -21,6 +21,93 @@
   "artist_names": [
     "Tame"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Octoate",
+      "vote": 1,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "SageBF",
+      "vote": 1,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 1,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Flatline",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "krusty",
+      "vote": 1,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "zerkman",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Locutus",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2017-06-07 22:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "ZTube",

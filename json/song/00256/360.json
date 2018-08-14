@@ -19,6 +19,73 @@
   "artist_names": [
     "Aural Planet"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "matsim",
+      "vote": 3,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-27 03:47:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-12-20 05:33:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-02-17 13:05:00"
+    },
+    {
+      "user": "plc",
+      "vote": 1,
+      "when": "2017-02-17 13:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-02-17 13:08:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2018-05-08 21:11:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2018-05-08 21:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "dge",

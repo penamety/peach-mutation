@@ -25,6 +25,58 @@
   "artist_names": [
     "Boogaloo"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-06-19 11:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-19 11:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-19 11:51:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-10-07 22:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "Galancy",

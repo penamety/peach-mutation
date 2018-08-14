@@ -16,5 +16,37 @@
   "last_scraped": "2018-05-23 04:37:07",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "TohoFuhai",
+      "vote": 2,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "venttiili",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 4,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "fledermausl",
+      "vote": 4,
+      "when": "2010-09-03"
+    }
+  ],
   "requests": []
 }

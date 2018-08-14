@@ -20,6 +20,73 @@
   "artist_names": [
     "Ilusion"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-02-01"
+    },
+    {
+      "user": "tunah",
+      "vote": 1,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "robert",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "vvvvvv",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "MrKomlev",
+      "vote": 3,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-05 14:26:00"
+    },
+    {
+      "user": "spekki",
+      "vote": 3,
+      "when": "2013-08-05 14:26:00"
+    },
+    {
+      "user": "_wally",
+      "vote": 3,
+      "when": "2013-08-05 14:28:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-09-22 19:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

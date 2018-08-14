@@ -20,6 +20,38 @@
   "artist_names": [
     "Melcom"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Triton",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "bc2001",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-28 23:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

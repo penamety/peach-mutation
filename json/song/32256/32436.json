@@ -22,6 +22,88 @@
   "artist_names": [
     "Aymes"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Demonted",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-09-09 23:35:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-09-09 23:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-09 23:37:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-12-29 08:14:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2015-03-31 01:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-07-22"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-01 23:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-12-01 23:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "SJD",

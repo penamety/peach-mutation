@@ -27,6 +27,38 @@
   "artist_names": [
     "Roz"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-08-07 14:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-08-07 14:49:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-08-24 09:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-08-24 09:26:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-08-30 08:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-13 16:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

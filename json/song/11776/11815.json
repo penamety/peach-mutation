@@ -23,6 +23,53 @@
   "artist_names": [
     "Dma-Sc"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-05-03 16:08:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-23"
+    },
+    {
+      "user": "sdjm",
+      "vote": 3,
+      "when": "2016-05-23"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -22,6 +22,68 @@
   "artist_names": [
     "d-Zire"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-08-21 08:41:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-08-21 08:42:00"
+    },
+    {
+      "user": "Gismo",
+      "vote": 2,
+      "when": "2013-11-27 22:20:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-12-16 15:00:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2018-02-23 12:49:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2018-02-23 12:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

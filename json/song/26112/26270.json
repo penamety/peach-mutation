@@ -16,5 +16,22 @@
   "last_scraped": "2018-05-23 03:27:51",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Kaot",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "jesper",
+      "vote": 3,
+      "when": "2010-01-03"
+    }
+  ],
   "requests": []
 }

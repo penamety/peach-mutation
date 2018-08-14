@@ -27,6 +27,68 @@
   "artist_names": [
     "nq"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-07-06 22:27:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-07-07 13:39:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2015-07-07 13:40:00"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2015-07-07 13:40:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-07-07 13:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-07-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-10-10"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-06 19:43:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-12-31 13:45:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-12-31 14:00:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2016-12-31 14:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

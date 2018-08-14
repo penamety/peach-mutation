@@ -19,6 +19,28 @@
   "artist_names": [
     "Elusive"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "HaCKa",
+      "vote": 1,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "sLASH",
+      "vote": 5,
+      "when": "2012-03-03"
+    }
+  ],
   "requests": [
     {
       "user": "sqrmax",

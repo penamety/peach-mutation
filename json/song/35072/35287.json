@@ -26,6 +26,48 @@
   "artist_names": [
     "Jellybean"
   ],
+  "votes": [
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 2,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-18"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-05-29"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

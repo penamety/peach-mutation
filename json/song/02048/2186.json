@@ -20,6 +20,68 @@
   "artist_names": [
     "Dvd and sml"
   ],
+  "votes": [
+    {
+      "user": "rv6502",
+      "vote": 2,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-11 05:41:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-11 05:42:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2014-05-17 11:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-05-17 11:13:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-11-23 18:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-11-25"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

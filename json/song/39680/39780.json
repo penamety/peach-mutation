@@ -21,6 +21,73 @@
   "artist_names": [
     "Willbe"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-12-18 09:50:00"
+    },
+    {
+      "user": "Riphur",
+      "vote": 3,
+      "when": "2013-12-18 09:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-06 13:05:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2014-01-06 13:06:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-01-06 13:06:00"
+    },
+    {
+      "user": "headache",
+      "vote": 1,
+      "when": "2014-01-06 13:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-06 13:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-27 00:02:00"
+    },
+    {
+      "user": "The_Tubes",
+      "vote": 5,
+      "when": "2014-09-03 14:29:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-01-15 05:26:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2015-11-01"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-05-14 14:41:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-05-14 14:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

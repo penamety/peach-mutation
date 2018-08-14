@@ -20,6 +20,68 @@
   "artist_names": [
     "Chromag"
   ],
+  "votes": [
+    {
+      "user": "OSH",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-21 12:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-30 00:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-30 00:46:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-02-14 18:30:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-02-12 14:54:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-02-26 06:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

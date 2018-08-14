@@ -25,6 +25,48 @@
   "artist_names": [
     "The Red Baron"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-04-08 23:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-05-25 20:59:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2017-05-27 21:33:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-05-27 21:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-27 21:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-07-29 22:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-07-29 22:03:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2017-07-29 22:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

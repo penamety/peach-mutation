@@ -23,6 +23,73 @@
   "artist_names": [
     "Matt Furniss"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-10 02:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-07 08:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-08 15:41:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-03-02 10:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

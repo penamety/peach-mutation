@@ -24,5 +24,37 @@
   "artist_names": [
     "Siateknah"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "turbine5",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "aaai",
+      "vote": 5,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "0A000h",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-10-31 12:00:00"
+    }
+  ],
   "requests": []
 }

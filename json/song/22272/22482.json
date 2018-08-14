@@ -19,6 +19,63 @@
   "artist_names": [
     "Oxbow"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "jkolb",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-11-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "tas",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-08-03 19:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-03 19:25:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-20 05:03:00"
+    },
+    {
+      "user": "freem",
+      "vote": 3,
+      "when": "2016-07-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-07-03"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

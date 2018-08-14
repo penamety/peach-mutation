@@ -20,6 +20,63 @@
   "artist_names": [
     "Superted"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-24 15:22:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-27 13:56:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-05-26 09:50:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2018-05-26 09:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

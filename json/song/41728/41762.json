@@ -25,6 +25,68 @@
   "artist_names": [
     "Harvey"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-14 22:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-03-16 11:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-03-16 11:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-03-16 11:35:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-05-29 15:42:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-08-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2015-12-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2015-12-17"
+    },
+    {
+      "user": "Creonix",
+      "vote": 1,
+      "when": "2016-05-13 06:37:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 1,
+      "when": "2016-05-13 06:37:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 1,
+      "when": "2016-05-13 06:38:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2016-08-11"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -22,6 +22,53 @@
   "artist_names": [
     "Djamm"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2011-11-06"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "Sketch",
+      "vote": 2,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-16 02:13:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-12 15:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "Starchaser",

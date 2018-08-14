@@ -20,6 +20,83 @@
   "artist_names": [
     "Evil"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "oryx",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-30 05:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-30 05:00:00"
+    },
+    {
+      "user": "xphere",
+      "vote": 5,
+      "when": "2013-11-27 13:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-27 13:49:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-03-18 22:37:00"
+    },
+    {
+      "user": "nwheels",
+      "vote": 4,
+      "when": "2014-03-18 22:42:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2016-04-06 01:35:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2017-11-17 23:29:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-11-17 23:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

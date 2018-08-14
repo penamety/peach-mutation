@@ -19,5 +19,17 @@
   "last_scraped": "2018-05-23 10:13:40",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Terrasque",
+      "vote": 4,
+      "when": "2010-05-05"
+    }
+  ],
   "requests": []
 }

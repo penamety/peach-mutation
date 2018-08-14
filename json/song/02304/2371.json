@@ -22,6 +22,108 @@
   "artist_names": [
     "Polynominal"
   ],
+  "votes": [
+    {
+      "user": "Danger",
+      "vote": 5,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Speeder",
+      "vote": 3,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "Rirsuhacker",
+      "vote": 5,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "Oliwerko",
+      "vote": 4,
+      "when": "2010-01-01"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 5,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "RoC",
+      "vote": 5,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "bitsocker",
+      "vote": 4,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "turbine5",
+      "vote": 3,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "su2",
+      "vote": 4,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Kattywampus",
+      "vote": 4,
+      "when": "2012-10-17"
+    },
+    {
+      "user": "stokescomp",
+      "vote": 5,
+      "when": "2012-10-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-07 12:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-07 12:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-07 12:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-02-27 09:03:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-02-27 09:05:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 3,
+      "when": "2015-06-08 15:45:00"
+    },
+    {
+      "user": "arab",
+      "vote": 1,
+      "when": "2017-06-05 08:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Starbreaker",

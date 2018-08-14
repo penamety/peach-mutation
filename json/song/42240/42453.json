@@ -25,6 +25,53 @@
   "artist_names": [
     "Dan"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "ajwen",
+      "vote": 5,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-10-26"
+    },
+    {
+      "user": "essential",
+      "vote": 3,
+      "when": "2015-10-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-11-16"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-12-23"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2016-10-07"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-01-07 04:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

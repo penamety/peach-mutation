@@ -24,5 +24,22 @@
   "artist_names": [
     "Elrinth"
   ],
+  "votes": [
+    {
+      "user": "Rudee",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 2,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2010-09-03"
+    }
+  ],
   "requests": []
 }

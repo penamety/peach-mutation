@@ -20,6 +20,58 @@
   "artist_names": [
     "Domm"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-05-06 13:37:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-07-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-07-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-06-19 22:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

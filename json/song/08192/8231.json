@@ -20,6 +20,73 @@
   "artist_names": [
     "Shaman"
   ],
+  "votes": [
+    {
+      "user": "BarZoule",
+      "vote": 3,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "MyO",
+      "vote": 3,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-31 00:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-31 00:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-05-31 00:00:00"
+    },
+    {
+      "user": "Sirocco",
+      "vote": 1,
+      "when": "2013-06-24 05:07:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2014-04-12 16:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-12 16:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

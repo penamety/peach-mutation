@@ -23,6 +23,163 @@
   "artist_names": [
     "Captain"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "cxw",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Exelcia95",
+      "vote": 5,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Riphur",
+      "vote": 5,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Octoate",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 5,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 5,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-10 06:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-12-11"
+    }
+  ],
   "requests": [
     {
       "user": "dang",

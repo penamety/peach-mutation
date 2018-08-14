@@ -27,6 +27,128 @@
   "artist_names": [
     "DJ Cobra"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "gasg",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Octoate",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 4,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2013-05-29 02:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-29 02:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-29 02:00:00"
+    },
+    {
+      "user": "spekki",
+      "vote": 3,
+      "when": "2013-09-12 15:22:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 5,
+      "when": "2013-09-21 03:46:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-09 12:19:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-05-01 15:25:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 2,
+      "when": "2015-05-01 15:29:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-06-23 06:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-06-23 07:00:00"
+    },
+    {
+      "user": "ck2nb",
+      "vote": 4,
+      "when": "2016-06-11"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

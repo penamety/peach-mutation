@@ -25,6 +25,18 @@
   "artist_names": [
     "Melcom"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-12-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-01-02"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

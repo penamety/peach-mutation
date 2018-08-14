@@ -22,6 +22,58 @@
   "artist_names": [
     "!cube"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-26 01:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-03 11:17:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2014-03-05 08:08:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-05 08:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-06-25 13:04:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-07-16 16:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-09-17"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-05-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-19"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-03 18:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

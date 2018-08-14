@@ -26,6 +26,48 @@
   "artist_names": [
     "J.O.E"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "LoveMetal",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-04-08"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-15 11:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-09-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-12-15 07:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

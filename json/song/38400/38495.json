@@ -26,6 +26,58 @@
   "artist_names": [
     "Jarret Scott"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-15 08:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-15 08:44:00"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-11-29 19:27:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2014-07-23 13:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-08-21"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

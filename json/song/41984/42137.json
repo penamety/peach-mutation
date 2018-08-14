@@ -25,6 +25,78 @@
   "artist_names": [
     "Nobody"
   ],
+  "votes": [
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2015-06-09 13:39:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-06-09 18:49:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-06-24 10:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-06-24 10:36:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-06-24 10:36:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-07-11"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-07-11"
+    },
+    {
+      "user": "mjwise",
+      "vote": 2,
+      "when": "2016-01-10"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2016-01-10"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-28 16:16:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-09-04"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2017-01-18 17:43:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-18 17:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-18 18:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "Rapture",

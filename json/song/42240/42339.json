@@ -25,6 +25,63 @@
   "artist_names": [
     "Cash"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-08-23"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-08-23"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "Infovorr",
+      "vote": 1,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-01-29"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2016-09-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-06-14 18:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

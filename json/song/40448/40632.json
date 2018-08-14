@@ -25,6 +25,78 @@
   "artist_names": [
     "Andy Abstract"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-08-01 16:53:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-08-12 08:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-08-12 08:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-09-21 20:18:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 2,
+      "when": "2014-09-21 20:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-09-21 20:21:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2014-11-06 21:20:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-12-17 09:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-12-17 09:52:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 2,
+      "when": "2014-12-17 09:53:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2015-04-10 09:02:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2015-04-10 09:04:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-10-06 11:55:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-05-13 00:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

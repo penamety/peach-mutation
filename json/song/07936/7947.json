@@ -22,6 +22,113 @@
   "artist_names": [
     "Loonie"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "Helioth",
+      "vote": 4,
+      "when": "2009-02-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "sLASH",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "anerte",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "shift",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-08 15:23:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-10 15:50:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-03-21 11:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-03-21 11:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-05-01 00:00:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2015-11-07"
+    },
+    {
+      "user": "wig",
+      "vote": 4,
+      "when": "2016-10-29 06:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

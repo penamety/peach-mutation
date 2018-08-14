@@ -25,6 +25,98 @@
   "artist_names": [
     "Dane"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-12-31"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-12-31"
+    },
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2016-01-21"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-01-21"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-01-21"
+    },
+    {
+      "user": "PhotonStorm",
+      "vote": 4,
+      "when": "2016-02-04"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2016-02-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2016-02-20 11:22:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2016-04-15 02:07:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 4,
+      "when": "2016-09-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2016-10-25 05:03:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-11-12 21:17:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2016-11-12 21:17:00"
+    },
+    {
+      "user": "Faran",
+      "vote": 4,
+      "when": "2016-11-12 21:19:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-02 21:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

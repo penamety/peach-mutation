@@ -25,6 +25,98 @@
   "artist_names": [
     "Chuck Biscuits"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "kwokkie",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-11 07:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-11-11 07:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-30 20:48:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-01-30 20:52:00"
+    },
+    {
+      "user": "BBB",
+      "vote": 5,
+      "when": "2016-07-30"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-07-30"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-04-22 23:01:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-22 23:02:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-04-22 23:03:00"
+    },
+    {
+      "user": "Geoman",
+      "vote": 5,
+      "when": "2017-04-22 23:04:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-04-22 23:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

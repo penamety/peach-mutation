@@ -26,6 +26,58 @@
   "artist_names": [
     "benJam"
   ],
+  "votes": [
+    {
+      "user": "Geoman",
+      "vote": 5,
+      "when": "2017-04-24 16:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-04-25 09:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-25 09:36:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-04-25 09:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-04-25 09:38:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-04-25 09:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-04-25 21:07:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-08-20 08:08:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-12-23 16:54:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2018-05-08 22:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

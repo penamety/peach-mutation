@@ -19,6 +19,53 @@
   "artist_names": [
     "Fab"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-29 06:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-29 07:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-27 20:40:00"
+    },
+    {
+      "user": "scanjam",
+      "vote": 2,
+      "when": "2014-09-30 23:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

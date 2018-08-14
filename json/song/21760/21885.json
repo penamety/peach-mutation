@@ -19,6 +19,73 @@
   "artist_names": [
     "Mortimer Twang"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-06-04 02:52:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-06-04 02:54:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-04 02:54:00"
+    },
+    {
+      "user": "Schluberlubs",
+      "vote": 1,
+      "when": "2013-06-04 02:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-04 02:57:00"
+    },
+    {
+      "user": "bmn",
+      "vote": 1,
+      "when": "2014-10-23 22:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

@@ -24,6 +24,78 @@
   "artist_names": [
     "Nula"
   ],
+  "votes": [
+    {
+      "user": "Recycler",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 5,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-26 09:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-14 23:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-11-10 22:04:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-10-29"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 5,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "bmn",
+      "vote": 4,
+      "when": "2018-01-23 04:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

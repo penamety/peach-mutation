@@ -26,6 +26,133 @@
   "artist_names": [
     "Tim Follin"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "miggyb",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "aaai",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Zitrax",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-27 17:36:00"
+    },
+    {
+      "user": "timmy",
+      "vote": 5,
+      "when": "2014-02-20 07:20:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2016-04-21 18:58:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-04-21 18:59:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-10-17 11:32:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 1,
+      "when": "2018-03-28 02:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "prowler",

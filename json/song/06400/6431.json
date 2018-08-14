@@ -20,6 +20,48 @@
   "artist_names": [
     "Scortia"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-01 01:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-08 13:53:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2016-10-20 12:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

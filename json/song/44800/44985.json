@@ -26,6 +26,33 @@
   "artist_names": [
     "Buzzer"
   ],
+  "votes": [
+    {
+      "user": "Antibyte",
+      "vote": 5,
+      "when": "2018-05-22 10:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2018-05-22 10:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-05-22 10:19:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2018-05-22 10:18:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-05-22 10:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

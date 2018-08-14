@@ -25,6 +25,63 @@
   "artist_names": [
     "Marcus Geelnard"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-21 03:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-05-16 07:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "Chewrafa",

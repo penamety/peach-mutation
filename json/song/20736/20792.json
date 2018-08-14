@@ -19,6 +19,53 @@
   "artist_names": [
     "Luk"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-08-23 11:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-07-28 01:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-26 22:16:00"
+    },
+    {
+      "user": "Flatline",
+      "vote": 2,
+      "when": "2017-02-02 01:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -23,6 +23,73 @@
   "artist_names": [
     "Ripguy"
   ],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Sketch",
+      "vote": 2,
+      "when": "2013-06-20 14:01:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-06-20 14:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-20 14:02:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-10-12 09:26:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-24 09:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-24 09:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "MMX",

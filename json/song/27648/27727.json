@@ -22,6 +22,78 @@
   "artist_names": [
     "Kotivalo"
   ],
+  "votes": [
+    {
+      "user": "Flatline",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-11-15 18:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-15 18:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-02-19 00:39:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-02-19 00:41:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-19 00:41:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-05-03 05:06:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-03-01 13:04:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2018-05-16 13:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

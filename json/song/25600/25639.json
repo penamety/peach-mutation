@@ -24,6 +24,78 @@
   "artist_names": [
     "Timer"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "three_sixxes",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "jakov",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-09-13 06:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-13 06:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-23 16:58:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-23 17:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-06-03 23:25:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-06-03 23:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "three_sixxes",

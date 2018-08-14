@@ -24,6 +24,103 @@
   "artist_names": [
     "Randall"
   ],
+  "votes": [
+    {
+      "user": "Flatline",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Machforr",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2011-02-10"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-09-30 12:56:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-30 12:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-30 13:04:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 3,
+      "when": "2014-05-11 21:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-05-11 21:50:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-05-11 21:53:00"
+    },
+    {
+      "user": "etray",
+      "vote": 1,
+      "when": "2014-05-11 21:53:00"
+    },
+    {
+      "user": "wig",
+      "vote": 3,
+      "when": "2016-07-17"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2017-06-02 15:58:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2017-06-02 16:00:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2018-04-08 19:35:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 1,
+      "when": "2018-05-28 15:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

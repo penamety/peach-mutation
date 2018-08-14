@@ -24,6 +24,53 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-11 06:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-03-13 23:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-04-26 12:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

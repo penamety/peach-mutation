@@ -21,6 +21,113 @@
   "artist_names": [
     "Jade"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Ishma",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "wiseman",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-08 00:45:00"
+    },
+    {
+      "user": "EZH",
+      "vote": 2,
+      "when": "2013-10-08 00:48:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2014-02-16 17:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-03-19 12:38:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-08-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-08-22"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 1,
+      "when": "2018-04-20 11:58:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-04-20 11:59:00"
+    },
+    {
+      "user": "plc",
+      "vote": 1,
+      "when": "2018-04-20 11:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-04-20 12:02:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 1,
+      "when": "2018-04-20 12:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

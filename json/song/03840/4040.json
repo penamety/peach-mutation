@@ -23,6 +23,88 @@
   "artist_names": [
     "Lizardking"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-01 03:08:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2015-03-11 22:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-11 22:46:00"
+    },
+    {
+      "user": "BLGM",
+      "vote": 2,
+      "when": "2015-08-12"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 5,
+      "when": "2015-08-12"
+    },
+    {
+      "user": "drislands",
+      "vote": 4,
+      "when": "2015-08-12"
+    },
+    {
+      "user": "wig",
+      "vote": 3,
+      "when": "2016-06-03"
+    },
+    {
+      "user": "blippyJon",
+      "vote": 5,
+      "when": "2016-10-01"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-10-01"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2018-01-27 02:07:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-03-30 02:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

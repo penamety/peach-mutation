@@ -24,6 +24,98 @@
   "artist_names": [
     "Red Devil"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "gnrp",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-17 03:53:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-19 17:21:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-15 11:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-03 18:29:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2015-01-03 18:29:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-01-03 18:32:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-02-06 15:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-06 15:49:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2016-05-09 20:13:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2017-03-27"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

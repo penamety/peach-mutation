@@ -16,5 +16,17 @@
   "last_scraped": "2018-05-22 22:02:48",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "bitl",
+      "vote": 2,
+      "when": "2011-01-02"
+    }
+  ],
   "requests": []
 }

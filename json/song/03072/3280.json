@@ -22,6 +22,93 @@
   "artist_names": [
     "Jason"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "sLASH",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-06-04"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-06-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-01 10:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-01 11:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-05-05 15:47:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-11-06"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2015-11-06"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2017-01-31 13:48:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-31 13:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

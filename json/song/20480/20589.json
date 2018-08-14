@@ -20,6 +20,78 @@
   "artist_names": [
     "Little Bitchard"
   ],
+  "votes": [
+    {
+      "user": "Fabzirya",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-07-26 11:53:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2013-07-26 11:54:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-04-09 06:39:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-08-07 08:24:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-08-07 08:25:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-21 09:47:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2015-03-21 10:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-05-19 23:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "Kosmos",

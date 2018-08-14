@@ -25,6 +25,93 @@
   "artist_names": [
     "Lamer Pinky"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-07-12 00:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-12 00:36:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-08-04 19:26:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-08-04 19:27:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2013-08-04 19:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-12 18:13:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-10-22 10:50:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-12-02 17:25:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-12-02 17:26:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2014-01-17 05:33:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-01-17 05:34:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2014-10-28 16:34:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-09-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-12-14 07:14:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-12-13 20:13:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2018-05-01 07:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

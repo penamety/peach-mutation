@@ -19,6 +19,48 @@
   "artist_names": [
     "Mccarrib"
   ],
+  "votes": [
+    {
+      "user": "Kosmos",
+      "vote": 2,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "jakov",
+      "vote": 3,
+      "when": "2013-08-16 11:49:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-08-16 11:50:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-10-23 18:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-09 22:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

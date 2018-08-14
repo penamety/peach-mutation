@@ -20,6 +20,88 @@
   "artist_names": [
     "Genosha"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Znurre",
+      "vote": 1,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 2,
+      "when": "2013-09-23 00:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-09-23 00:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-23 00:45:00"
+    },
+    {
+      "user": "DrFlay",
+      "vote": 4,
+      "when": "2014-02-05 17:56:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-05 18:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-05-21 13:32:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-05-21 13:33:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2015-05-21 13:33:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-05-21 13:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-12-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-10-27 05:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -25,6 +25,118 @@
   "artist_names": [
     "Little Bitchard"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-11-13 22:28:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-11-13 22:29:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-13 22:29:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2015-12-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2015-12-01"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2016-12-06 19:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-12-06 19:42:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-03-24 09:29:00"
+    },
+    {
+      "user": "epso",
+      "vote": 4,
+      "when": "2018-03-24 09:29:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-03-24 09:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "jkolb",

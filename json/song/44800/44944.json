@@ -22,6 +22,28 @@
   "artist_names": [
     "ExcelioN"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2018-05-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-25 18:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-05-25 19:31:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-05-25 18:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

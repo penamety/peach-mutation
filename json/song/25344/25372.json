@@ -20,6 +20,63 @@
   "artist_names": [
     "TDK"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-29 06:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-18 18:42:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-06-08 23:42:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-09-09"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-07-02 12:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-07-02 13:03:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-02-26 00:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

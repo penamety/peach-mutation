@@ -23,6 +23,68 @@
   "artist_names": [
     "MASO"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-20 10:22:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2014-01-20 10:23:00"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 2,
+      "when": "2014-01-20 10:23:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2014-01-20 10:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-20 09:39:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-20 09:41:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-12-12 08:02:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-10-19 20:53:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-10-19 20:53:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-10-19 20:54:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2018-04-02 10:12:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-04-02 10:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

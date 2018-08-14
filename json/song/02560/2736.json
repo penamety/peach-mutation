@@ -23,6 +23,73 @@
   "artist_names": [
     "FTC"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-01-31"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "cxw",
+      "vote": 4,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-11 19:00:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-09-11 19:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-03-25 20:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-07-08 09:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

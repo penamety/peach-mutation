@@ -25,5 +25,62 @@
   "artist_names": [
     "Cdnalsi"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "KoCaine",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "antipod",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "raster",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "vacheatuba",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-04-10 21:00:00"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 1,
+      "when": "2017-09-28 07:44:00"
+    }
+  ],
   "requests": []
 }

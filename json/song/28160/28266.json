@@ -26,6 +26,23 @@
   "artist_names": [
     "Traven"
   ],
+  "votes": [
+    {
+      "user": "Sada",
+      "vote": 1,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2010-11-12"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2011-09-03"
+    }
+  ],
   "requests": [
     {
       "user": "hornpipe2",

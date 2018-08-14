@@ -22,6 +22,78 @@
   "artist_names": [
     "Cyborg Jeff"
   ],
+  "votes": [
+    {
+      "user": "Susanna",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Sirocco",
+      "vote": 2,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-26 09:14:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-08-26 09:17:00"
+    },
+    {
+      "user": "selmi",
+      "vote": 4,
+      "when": "2013-12-04 03:21:00"
+    },
+    {
+      "user": "Colidace",
+      "vote": 1,
+      "when": "2016-06-24"
+    },
+    {
+      "user": "Tokkey",
+      "vote": 4,
+      "when": "2016-11-19 00:09:00"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2016-11-19 00:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Neobyte",

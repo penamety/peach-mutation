@@ -23,6 +23,133 @@
   "artist_names": [
     "SLL"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "venttiili",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Analyzer",
+      "vote": 5,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Felor",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "ubbabar",
+      "vote": 1,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-27"
+    },
+    {
+      "user": "mainhoon",
+      "vote": 5,
+      "when": "2013-12-21 08:39:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-12-30 16:57:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2014-11-11 15:37:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2015-02-21 16:02:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2015-02-21 16:02:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-02-21 16:03:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2015-02-21 16:04:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 5,
+      "when": "2015-05-19 22:34:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2015-11-28"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-11-28"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 2,
+      "when": "2015-12-29"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-12-01 19:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

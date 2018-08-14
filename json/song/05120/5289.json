@@ -20,6 +20,53 @@
   "artist_names": [
     "Nighthawk"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "klashn",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-08 12:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-08 12:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-02-05 06:36:00"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 4,
+      "when": "2017-03-08 10:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

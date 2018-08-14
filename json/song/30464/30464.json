@@ -23,6 +23,63 @@
   "artist_names": [
     "Zzzax"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "selmi",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-19 10:05:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-02-22 20:50:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-22 20:50:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-05-29 10:47:00"
+    },
+    {
+      "user": "Rahta",
+      "vote": 5,
+      "when": "2017-05-29 10:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

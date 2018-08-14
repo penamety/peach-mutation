@@ -19,6 +19,63 @@
   "artist_names": [
     "Gemini"
   ],
+  "votes": [
+    {
+      "user": "deathy",
+      "vote": 3,
+      "when": "2009-01-31"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-01-31"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "dang",
+      "vote": 2,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-04 17:13:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-31 14:22:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2014-03-31 14:26:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-04-12 18:15:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-04-12 18:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

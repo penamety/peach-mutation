@@ -20,6 +20,48 @@
   "artist_names": [
     "Tbob"
   ],
+  "votes": [
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-10-31 19:22:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-05-13 14:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2017-03-28"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

@@ -24,6 +24,83 @@
   "artist_names": [
     "Hollywood"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "tas",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "alebu",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-17 06:36:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-12-11 12:00:00"
+    },
+    {
+      "user": "joes",
+      "vote": 2,
+      "when": "2014-03-21 18:03:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-03-21 18:05:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-26 03:27:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-05-18 19:54:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-05-18 19:56:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-05-18 19:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-05-18 19:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "fkey",

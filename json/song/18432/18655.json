@@ -19,6 +19,68 @@
   "artist_names": [
     "Genosha"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-05-05 17:01:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-05-05 17:01:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 2,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-10-27 02:59:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2018-02-15 20:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

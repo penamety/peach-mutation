@@ -25,6 +25,58 @@
   "artist_names": [
     "Graavik"
   ],
+  "votes": [
+    {
+      "user": "CaptCookie",
+      "vote": 3,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "Acidizer69",
+      "vote": 5,
+      "when": "2012-10-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-10-24"
+    },
+    {
+      "user": "tas",
+      "vote": 4,
+      "when": "2012-10-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-01-09"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-27 20:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

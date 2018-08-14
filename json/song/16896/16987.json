@@ -22,6 +22,63 @@
   "artist_names": [
     "Deejay"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-21 05:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-04-14 22:38:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-14 22:39:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2018-06-05 19:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

@@ -25,6 +25,83 @@
   "artist_names": [
     "bzl"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-10 11:40:00"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2014-08-10 11:40:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-08-10 11:41:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-08-21 13:00:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2014-08-21 13:00:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 2,
+      "when": "2014-08-21 13:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-08-21 13:00:00"
+    },
+    {
+      "user": "beavis77",
+      "vote": 2,
+      "when": "2014-08-21 13:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-30 12:58:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-12-07 15:07:00"
+    },
+    {
+      "user": "bender",
+      "vote": 3,
+      "when": "2014-12-07 15:08:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-01-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-03-30 19:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-03-30 19:01:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-03-30 19:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

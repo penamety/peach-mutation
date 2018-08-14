@@ -16,6 +16,38 @@
   "last_scraped": "2018-05-23 07:39:33",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "ThunderBird",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-08-01"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

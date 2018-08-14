@@ -22,6 +22,78 @@
   "artist_names": [
     "Tonka"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "zerkman",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "jesper",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-20 05:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-10-30 01:37:00"
+    },
+    {
+      "user": "korkut",
+      "vote": 4,
+      "when": "2013-10-30 01:38:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-10-30 01:40:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-02-02 00:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-02 00:51:00"
+    },
+    {
+      "user": "joes",
+      "vote": 4,
+      "when": "2014-05-24 13:02:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 3,
+      "when": "2016-01-28"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

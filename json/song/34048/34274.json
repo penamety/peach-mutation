@@ -24,6 +24,78 @@
   "artist_names": [
     "Aeko"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "rakzom",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Zendar",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Colidace",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-05-30 12:00:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-05-30 12:00:00"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2013-05-30 12:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-04 00:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-04 00:48:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-05-25 03:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

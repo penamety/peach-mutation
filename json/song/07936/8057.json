@@ -24,6 +24,58 @@
   "artist_names": [
     "NHP"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 1,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-09-15 21:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-15 21:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-15 22:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-04 15:38:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2014-04-04 15:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

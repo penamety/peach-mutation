@@ -23,6 +23,28 @@
   "artist_names": [
     "Drax"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-12-17 08:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2013-12-17 08:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-17 08:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-06-25 21:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

@@ -20,6 +20,83 @@
   "artist_names": [
     "Rayn [US]"
   ],
+  "votes": [
+    {
+      "user": "Zac",
+      "vote": 1,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Danalog",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-30 20:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-30 20:06:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-11 13:52:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-02-11 13:55:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2016-11-29 17:48:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-01-31 20:09:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2017-01-31 20:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

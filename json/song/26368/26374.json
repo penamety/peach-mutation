@@ -20,6 +20,138 @@
   "artist_names": [
     "Mick Rippon"
   ],
+  "votes": [
+    {
+      "user": "bif",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "turbine5",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "infinigon",
+      "vote": 5,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "Hasse",
+      "vote": 4,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-05 14:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2013-06-05 14:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-09-25 11:54:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2013-10-30 00:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-01-29 21:02:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2015-02-06 19:57:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-02-06 19:57:00"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2015-11-12"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-05-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2016-12-04 03:55:00"
+    },
+    {
+      "user": "oryx",
+      "vote": 4,
+      "when": "2017-03-16 16:29:00"
+    },
+    {
+      "user": "aricz",
+      "vote": 5,
+      "when": "2017-05-12 13:29:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2018-01-29 23:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "bif",

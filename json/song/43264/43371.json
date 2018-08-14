@@ -21,6 +21,53 @@
   "artist_names": [
     "C.C. Catch"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-01 14:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-11-25 18:29:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-04-14 11:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

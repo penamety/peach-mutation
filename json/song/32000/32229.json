@@ -22,6 +22,83 @@
   "artist_names": [
     "Marcer"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Recycler",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Scope",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Smu",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-01 22:00:00"
+    },
+    {
+      "user": "skall",
+      "vote": 4,
+      "when": "2013-11-08 16:27:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-11-08 16:28:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-08 16:28:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-08 15:09:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-03-08 15:10:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-29 12:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

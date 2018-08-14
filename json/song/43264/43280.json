@@ -23,6 +23,73 @@
   "artist_names": [
     "Friction"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-07-27"
+    },
+    {
+      "user": "silencer",
+      "vote": 5,
+      "when": "2016-07-27"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2016-08-10"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 1,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "rombust",
+      "vote": 4,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2016-11-02 22:42:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 3,
+      "when": "2016-11-28 23:31:00"
+    },
+    {
+      "user": "Wolfgang",
+      "vote": 5,
+      "when": "2018-06-01 05:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "silencer",

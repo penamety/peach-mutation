@@ -25,6 +25,68 @@
   "artist_names": [
     "KAM_"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "timmy",
+      "vote": 4,
+      "when": "2014-02-20 11:47:00"
+    },
+    {
+      "user": "Flatline",
+      "vote": 2,
+      "when": "2015-04-24 01:02:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2015-07-22"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-22"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-06-07 11:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-06-07 11:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "three_sixxes",

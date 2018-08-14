@@ -25,6 +25,88 @@
   "artist_names": [
     "WOTW"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "cxw",
+      "vote": 3,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-07-23 18:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-23 18:05:00"
+    },
+    {
+      "user": "Munnen",
+      "vote": 3,
+      "when": "2013-10-03 02:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-10-03 02:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-13 21:53:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-02-04 02:37:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-03-18 11:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-03-18 11:33:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-22 05:05:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-09-28 19:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

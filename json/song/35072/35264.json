@@ -22,6 +22,88 @@
   "artist_names": [
     "Eau"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Vampire",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "mjwise",
+      "vote": 1,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-06-10 05:07:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-06-10 05:07:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2014-01-31 08:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-01-31 08:10:00"
+    },
+    {
+      "user": "SpecialDefect",
+      "vote": 1,
+      "when": "2014-10-28 03:54:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2015-01-10 22:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-01-10 22:40:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-07-14 12:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

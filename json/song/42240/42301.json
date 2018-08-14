@@ -25,6 +25,63 @@
   "artist_names": [
     "SoDa7"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2015-09-23"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-10-09"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-11-16"
+    },
+    {
+      "user": "rombust",
+      "vote": 4,
+      "when": "2016-09-18"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-01-31 12:36:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-01-31 12:41:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-08-29 07:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

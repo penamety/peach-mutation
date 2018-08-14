@@ -19,6 +19,83 @@
   "artist_names": [
     "Dan"
   ],
+  "votes": [
+    {
+      "user": "Radar",
+      "vote": 1,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "vercarnist",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 1,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-16 15:44:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-01-16 15:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-03-28 16:41:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-03-28 16:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-28 17:01:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 2,
+      "when": "2015-06-08 03:40:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-02-16 07:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-07-05 17:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

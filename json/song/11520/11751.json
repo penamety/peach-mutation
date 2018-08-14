@@ -22,6 +22,148 @@
   "artist_names": [
     "raina"
   ],
+  "votes": [
+    {
+      "user": "DJJoge",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Recycler",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 1,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "zmurf",
+      "vote": 1,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-09-30 00:50:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2014-09-30 00:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-02-16 20:15:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-11-29 13:39:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-05-02 14:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "ZTube",

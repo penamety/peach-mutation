@@ -20,5 +20,22 @@
   "source": "Game",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "cannonfodder",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Perunarutto",
+      "vote": 2,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "_wally",
+      "vote": 3,
+      "when": "2009-10-02"
+    }
+  ],
   "requests": []
 }

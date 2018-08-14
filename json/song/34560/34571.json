@@ -24,6 +24,53 @@
   "artist_names": [
     "LHS"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "V3ctor",
+      "vote": 5,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-02 11:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-08 21:11:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-12-04"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-12-04"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

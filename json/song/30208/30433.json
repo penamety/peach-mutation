@@ -23,6 +23,53 @@
   "artist_names": [
     "Lesnik"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "infinigon",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Tapewormz",
+      "vote": 5,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-03 05:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-10 17:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-21 03:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

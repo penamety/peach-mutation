@@ -25,5 +25,17 @@
   "artist_names": [
     "EthaStorm"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2012-03-04"
+    }
+  ],
   "requests": []
 }

@@ -20,6 +20,63 @@
   "artist_names": [
     "Roberts"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-30 06:09:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 3,
+      "when": "2014-02-09 05:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-07-12 23:29:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-07-12 23:33:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-12-15 10:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

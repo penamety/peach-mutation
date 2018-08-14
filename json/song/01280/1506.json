@@ -23,6 +23,148 @@
   "artist_names": [
     "David Whittaker"
   ],
+  "votes": [
+    {
+      "user": "qbit",
+      "vote": 4,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "psyd3r",
+      "vote": 4,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2010-04-02"
+    },
+    {
+      "user": "prismate",
+      "vote": 4,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Helioth",
+      "vote": 3,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "HaCKa",
+      "vote": 4,
+      "when": "2012-08-10"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2013-01-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-18 12:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-07 00:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-03-07 00:12:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2014-05-16 21:16:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-05-16 21:16:00"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2014-06-10 16:37:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 4,
+      "when": "2014-12-17 10:02:00"
+    },
+    {
+      "user": "Mindiell",
+      "vote": 4,
+      "when": "2015-03-05 12:55:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2015-03-05 12:57:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2015-08-24"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-09-26"
+    }
+  ],
   "requests": [
     {
       "user": "seppjo",

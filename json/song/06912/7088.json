@@ -20,6 +20,73 @@
   "artist_names": [
     "Towerx"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "SPACE",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-07-31 12:45:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-07-31 12:47:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 2,
+      "when": "2013-07-31 12:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-31 13:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-07-10 22:37:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-07-10 22:39:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-01-24 10:51:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-01-24 10:52:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-12-23 11:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

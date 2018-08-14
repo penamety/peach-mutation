@@ -21,6 +21,53 @@
   "artist_names": [
     "Arachno"
   ],
+  "votes": [
+    {
+      "user": "Nicknack",
+      "vote": 4,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-06-09"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-24 23:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-25 00:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-14 06:47:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-07"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-12-09 07:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

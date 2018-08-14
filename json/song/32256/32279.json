@@ -22,6 +22,148 @@
   "artist_names": [
     "FleshDance"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "onc",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lilelk",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "ldc",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "omilian",
+      "vote": 5,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2014-05-06 02:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-06-12 01:14:00"
+    },
+    {
+      "user": "ddoodm",
+      "vote": 5,
+      "when": "2014-07-31 02:18:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 3,
+      "when": "2014-11-06 01:14:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-02-06 02:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

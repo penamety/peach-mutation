@@ -26,6 +26,53 @@
   "artist_names": [
     "Dascon"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-04-22 22:14:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2017-04-22 22:14:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-04-22 22:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-04-22 22:36:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-22 22:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-04-22 22:37:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-04-22 22:38:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-05-02 22:26:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-08-19 12:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

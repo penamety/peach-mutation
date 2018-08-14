@@ -19,6 +19,78 @@
   "artist_names": [
     "Mad God"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-25 05:56:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-02-23 11:30:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-02-23 11:30:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 1,
+      "when": "2015-02-23 11:30:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2015-02-23 11:33:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2017-05-12 17:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-07-17 20:29:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-07-17 20:29:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-07-17 20:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

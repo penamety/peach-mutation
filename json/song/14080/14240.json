@@ -24,6 +24,58 @@
   "artist_names": [
     "ArtZ"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 3,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-04-28 11:43:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-06-23 12:32:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-02-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-08-31"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-12-02 04:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

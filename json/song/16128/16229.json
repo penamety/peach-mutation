@@ -19,6 +19,78 @@
   "artist_names": [
     "Crud"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "cxw",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-19 01:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-19 01:31:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-10-23 06:19:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-03-14 22:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-11-04 11:20:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-11-04 11:22:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-03-01 15:11:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-04-17 05:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

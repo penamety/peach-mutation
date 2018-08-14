@@ -25,6 +25,73 @@
   "artist_names": [
     "Timewalker"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-08 04:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-10 08:11:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-05-30 09:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-06-17 10:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-05 20:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2015-01-29 23:13:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2016-01-24"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

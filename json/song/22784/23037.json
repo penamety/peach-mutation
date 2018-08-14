@@ -20,6 +20,58 @@
   "artist_names": [
     "Pupu"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-08-11 17:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-08-11 18:01:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-23 04:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-06-01 00:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-02-09 19:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

@@ -27,6 +27,53 @@
   "artist_names": [
     "Gaspode"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2013-07-22 03:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-22 12:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-22 12:27:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-22 12:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-31 09:18:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-11-25 13:27:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2014-01-23 13:38:00"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2014-06-20 16:33:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-06-20 16:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

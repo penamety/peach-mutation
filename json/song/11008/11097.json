@@ -23,6 +23,63 @@
   "artist_names": [
     "Starbuck"
   ],
+  "votes": [
+    {
+      "user": "GaRaOne",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Arktos",
+      "vote": 4,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "caiwan",
+      "vote": 4,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-09 03:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-09 04:32:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-10-08"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-02-09 13:13:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-02-09 13:15:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-06-02 07:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

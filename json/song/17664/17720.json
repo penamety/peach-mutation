@@ -22,6 +22,78 @@
   "artist_names": [
     "Einstein"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "mu6k",
+      "vote": 1,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-11 05:49:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-11 05:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-21 17:42:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-09-06 11:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-06 11:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-06 12:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "Neobyte",

@@ -24,6 +24,58 @@
   "artist_names": [
     "Shrimp"
   ],
+  "votes": [
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-20 07:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-24 15:37:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-11-30"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-11-30"
+    },
+    {
+      "user": "exocet",
+      "vote": 3,
+      "when": "2015-11-30"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

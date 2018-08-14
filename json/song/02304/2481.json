@@ -20,6 +20,108 @@
   "artist_names": [
     "Falcon"
   ],
+  "votes": [
+    {
+      "user": "Helioth",
+      "vote": 1,
+      "when": "2008-12-01"
+    },
+    {
+      "user": "MiguelAtWork",
+      "vote": 1,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "gauri",
+      "vote": 3,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-29 06:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-29 06:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-30 05:00:00"
+    },
+    {
+      "user": "omilian",
+      "vote": 2,
+      "when": "2014-01-30 05:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-11-03 11:08:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-11-03 11:09:00"
+    },
+    {
+      "user": "sarka",
+      "vote": 1,
+      "when": "2014-11-03 11:10:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2014-11-03 11:11:00"
+    },
+    {
+      "user": "BitArts",
+      "vote": 1,
+      "when": "2014-11-03 11:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-01-25 14:58:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-01-25 15:01:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2016-11-05 03:28:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-05-15 10:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

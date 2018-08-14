@@ -25,6 +25,53 @@
   "artist_names": [
     "Rogue Male"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-10 10:52:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2018-03-10 10:52:00"
+    },
+    {
+      "user": "Aardvark",
+      "vote": 3,
+      "when": "2018-03-10 10:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2018-03-15 22:16:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-04-06 16:56:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2018-04-06 16:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-18 13:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2018-05-18 13:31:00"
+    },
+    {
+      "user": "Thexder",
+      "vote": 2,
+      "when": "2018-05-18 13:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

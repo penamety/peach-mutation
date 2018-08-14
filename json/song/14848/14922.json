@@ -23,6 +23,123 @@
   "artist_names": [
     "Dr. Awesome"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Rapidkirby3k",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-06-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-10 02:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-10 02:34:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-10 02:37:00"
+    },
+    {
+      "user": "DJJoge",
+      "vote": 4,
+      "when": "2013-10-21 22:38:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-12-22 00:25:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2013-12-22 00:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-12-22 00:26:00"
+    },
+    {
+      "user": "Gismo",
+      "vote": 3,
+      "when": "2014-03-13 15:08:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-10 01:43:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 5,
+      "when": "2014-10-10 14:51:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-01-15 17:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-02 15:42:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2016-12-23 12:18:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-15 22:26:00"
+    },
+    {
+      "user": "BBB",
+      "vote": 4,
+      "when": "2018-01-29 14:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

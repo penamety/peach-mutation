@@ -22,6 +22,83 @@
   "artist_names": [
     "Ganja"
   ],
+  "votes": [
+    {
+      "user": "Brm",
+      "vote": 4,
+      "when": "2010-01-01"
+    },
+    {
+      "user": "tails_",
+      "vote": 5,
+      "when": "2010-08-01"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "novel",
+      "vote": 3,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-09"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "Melo",
+      "vote": 3,
+      "when": "2014-01-23 23:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2014-01-23 23:55:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 5,
+      "when": "2014-11-06 00:25:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-02-06 13:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-06 15:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-06-12 17:54:00"
+    },
+    {
+      "user": "Machforr",
+      "vote": 3,
+      "when": "2016-01-04"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2018-05-08 21:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "Brm",

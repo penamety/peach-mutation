@@ -23,6 +23,73 @@
   "artist_names": [
     "Strobe"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-06-14 08:30:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-14 08:31:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-18 02:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-18 02:06:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-01-19 15:39:00"
+    },
+    {
+      "user": "korikisulda",
+      "vote": 5,
+      "when": "2014-01-19 15:39:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2014-01-19 15:40:00"
+    },
+    {
+      "user": "JaPeK",
+      "vote": 5,
+      "when": "2016-10-23 04:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "prowler",

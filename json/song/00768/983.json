@@ -22,6 +22,63 @@
   "artist_names": [
     "Christian Leuenberg"
   ],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Shriggar",
+      "vote": 3,
+      "when": "2010-05-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-12 07:22:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2015-04-04 13:06:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-09-13"
+    },
+    {
+      "user": "Mindiell",
+      "vote": 3,
+      "when": "2017-05-05 17:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-05-05 17:37:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-01-26 01:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

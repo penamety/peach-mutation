@@ -26,6 +26,83 @@
   "artist_names": [
     "Flex"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-12-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2015-12-01"
+    },
+    {
+      "user": "spaxx",
+      "vote": 5,
+      "when": "2015-12-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-12-15"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-12-15"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-01-15"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2016-01-15"
+    },
+    {
+      "user": "egreek",
+      "vote": 5,
+      "when": "2016-02-21 10:26:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-02-21 10:26:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-01-23 12:49:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 4,
+      "when": "2017-03-11 13:09:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-08-09 12:09:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 4,
+      "when": "2017-08-09 12:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-06-02 23:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cyan",

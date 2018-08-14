@@ -19,6 +19,68 @@
   "artist_names": [
     "Alk"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-31 07:06:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-01-11 05:56:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-03-25 12:20:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2016-03-25 12:20:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-03-25 12:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-03-25 13:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

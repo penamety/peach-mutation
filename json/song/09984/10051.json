@@ -25,6 +25,128 @@
   "artist_names": [
     "David Whittaker"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "psyd3r",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "pipe",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 5,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "encelo",
+      "vote": 5,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-06-07 11:00:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2013-06-07 11:00:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 5,
+      "when": "2013-07-27 22:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-27 22:56:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-06-09 12:12:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-06-09 12:13:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2015-03-10 00:46:00"
+    },
+    {
+      "user": "Rahta",
+      "vote": 5,
+      "when": "2017-10-04 22:36:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-04-23 12:38:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-04-23 12:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "pipe",

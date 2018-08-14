@@ -20,6 +20,68 @@
   "artist_names": [
     "Skylab"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-09-06 19:30:00"
+    },
+    {
+      "user": "Feuermurmel",
+      "vote": 1,
+      "when": "2016-11-23 10:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2016-11-23 10:33:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2016-11-23 10:34:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-11-23 10:34:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 1,
+      "when": "2018-04-09 09:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

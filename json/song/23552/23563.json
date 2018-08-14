@@ -19,5 +19,22 @@
   "artist_names": [
     "Jellybean"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-08-15"
+    }
+  ],
   "requests": []
 }

@@ -19,6 +19,43 @@
   "artist_names": [
     "DJ Fisk"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-06-04 01:35:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-04-20 11:38:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-06-14 22:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

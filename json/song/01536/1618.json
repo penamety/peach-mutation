@@ -23,6 +23,53 @@
   "artist_names": [
     "DeLorean"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2008-11-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-07-22 09:02:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-22 09:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-02-02 16:38:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-04 19:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

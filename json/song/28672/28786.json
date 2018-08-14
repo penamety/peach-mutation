@@ -25,6 +25,123 @@
   "artist_names": [
     "mch"
   ],
+  "votes": [
+    {
+      "user": "TheLeen",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 5,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Jakim",
+      "vote": 4,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 4,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "DrProctor",
+      "vote": 5,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Scope",
+      "vote": 1,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "tomi",
+      "vote": 2,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-26 00:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-26 00:45:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-12-09 01:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-06-15 06:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-11-05 15:13:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-03-11 03:52:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-03-06 12:01:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-03-06 12:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

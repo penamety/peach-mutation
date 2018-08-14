@@ -25,6 +25,53 @@
   "artist_names": [
     "Baz"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2014-01-20 09:22:00"
+    },
+    {
+      "user": "JaPeK",
+      "vote": 2,
+      "when": "2014-01-21 06:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-01-21 06:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-21 07:06:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-15 18:06:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-02-15 18:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-04-27 20:45:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2014-04-27 20:45:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-01-05 01:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

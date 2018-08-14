@@ -26,6 +26,53 @@
     "Morrow",
     "Some1"
   ],
+  "votes": [
+    {
+      "user": "Fireball",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-08-27 08:28:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-22 02:58:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-10-25 13:09:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-10-25 13:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

@@ -20,6 +20,33 @@
   "artist_names": [
     "CSM"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "Triton",
+      "vote": 3,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-11-25"
+    }
+  ],
   "requests": [
     {
       "user": "Triton",

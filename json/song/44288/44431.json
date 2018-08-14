@@ -25,6 +25,48 @@
   "artist_names": [
     "Slimey"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-10-16 21:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-16 21:34:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2017-10-16 21:35:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-10-16 21:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-10-16 21:35:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-11-11 10:39:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2018-02-15 14:03:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-04-02 08:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

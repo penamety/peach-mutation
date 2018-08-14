@@ -25,6 +25,53 @@
   "artist_names": [
     "Voicer"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Creonix",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-08-28"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-12 13:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "Creonix",

@@ -23,6 +23,78 @@
   "artist_names": [
     "Bruno"
   ],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-08-19 14:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-06 00:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-02-06 00:01:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-05-04 14:54:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-05-30 09:18:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2017-05-15 06:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "dukzcry",

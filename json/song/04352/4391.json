@@ -19,6 +19,73 @@
   "artist_names": [
     "Makke"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "spacemoose",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-10 19:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-23 23:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-11-05"
+    },
+    {
+      "user": "TheNalex",
+      "vote": 3,
+      "when": "2015-11-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2015-11-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-06-01 20:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

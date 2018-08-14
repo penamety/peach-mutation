@@ -19,6 +19,63 @@
   "artist_names": [
     "Kinetik"
   ],
+  "votes": [
+    {
+      "user": "parkuhrwaechter",
+      "vote": 3,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2014-01-17 09:20:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-01-17 09:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-03-29 15:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-22 16:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

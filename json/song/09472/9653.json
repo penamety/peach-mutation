@@ -24,6 +24,83 @@
   "artist_names": [
     "JMP"
   ],
+  "votes": [
+    {
+      "user": "Longbow",
+      "vote": 3,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-06-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-06-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-03 08:27:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-01 10:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

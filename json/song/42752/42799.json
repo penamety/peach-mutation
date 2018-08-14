@@ -26,6 +26,88 @@
   "artist_names": [
     "EatMe"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "zeograd",
+      "vote": 1,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-02-07"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2016-02-13"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2016-02-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-02-14"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2016-04-19 09:39:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-04-19 09:40:00"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 1,
+      "when": "2016-11-01 16:51:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2016-12-13 19:39:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 1,
+      "when": "2016-12-13 19:41:00"
+    },
+    {
+      "user": "_wally",
+      "vote": 3,
+      "when": "2017-08-11 18:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "Spiral",

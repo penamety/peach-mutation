@@ -19,6 +19,53 @@
   "artist_names": [
     "Blackstar"
   ],
+  "votes": [
+    {
+      "user": "cxw",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "ritvarsd2r",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-18 19:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-14 05:08:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2017-01-20 10:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

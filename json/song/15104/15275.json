@@ -19,6 +19,88 @@
   "artist_names": [
     "Bullboy"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "JaPeK",
+      "vote": 1,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-09-09 01:24:00"
+    },
+    {
+      "user": "clumdon",
+      "vote": 1,
+      "when": "2013-09-09 01:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-09 01:32:00"
+    },
+    {
+      "user": "DiGiT",
+      "vote": 1,
+      "when": "2014-01-11 13:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-12-26 23:06:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-06-02 22:13:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2015-06-02 22:13:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2017-04-16 11:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

@@ -24,6 +24,88 @@
   "artist_names": [
     "Gloom"
   ],
+  "votes": [
+    {
+      "user": "AlphaC",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Daedalus",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "besh",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 4,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-31 05:10:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 5,
+      "when": "2014-03-28 16:50:00"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 5,
+      "when": "2014-03-28 16:52:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-14 15:53:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2014-06-12 16:11:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2014-07-03 16:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "besh",

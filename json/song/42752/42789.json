@@ -23,6 +23,53 @@
   "artist_names": [
     "Kootie"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2016-01-29"
+    },
+    {
+      "user": "Zaius",
+      "vote": 5,
+      "when": "2016-01-29"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-29"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-02-07"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-04-20 10:24:00"
+    },
+    {
+      "user": "woodbe",
+      "vote": 3,
+      "when": "2016-09-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-09-18"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2016-10-27 11:56:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 3,
+      "when": "2016-10-27 11:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

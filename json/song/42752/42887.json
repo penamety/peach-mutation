@@ -25,6 +25,58 @@
   "artist_names": [
     "Basehead"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2016-02-14"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-02-14"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-02-14"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-02-14"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2016-04-11 15:36:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-04-11 15:37:00"
+    },
+    {
+      "user": "skall",
+      "vote": 2,
+      "when": "2016-08-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-01 08:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-11-01 08:49:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2018-05-03 05:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

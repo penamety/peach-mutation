@@ -24,6 +24,63 @@
   "artist_names": [
     "Shudder"
   ],
+  "votes": [
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "SampL",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-28 00:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-01 16:15:00"
+    },
+    {
+      "user": "Flappy",
+      "vote": 1,
+      "when": "2016-01-28"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-12-01 10:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-05 08:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "sqrmax",

@@ -19,6 +19,53 @@
   "artist_names": [
     "Rib"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "_Aeko_",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2011-10-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-28 05:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-22 16:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-01-24 20:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-01-24 20:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

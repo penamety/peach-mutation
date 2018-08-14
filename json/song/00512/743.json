@@ -25,6 +25,93 @@
   "artist_names": [
     "Blue Silence"
   ],
+  "votes": [
+    {
+      "user": "deot",
+      "vote": 4,
+      "when": "2010-03-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "ubbabar",
+      "vote": 2,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-30"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-09-30"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-09-30"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-19 03:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-31 00:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-31 00:08:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2017-01-12 15:00:00"
+    },
+    {
+      "user": "G_o_D",
+      "vote": 4,
+      "when": "2017-01-12 15:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-01-12 15:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-05-08 20:03:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-05-08 20:27:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-05-08 20:28:00"
+    },
+    {
+      "user": "JosephCollins",
+      "vote": 4,
+      "when": "2018-05-30 09:54:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-05-30 09:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "Ultrasyd",

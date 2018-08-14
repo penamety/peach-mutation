@@ -25,6 +25,68 @@
   "artist_names": [
     "Awesome"
   ],
+  "votes": [
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "thebleh",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-09-23 12:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-23 12:56:00"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 3,
+      "when": "2013-09-23 12:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-23 12:59:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-15 08:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-04"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-10-09 21:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "ZTube",

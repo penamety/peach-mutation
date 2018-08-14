@@ -19,6 +19,63 @@
   "artist_names": [
     "Airworx"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "LSA_Vinnie",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-30 16:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-07-30 16:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-07-30 16:39:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-07-30 16:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-11-29 18:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2015-04-12 21:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

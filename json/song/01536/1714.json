@@ -21,6 +21,88 @@
   "artist_names": [
     "Distance"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-07-07"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-07-17 21:49:00"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-07-17 21:51:00"
+    },
+    {
+      "user": "motherchip",
+      "vote": 3,
+      "when": "2013-07-17 21:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-12-04 19:01:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-12-04 19:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-04-28 09:28:00"
+    },
+    {
+      "user": "ddoodm",
+      "vote": 2,
+      "when": "2014-04-28 09:29:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-04-28 09:29:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "wig",
+      "vote": 2,
+      "when": "2016-06-09"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

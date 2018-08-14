@@ -19,6 +19,58 @@
   "artist_names": [
     "Trixie"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-10 20:05:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2016-02-16"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-16"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-07-26"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

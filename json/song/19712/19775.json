@@ -19,6 +19,73 @@
   "artist_names": [
     "Jonhywalker"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sneh",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-10-05 19:39:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-10-05 19:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-05 19:53:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-09-16 03:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-29"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

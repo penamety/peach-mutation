@@ -24,6 +24,68 @@
   "artist_names": [
     "Red Devil"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "colonel_mustard",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-02-09"
+    },
+    {
+      "user": "Vampire",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-24 23:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-25 00:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-12 14:14:00"
+    },
+    {
+      "user": "EvanR",
+      "vote": 4,
+      "when": "2014-07-02 03:41:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-12-06"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-04-18 12:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

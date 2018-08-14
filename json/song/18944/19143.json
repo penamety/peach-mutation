@@ -25,6 +25,83 @@
   "artist_names": [
     "Hithouse"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Zarggg",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "velusip",
+      "vote": 2,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Galancy",
+      "vote": 5,
+      "when": "2013-06-26 16:01:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-06-26 16:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-26 16:05:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-06-26 16:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-08-17"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-10-14 22:23:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-09-20"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2018-01-07 00:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

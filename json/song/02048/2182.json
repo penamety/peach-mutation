@@ -19,5 +19,17 @@
   "artist_names": [
     "Dustbin"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-06 09:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-06-23 17:00:00"
+    }
+  ],
   "requests": []
 }

@@ -21,6 +21,73 @@
   "artist_names": [
     "Rudolf Stember"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-28 01:35:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-07-09 17:06:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-07-09 17:07:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 5,
+      "when": "2016-12-12 23:51:00"
+    },
+    {
+      "user": "Zeether",
+      "vote": 2,
+      "when": "2017-02-02 17:39:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-02-02 17:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

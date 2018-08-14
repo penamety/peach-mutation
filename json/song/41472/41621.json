@@ -22,6 +22,63 @@
   "artist_names": [
     "Christian Mæland"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-24 20:21:00"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 3,
+      "when": "2015-02-24 20:21:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2015-02-24 20:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-07 11:24:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2015-03-07 11:25:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2015-03-07 11:25:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2015-07-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-26 15:28:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2017-01-26 15:30:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-26 15:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "Ozgu",

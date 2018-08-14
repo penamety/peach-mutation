@@ -25,6 +25,78 @@
   "artist_names": [
     "Raiden"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-09-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-09-20"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2016-09-20"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-10-09"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-10-09"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-10-09"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2016-10-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-11-01 14:36:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2016-11-23 17:55:00"
+    },
+    {
+      "user": "jaero",
+      "vote": 5,
+      "when": "2017-04-14 10:15:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-12-13 19:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

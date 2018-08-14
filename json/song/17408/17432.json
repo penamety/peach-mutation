@@ -25,6 +25,53 @@
   "artist_names": [
     "Dolphin"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-09 06:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-03 07:31:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-07-16"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

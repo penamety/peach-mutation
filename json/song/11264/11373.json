@@ -24,6 +24,63 @@
   "artist_names": [
     "Goto80"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-27 07:49:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2015-04-29 09:03:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-11-21 13:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-27 08:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

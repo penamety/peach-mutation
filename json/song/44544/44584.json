@@ -24,6 +24,28 @@
   "artist_names": [
     "Wendell Tucker"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2017-12-31 22:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-01-01 11:06:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-01-01 11:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-01-01 13:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

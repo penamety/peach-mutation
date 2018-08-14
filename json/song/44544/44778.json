@@ -25,6 +25,33 @@
   "artist_names": [
     "The Hardliner"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-04-01 21:10:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-05-03 13:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-04-01 20:58:00"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2018-04-04 19:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-04-01 21:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

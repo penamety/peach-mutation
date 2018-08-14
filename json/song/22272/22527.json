@@ -19,6 +19,53 @@
   "artist_names": [
     "Paranoyak"
   ],
+  "votes": [
+    {
+      "user": "aaai",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "isvenger",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2014-07-24 15:56:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2014-07-24 15:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-06 12:00:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2015-08-06"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

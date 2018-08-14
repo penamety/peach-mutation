@@ -19,5 +19,17 @@
   "artist_names": [
     "Edzes"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2016-11-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-12-29 07:49:00"
+    }
+  ],
   "requests": []
 }

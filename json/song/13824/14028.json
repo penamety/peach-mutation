@@ -23,5 +23,12 @@
   "artist_names": [
     "AN Cool"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-07-28"
+    }
+  ],
   "requests": []
 }

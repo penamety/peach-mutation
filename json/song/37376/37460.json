@@ -26,6 +26,83 @@
   "artist_names": [
     "Walkman"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-06 21:05:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2013-09-06 21:05:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-09-06 21:07:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-01-14 14:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-02 20:51:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2015-10-24"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2017-04-23 14:44:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-04-23 14:44:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-04-23 14:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

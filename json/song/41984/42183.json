@@ -21,6 +21,63 @@
   "artist_names": [
     "Øistein Eide"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-06-24 20:37:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-06-24 20:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-06-24 21:28:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2015-07-04 22:09:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-07-04 22:13:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-07-20"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-12-10"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2016-10-12 17:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2017-04-25 08:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -19,6 +19,78 @@
   "artist_names": [
     "Bart Klepka"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-24 06:18:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-12-10 07:06:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 2,
+      "when": "2014-03-06 15:18:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2014-03-06 15:19:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-06-15 05:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-12-01 12:20:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-12-01 12:22:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-22 01:48:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-05-18 10:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

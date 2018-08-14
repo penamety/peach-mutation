@@ -19,6 +19,63 @@
   "artist_names": [
     "Thomas Detert"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "PypeBros",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-28 16:20:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-28 16:20:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-12-02 02:15:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 2,
+      "when": "2014-10-22 13:51:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-10-22 13:55:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-16 07:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

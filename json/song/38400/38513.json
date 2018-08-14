@@ -25,6 +25,48 @@
   "artist_names": [
     "Jayce"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-12 09:12:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-11-20 12:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-11-20 22:32:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-06-04"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

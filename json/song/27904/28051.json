@@ -24,6 +24,53 @@
   "artist_names": [
     "Kjwise"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "neutron",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-23 06:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "crrr",

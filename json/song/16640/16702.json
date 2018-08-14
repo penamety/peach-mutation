@@ -20,6 +20,63 @@
   "artist_names": [
     "Dache"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Coco",
+      "vote": 5,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-06-11 08:31:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-10 18:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-10 18:23:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2015-10-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-11-17 17:11:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-17 17:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

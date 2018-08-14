@@ -22,6 +22,73 @@
   "artist_names": [
     "Metsuri"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "neutron",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-27 04:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-26 22:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-26 22:18:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-05-16 08:47:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-05-16 08:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

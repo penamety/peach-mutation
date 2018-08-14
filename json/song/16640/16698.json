@@ -19,6 +19,48 @@
   "artist_names": [
     "Dache"
   ],
+  "votes": [
+    {
+      "user": "MyO",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-27 04:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-11-17"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

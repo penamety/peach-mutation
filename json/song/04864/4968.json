@@ -21,6 +21,78 @@
   "artist_names": [
     "Mr Man"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "EZH",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "scanjam",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2013-08-30 02:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-30 02:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-11 19:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-07 20:21:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-11-28 10:25:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-12-30 14:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-16 12:32:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-12-16 12:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

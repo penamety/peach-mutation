@@ -24,6 +24,143 @@
   "artist_names": [
     "David Whittaker"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Danger",
+      "vote": 5,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Vampire",
+      "vote": 5,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "NaN",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Zac",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "oryx",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "wiseman",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "caminante",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "zerkman",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Riphur",
+      "vote": 5,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-07 19:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-07 19:22:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-06-07 19:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-06-07 19:22:00"
+    },
+    {
+      "user": "Machforr",
+      "vote": 3,
+      "when": "2016-01-22"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-01-22"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-03-23"
+    }
+  ],
   "requests": [
     {
       "user": "caminante",

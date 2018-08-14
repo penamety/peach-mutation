@@ -19,5 +19,17 @@
   "artist_names": [
     "Heretic"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-09-20"
+    }
+  ],
   "requests": []
 }

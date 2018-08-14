@@ -24,6 +24,53 @@
   "artist_names": [
     "Nork"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 2,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-09 02:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

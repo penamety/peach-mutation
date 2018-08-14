@@ -26,6 +26,48 @@
   "artist_names": [
     "Willbe"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2015-01-01 20:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-01-01 20:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

@@ -23,6 +23,93 @@
   "artist_names": [
     "Siren"
   ],
+  "votes": [
+    {
+      "user": "Helioth",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Zarggg",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "xelr8",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Fabzirya",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-16 11:50:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-09-25 14:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-25 14:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-25 14:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-25 14:38:00"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2013-09-25 14:45:00"
+    },
+    {
+      "user": "GL1zdA",
+      "vote": 5,
+      "when": "2014-06-12 11:30:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-06-12 11:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "G_Signal",

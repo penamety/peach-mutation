@@ -25,6 +25,58 @@
   "artist_names": [
     "Cinder"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2014-06-18 15:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-06-19 07:13:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-06-19 07:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-19 07:35:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-07-02 09:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-07-17 08:28:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-08-19 21:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-01-25 12:07:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2017-05-24 02:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

@@ -21,6 +21,53 @@
   "artist_names": [
     "Okeanos"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Radar",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-23 16:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-10-23 16:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "Radar",

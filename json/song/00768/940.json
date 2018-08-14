@@ -19,6 +19,58 @@
   "artist_names": [
     "Chisel"
   ],
+  "votes": [
+    {
+      "user": "alienNeWbeat",
+      "vote": 3,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "MyO",
+      "vote": 1,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-31 03:40:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-13 05:45:00"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2014-10-06 15:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-10-06 15:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

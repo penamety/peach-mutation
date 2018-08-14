@@ -21,6 +21,88 @@
   "artist_names": [
     "Cybelius"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "H0lySh1t",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "LSA_Vinnie",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-09-05 02:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-11 23:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-11-29 07:06:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 3,
+      "when": "2015-08-11"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2015-08-11"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2016-03-05 21:53:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-30 11:58:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-12-30 11:58:00"
+    },
+    {
+      "user": "skall",
+      "vote": 3,
+      "when": "2017-12-30 11:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "crrr",

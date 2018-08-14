@@ -22,6 +22,103 @@
   "artist_names": [
     "Radix"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "SampL",
+      "vote": 4,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "ookami",
+      "vote": 5,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "abaddon",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "sneh",
+      "vote": 4,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-27 05:34:00"
+    },
+    {
+      "user": "bender",
+      "vote": 5,
+      "when": "2013-10-11 17:09:00"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 5,
+      "when": "2013-10-11 17:09:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-23 19:53:00"
+    },
+    {
+      "user": "Machforr",
+      "vote": 4,
+      "when": "2016-05-28"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

@@ -26,6 +26,38 @@
   "artist_names": [
     "Sed"
   ],
+  "votes": [
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-06-08 11:15:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2018-05-14 09:06:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-05-14 09:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-14 09:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-05-14 09:06:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-05-14 09:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

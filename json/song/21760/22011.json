@@ -19,6 +19,73 @@
   "artist_names": [
     "Mustard Man"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Quatlo",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-27 23:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-11-25 04:47:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-03-15 19:10:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2016-06-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-06-02"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2017-04-21 03:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

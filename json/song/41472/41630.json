@@ -25,6 +25,78 @@
   "artist_names": [
     "Sidewinder"
   ],
+  "votes": [
+    {
+      "user": "cresun7",
+      "vote": 5,
+      "when": "2015-02-15 17:31:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2015-02-16 08:48:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-02-16 08:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-02-16 08:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-02 20:03:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-03-02 20:05:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-03-02 20:06:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-05-19"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2016-05-19"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-11-12 10:41:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-11-12 10:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2016-11-12 10:42:00"
+    },
+    {
+      "user": "_wally",
+      "vote": 2,
+      "when": "2017-03-27 19:07:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2017-11-19 09:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

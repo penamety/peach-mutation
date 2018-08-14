@@ -20,6 +20,88 @@
   "artist_names": [
     "4-mat"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-06 01:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-06 01:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-06 01:02:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-10-16 14:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-31 02:17:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-08-10 15:32:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-05-11 11:10:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-05-11 11:10:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-08-22 20:34:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2017-08-22 20:34:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-26 18:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

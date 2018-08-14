@@ -19,6 +19,63 @@
   "artist_names": [
     "Thorsten"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "hiltunen",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-02 12:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-02 12:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-05-12 00:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-02-24 10:24:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-02-24 10:34:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2017-07-06 21:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

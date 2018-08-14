@@ -25,6 +25,68 @@
   "artist_names": [
     "Horace Wimp"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-20 15:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-10 00:21:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-07-01 15:34:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-03-14 18:51:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-04-25 09:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-04-25 09:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

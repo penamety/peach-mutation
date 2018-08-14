@@ -20,6 +20,68 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Mindless",
+      "vote": 1,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-12-18 11:23:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-03-09 16:18:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2017-01-11 14:23:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-02-13 13:45:00"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 1,
+      "when": "2018-02-13 13:45:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2018-02-13 13:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

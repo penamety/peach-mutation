@@ -24,6 +24,58 @@
   "artist_names": [
     "BiTL"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-12 07:14:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2014-10-28 17:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-01-18 16:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

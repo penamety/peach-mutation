@@ -20,6 +20,88 @@
   "artist_names": [
     "Radix"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Rudee",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Arktos",
+      "vote": 4,
+      "when": "2012-08-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-08-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-04"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2012-08-04"
+    },
+    {
+      "user": "motherchip",
+      "vote": 4,
+      "when": "2012-08-04"
+    },
+    {
+      "user": "sneh",
+      "vote": 4,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2013-09-14 07:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-14 07:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-05 23:34:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-05-28 12:22:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-05-28 12:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "motherchip",

@@ -26,6 +26,63 @@
   "artist_names": [
     "Deemphasis"
   ],
+  "votes": [
+    {
+      "user": "wiseman",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-28 03:47:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-28 03:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-28 03:53:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2014-06-13 00:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-06-11 00:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -25,6 +25,63 @@
   "artist_names": [
     "SNES"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-21 01:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-11 22:13:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-10-11 22:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

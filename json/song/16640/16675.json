@@ -19,6 +19,53 @@
   "artist_names": [
     "Cyborg"
   ],
+  "votes": [
+    {
+      "user": "kronowolf",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-05-30 00:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-05-30 00:11:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2016-10-28 13:03:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 2,
+      "when": "2016-10-28 13:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

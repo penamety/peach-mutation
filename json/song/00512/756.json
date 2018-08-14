@@ -23,6 +23,118 @@
   "artist_names": [
     "Brainbug"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-01-01"
+    },
+    {
+      "user": "Ishma",
+      "vote": 5,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "wiseman",
+      "vote": 5,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-28 23:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-07-22 17:08:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-09-23 21:36:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-04 06:58:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-04-04 07:00:00"
+    },
+    {
+      "user": "freem",
+      "vote": 3,
+      "when": "2015-12-24"
+    },
+    {
+      "user": "Axel",
+      "vote": 4,
+      "when": "2016-05-01 13:58:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 4,
+      "when": "2017-05-19 19:30:00"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 4,
+      "when": "2017-09-19 00:43:00"
+    },
+    {
+      "user": "PasiAnssi",
+      "vote": 2,
+      "when": "2018-01-05 20:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

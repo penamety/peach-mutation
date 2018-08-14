@@ -19,6 +19,58 @@
   "artist_names": [
     "Hithansen"
   ],
+  "votes": [
+    {
+      "user": "unfy",
+      "vote": 4,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-07-31"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 3,
+      "when": "2014-01-24 13:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-09-18"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

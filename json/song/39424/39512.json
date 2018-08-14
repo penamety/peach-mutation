@@ -22,6 +22,83 @@
   "artist_names": [
     "Dan"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-10-29 10:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-10-29 10:25:00"
+    },
+    {
+      "user": "ajwen",
+      "vote": 5,
+      "when": "2013-10-29 11:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-11-21 20:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-21 20:48:00"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-11-21 20:49:00"
+    },
+    {
+      "user": "JaK",
+      "vote": 1,
+      "when": "2014-01-09 13:41:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-09 13:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-05-30 23:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-08-16"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-31 15:22:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-01-31 15:22:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2017-01-31 15:23:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 2,
+      "when": "2017-01-31 15:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

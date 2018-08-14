@@ -19,6 +19,53 @@
   "artist_names": [
     "Dt"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-05-31"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-05-31"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-06-25 10:45:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-06-03"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

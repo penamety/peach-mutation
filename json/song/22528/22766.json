@@ -20,6 +20,83 @@
   "artist_names": [
     "Pierrick"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "SampL",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-13 08:38:00"
+    },
+    {
+      "user": "error_spirit",
+      "vote": 2,
+      "when": "2013-06-13 08:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-07 08:09:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-11 19:41:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-02-11 19:42:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-08-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-06 22:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

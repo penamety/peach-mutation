@@ -19,6 +19,58 @@
   "artist_names": [
     "Beatnik"
   ],
+  "votes": [
+    {
+      "user": "Speeder",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-25 21:42:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-11-07 12:03:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-11-07 12:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-11-07 12:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "G_Signal",

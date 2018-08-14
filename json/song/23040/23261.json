@@ -20,6 +20,73 @@
   "artist_names": [
     "Randall"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2013-06-24 13:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-24 13:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-24 13:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-24 13:36:00"
+    },
+    {
+      "user": "etray",
+      "vote": 2,
+      "when": "2014-05-27 22:17:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-15 21:28:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2018-05-25 15:37:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2018-05-25 15:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

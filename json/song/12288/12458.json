@@ -25,6 +25,88 @@
   "artist_names": [
     "Brian Johnston"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "doggyfred",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-31 18:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-31 19:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-07 09:42:00"
+    },
+    {
+      "user": "Melo",
+      "vote": 3,
+      "when": "2014-04-07 09:42:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-04-07 09:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-04-07 09:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-12-24 07:59:00"
+    },
+    {
+      "user": "jass0",
+      "vote": 2,
+      "when": "2015-02-05 13:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

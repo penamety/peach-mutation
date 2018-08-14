@@ -21,6 +21,73 @@
   "artist_names": [
     "Rolex"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-05-30 13:00:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-05-30 13:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-30 14:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-26 18:16:00"
+    },
+    {
+      "user": "sprocket",
+      "vote": 4,
+      "when": "2014-06-24 00:16:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-30"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

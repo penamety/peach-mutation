@@ -25,6 +25,73 @@
   "artist_names": [
     "LAP"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "robert2098",
+      "vote": 4,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "LiSU",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "zerkman",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-14 00:27:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-12 12:21:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-02-12 12:28:00"
+    },
+    {
+      "user": "grazey",
+      "vote": 4,
+      "when": "2017-05-04 17:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "zerkman",

@@ -24,6 +24,88 @@
   "artist_names": [
     "Quasian"
   ],
+  "votes": [
+    {
+      "user": "eefi",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "asbjornu",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2013-07-01 01:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-01 01:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-01 01:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-09 02:10:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-26 23:20:00"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 1,
+      "when": "2014-07-26 23:21:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2016-01-02"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 2,
+      "when": "2016-12-22 14:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-12-22 14:00:00"
+    },
+    {
+      "user": "mortengh",
+      "vote": 1,
+      "when": "2016-12-22 14:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

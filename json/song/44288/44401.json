@@ -26,6 +26,43 @@
   "artist_names": [
     "Bfox"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-10-08 00:54:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-10-10 12:06:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-10-15 00:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-10-15 00:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2017-10-19 12:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-11-24 22:37:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-04-30 13:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

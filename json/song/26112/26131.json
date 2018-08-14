@@ -19,6 +19,73 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-07-30 14:54:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 4,
+      "when": "2013-07-30 14:55:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-18 10:47:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-05-18 10:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-03 09:35:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-10-03 09:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

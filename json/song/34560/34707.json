@@ -22,6 +22,78 @@
   "artist_names": [
     "Vivid"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "qbit",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-15 00:40:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2015-12-22"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-12-22"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-21 15:33:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-21 15:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

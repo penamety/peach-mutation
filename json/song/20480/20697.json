@@ -20,6 +20,98 @@
   "artist_names": [
     "Loolarge"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "ZTube",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Kathup",
+      "vote": 1,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2013-08-16 12:33:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-08-16 12:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-02 00:39:00"
+    },
+    {
+      "user": "flash",
+      "vote": 5,
+      "when": "2014-01-02 00:40:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-10-02"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-17 08:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-05-17 08:45:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2018-02-14 18:42:00"
+    },
+    {
+      "user": "Cordwainer",
+      "vote": 5,
+      "when": "2018-02-14 18:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "ZTube",

@@ -25,6 +25,78 @@
   "artist_names": [
     "JayBlood"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-09-02 10:08:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-09-02 10:10:00"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2013-09-02 10:10:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2014-01-16 22:58:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-05-02 11:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-05-02 12:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

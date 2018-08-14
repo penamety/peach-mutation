@@ -17,5 +17,22 @@
   "last_scraped": "2018-05-22 23:18:02",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Putte75",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Sahkolihaa",
+      "vote": 4,
+      "when": "2009-09-02"
+    }
+  ],
   "requests": []
 }

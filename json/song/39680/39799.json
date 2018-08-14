@@ -21,6 +21,53 @@
   "artist_names": [
     "Nitro"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-26 01:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-01-03 10:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-03 10:41:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-05-16 13:58:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2014-07-01 09:38:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-08-11 17:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-08-11 18:01:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 5,
+      "when": "2017-01-09 10:40:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-01-09 10:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

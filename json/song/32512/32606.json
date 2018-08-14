@@ -21,6 +21,58 @@
   "artist_names": [
     "Bedrael"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-10-29 02:16:00"
+    },
+    {
+      "user": "Khaos",
+      "vote": 2,
+      "when": "2013-10-29 02:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-04-02 15:07:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-07-05"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

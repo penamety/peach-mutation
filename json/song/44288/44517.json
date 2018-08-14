@@ -22,6 +22,43 @@
   "artist_names": [
     "Joker (ru)"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2017-12-09 08:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-12-09 21:45:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-27 07:42:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-01-13 13:07:00"
+    },
+    {
+      "user": "robert",
+      "vote": 4,
+      "when": "2018-01-31 10:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-01-31 10:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-02-22 14:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "Oldchap",

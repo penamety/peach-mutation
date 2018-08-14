@@ -25,6 +25,103 @@
   "artist_names": [
     "Funky"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-19 01:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-19 01:54:00"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 5,
+      "when": "2013-09-23 12:32:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-09-23 12:32:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-11-24 19:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-28 22:39:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 3,
+      "when": "2014-03-28 22:40:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 3,
+      "when": "2014-03-28 22:41:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-10-06 11:25:00"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2014-10-06 11:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-10-06 11:26:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-10-11 21:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-11-21 20:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

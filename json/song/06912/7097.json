@@ -19,6 +19,68 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Vampire",
+      "vote": 1,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 1,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "RoC",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Machforr",
+      "vote": 1,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-27 03:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-09 01:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-10-05 00:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "jellybubble",

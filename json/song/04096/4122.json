@@ -20,6 +20,88 @@
   "artist_names": [
     "Lizardking"
   ],
+  "votes": [
+    {
+      "user": "Marlon",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "doggyfred",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "turbine5",
+      "vote": 2,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "Exelcia95",
+      "vote": 5,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-01 03:43:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-01-23 21:21:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-07-20 09:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-07-20 11:01:00"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 4,
+      "when": "2015-06-10 02:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-09-18 06:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Exelcia95",

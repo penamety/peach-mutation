@@ -25,6 +25,68 @@
   "artist_names": [
     "Christine de la Queen"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-18 08:28:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-10-22 23:14:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-11-01 13:29:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2014-11-01 13:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-11-01 13:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

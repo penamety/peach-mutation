@@ -22,6 +22,73 @@
   "artist_names": [
     "Deadman"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-03-14"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-04 22:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-18 03:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

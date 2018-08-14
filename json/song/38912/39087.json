@@ -23,6 +23,58 @@
   "artist_names": [
     "POW"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-07-25 21:41:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2013-07-25 21:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-25 21:42:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2013-07-25 21:44:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-11-22 12:20:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-22 12:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-22 12:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-22 12:22:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-20 02:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-01 20:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

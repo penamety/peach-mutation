@@ -26,6 +26,53 @@
   "artist_names": [
     "Zardax"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-07-04 06:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-07-04 11:08:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2017-07-04 11:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-07-04 11:09:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2017-07-04 11:09:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-07-04 11:09:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2017-07-08 08:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-07-09 12:45:00"
+    },
+    {
+      "user": "FF7Cayn",
+      "vote": 3,
+      "when": "2017-08-18 11:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

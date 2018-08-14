@@ -26,6 +26,58 @@
   "artist_names": [
     "Meta"
   ],
+  "votes": [
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-04-12 21:05:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-04-12 21:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-04-12 21:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-04-21 09:35:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-04-21 09:39:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-04-21 09:39:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-05-06 13:17:00"
+    },
+    {
+      "user": "exocet",
+      "vote": 4,
+      "when": "2016-05-06 13:19:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2016-11-11 18:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-11 18:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

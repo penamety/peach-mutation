@@ -19,6 +19,53 @@
   "artist_names": [
     "Mantronix"
   ],
+  "votes": [
+    {
+      "user": "DactylonDigital",
+      "vote": 5,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "scanjam",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-16 01:19:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-06-22 23:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-10 22:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Starchaser",

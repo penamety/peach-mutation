@@ -19,6 +19,68 @@
   "artist_names": [
     "Allman"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-04-09"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2013-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-04-19 10:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-04-19 10:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-04-19 10:44:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2016-07-01"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

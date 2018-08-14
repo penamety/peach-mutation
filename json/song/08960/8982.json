@@ -23,6 +23,83 @@
   "artist_names": [
     "Rhino"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "seppjo",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "atom32k",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "neutron",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-18 01:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-20 03:29:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-01 20:05:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-01 00:48:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-09-28"
+    },
+    {
+      "user": "Liviona",
+      "vote": 5,
+      "when": "2016-09-28"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-28"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

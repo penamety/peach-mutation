@@ -24,6 +24,78 @@
   "artist_names": [
     "One Man Group"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-05 05:50:00"
+    },
+    {
+      "user": "Flatline",
+      "vote": 4,
+      "when": "2013-08-02 00:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-21 23:12:00"
+    },
+    {
+      "user": "Threef",
+      "vote": 4,
+      "when": "2017-07-16 11:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

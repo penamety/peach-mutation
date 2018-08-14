@@ -24,6 +24,108 @@
   "artist_names": [
     "Coma"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Machforr",
+      "vote": 5,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-05 14:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2013-09-30 20:41:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-30 20:41:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-09-30 20:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-30 20:42:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-06 07:00:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 5,
+      "when": "2014-08-15"
+    },
+    {
+      "user": "Sketch242",
+      "vote": 4,
+      "when": "2018-06-07 02:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

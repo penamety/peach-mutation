@@ -20,5 +20,17 @@
   "artist_names": [
     "Allister Brimble"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2010-09-02"
+    }
+  ],
   "requests": []
 }

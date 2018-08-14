@@ -25,6 +25,143 @@
   "artist_names": [
     "Awesome"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Octoate",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "baabeli",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "zerkman",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "premium",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2013-06-29 10:50:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2013-10-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-10-14 23:39:00"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-10-14 23:42:00"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2013-10-14 23:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-14 23:54:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-03-22 16:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-22 17:37:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2016-10-11 22:00:00"
+    },
+    {
+      "user": "essential",
+      "vote": 4,
+      "when": "2016-10-11 22:00:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2016-10-11 22:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "ZTube",

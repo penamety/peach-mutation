@@ -20,6 +20,158 @@
   "artist_names": [
     "Colonel Korn"
   ],
+  "votes": [
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Manax",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "storm",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 2,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "Dhr_Baksteen",
+      "vote": 1,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "chellomere",
+      "vote": 2,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "silok",
+      "vote": 1,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-08 02:12:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2013-06-08 02:13:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2013-06-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-12-08 02:33:00"
+    },
+    {
+      "user": "mjwise",
+      "vote": 1,
+      "when": "2013-12-08 02:34:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-12-08 02:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-11 15:46:00"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 2,
+      "when": "2014-02-11 15:47:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-02-11 15:47:00"
+    },
+    {
+      "user": "Feuermurmel",
+      "vote": 2,
+      "when": "2014-02-11 15:48:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 1,
+      "when": "2015-02-22 14:06:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 1,
+      "when": "2015-02-22 14:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

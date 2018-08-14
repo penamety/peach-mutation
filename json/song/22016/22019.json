@@ -19,6 +19,48 @@
   "artist_names": [
     "Mycrot"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Flatline",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-10 17:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-07-24 00:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-07-24 00:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

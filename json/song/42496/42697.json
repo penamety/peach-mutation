@@ -26,6 +26,48 @@
   "artist_names": [
     "Corpsicle"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-17"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-02-16 15:24:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2016-04-01 23:52:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-05-13 11:22:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-13 11:23:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2017-02-15 13:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "epso",

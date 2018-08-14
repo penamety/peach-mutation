@@ -25,6 +25,83 @@
   "artist_names": [
     "KvAzAr"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "nvictor",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "zerkman",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-04 05:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-06-30 22:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "LittleWhite",

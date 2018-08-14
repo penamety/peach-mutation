@@ -24,6 +24,83 @@
   "artist_names": [
     "Vedem"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-11 15:13:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2013-09-11 15:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-11 15:15:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-28 03:36:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-02-16 13:44:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2015-08-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2016-04-08 19:12:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-04-08 19:13:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 4,
+      "when": "2018-01-19 02:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

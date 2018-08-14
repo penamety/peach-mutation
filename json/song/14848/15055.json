@@ -24,6 +24,48 @@
   "artist_names": [
     "Blue Silence"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "bk237",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-06-17 17:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-17 17:55:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-10-06 13:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "ldc",

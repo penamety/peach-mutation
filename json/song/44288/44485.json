@@ -27,6 +27,43 @@
   "artist_names": [
     "zoner"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-11-15 22:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-11-15 22:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-11-15 22:01:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-11-30 19:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-11-30 19:58:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-11-30 20:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2018-03-22 14:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

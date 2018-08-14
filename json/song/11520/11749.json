@@ -23,6 +23,93 @@
   "artist_names": [
     "raina"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "piksi",
+      "vote": 2,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "turbine5",
+      "vote": 1,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-27 21:01:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-23 12:53:00"
+    },
+    {
+      "user": "Haju",
+      "vote": 1,
+      "when": "2014-01-23 12:53:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-01-23 12:53:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-01-23 12:53:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 2,
+      "when": "2014-09-06 17:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-06 17:54:00"
+    },
+    {
+      "user": "Frylix",
+      "vote": 3,
+      "when": "2017-01-20 11:21:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-20 11:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-01-20 11:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

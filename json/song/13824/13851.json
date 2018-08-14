@@ -21,6 +21,68 @@
   "artist_names": [
     "Airworx"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-07-28 12:12:00"
+    },
+    {
+      "user": "Colidace",
+      "vote": 1,
+      "when": "2013-07-28 12:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-01 08:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

@@ -20,6 +20,53 @@
   "artist_names": [
     "Hunz"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-20 22:26:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-09-04"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2016-09-21"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-12-04 08:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "sqrmax",

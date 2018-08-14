@@ -20,6 +20,73 @@
   "artist_names": [
     "Andy [DE]"
   ],
+  "votes": [
+    {
+      "user": "8823",
+      "vote": 1,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "DiGiT",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-31 06:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-01-05 16:47:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-10-22 12:58:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2017-10-22 12:58:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 2,
+      "when": "2017-10-22 12:58:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-10-22 12:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

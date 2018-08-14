@@ -23,6 +23,68 @@
     "Braintumour",
     "Heywood"
   ],
+  "votes": [
+    {
+      "user": "Pwntastic",
+      "vote": 1,
+      "when": "2008-11-01"
+    },
+    {
+      "user": "Rirsuhacker",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "asbjornu",
+      "vote": 1,
+      "when": "2010-07-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-07-02"
+    },
+    {
+      "user": "venttiili",
+      "vote": 2,
+      "when": "2010-07-02"
+    },
+    {
+      "user": "Frumple",
+      "vote": 1,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-09-22 00:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-22 00:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-09-22 00:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-09-22 00:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -22,6 +22,63 @@
   "artist_names": [
     "Big Alec"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Arktos",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-19 03:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2016-01-31"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2016-11-22 07:58:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-11-22 07:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "spacepaw",

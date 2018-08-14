@@ -19,6 +19,103 @@
   "artist_names": [
     "Keio"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "The_Tubes",
+      "vote": 5,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-31 07:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-12-11 17:53:00"
+    },
+    {
+      "user": "tas",
+      "vote": 4,
+      "when": "2013-12-11 17:55:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2014-04-19 03:38:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-05-07 05:26:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-06-04 11:30:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 3,
+      "when": "2014-11-06 01:33:00"
+    },
+    {
+      "user": "adrenalinetooth",
+      "vote": 4,
+      "when": "2015-05-12 04:01:00"
+    },
+    {
+      "user": "omilian",
+      "vote": 4,
+      "when": "2015-10-06"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2016-11-05 03:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

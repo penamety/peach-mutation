@@ -19,5 +19,17 @@
   "source": "Remix",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2013-11-15 22:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-03 10:49:00"
+    }
+  ],
   "requests": []
 }

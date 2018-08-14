@@ -23,6 +23,73 @@
   "artist_names": [
     "Nuke"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-07-04"
+    },
+    {
+      "user": "Hasse",
+      "vote": 1,
+      "when": "2012-07-04"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-07-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-15 15:35:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-02-22 18:26:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-22 18:27:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-22 18:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-09-12"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2018-01-07 00:40:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-01-07 00:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

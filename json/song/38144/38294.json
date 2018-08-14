@@ -24,6 +24,88 @@
   "artist_names": [
     "Corwin"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "SampL",
+      "vote": 2,
+      "when": "2013-06-13 14:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-06-13 15:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Cll33arSky",
+      "vote": 5,
+      "when": "2017-01-25 13:49:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-25 13:51:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-25 13:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

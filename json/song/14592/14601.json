@@ -20,6 +20,178 @@
   "artist_names": [
     "Banana"
   ],
+  "votes": [
+    {
+      "user": "Antitribu",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "aaai",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "SampL",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "dvogel",
+      "vote": 3,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Paranoid",
+      "vote": 4,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-14 00:44:00"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 5,
+      "when": "2013-06-14 00:44:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-11-08 08:51:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 1,
+      "when": "2014-03-26 14:35:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-03-26 14:36:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2014-08-08 13:29:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-10"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2015-12-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-02-06"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-04-17 17:14:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-04-17 17:42:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2017-06-14 21:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "Antitribu",

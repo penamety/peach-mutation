@@ -20,5 +20,67 @@
   "artist_names": [
     "Gargaj"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "xphere",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "xTr1m",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "slartibartfast",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "aaai",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "horseplops",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-01-24 10:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-10-28"
+    }
+  ],
   "requests": []
 }

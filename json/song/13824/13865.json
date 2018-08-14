@@ -19,6 +19,83 @@
   "artist_names": [
     "Airworx"
   ],
+  "votes": [
+    {
+      "user": "Dr4pht",
+      "vote": 5,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "eefi",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-06-15 18:49:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2013-06-15 18:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-15 18:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-01-26 17:02:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-03 11:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-01-03 11:46:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-01-03 11:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "Dr4pht",

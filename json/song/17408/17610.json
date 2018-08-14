@@ -20,6 +20,68 @@
   "artist_names": [
     "DTN"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Recycler",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-18 14:51:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-08-18 14:53:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-05-06 14:11:00"
+    },
+    {
+      "user": "Smanux",
+      "vote": 2,
+      "when": "2017-06-21 23:20:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-06-21 23:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

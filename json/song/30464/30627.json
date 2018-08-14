@@ -24,6 +24,48 @@
   "artist_names": [
     "Syniphas"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-08-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-20 11:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

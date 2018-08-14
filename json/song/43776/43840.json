@@ -26,6 +26,43 @@
   "artist_names": [
     "Goto80"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-03-06 08:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-03-06 23:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-03-20 14:21:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-06-04 11:15:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-06-04 11:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-06-04 11:19:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-10-15 13:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

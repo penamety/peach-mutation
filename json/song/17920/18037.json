@@ -26,6 +26,83 @@
   "artist_names": [
     "Fabian"
   ],
+  "votes": [
+    {
+      "user": "CaptCookie",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-29 03:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-29 03:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-26 01:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-01-26 01:38:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 5,
+      "when": "2014-11-21 19:05:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 3,
+      "when": "2015-06-04 19:59:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 3,
+      "when": "2015-06-04 20:02:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 1,
+      "when": "2015-08-29"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

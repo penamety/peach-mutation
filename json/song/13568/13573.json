@@ -23,6 +23,63 @@
   "artist_names": [
     "Accord [pl]"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-14 05:20:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-29 01:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-19 12:24:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-17 16:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

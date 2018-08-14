@@ -19,6 +19,53 @@
   "artist_names": [
     "Dreamfish"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2008-12-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-14 21:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-14 21:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2016-01-03"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-15 19:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

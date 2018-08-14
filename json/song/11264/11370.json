@@ -17,5 +17,32 @@
   "last_scraped": "2018-05-23 04:49:46",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "deathy",
+      "vote": 1,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "lordlynx",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-06-01"
+    }
+  ],
   "requests": []
 }

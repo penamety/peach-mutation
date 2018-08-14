@@ -19,6 +19,78 @@
   "artist_names": [
     "Mad God"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-02-08"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-06-07 21:44:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-06-07 21:44:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2013-06-07 21:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-08 06:41:00"
+    },
+    {
+      "user": "CaptainAntonius",
+      "vote": 4,
+      "when": "2013-08-08 06:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-19 09:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-07-22"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 4,
+      "when": "2015-07-22"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-06-08 09:06:00"
+    },
+    {
+      "user": "FF7Cayn",
+      "vote": 5,
+      "when": "2017-06-08 09:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

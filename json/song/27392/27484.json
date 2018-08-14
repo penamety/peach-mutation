@@ -22,6 +22,88 @@
   "artist_names": [
     "Oliwerko"
   ],
+  "votes": [
+    {
+      "user": "anderaiso",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "jantho",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-24 16:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-24 16:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-24 16:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-10 22:39:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-02-28 09:15:00"
+    },
+    {
+      "user": "Latis",
+      "vote": 2,
+      "when": "2015-06-11 11:06:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-06-11 11:09:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-06-11 11:10:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-10-04"
+    },
+    {
+      "user": "exocet",
+      "vote": 2,
+      "when": "2015-10-04"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-03 17:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

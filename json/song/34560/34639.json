@@ -26,6 +26,63 @@
   "artist_names": [
     "Hornpipe2"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "kwokkie",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2013-11-19 00:15:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-09-27"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-11-16 01:13:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2018-03-02 19:37:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2018-03-02 19:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -24,6 +24,93 @@
   "artist_names": [
     "Martin Wobble"
   ],
+  "votes": [
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 3,
+      "when": "2013-06-10 19:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-16 11:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-01-16 11:44:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-04-16 18:42:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2015-04-16 18:44:00"
+    },
+    {
+      "user": "Feuermurmel",
+      "vote": 2,
+      "when": "2015-04-16 18:44:00"
+    },
+    {
+      "user": "mufftin",
+      "vote": 1,
+      "when": "2015-04-16 18:44:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2015-04-16 18:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-16 18:45:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-04-18 09:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

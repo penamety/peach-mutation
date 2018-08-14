@@ -19,6 +19,68 @@
   "artist_names": [
     "Ronny"
   ],
+  "votes": [
+    {
+      "user": "Coco",
+      "vote": 2,
+      "when": "2009-01-02"
+    },
+    {
+      "user": "LimeProselyte",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 2,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-08 08:35:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-08 08:36:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-08 08:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-07-08 08:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-28 09:35:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 2,
+      "when": "2016-04-14 05:55:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-05-14 12:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "LimeProselyte",

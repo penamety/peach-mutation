@@ -24,6 +24,103 @@
   "artist_names": [
     "Zalza"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Ishma",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "SampL",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "MrKomlev",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-23 15:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-23 15:49:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-03-19 08:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "essential",
+      "vote": 3,
+      "when": "2015-10-18"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-12-10 09:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-12-10 09:26:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-09-20 20:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

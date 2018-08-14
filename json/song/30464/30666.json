@@ -25,6 +25,63 @@
   "artist_names": [
     "Mister Beep"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Vampire",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-30 08:08:00"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-10-31 16:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-30 22:30:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-03-30 22:31:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-04-24 11:26:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-04-24 11:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-04-24 11:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

@@ -24,6 +24,143 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2008-11-01"
+    },
+    {
+      "user": "Hansee",
+      "vote": 5,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Machforr",
+      "vote": 4,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 4,
+      "when": "2010-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2010-05-03"
+    },
+    {
+      "user": "Virgill",
+      "vote": 5,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "zerkman",
+      "vote": 2,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-07-24"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-08-05 13:53:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-08-05 13:54:00"
+    },
+    {
+      "user": "sLASH",
+      "vote": 4,
+      "when": "2013-08-05 13:54:00"
+    },
+    {
+      "user": "spekki",
+      "vote": 4,
+      "when": "2013-08-05 13:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-27 22:56:00"
+    },
+    {
+      "user": "deot",
+      "vote": 4,
+      "when": "2013-11-11 12:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-02-04 07:46:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-10-24 05:43:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2014-11-22 17:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-11-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2015-11-18"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2015-11-18"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2016-08-20"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-04-02 18:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "Virgill",

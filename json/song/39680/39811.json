@@ -25,6 +25,53 @@
   "artist_names": [
     "zymox"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-26 01:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-03 10:56:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-01-03 10:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-21 20:00:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2014-07-01 12:42:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-08-17"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-12-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-03-02 10:38:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-02-24 13:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

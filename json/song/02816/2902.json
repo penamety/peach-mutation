@@ -20,6 +20,63 @@
   "artist_names": [
     "Haggeman"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-05 01:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-28 16:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-10-04"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-05-17 07:30:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-05-21 11:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "iTowah68k",

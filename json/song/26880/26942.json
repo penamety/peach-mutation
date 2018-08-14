@@ -27,6 +27,108 @@
     "Blue Fox",
     "Subject"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-02 02:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2013-11-02 02:20:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-03-11 05:37:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-11 05:38:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-06-12 13:12:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-03-01 14:34:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-04-10 20:56:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-19 11:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

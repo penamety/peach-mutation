@@ -20,6 +20,53 @@
   "artist_names": [
     "AceMan"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Sketch",
+      "vote": 4,
+      "when": "2013-06-08 14:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-08 14:28:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-05 09:00:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-12-08 17:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

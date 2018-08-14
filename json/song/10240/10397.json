@@ -23,6 +23,68 @@
   "artist_names": [
     "Necros"
   ],
+  "votes": [
+    {
+      "user": "Insectecutor",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "The_Tubes",
+      "vote": 4,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-11 11:16:00"
+    },
+    {
+      "user": "Mice",
+      "vote": 2,
+      "when": "2013-07-11 11:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-11 11:17:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 2,
+      "when": "2015-03-24 16:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-24 16:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-06-22 18:51:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2017-06-22 18:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

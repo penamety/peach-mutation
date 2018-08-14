@@ -25,6 +25,98 @@
   "artist_names": [
     "505"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Moses",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "neutron",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2013-06-15 14:34:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-06-15 14:35:00"
+    },
+    {
+      "user": "Colidace",
+      "vote": 3,
+      "when": "2013-06-15 14:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-02 21:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-26 20:41:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-03-26 20:41:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-12-23 04:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

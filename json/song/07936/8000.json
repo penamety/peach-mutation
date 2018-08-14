@@ -16,5 +16,17 @@
   "last_scraped": "2018-05-22 21:43:45",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2009-08-02"
+    }
+  ],
   "requests": []
 }

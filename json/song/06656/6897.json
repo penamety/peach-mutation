@@ -19,6 +19,68 @@
   "artist_names": [
     "The M"
   ],
+  "votes": [
+    {
+      "user": "AnaMark",
+      "vote": 1,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-18 11:37:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 2,
+      "when": "2014-02-23 00:45:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-09-15 09:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-09-15 09:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-15 10:07:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 2,
+      "when": "2018-04-05 04:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

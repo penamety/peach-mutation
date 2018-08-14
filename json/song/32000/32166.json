@@ -24,6 +24,83 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 1,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "simmo",
+      "vote": 5,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-23 16:22:00"
+    },
+    {
+      "user": "xerion567",
+      "vote": 2,
+      "when": "2014-03-09 05:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-03-21 15:52:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2015-07-06 18:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

@@ -24,6 +24,48 @@
   "artist_names": [
     "Turtle"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-08 00:54:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-08-09 22:18:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-08-09 22:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

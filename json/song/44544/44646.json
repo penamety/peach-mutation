@@ -25,6 +25,33 @@
   "artist_names": [
     "Castor"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-01-22 12:02:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-02-09 08:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-02-09 08:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2018-02-27 07:49:00"
+    },
+    {
+      "user": "Zabchob",
+      "vote": 4,
+      "when": "2018-05-11 14:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "zoi",

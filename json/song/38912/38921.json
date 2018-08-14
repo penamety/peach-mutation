@@ -27,6 +27,108 @@
   "artist_names": [
     "Uncle Tom"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-06-19 09:52:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-06-19 09:52:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2013-06-19 09:53:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-06-19 09:53:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-06-19 09:54:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-06-19 09:54:00"
+    },
+    {
+      "user": "ewiley",
+      "vote": 4,
+      "when": "2013-07-12 15:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-12 15:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-02 00:58:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-02 01:01:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-12-17 10:23:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2016-03-04"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-10-25 08:26:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 4,
+      "when": "2016-10-25 08:27:00"
+    },
+    {
+      "user": "bucky",
+      "vote": 4,
+      "when": "2016-11-17 11:49:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-11-17 11:49:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2016-11-17 11:50:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-19 20:18:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-04-19 20:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "prowler",

@@ -25,6 +25,18 @@
   "artist_names": [
     "David Whittaker"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-17 17:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-17 17:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

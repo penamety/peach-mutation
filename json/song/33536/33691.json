@@ -26,6 +26,103 @@
   "artist_names": [
     "Jammer"
   ],
+  "votes": [
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "venttiili",
+      "vote": 5,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-12 16:22:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 5,
+      "when": "2013-08-15 14:42:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 5,
+      "when": "2013-11-11 18:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-11 18:02:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-26 19:18:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-04-10 08:59:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 4,
+      "when": "2014-12-13 16:32:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2016-03-16 17:54:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 4,
+      "when": "2016-03-16 17:56:00"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2016-11-19 00:13:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-05-09 13:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "silok",

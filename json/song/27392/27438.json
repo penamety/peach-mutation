@@ -25,6 +25,103 @@
   "artist_names": [
     "Tangerine"
   ],
+  "votes": [
+    {
+      "user": "Manwe",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 5,
+      "when": "2011-03-13"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "beaver_trx",
+      "vote": 5,
+      "when": "2013-09-04 12:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-04 12:20:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-06-10 23:23:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-11-07 04:58:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-03-08 13:51:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-11-18 05:07:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-26 18:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

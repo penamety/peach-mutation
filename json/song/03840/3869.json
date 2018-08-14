@@ -21,6 +21,53 @@
   "artist_names": [
     "Kosmos"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "KickBack",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-27 11:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "KickBack",

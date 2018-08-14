@@ -19,6 +19,53 @@
   "artist_names": [
     "Badsnail"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-05-10"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-12-18 04:19:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2016-07-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-05-14 20:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

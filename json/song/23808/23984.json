@@ -19,6 +19,48 @@
   "artist_names": [
     "Sardokar"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-28 01:25:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-05-22 10:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-22 10:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

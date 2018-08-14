@@ -22,6 +22,73 @@
   "artist_names": [
     "Aymes"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-25 01:05:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-12-18 05:14:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2017-05-01 19:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

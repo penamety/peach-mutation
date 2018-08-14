@@ -20,6 +20,53 @@
   "artist_names": [
     "Slyspy"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "BLGM",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-16 01:35:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-10-05"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-10-05"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

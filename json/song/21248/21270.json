@@ -25,6 +25,23 @@
   "artist_names": [
     "Max Max"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-04-15 23:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "dv",

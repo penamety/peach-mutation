@@ -24,6 +24,43 @@
   "artist_names": [
     "Melcom"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-05-13 06:38:00"
+    },
+    {
+      "user": "bc2001",
+      "vote": 4,
+      "when": "2015-05-13 07:00:00"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2015-05-24 14:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-05-24 14:31:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-06-10 12:52:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-06-30 22:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-06-30 22:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

@@ -26,6 +26,73 @@
   "artist_names": [
     "Triace"
   ],
+  "votes": [
+    {
+      "user": "atom32k",
+      "vote": 2,
+      "when": "2014-11-21 09:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-11-21 10:05:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2014-11-30 21:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-11-30 21:50:00"
+    },
+    {
+      "user": "sarka",
+      "vote": 3,
+      "when": "2014-11-30 21:52:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-01-15 12:41:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-01-15 12:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-02-11 07:12:00"
+    },
+    {
+      "user": "BeautyNerd",
+      "vote": 5,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-10-14 04:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-01-23 04:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-04-01 18:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

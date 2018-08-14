@@ -21,6 +21,68 @@
   "artist_names": [
     "Brm"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-07-07 14:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-07 14:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-04-22 11:45:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-04-22 11:48:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2016-01-25"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-01-25"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-03-30"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

@@ -20,6 +20,43 @@
   "artist_names": [
     "Hannes Seifert"
   ],
+  "votes": [
+    {
+      "user": "Tezar",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-03-03"
+    }
+  ],
   "requests": [
     {
       "user": "crrr",

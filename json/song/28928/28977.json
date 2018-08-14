@@ -25,6 +25,48 @@
   "artist_names": [
     "Skyline"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "r043v",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2013-07-28 05:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-28 05:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-08 15:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

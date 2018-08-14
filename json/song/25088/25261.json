@@ -22,6 +22,83 @@
   "artist_names": [
     "TDK"
   ],
+  "votes": [
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "zerkman",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-04 19:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-04 19:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-01 14:21:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-09-01 14:22:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-01-30 13:50:00"
+    },
+    {
+      "user": "Tezar",
+      "vote": 4,
+      "when": "2014-01-30 13:53:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-06-11 04:19:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-10-30"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

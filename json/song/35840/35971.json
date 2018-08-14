@@ -25,6 +25,118 @@
   "artist_names": [
     "Virt"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Arktos",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Jakim",
+      "vote": 5,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Moses",
+      "vote": 5,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "runaronious",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "MikuroK",
+      "vote": 5,
+      "when": "2013-10-26 09:21:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2013-10-26 09:24:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-03 11:34:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-02-03 11:35:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2016-04-16 05:37:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2016-04-16 05:38:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-05-24 12:24:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-03-14 05:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

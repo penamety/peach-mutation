@@ -19,6 +19,63 @@
   "artist_names": [
     "Ben Hanke"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-05 01:02:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-05 01:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-05 01:06:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-12-15 09:28:00"
+    },
+    {
+      "user": "BBB",
+      "vote": 4,
+      "when": "2017-02-08 21:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-02-08 21:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

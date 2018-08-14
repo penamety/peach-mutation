@@ -25,6 +25,93 @@
   "artist_names": [
     "Andy Abstract"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-02-07 19:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2015-02-16 17:32:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2015-02-16 17:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-03-06 13:50:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-06 13:51:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-03-06 13:52:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2015-04-09 15:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-04-09 15:01:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2015-06-01 18:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-06-01 18:10:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-09-17"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2015-09-17"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2017-01-06 15:28:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2017-01-06 15:29:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2018-03-30 12:16:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-30 12:17:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2018-03-30 12:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

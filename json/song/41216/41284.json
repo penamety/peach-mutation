@@ -25,6 +25,83 @@
   "artist_names": [
     "Stinsen"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-12-05 21:35:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-12-06 09:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-12-20 07:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-05 07:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-01-05 08:02:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-03-05 18:11:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-03-05 18:11:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-03-05 18:12:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2015-03-05 18:12:00"
+    },
+    {
+      "user": "hedning",
+      "vote": 5,
+      "when": "2016-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-02-03"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-10-21 21:46:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 4,
+      "when": "2016-10-21 21:48:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-27 09:01:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2017-05-27 08:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "kirsche",

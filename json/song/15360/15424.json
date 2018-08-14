@@ -23,6 +23,53 @@
   "artist_names": [
     "Cedyń"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-07-29"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-04-07 09:36:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-06-12 21:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "cederom",

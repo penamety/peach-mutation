@@ -22,6 +22,63 @@
   "artist_names": [
     "Brian Johnston"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "ookami",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-27 02:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-27 02:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-27 20:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-04-29 14:20:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2016-04-29 14:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "G_Signal",

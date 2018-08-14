@@ -22,5 +22,22 @@
   "artist_names": [
     "Falcon"
   ],
+  "votes": [
+    {
+      "user": "Xeno",
+      "vote": 3,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "BlackDot",
+      "vote": 5,
+      "when": "2010-10-02"
+    }
+  ],
   "requests": []
 }

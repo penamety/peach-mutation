@@ -23,6 +23,33 @@
   "artist_names": [
     "C.C. Catch"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-05-24 06:14:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2018-04-21 02:41:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-04-18 10:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-04-21 02:45:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-04-21 02:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "mirrorbird",

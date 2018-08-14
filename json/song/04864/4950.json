@@ -19,6 +19,48 @@
   "artist_names": [
     "MOT"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "SampL",
+      "vote": 2,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-17 19:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-27 22:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

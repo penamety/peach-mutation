@@ -21,6 +21,58 @@
   "artist_names": [
     "Funky Fish"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "joes",
+      "vote": 2,
+      "when": "2014-03-22 12:40:00"
+    },
+    {
+      "user": "Bobik",
+      "vote": 5,
+      "when": "2016-08-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2016-10-25 04:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

@@ -21,6 +21,63 @@
   "artist_names": [
     "Sarka's Surgery"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Swb",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-07-11 13:53:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-07-11 13:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-11 13:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-12-14 20:41:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2014-12-14 20:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

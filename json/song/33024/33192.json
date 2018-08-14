@@ -26,6 +26,63 @@
   "artist_names": [
     "Anchoret"
   ],
+  "votes": [
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-22 06:38:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2014-01-18 23:19:00"
+    },
+    {
+      "user": "EatMe",
+      "vote": 5,
+      "when": "2015-09-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2018-02-23 08:58:00"
+    },
+    {
+      "user": "Aardvark",
+      "vote": 4,
+      "when": "2018-03-10 15:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "pkalsi",

@@ -21,6 +21,78 @@
   "artist_names": [
     "Brainbug"
   ],
+  "votes": [
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-30 21:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-25 07:59:00"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2013-09-05 09:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-28 21:38:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2017-06-06 06:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

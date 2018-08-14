@@ -25,6 +25,58 @@
   "artist_names": [
     "Odex"
   ],
+  "votes": [
+    {
+      "user": "Neobyte",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-09-03 14:50:00"
+    },
+    {
+      "user": "spacepaw",
+      "vote": 5,
+      "when": "2013-09-03 14:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

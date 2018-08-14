@@ -23,6 +23,68 @@
   "artist_names": [
     "Sun"
   ],
+  "votes": [
+    {
+      "user": "mu6k",
+      "vote": 1,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-24 02:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-02 22:23:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-09-26 07:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-26 07:49:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-09-26 07:50:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-12-16 11:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "MyO",

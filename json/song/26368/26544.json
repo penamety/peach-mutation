@@ -23,6 +23,108 @@
   "artist_names": [
     "Little Bitchard"
   ],
+  "votes": [
+    {
+      "user": "dax_dexter",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "perfectcode",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Axioplase",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 2,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "rubik",
+      "vote": 4,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "mud",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2013-06-16 08:02:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-02 23:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-03 00:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-03 00:14:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-06-27 02:31:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-09-24"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-06-19 20:20:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2017-10-31 13:32:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-10-31 13:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "Buzzer",

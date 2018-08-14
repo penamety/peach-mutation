@@ -20,6 +20,58 @@
   "artist_names": [
     "Phaser"
   ],
+  "votes": [
+    {
+      "user": "Onaka",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-18 17:50:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-02-08 11:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

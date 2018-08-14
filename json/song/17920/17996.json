@@ -23,6 +23,133 @@
   "artist_names": [
     "Fab"
   ],
+  "votes": [
+    {
+      "user": "Fabzirya",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 1,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "velusip",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "AnonymousCoward",
+      "vote": 5,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "hptt",
+      "vote": 5,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Sensei",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-27 07:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-04 18:17:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-10-07 08:36:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2014-11-26 15:48:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-01-08 09:51:00"
+    },
+    {
+      "user": "satan",
+      "vote": 4,
+      "when": "2015-08-19"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

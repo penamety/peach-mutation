@@ -20,6 +20,123 @@
   "artist_names": [
     "Vic"
   ],
+  "votes": [
+    {
+      "user": "Demonted",
+      "vote": 1,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 5,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Rapidkirby3k",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "matsim",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Gismo",
+      "vote": 3,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-07-05 11:15:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-05 11:18:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-07-05 11:19:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-07-05 11:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-13 03:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-01 14:18:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-08-20"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-03-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-03-27"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

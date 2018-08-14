@@ -19,6 +19,118 @@
   "artist_names": [
     "Funky Fish"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 5,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Szrachnor",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "golio",
+      "vote": 3,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-09 22:02:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-04-02 20:37:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-15"
+    },
+    {
+      "user": "sdjm",
+      "vote": 2,
+      "when": "2016-06-15"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-09-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2016-10-25 03:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "btn_",

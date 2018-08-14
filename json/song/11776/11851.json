@@ -24,6 +24,73 @@
   "artist_names": [
     "Bas Lookman"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "Herute",
+      "vote": 5,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-02 05:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-11 18:50:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-02-11 18:51:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-03-16 08:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-13 23:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

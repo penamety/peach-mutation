@@ -26,6 +26,83 @@
   "artist_names": [
     "Cerror"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-08 08:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-01-03 11:18:00"
+    },
+    {
+      "user": "AtomicReindeer",
+      "vote": 3,
+      "when": "2014-11-02 06:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-11-02 06:24:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-04-05 20:56:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-04-22 23:42:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-04-22 23:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "anni",

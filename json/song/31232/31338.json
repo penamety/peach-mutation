@@ -25,6 +25,73 @@
   "artist_names": [
     "rockmonitor"
   ],
+  "votes": [
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 5,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Colidace",
+      "vote": 1,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "SPACE",
+      "vote": 1,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Unstruct",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-07-30 21:39:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-07-30 21:44:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-11-01 10:50:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-21 13:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-21 13:40:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-01-21 13:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-03 22:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-03 16:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -22,6 +22,63 @@
   "artist_names": [
     "Azazel"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-09 05:41:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-22 11:30:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-12-23 07:29:00"
+    },
+    {
+      "user": "ghidorah",
+      "vote": 2,
+      "when": "2014-12-23 07:30:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-12-23 07:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-15 22:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

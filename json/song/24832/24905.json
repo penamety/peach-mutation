@@ -20,6 +20,88 @@
   "artist_names": [
     "Strobo"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "gaussgss",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-06-15 18:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-15 18:53:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2013-06-15 18:55:00"
+    },
+    {
+      "user": "seizki",
+      "vote": 1,
+      "when": "2014-09-07 16:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-07 16:22:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2014-11-06 00:02:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 1,
+      "when": "2014-11-06 00:02:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 1,
+      "when": "2015-02-20 17:26:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2015-02-20 17:27:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 1,
+      "when": "2015-02-20 17:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-04-02 10:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

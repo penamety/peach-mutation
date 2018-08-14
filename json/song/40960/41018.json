@@ -25,6 +25,73 @@
   "artist_names": [
     "joes"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-09-25 01:51:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-09-25 09:53:00"
+    },
+    {
+      "user": "Latis",
+      "vote": 2,
+      "when": "2014-09-25 09:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-09-25 09:53:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-09-25 09:53:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-09-25 09:53:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-10-17 12:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-12-03 21:38:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 1,
+      "when": "2014-12-03 21:38:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-04-24 15:01:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-11-14 16:59:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-04-02 12:17:00"
+    },
+    {
+      "user": "plc",
+      "vote": 1,
+      "when": "2018-04-02 12:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "Tezar",

@@ -21,6 +21,53 @@
   "artist_names": [
     "Front 6"
   ],
+  "votes": [
+    {
+      "user": "Genetic_Gemini",
+      "vote": 2,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2014-08-11 14:25:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-02-26 12:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-11-14 10:49:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-14 10:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

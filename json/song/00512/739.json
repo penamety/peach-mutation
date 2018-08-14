@@ -20,6 +20,68 @@
   "artist_names": [
     "Black Shadow"
   ],
+  "votes": [
+    {
+      "user": "anthony62490",
+      "vote": 3,
+      "when": "2010-08-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "omilian",
+      "vote": 4,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-15 08:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-11 06:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-02-28 20:46:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-28 20:48:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-15 18:39:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-05-15 18:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

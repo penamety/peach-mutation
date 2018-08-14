@@ -24,6 +24,68 @@
   "artist_names": [
     "Flamingo"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 5,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-25 00:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-04-20 02:34:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-07-19"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-11-01 20:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "G_Signal",

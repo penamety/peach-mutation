@@ -23,6 +23,93 @@
   "artist_names": [
     "Oona"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-07-14 02:01:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2014-04-01 14:39:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-01 14:40:00"
+    },
+    {
+      "user": "flash",
+      "vote": 5,
+      "when": "2015-04-02 18:47:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-08-28"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-08-28"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-08-28"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-08-28"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2017-10-26 21:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

@@ -24,6 +24,63 @@
   "artist_names": [
     "Darwin"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-07-05 21:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-29 14:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-09-14 23:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-14 23:07:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-11-09 09:45:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2014-01-10 15:16:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-01-10 15:17:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 3,
+      "when": "2014-11-07 23:34:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-09-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2016-04-04 12:49:00"
+    },
+    {
+      "user": "plc",
+      "vote": 1,
+      "when": "2017-07-17 11:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

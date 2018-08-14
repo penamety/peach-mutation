@@ -19,6 +19,73 @@
   "artist_names": [
     "3wheel motion"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-07-18 03:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-18 03:36:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-27 12:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-03-02 20:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-25 18:26:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2017-12-25 18:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "anni",

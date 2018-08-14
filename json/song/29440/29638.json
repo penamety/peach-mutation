@@ -20,6 +20,73 @@
   "artist_names": [
     "Henry Homesweet"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-06-07 10:51:00"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-09-02 14:55:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-09-02 14:56:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-09-29"
+    },
+    {
+      "user": "blippyJon",
+      "vote": 1,
+      "when": "2016-09-29"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2016-09-29"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

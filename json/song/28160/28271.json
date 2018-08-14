@@ -23,6 +23,58 @@
   "artist_names": [
     "Theo"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "esher",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-11-13 10:43:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-11-13 10:44:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2016-08-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2017-02-02 14:30:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-03-23 23:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

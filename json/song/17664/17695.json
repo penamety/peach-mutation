@@ -21,6 +21,118 @@
   "artist_names": [
     "Edzes"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Lizard",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "lilelk",
+      "vote": 5,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "wiseman",
+      "vote": 5,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "seppjo",
+      "vote": 5,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2013-06-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-17 05:36:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2014-01-27 07:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-12-29 08:44:00"
+    },
+    {
+      "user": "sdjm",
+      "vote": 3,
+      "when": "2016-02-26 17:47:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 5,
+      "when": "2018-03-14 06:20:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2018-05-19 11:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "DH",

@@ -27,6 +27,58 @@
   "artist_names": [
     "Zodiak"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-02-26 07:03:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-02-26 07:05:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 3,
+      "when": "2016-02-26 07:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-02-26 07:44:00"
+    },
+    {
+      "user": "el_infame",
+      "vote": 3,
+      "when": "2016-02-27"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-04-01 08:31:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2016-04-01 08:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-05-07 16:05:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-11-10 21:38:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-09-06 13:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

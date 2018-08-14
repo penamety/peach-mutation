@@ -26,6 +26,33 @@
   "artist_names": [
     "Dr Krall"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-03 10:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-06-19 23:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "FroggyMe",

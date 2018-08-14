@@ -19,6 +19,53 @@
   "artist_names": [
     "My Echoes"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-09-23 02:34:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-09-06 15:08:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2015-01-07 02:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -25,6 +25,68 @@
   "artist_names": [
     "Random Voice"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "anerte",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "zerkman",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "ldc",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-06-14 11:35:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-06-17 09:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-15 01:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-15 01:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-10 22:05:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-03-04 10:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

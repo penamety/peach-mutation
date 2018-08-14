@@ -19,6 +19,53 @@
   "artist_names": [
     "Anders Akerheden"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-08-09 13:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-11-26"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-07-11 18:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -24,6 +24,83 @@
   "artist_names": [
     "Rage"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "pecet",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-12-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-01 04:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-11-20 01:15:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-20 01:17:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-30 09:58:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-11-14 19:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

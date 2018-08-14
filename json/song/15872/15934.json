@@ -22,6 +22,68 @@
   "artist_names": [
     "Rico"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-28 01:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-28 01:25:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2014-01-28 14:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-14 19:59:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-03-14 19:59:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-03-14 20:02:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-03-14 20:03:00"
+    },
+    {
+      "user": "Infovorr",
+      "vote": 1,
+      "when": "2016-01-11"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

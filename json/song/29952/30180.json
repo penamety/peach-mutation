@@ -25,6 +25,53 @@
   "artist_names": [
     "Shilone"
   ],
+  "votes": [
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-27 04:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-27 04:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-11-02 13:16:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2015-07-20"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

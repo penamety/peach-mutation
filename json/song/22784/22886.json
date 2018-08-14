@@ -19,6 +19,83 @@
   "artist_names": [
     "Pop"
   ],
+  "votes": [
+    {
+      "user": "BLGM",
+      "vote": 3,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Locutus",
+      "vote": 3,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "RoC",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-23 04:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-28 20:59:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-02-28 21:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2015-02-28 21:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-08-15"
+    },
+    {
+      "user": "Nicknack",
+      "vote": 5,
+      "when": "2017-03-18 14:14:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-03-18 14:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "warhawk",

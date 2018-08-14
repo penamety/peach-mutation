@@ -26,6 +26,68 @@
   "artist_names": [
     "mch"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-29 23:00:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2013-06-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-01-14 08:36:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-01-14 08:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-01-14 08:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

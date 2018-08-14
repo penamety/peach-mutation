@@ -24,6 +24,78 @@
   "artist_names": [
     "Luk"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "selmi",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-07-14 23:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-14 23:36:00"
+    },
+    {
+      "user": "_wally",
+      "vote": 3,
+      "when": "2017-05-01 22:45:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2018-02-03 10:48:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2018-02-03 10:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

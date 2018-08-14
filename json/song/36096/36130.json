@@ -23,6 +23,78 @@
   "artist_names": [
     "Ukulele"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "antipod",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "korkut",
+      "vote": 4,
+      "when": "2013-06-12 00:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-01 16:23:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-08-03 10:49:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-08-18"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 2,
+      "when": "2015-08-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-04-07 23:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

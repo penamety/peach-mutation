@@ -23,5 +23,42 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "odie",
+      "vote": 2,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "hojou",
+      "vote": 3,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Scope",
+      "vote": 4,
+      "when": "2011-06-01"
+    }
+  ],
   "requests": []
 }

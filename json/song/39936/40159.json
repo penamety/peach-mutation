@@ -22,6 +22,73 @@
   "artist_names": [
     "Sidewinder"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-03-10 08:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-10 08:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-10 08:33:00"
+    },
+    {
+      "user": "xerion567",
+      "vote": 5,
+      "when": "2014-03-11 02:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-06 16:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-04-23 23:14:00"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2014-05-19 22:02:00"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2014-12-16 10:08:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-12-16 10:08:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-12-16 10:09:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2016-09-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-11"
+    },
+    {
+      "user": "velusip",
+      "vote": 2,
+      "when": "2017-11-08 08:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

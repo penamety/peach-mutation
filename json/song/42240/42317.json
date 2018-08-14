@@ -23,6 +23,58 @@
   "artist_names": [
     "Erk"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "drislands",
+      "vote": 5,
+      "when": "2015-08-26"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2015-10-02"
+    },
+    {
+      "user": "Zitrax",
+      "vote": 2,
+      "when": "2015-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-10-02"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-11-07 23:40:00"
+    },
+    {
+      "user": "CanisCanine",
+      "vote": 3,
+      "when": "2017-03-30 23:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

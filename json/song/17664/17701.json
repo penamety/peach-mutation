@@ -20,6 +20,108 @@
   "artist_names": [
     "Eftos"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Rapido",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "turbine5",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-06-08 00:59:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-06-09 19:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-06-09 19:49:00"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-06-09 19:51:00"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 1,
+      "when": "2013-06-09 19:52:00"
+    },
+    {
+      "user": "impishrazor",
+      "vote": 2,
+      "when": "2013-06-09 19:52:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-01-12 18:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-12 18:20:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2015-03-04 18:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-04 19:04:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2016-02-21 08:30:00"
+    },
+    {
+      "user": "veeall",
+      "vote": 1,
+      "when": "2017-07-06 16:28:00"
+    },
+    {
+      "user": "sarka",
+      "vote": 1,
+      "when": "2018-01-16 20:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

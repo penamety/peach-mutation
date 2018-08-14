@@ -26,6 +26,48 @@
   "artist_names": [
     "Hali"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-01-16 01:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2017-01-16 09:59:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-03-01 19:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-03-27"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-06-06 11:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-06-06 11:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-02 13:59:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-03 21:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

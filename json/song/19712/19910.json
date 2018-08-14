@@ -19,6 +19,53 @@
   "artist_names": [
     "K93"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-01 14:08:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-21"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-21"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

@@ -20,6 +20,68 @@
   "artist_names": [
     "Maxsoft"
   ],
+  "votes": [
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 2,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "ldc",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2013-06-07 19:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-05 23:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-06 00:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-08-16 23:58:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2017-01-27 13:40:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2018-04-01 11:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

@@ -22,6 +22,48 @@
   "artist_names": [
     "Jason"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-27"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -22,6 +22,73 @@
   "artist_names": [
     "Sly"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-08-14 14:37:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2013-08-14 14:37:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2013-08-14 14:37:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-08-14 14:39:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-08-14 14:49:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-12-05 18:44:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-12-05 18:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-12-06 00:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

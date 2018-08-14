@@ -25,6 +25,68 @@
   "artist_names": [
     "Samplemaster"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 5,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-29 15:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-08-29 15:28:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-03 01:13:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-06-26 04:47:00"
+    },
+    {
+      "user": "Fireball",
+      "vote": 4,
+      "when": "2017-08-22 10:53:00"
+    },
+    {
+      "user": "jesper",
+      "vote": 4,
+      "when": "2017-08-22 10:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

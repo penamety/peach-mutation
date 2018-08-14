@@ -22,6 +22,53 @@
   "artist_names": [
     "Ernesto Aeroflot"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-01 04:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-20 15:54:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 3,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "ck2nb",
+      "vote": 4,
+      "when": "2016-07-12"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

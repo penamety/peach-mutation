@@ -20,6 +20,63 @@
   "artist_names": [
     "El Mobo"
   ],
+  "votes": [
+    {
+      "user": "jimee",
+      "vote": 2,
+      "when": "2009-01-01"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-07 05:58:00"
+    },
+    {
+      "user": "Sirocco",
+      "vote": 2,
+      "when": "2013-06-07 06:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-03-14 00:05:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2016-11-17 10:38:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-17 10:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

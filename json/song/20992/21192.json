@@ -19,6 +19,58 @@
   "artist_names": [
     "Martin Walker"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-11 19:32:00"
+    },
+    {
+      "user": "peach",
+      "vote": 1,
+      "when": "2014-01-29 17:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-01-02 05:55:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-04-16 19:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-16 19:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "pipe",

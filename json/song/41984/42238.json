@@ -24,6 +24,63 @@
   "artist_names": [
     "GTK"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "wig",
+      "vote": 3,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "bucky",
+      "vote": 3,
+      "when": "2017-02-21 12:02:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-02-21 12:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

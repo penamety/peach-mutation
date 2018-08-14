@@ -25,6 +25,113 @@
   "artist_names": [
     "serpent"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Octoate",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "tomi",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-08-07 13:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-22 03:39:00"
+    },
+    {
+      "user": "etray",
+      "vote": 2,
+      "when": "2014-05-23 22:30:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-05-23 22:31:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-05-23 22:32:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-07-30 03:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-09-28 13:35:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2014-09-28 13:35:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2016-05-13 06:44:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 2,
+      "when": "2016-05-13 06:47:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-02-28 06:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "Buzzer",

@@ -23,6 +23,113 @@
   "artist_names": [
     "Scorpik"
   ],
+  "votes": [
+    {
+      "user": "bitl",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "blindpilot",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "rombust",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "tas",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2013-08-28 21:12:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 3,
+      "when": "2013-08-28 21:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-28 21:13:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-12 14:41:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-09 10:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-10 09:22:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-10 09:23:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-04-10 09:23:00"
+    },
+    {
+      "user": "Jolecoco",
+      "vote": 5,
+      "when": "2015-03-21 06:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "blindpilot",

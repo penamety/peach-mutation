@@ -19,6 +19,68 @@
   "artist_names": [
     "CreaMD"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-09-08"
+    },
+    {
+      "user": "Colidace",
+      "vote": 2,
+      "when": "2013-06-29 14:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-29 14:43:00"
+    },
+    {
+      "user": "Sketch",
+      "vote": 3,
+      "when": "2013-06-29 14:43:00"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-06-29 14:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-03-28 11:14:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-03-28 11:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

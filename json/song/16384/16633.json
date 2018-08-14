@@ -20,6 +20,233 @@
   "artist_names": [
     "Cyborg Jeff"
   ],
+  "votes": [
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "ZTube",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "qbit",
+      "vote": 1,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-03-10"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "MyO",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "grachev",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "Feuermurmel",
+      "vote": 2,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "jakov",
+      "vote": 1,
+      "when": "2013-07-04 13:07:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 5,
+      "when": "2013-07-04 13:08:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2013-07-04 13:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-12-02 17:50:00"
+    },
+    {
+      "user": "traidmill",
+      "vote": 1,
+      "when": "2013-12-02 17:52:00"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 1,
+      "when": "2014-04-11 10:55:00"
+    },
+    {
+      "user": "Alac",
+      "vote": 3,
+      "when": "2014-04-11 10:56:00"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 3,
+      "when": "2014-04-11 10:57:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-04-11 10:57:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 1,
+      "when": "2015-04-13 23:02:00"
+    },
+    {
+      "user": "Infovorr",
+      "vote": 1,
+      "when": "2016-01-04"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2017-04-01"
+    },
+    {
+      "user": "jxx",
+      "vote": 1,
+      "when": "2017-04-01"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-09-01 15:17:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-09-01 15:17:00"
+    },
+    {
+      "user": "exocet",
+      "vote": 1,
+      "when": "2018-01-26 12:51:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-01-26 12:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

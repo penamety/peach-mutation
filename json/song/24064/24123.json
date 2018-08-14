@@ -22,6 +22,73 @@
   "artist_names": [
     "Scy"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "cxw",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "flash",
+      "vote": 5,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-06-04 15:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-09 19:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-09-09 19:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-22 20:06:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-07-28 05:16:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2018-02-21 07:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

@@ -20,6 +20,88 @@
   "artist_names": [
     "Scavenger"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Noir04",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "koitsu",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-08-27 19:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-08-27 19:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-07 17:37:00"
+    },
+    {
+      "user": "CanisCanine",
+      "vote": 4,
+      "when": "2014-07-15 17:30:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2014-07-15 17:30:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-06-06 13:08:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-06 13:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-06-06 13:09:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-03-13 22:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

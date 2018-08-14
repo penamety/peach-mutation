@@ -19,6 +19,83 @@
   "artist_names": [
     "Phaser"
   ],
+  "votes": [
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "doggyfred",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "vanward",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-18 15:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-18 15:13:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2013-10-10"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-10-13 16:47:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2015-01-28 03:28:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-11-22"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-04-24 08:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

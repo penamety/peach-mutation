@@ -25,6 +25,53 @@
   "artist_names": [
     "KamikaTze"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-04-07 08:40:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-04-07 08:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-07 08:41:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2015-04-07 08:42:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2015-04-07 10:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-04-17 22:14:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-08-26"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-05-07 22:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-04-21 09:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

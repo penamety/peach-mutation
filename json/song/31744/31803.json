@@ -28,6 +28,53 @@
   "artist_names": [
     "Sairoos"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "dasepsilon",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Colidace",
+      "vote": 2,
+      "when": "2013-06-02 19:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-02 19:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-19 04:14:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-03-02 13:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

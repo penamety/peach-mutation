@@ -25,6 +25,233 @@
   "artist_names": [
     "Martin Galway"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "vesseli1977",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "deot",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "luishka",
+      "vote": 4,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "vsk",
+      "vote": 4,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "sLASH",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 5,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Octoate",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "ZTube",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "wiseman",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 5,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Sketch",
+      "vote": 5,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "jakov",
+      "vote": 4,
+      "when": "2013-06-12 10:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-12 10:46:00"
+    },
+    {
+      "user": "zensonic",
+      "vote": 4,
+      "when": "2013-08-06 16:54:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2013-09-29 16:56:00"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 4,
+      "when": "2014-02-23 12:43:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-07-03 19:25:00"
+    },
+    {
+      "user": "CanisCanine",
+      "vote": 4,
+      "when": "2014-08-04 19:15:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2014-12-12 18:38:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2014-12-12 18:38:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-02-15 01:39:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 5,
+      "when": "2015-05-25 21:28:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2016-11-17 11:45:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-26 18:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Octoate",

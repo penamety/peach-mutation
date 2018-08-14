@@ -27,6 +27,58 @@
   "artist_names": [
     "Pista"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-05-27"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2014-05-02 21:11:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2014-05-02 21:11:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-05-02 21:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-03 20:14:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-03-03 20:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

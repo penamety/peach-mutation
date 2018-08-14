@@ -24,6 +24,63 @@
   "artist_names": [
     "EatMe"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "MMX",
+      "vote": 1,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "Tezar",
+      "vote": 2,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-02-14"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-05-07 10:08:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-09-19"
+    },
+    {
+      "user": "sp4zzz",
+      "vote": 3,
+      "when": "2016-11-12 13:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-12 13:34:00"
+    },
+    {
+      "user": "den32ds",
+      "vote": 5,
+      "when": "2017-03-09 16:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

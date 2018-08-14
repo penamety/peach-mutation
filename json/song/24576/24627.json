@@ -19,6 +19,68 @@
   "artist_names": [
     "Kellersound"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Octoate",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "chrono",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "nostalgames",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-13 13:37:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-01-13 13:38:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-13 13:38:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-13 13:42:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-16 15:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

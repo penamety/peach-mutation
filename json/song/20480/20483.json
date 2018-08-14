@@ -24,6 +24,78 @@
   "artist_names": [
     "Legend"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-10-25 10:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-25 10:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-30 13:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-01"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2016-11-03 08:45:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-11-03 08:45:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 3,
+      "when": "2018-03-12 20:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

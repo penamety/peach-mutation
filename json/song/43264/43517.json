@@ -24,6 +24,58 @@
   "artist_names": [
     "Moby"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-10-19 09:15:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2016-11-04 22:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-11-04 22:27:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-11-21 07:58:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-11-21 08:01:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-12-27 07:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-02-11 08:48:00"
+    },
+    {
+      "user": "fuzion_mixer",
+      "vote": 4,
+      "when": "2017-03-06 11:24:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2018-05-02 14:55:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-05-02 14:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "jxx",

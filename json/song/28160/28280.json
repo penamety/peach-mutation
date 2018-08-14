@@ -24,6 +24,58 @@
   "artist_names": [
     "FBY"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Rapture",
+      "vote": 1,
+      "when": "2013-06-25 08:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-06-25 08:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-10-05 02:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-08-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2015-08-04"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

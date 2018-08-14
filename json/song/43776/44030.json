@@ -26,6 +26,53 @@
   "artist_names": [
     "Quiet"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-05-16 20:22:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-05-16 20:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-05-16 20:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2017-06-03 12:33:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2017-06-10 21:55:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-06-10 21:56:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-09-10 19:45:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-04 13:51:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-03-04 13:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

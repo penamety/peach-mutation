@@ -20,6 +20,108 @@
   "artist_names": [
     "Ks"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "chellomere",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-03-11"
+    },
+    {
+      "user": "nwheels",
+      "vote": 3,
+      "when": "2013-06-29 22:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-20 11:11:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2014-01-20 11:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-01-20 11:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-20 11:13:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-01-20 11:13:00"
+    },
+    {
+      "user": "Erk",
+      "vote": 3,
+      "when": "2014-01-20 11:14:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-16 12:21:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2016-11-16 12:22:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-11-16 12:23:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-11-16 12:26:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-11-29 11:44:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-11-29 11:46:00"
+    },
+    {
+      "user": "TheNalex",
+      "vote": 3,
+      "when": "2017-11-29 11:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

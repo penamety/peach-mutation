@@ -24,6 +24,83 @@
   "artist_names": [
     "Danko"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "wiseman",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-15 20:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-15 20:28:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-07-30 10:43:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-07-30 10:43:00"
+    },
+    {
+      "user": "TohoFuhai",
+      "vote": 4,
+      "when": "2013-07-30 10:44:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2013-11-03 09:35:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-02-06 17:35:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-10-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-03-03 21:42:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2017-03-03 21:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

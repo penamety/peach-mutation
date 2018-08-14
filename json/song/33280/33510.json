@@ -25,6 +25,73 @@
   "artist_names": [
     "Darkwolf"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Libre",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "motherchip",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 4,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-29 01:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-08 12:42:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-08-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-21"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-05-03 06:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "dv",

@@ -22,6 +22,53 @@
   "artist_names": [
     "Tricktrax"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-08-07 11:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-07 11:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-07 18:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-11-19 08:49:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-11-19 08:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

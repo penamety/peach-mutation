@@ -24,6 +24,103 @@
   "artist_names": [
     "Wire"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Smanux",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Sylve_Copper",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "onc",
+      "vote": 2,
+      "when": "2013-08-05 18:05:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 4,
+      "when": "2013-08-05 18:06:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-08-23 16:56:00"
+    },
+    {
+      "user": "deot",
+      "vote": 4,
+      "when": "2013-08-23 16:57:00"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 4,
+      "when": "2013-11-22 13:23:00"
+    },
+    {
+      "user": "joes",
+      "vote": 3,
+      "when": "2014-04-02 14:18:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2014-04-02 14:19:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-12-06"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

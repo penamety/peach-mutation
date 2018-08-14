@@ -24,6 +24,53 @@
   "artist_names": [
     "Velo"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-02-06"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-27 15:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-12 17:40:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-04-12 17:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-04-18 21:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

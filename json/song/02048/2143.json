@@ -19,6 +19,73 @@
   "artist_names": [
     "Dune"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "OSH",
+      "vote": 5,
+      "when": "2010-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-13 10:02:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-06-13 10:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-13 10:03:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2015-12-18"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-12-18"
+    },
+    {
+      "user": "atom32k",
+      "vote": 2,
+      "when": "2016-02-04"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2018-04-09 22:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

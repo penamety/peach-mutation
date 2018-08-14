@@ -23,6 +23,78 @@
   "artist_names": [
     "Daedalus"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Longbow",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Machforr",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "jolic",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "dasepsilon",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-15 11:14:00"
+    },
+    {
+      "user": "corewhore",
+      "vote": 5,
+      "when": "2013-06-15 11:14:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-15 11:15:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-06 10:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-05-06 10:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-05-06 06:34:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2016-06-23"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -16,5 +16,27 @@
   "last_scraped": "2018-05-23 02:25:08",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Axioplase",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-09-03"
+    }
+  ],
   "requests": []
 }

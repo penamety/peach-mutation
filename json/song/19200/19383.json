@@ -22,6 +22,53 @@
   "artist_names": [
     "Jan Krolzig"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-05-04 21:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "Stormdragonblue",

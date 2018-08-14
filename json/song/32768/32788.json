@@ -24,6 +24,133 @@
   "artist_names": [
     "Judge Brad"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "BeautyNerd",
+      "vote": 4,
+      "when": "2013-09-13 00:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-13 00:08:00"
+    },
+    {
+      "user": "joes",
+      "vote": 4,
+      "when": "2014-05-18 13:16:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-08-10 14:43:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-12-30 14:50:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-30 14:50:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-04-01 06:42:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2017-04-23 19:17:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 4,
+      "when": "2017-07-20 12:45:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-08-17 20:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "drybrain",

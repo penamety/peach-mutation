@@ -26,6 +26,53 @@
   "artist_names": [
     "FlaxixAvant"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-25 01:52:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-09-25 10:05:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-10-13 14:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-13 14:04:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2014-11-07 10:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-11-07 10:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-04-11 08:19:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-05 10:30:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-01-05 10:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

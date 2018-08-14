@@ -23,6 +23,108 @@
   "artist_names": [
     "Lamb"
   ],
+  "votes": [
+    {
+      "user": "analizator",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Danger",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-15 13:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-12-13 11:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-01-05 06:47:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2018-06-08 09:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Starchaser",

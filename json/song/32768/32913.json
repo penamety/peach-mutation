@@ -27,6 +27,158 @@
   "artist_names": [
     "Gloom"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "besh",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "tyco",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Archmage",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Recycler",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-14 17:13:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-08-14 12:45:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2013-08-14 12:46:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-03-23 00:30:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2014-05-30 18:30:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2014-07-29 18:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-07-29 18:27:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2015-08-21"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-05 17:29:00"
+    },
+    {
+      "user": "morgium",
+      "vote": 1,
+      "when": "2017-03-14 16:34:00"
+    },
+    {
+      "user": "turbine5",
+      "vote": 4,
+      "when": "2017-03-14 16:36:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2017-12-12 08:40:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-04-30 15:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

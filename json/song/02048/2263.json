@@ -23,6 +23,78 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-10 02:50:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-06-10 02:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-12-03 11:38:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-12-03 11:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-09-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-06-22 15:43:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2017-06-22 15:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

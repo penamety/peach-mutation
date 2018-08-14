@@ -20,6 +20,63 @@
   "artist_names": [
     "Deejay"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-02-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-24 05:33:00"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-10-03 20:29:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 5,
+      "when": "2013-11-28 00:13:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-23 23:29:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-04 03:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

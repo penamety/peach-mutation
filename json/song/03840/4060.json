@@ -20,5 +20,17 @@
   "artist_names": [
     "Lizardking"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-07-27 21:43:00"
+    }
+  ],
   "requests": []
 }

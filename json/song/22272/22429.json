@@ -24,6 +24,53 @@
   "artist_names": [
     "Omega"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-16 04:36:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-27 10:15:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-01-02 07:09:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-01-02 07:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-20 09:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

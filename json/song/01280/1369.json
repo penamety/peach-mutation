@@ -20,6 +20,108 @@
   "artist_names": [
     "Cubico"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "Renderwahn",
+      "vote": 3,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "modrobert",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Fireball",
+      "vote": 1,
+      "when": "2012-06-24"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-06-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-03 03:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-03 03:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-04 16:57:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2015-01-12 02:34:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-10-10"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-09-02"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-09-02"
+    },
+    {
+      "user": "alienNeWbeat",
+      "vote": 1,
+      "when": "2016-09-02"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-10-31 15:50:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-10-31 15:50:00"
+    },
+    {
+      "user": "PAPA_RimskY",
+      "vote": 5,
+      "when": "2017-10-31 15:53:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-03-23 14:30:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-05-30 09:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

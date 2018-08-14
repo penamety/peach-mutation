@@ -25,6 +25,78 @@
   "artist_names": [
     "Warhawk"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "infinigon",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "bk237",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-09-03 15:46:00"
+    },
+    {
+      "user": "spekki",
+      "vote": 2,
+      "when": "2013-09-03 15:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-07-07 20:03:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-14 11:33:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 3,
+      "when": "2017-01-14 11:35:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-01-14 11:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

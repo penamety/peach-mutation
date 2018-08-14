@@ -20,6 +20,88 @@
   "artist_names": [
     "Stv"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Axioplase",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-10-12 13:46:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-10-12 13:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-21 15:41:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2014-09-21 15:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-21 15:42:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2017-04-27 13:47:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-04-27 13:47:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2017-05-28 05:35:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2017-08-25 23:35:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 1,
+      "when": "2017-08-25 23:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-08-25 23:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

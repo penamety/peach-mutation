@@ -25,6 +25,83 @@
   "artist_names": [
     "Marvin"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "stokescomp",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "xameg",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-12 04:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-10 03:25:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-03-11 22:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -24,6 +24,58 @@
   "artist_names": [
     "Abaddon"
   ],
+  "votes": [
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "Neutral",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-10-18 21:24:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-12-11 09:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-12-11 09:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

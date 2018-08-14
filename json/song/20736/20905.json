@@ -19,5 +19,12 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-02-24 16:00:00"
+    }
+  ],
   "requests": []
 }

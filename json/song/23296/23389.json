@@ -22,6 +22,83 @@
   "artist_names": [
     "Tom K."
   ],
+  "votes": [
+    {
+      "user": "Cyborg",
+      "vote": 5,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-05-16 02:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-12-19 16:57:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-12-19 17:00:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2017-08-03 10:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

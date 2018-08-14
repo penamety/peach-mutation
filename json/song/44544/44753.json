@@ -22,6 +22,33 @@
   "artist_names": [
     "Claw (Martin Grimme)"
   ],
+  "votes": [
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-03-20 11:26:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-03-19 19:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-01 14:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-03-21 20:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2018-05-01 14:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

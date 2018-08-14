@@ -26,6 +26,83 @@
   "artist_names": [
     "Shui"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "rams",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-13 17:41:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-09-01 22:22:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-01 22:23:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-09-01 22:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-01 22:24:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-02 16:16:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-09-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-09-12"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

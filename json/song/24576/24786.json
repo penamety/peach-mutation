@@ -23,6 +23,88 @@
   "artist_names": [
     "Static"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Moses",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-16 20:27:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2013-08-16 20:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-11-11 09:02:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2017-10-12 10:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

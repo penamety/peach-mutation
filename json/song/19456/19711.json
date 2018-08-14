@@ -20,6 +20,128 @@
   "artist_names": [
     "Joe Cutter"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "onc",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "venttiili",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "GeekShadow",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Moses",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-05-11"
+    },
+    {
+      "user": "crrr",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "hptt",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "possatboi",
+      "vote": 5,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-03 01:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-08-04"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-31 17:44:00"
+    },
+    {
+      "user": "Frylix",
+      "vote": 4,
+      "when": "2017-01-31 17:45:00"
+    },
+    {
+      "user": "Infovorr",
+      "vote": 1,
+      "when": "2017-01-31 17:45:00"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 3,
+      "when": "2017-01-31 17:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "GeekShadow",

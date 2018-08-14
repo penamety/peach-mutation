@@ -22,6 +22,53 @@
   "artist_names": [
     "Luv Kohli"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-11 12:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-10-11 12:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

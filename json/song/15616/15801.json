@@ -23,6 +23,133 @@
   "artist_names": [
     "Chris Hülsbeck"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Xeno",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "MSX_user",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Venty",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-11 00:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-11 00:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-18 22:46:00"
+    },
+    {
+      "user": "Androktasie",
+      "vote": 4,
+      "when": "2014-09-14 03:47:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 5,
+      "when": "2014-09-14 03:48:00"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 4,
+      "when": "2014-10-18 00:44:00"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 5,
+      "when": "2014-10-18 00:48:00"
+    },
+    {
+      "user": "Continuum",
+      "vote": 5,
+      "when": "2015-03-28 11:10:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2017-06-11 18:48:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-06-11 18:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "chkdsk",

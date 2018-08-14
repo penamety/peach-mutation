@@ -25,6 +25,113 @@
   "artist_names": [
     "Everdune"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "anerte",
+      "vote": 4,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-10-25 15:57:00"
+    },
+    {
+      "user": "mainhoon",
+      "vote": 5,
+      "when": "2013-12-20 23:26:00"
+    },
+    {
+      "user": "uniqlo",
+      "vote": 5,
+      "when": "2013-12-20 23:28:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-20 23:29:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-05-09 18:43:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2014-05-09 18:44:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-06-09 09:19:00"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2014-10-03 17:08:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-03-06 19:41:00"
+    },
+    {
+      "user": "shftd_",
+      "vote": 4,
+      "when": "2015-11-04"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-12-18"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-01-04"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2016-01-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2017-08-17 12:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

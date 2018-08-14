@@ -20,6 +20,68 @@
   "artist_names": [
     "Croaker"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-10-28 06:36:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-10-28 06:37:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-20 13:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-20 13:07:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-02 20:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-05-02 20:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

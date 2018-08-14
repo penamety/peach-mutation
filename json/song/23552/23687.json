@@ -19,6 +19,78 @@
   "artist_names": [
     "Robbfritt"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-07-16 22:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-16 23:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-16 23:04:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2016-07-03"
+    },
+    {
+      "user": "Siegfried",
+      "vote": 1,
+      "when": "2016-07-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2016-07-03"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

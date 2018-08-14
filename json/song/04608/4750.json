@@ -22,6 +22,63 @@
   "artist_names": [
     "Mellow-D"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-10 17:29:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-27 07:29:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 3,
+      "when": "2016-10-28 06:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-11-17 09:08:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-11-17 09:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-09-27 00:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Chakotay",

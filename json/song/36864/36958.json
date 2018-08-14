@@ -26,6 +26,78 @@
   "artist_names": [
     "Maf"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-17 00:20:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-09-30 20:54:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-07-06 12:24:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-03-01 23:27:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2017-03-01 23:27:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2018-05-21 17:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

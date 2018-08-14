@@ -21,6 +21,58 @@
   "artist_names": [
     "Mefis"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-08-29"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-03-03 14:04:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-07-08 08:39:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-07-08 08:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "silok",

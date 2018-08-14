@@ -17,6 +17,33 @@
   "last_scraped": "2018-05-23 01:35:58",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-06-12"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

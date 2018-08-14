@@ -26,6 +26,68 @@
   "artist_names": [
     "Kalsu"
   ],
+  "votes": [
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Lancastersilk",
+      "vote": 5,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-24 22:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-02-27 12:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-02-27 12:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-07-19"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2016-03-22 18:05:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-03-22 18:05:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-03-22 18:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

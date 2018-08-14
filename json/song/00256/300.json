@@ -23,6 +23,68 @@
   "artist_names": [
     "Twice"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-12-24"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-22 11:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-22 11:48:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2013-08-22 11:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-04-25 19:03:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-25 19:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

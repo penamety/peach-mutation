@@ -21,6 +21,48 @@
   "artist_names": [
     "The Zapper"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-27 09:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-27 09:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-06 15:49:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-01-06 15:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-05 21:24:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-06-03 18:04:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-11-01"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-11-02 15:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

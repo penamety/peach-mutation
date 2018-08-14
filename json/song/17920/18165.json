@@ -19,6 +19,58 @@
   "artist_names": [
     "Ferrara"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-16 08:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-04 06:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-24 00:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-24 01:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-04-26 07:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

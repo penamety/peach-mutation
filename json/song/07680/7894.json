@@ -20,5 +20,17 @@
   "artist_names": [
     "ko0x"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-09-05 22:00:00"
+    }
+  ],
   "requests": []
 }

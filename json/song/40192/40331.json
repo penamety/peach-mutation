@@ -26,6 +26,78 @@
   "artist_names": [
     "PRI"
   ],
+  "votes": [
+    {
+      "user": "Turnips",
+      "vote": 5,
+      "when": "2014-04-06 16:56:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-04-06 16:58:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2014-04-16 15:57:00"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2014-04-16 15:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-04-16 15:58:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-04-16 15:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-28 10:30:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2014-04-28 10:30:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-04-28 10:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-11-08 19:00:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-11-29 11:55:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-11-29 11:57:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-11-22"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2016-12-30 12:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

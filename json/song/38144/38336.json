@@ -24,6 +24,73 @@
   "artist_names": [
     "Maxime Abbey"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "tomi",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-02-26 10:54:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-26 11:13:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2015-05-04 03:07:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-30 20:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

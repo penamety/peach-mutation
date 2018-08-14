@@ -22,6 +22,48 @@
   "artist_names": [
     "HyoChan"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-04 10:03:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2015-08-12"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 4,
+      "when": "2015-09-21"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

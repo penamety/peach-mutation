@@ -21,6 +21,68 @@
   "artist_names": [
     "Mushies"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-05-30 21:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-30 21:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-05-30 21:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-25 23:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-03-25 23:00:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 3,
+      "when": "2016-08-27"
+    }
+  ],
   "requests": [
     {
       "user": "Starchaser",

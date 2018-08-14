@@ -23,6 +23,23 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Vampire",
+      "vote": 2,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 3,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Tomchi",
+      "vote": 2,
+      "when": "2009-11-02"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

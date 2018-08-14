@@ -19,6 +19,73 @@
   "artist_names": [
     "Deviator"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2008-11-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 5,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "infinigon",
+      "vote": 3,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "DrCooldude",
+      "vote": 5,
+      "when": "2012-06-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-28 23:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-28 23:52:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-28 23:53:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-03-29 09:40:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-17 15:32:00"
+    },
+    {
+      "user": "EZH",
+      "vote": 3,
+      "when": "2017-01-17 15:36:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-01-17 15:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

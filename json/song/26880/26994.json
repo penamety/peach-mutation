@@ -24,6 +24,73 @@
   "artist_names": [
     "BiTL"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Manwe",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "qbit",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "skaro",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-07 03:53:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-07 03:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-07 03:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-22 01:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-08-24 00:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "Dimouse",

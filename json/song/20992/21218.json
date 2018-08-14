@@ -25,6 +25,48 @@
   "artist_names": [
     "Matt Furniss"
   ],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2013-08-03 18:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-14 05:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

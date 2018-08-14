@@ -25,6 +25,103 @@
   "artist_names": [
     "DJ 3.14"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "scanjam",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Fireball",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2013-07-22 06:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-21 14:43:00"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 3,
+      "when": "2014-01-21 14:44:00"
+    },
+    {
+      "user": "Osmic",
+      "vote": 2,
+      "when": "2014-01-21 14:45:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2016-10-31 19:27:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2016-10-31 19:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-31 19:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-10-31 19:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

@@ -19,6 +19,48 @@
   "artist_names": [
     "Einstein"
   ],
+  "votes": [
+    {
+      "user": "Darkseed",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-11 05:01:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-11 05:01:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-25 06:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

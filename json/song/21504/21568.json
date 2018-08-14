@@ -19,6 +19,83 @@
   "artist_names": [
     "Merlin"
   ],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "jesper",
+      "vote": 4,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "ZLOvar",
+      "vote": 5,
+      "when": "2013-06-20 00:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-31 06:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-03-20 20:54:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-20 20:55:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-05-24 07:20:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-02-09"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-12-16 17:57:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-16 17:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

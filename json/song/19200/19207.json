@@ -22,6 +22,88 @@
   "artist_names": [
     "Humanoid"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "phaser",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-09 11:08:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-01-22 19:59:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-01-22 20:01:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-05-25"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-05-25"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2018-05-14 20:16:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-05-14 20:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

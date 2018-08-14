@@ -20,6 +20,63 @@
   "artist_names": [
     "Mad God"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "nvictor",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-07-24 02:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-26 21:20:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-21 21:22:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-04-21 21:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

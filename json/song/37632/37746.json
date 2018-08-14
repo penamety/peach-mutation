@@ -23,6 +23,48 @@
   "artist_names": [
     "Stamen"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "gnrp",
+      "vote": 3,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "infinigon",
+      "vote": 3,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-28 19:45:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2015-10-31"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-10-31"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

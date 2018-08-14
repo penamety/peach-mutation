@@ -21,6 +21,53 @@
   "artist_names": [
     "Gonzo"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-12 11:53:00"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 3,
+      "when": "2015-08-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-08-04"
+    }
+  ],
   "requests": [
     {
       "user": "Buzzer",

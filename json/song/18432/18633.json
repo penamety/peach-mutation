@@ -19,5 +19,17 @@
   "artist_names": [
     "Gemini"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-10-27"
+    }
+  ],
   "requests": []
 }

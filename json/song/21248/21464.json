@@ -21,6 +21,68 @@
   "artist_names": [
     "Melomaniac"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-06 05:34:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-05 12:28:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-05 12:29:00"
+    },
+    {
+      "user": "jesper",
+      "vote": 3,
+      "when": "2015-04-06 22:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-06 22:32:00"
+    },
+    {
+      "user": "epso",
+      "vote": 2,
+      "when": "2017-05-26 19:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

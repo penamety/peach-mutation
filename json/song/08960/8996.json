@@ -23,5 +23,42 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Chocoholic",
+      "vote": 2,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Danger",
+      "vote": 5,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Longbow",
+      "vote": 3,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Renderwahn",
+      "vote": 3,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "premium",
+      "vote": 1,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "GiantIsopod",
+      "vote": 2,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 1,
+      "when": "2009-11-02"
+    }
+  ],
   "requests": []
 }

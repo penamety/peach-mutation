@@ -22,6 +22,98 @@
   "artist_names": [
     "4-mat"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-01-31"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2009-01-31"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "lossless85",
+      "vote": 3,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "caminante",
+      "vote": 4,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-06-04 02:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-04 02:35:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-10-17 18:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-02 04:31:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-11-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2016-12-11 18:23:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2016-12-11 18:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

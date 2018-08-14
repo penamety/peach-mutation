@@ -23,6 +23,73 @@
   "artist_names": [
     "5tarbuck"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-23 00:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-23 00:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-23 00:48:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2014-01-30 03:12:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-01-23"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

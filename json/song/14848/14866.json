@@ -20,6 +20,103 @@
   "artist_names": [
     "Big Bear"
   ],
+  "votes": [
+    {
+      "user": "Kalroth",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "zerkman",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-06 09:00:00"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2013-09-06 08:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-06 09:00:00"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 4,
+      "when": "2013-12-19 09:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-08 14:11:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2016-04-14 09:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-05-10 23:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

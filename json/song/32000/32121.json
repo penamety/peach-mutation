@@ -24,6 +24,18 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-05-05"
+    }
+  ],
   "requests": [
     {
       "user": "acidline",

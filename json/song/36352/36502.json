@@ -21,6 +21,88 @@
   "artist_names": [
     "Mr Ploppy"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "foz",
+      "vote": 5,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "wiseman",
+      "vote": 5,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-01-07 23:53:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-07 23:57:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-05-04 04:13:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-05-04 04:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "foz",

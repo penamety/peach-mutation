@@ -28,6 +28,68 @@
   "artist_names": [
     "Lizard [se]"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-11 16:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-11 16:22:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-11-07 21:38:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-04-11 06:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

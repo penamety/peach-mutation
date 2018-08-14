@@ -24,6 +24,63 @@
   "artist_names": [
     "Mr. Root"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "sundog",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-27 09:26:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-25 08:33:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2017-04-25 08:35:00"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 4,
+      "when": "2018-02-02 13:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "three_sixxes",

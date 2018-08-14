@@ -16,6 +16,23 @@
   "last_scraped": "2018-05-23 05:36:52",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Dr4pht",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "TurboHz",
+      "vote": 2,
+      "when": "2011-04-04"
+    }
+  ],
   "requests": [
     {
       "user": "Dr4pht",

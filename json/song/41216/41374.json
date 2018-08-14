@@ -23,6 +23,58 @@
   "artist_names": [
     "Hunz"
   ],
+  "votes": [
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2014-12-18 17:41:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2014-12-18 17:41:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 2,
+      "when": "2014-12-18 17:41:00"
+    },
+    {
+      "user": "Melo",
+      "vote": 1,
+      "when": "2014-12-18 17:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-01-01 00:58:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2015-02-11 10:22:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-10-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-10-17"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-10-17"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2015-10-17"
+    }
+  ],
   "requests": [
     {
       "user": "melcom",

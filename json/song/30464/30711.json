@@ -24,6 +24,33 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "velusip",
+      "vote": 1,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "uridium",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-06-05"
+    }
+  ],
   "requests": [
     {
       "user": "Ultrasyd",

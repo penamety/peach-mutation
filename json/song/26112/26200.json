@@ -20,6 +20,93 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "cyberant",
+      "vote": 2,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Flatline",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "zerkman",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-03 07:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-03 07:36:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-03 12:04:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-03 12:04:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-02-03 12:04:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-02-03 12:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "anni",

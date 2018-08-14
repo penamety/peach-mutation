@@ -23,6 +23,78 @@
   "artist_names": [
     "Kendo"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Archmage",
+      "vote": 1,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 1,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2014-03-10 10:49:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-03-10 10:50:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2014-03-10 10:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-10 10:50:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-03-10 10:50:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 2,
+      "when": "2016-10-15"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

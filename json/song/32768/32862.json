@@ -22,6 +22,73 @@
   "artist_names": [
     "Stygg Sylt"
   ],
+  "votes": [
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Demonted",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "ZTube",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "zerkman",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Melo",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2014-01-15 09:13:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-15 09:13:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2014-01-15 09:16:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-09-29 12:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-29 12:41:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-03-08 09:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-03-08 09:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sixx",

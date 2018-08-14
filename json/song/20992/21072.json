@@ -21,6 +21,103 @@
   "artist_names": [
     "Makke"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "rv6502",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "malmen",
+      "vote": 4,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-06-16 20:28:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-06-16 20:28:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2013-06-16 20:29:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-16 20:29:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2013-11-10"
+    },
+    {
+      "user": "flash",
+      "vote": 3,
+      "when": "2013-11-10 22:38:00"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 3,
+      "when": "2014-02-24 15:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-24 16:26:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2014-11-23 18:34:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2016-12-30 18:21:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 3,
+      "when": "2017-02-28 07:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "Zitrax",

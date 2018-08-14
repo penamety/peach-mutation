@@ -20,6 +20,58 @@
   "artist_names": [
     "16 Beat"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-07-10"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-09 16:42:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-08-21 09:02:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-08-21 09:03:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-23 12:42:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-25 16:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

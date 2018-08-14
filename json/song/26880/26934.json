@@ -22,6 +22,63 @@
   "artist_names": [
     "Skyrunner"
   ],
+  "votes": [
+    {
+      "user": "Lauplesser",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-03 17:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-13 01:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-10-16 22:23:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 2,
+      "when": "2014-10-16 22:24:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-10-16 22:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

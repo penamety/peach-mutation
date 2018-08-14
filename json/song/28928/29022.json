@@ -25,6 +25,93 @@
   "artist_names": [
     "jco"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Herute",
+      "vote": 5,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "flash",
+      "vote": 5,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-10-25 11:54:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-10-25 11:56:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-25 11:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-25 12:06:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-11-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-11-19"
+    },
+    {
+      "user": "den32ds",
+      "vote": 5,
+      "when": "2017-03-08 19:08:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-03-08 19:10:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2017-03-08 19:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-03-20 08:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

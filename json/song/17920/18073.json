@@ -23,6 +23,63 @@
   "artist_names": [
     "Factor6"
   ],
+  "votes": [
+    {
+      "user": "cederom",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "turbine5",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "acidline",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-28 06:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-28 06:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-10-22 00:10:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-11-05 03:21:00"
+    },
+    {
+      "user": "SpecialDefect",
+      "vote": 5,
+      "when": "2014-11-05 03:22:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2015-01-10 18:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "cederom",

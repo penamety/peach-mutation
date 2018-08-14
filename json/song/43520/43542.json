@@ -25,6 +25,78 @@
   "artist_names": [
     "MC Jazz"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-10-27 11:08:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2016-10-27 11:09:00"
+    },
+    {
+      "user": "rootuid",
+      "vote": 2,
+      "when": "2016-10-27 11:10:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-10-27 11:12:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2016-10-27 11:13:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-10-27 11:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-27 11:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-10-30"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-11-14 16:04:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-11-14 16:04:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-14 16:04:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-12-19 11:49:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2017-01-24 13:20:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-03-10 20:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "arab",

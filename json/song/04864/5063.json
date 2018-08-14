@@ -19,6 +19,48 @@
   "artist_names": [
     "Muffler"
   ],
+  "votes": [
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-05-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-04-24 03:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-26 21:32:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-20"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -23,6 +23,73 @@
   "artist_names": [
     "Ec Rider"
   ],
+  "votes": [
+    {
+      "user": "gasg",
+      "vote": 3,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Smu",
+      "vote": 3,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-16 14:10:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-10-12 16:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-12 18:16:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-01-02 10:21:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-02 10:22:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-01-02 10:22:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-07-08 21:42:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-11-30 11:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

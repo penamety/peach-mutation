@@ -20,6 +20,83 @@
   "artist_names": [
     "DNA-Groove"
   ],
+  "votes": [
+    {
+      "user": "Legioona",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Genetic_Gemini",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-11-06"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-06-24 11:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-24 11:33:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 4,
+      "when": "2013-06-24 11:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-24 11:34:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-24 11:34:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2013-06-24 11:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-15 00:37:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-15 00:37:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-19 12:41:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-19 12:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "Colidace",

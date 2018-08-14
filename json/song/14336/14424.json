@@ -19,6 +19,63 @@
   "artist_names": [
     "Aztech"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "qbit",
+      "vote": 2,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "wig",
+      "vote": 3,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-12-26 04:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-01 23:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

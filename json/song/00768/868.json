@@ -25,6 +25,58 @@
   "artist_names": [
     "Carebear"
   ],
+  "votes": [
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-04-06"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-16 04:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-17 08:45:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-05-28 16:14:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 5,
+      "when": "2015-04-30 16:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-01-24"
+    }
+  ],
   "requests": [
     {
       "user": "zoner",

@@ -24,6 +24,78 @@
   "artist_names": [
     "Power of Creation"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-06-16 23:13:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-07-16 14:13:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-08-19 20:00:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 2,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "sdjm",
+      "vote": 2,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-10-10 15:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-10 15:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-06-11 08:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

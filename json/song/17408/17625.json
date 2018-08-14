@@ -19,5 +19,22 @@
   "artist_names": [
     "Dubmood"
   ],
+  "votes": [
+    {
+      "user": "HappyDude",
+      "vote": 5,
+      "when": "2014-04-01 04:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-06-21 23:44:00"
+    },
+    {
+      "user": "hireddivas",
+      "vote": 5,
+      "when": "2017-03-22"
+    }
+  ],
   "requests": []
 }

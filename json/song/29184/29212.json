@@ -22,6 +22,58 @@
   "artist_names": [
     "Marlon"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-22 14:43:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-09-05 17:59:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-25 00:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

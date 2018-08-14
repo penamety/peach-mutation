@@ -24,6 +24,83 @@
   "artist_names": [
     "Void"
   ],
+  "votes": [
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "rogue",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "mach1ne",
+      "vote": 5,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 5,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-16 07:15:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-06 07:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-03-06 07:10:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2016-03-24 16:15:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2018-01-04 09:00:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2018-03-02 22:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "franz_koopa",

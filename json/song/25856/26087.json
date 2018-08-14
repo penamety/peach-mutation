@@ -15,5 +15,27 @@
   "last_scraped": "2018-05-23 04:14:17",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "asbjornu",
+      "vote": 5,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 5,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2010-08-03"
+    }
+  ],
   "requests": []
 }

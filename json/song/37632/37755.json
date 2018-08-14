@@ -23,6 +23,58 @@
   "artist_names": [
     "Stamen"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-30 13:05:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-06-30 13:06:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-30 13:06:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-25 02:26:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-30 14:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

@@ -19,6 +19,58 @@
   "artist_names": [
     "Lunde"
   ],
+  "votes": [
+    {
+      "user": "dankertdankertsen",
+      "vote": 5,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "WoDK",
+      "vote": 1,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-02-14 01:03:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 2,
+      "when": "2014-02-14 01:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-24 21:20:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-04-24 21:24:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-05-28 22:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

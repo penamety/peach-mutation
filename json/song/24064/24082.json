@@ -22,6 +22,78 @@
   "artist_names": [
     "Scorpik"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "LeadFiner",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "venttiili",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-08-16 08:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-11 14:12:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2017-04-17 19:27:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 2,
+      "when": "2017-04-17 19:28:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-04-17 19:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-04-17 21:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

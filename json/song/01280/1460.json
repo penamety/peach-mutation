@@ -19,6 +19,53 @@
   "artist_names": [
     "Dafrenz"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "shino",
+      "vote": 1,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-12-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-10-26 17:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-22 22:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "G_Signal",

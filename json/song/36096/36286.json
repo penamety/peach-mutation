@@ -21,6 +21,53 @@
   "artist_names": [
     "CSM"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-02-03 07:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-03 08:11:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-02-01"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

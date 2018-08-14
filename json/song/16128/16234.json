@@ -21,6 +21,83 @@
   "artist_names": [
     "Crux"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-05-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-06 21:11:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-09-06 21:11:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-08-03 09:58:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-08-03 09:59:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-04-28 01:43:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-01-03 08:21:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2018-03-23 13:21:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-05-09 12:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

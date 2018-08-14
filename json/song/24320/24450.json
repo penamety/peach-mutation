@@ -24,6 +24,103 @@
   "artist_names": [
     "Skaven"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Longbow",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Manwe",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-10-09 15:05:00"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-12-20 14:09:00"
+    },
+    {
+      "user": "RENJPS",
+      "vote": 3,
+      "when": "2014-02-10 10:35:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-10 10:36:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-02-10 10:36:00"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2014-02-10 10:37:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-10 10:39:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-06-26 10:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-07-23 07:32:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2016-02-13 12:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Longbow",

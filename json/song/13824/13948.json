@@ -20,6 +20,73 @@
   "artist_names": [
     "Al-Najjir"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-07-06 00:36:00"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 2,
+      "when": "2013-07-06 00:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-06 00:38:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2013-10-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-10-28 02:08:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-12-25 06:34:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2018-04-30 07:26:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2018-06-16 05:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

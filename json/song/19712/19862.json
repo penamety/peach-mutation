@@ -23,6 +23,73 @@
   "artist_names": [
     "Juan Delcan"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "krusty",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 5,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-22 16:53:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2014-04-06 08:08:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-09-27"
+    },
+    {
+      "user": "Zitrax",
+      "vote": 2,
+      "when": "2015-09-27"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

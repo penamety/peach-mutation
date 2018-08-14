@@ -24,6 +24,88 @@
   "artist_names": [
     "Chorus"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-05 01:58:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-12-19 18:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-10-30 23:03:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2014-10-30 23:04:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-10-30 23:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

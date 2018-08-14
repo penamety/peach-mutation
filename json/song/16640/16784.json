@@ -21,6 +21,73 @@
   "artist_names": [
     "Maelcum"
   ],
+  "votes": [
+    {
+      "user": "esher",
+      "vote": 4,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "spacepaw",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "prismate",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "sense_of_absence",
+      "vote": 5,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Speeder",
+      "vote": 4,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-21 04:06:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-15 20:41:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-15 20:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "Spiral",

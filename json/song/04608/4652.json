@@ -19,6 +19,53 @@
   "artist_names": [
     "MED"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-12 09:41:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-09-22"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2016-09-22"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

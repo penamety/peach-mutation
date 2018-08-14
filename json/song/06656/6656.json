@@ -19,6 +19,58 @@
   "artist_names": [
     "St0ff 64"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-08-16"
+    },
+    {
+      "user": "venttiili",
+      "vote": 3,
+      "when": "2014-08-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-10-03 22:49:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-04-30 11:31:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-30 11:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -23,6 +23,68 @@
   "artist_names": [
     "JMP"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "mud",
+      "vote": 2,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-25 16:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-01-25 16:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-01-25 16:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "philthy",
+      "vote": 4,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2017-06-10 14:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

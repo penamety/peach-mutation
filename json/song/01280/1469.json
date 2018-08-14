@@ -19,6 +19,88 @@
   "artist_names": [
     "Danalog"
   ],
+  "votes": [
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-10-11 23:09:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2014-02-23 02:24:00"
+    },
+    {
+      "user": "claustro",
+      "vote": 1,
+      "when": "2015-06-08 19:00:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 1,
+      "when": "2015-06-08 19:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2015-06-08 19:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-06-08 19:55:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2015-11-22"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2015-11-22"
+    },
+    {
+      "user": "frankrm78",
+      "vote": 2,
+      "when": "2015-11-22"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-11-22"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

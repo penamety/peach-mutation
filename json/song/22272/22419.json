@@ -16,5 +16,17 @@
   "last_scraped": "2018-05-23 06:20:45",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "MSX_user",
+      "vote": 5,
+      "when": "2010-05-05"
+    }
+  ],
   "requests": []
 }

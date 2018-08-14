@@ -25,6 +25,73 @@
   "artist_names": [
     "Subi"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2015-04-07 09:03:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-04-07 12:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-07 12:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-04-24 16:56:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 3,
+      "when": "2015-06-29 17:57:00"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 2,
+      "when": "2015-07-27"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-27"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2015-07-27"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-10-11 19:00:00"
+    },
+    {
+      "user": "BBB",
+      "vote": 1,
+      "when": "2016-10-11 19:00:00"
+    },
+    {
+      "user": "TIkonOR",
+      "vote": 2,
+      "when": "2016-10-11 19:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-10-11 19:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-18 10:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

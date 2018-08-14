@@ -25,6 +25,78 @@
   "artist_names": [
     "Pierre-Eric Loriaux"
   ],
+  "votes": [
+    {
+      "user": "Ultrasyd",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-18 20:01:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2014-02-06 10:10:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2014-02-06 10:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-06 10:11:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-02-06 10:11:00"
+    },
+    {
+      "user": "Triton",
+      "vote": 4,
+      "when": "2015-03-07 13:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-07 13:35:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-11-01 19:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

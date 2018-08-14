@@ -25,6 +25,68 @@
   "artist_names": [
     "Andy Jayne"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-04-06 20:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2015-04-07 20:23:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2015-04-07 20:23:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-04-27 09:51:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2015-05-16 04:25:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-09-10"
+    },
+    {
+      "user": "tas",
+      "vote": 4,
+      "when": "2015-09-10"
+    },
+    {
+      "user": "malmen",
+      "vote": 4,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-03-27"
+    },
+    {
+      "user": "Threef",
+      "vote": 4,
+      "when": "2017-03-27"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-03-27"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-03-27"
+    }
+  ],
   "requests": [
     {
       "user": "franz_koopa",

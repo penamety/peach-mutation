@@ -23,6 +23,53 @@
   "artist_names": [
     "Ras Bolding"
   ],
+  "votes": [
+    {
+      "user": "nurf",
+      "vote": 4,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "eno93",
+      "vote": 5,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-01 04:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-28 20:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "lvdata",

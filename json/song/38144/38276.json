@@ -26,6 +26,88 @@
   "artist_names": [
     "Acheron"
   ],
+  "votes": [
+    {
+      "user": "liquidstupid",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-06-23 02:51:00"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 2,
+      "when": "2013-11-03 19:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-01 16:00:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2015-10-31"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2016-01-14"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2016-01-14"
+    },
+    {
+      "user": "jesper",
+      "vote": 1,
+      "when": "2016-01-14"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 5,
+      "when": "2017-11-30 11:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

@@ -24,6 +24,53 @@
   "artist_names": [
     "Pink Silver"
   ],
+  "votes": [
+    {
+      "user": "Kosmos",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Longbow",
+      "vote": 3,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "RbR",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-05 16:17:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-08 02:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

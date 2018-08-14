@@ -23,6 +23,148 @@
   "artist_names": [
     "Purple Motion"
   ],
+  "votes": [
+    {
+      "user": "Vampire",
+      "vote": 4,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "stef71",
+      "vote": 4,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "rv6502",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "jantho",
+      "vote": 4,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "MyO",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Rapidkirby3k",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "jimqode",
+      "vote": 5,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "SampL",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "LoveMetal",
+      "vote": 5,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-06-26 12:06:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2013-06-26 12:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-26 12:14:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-01-19 06:59:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-01 18:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "rv6502",

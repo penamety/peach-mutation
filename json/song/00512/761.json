@@ -21,6 +21,78 @@
   "artist_names": [
     "Brainbug"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "Speeder",
+      "vote": 4,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-22 09:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-01-12 07:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-12 07:15:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2016-08-09"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-05-14 20:05:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-05-14 20:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

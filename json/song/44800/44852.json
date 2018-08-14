@@ -22,6 +22,33 @@
   "artist_names": [
     "Omen "
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2018-05-22 08:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-05-22 08:44:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-04-18 06:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-05-22 09:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-05-22 08:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

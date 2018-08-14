@@ -26,6 +26,48 @@
   "artist_names": [
     "Stinsen"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-16 22:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-03-16 22:54:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-03-16 22:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-03-16 22:55:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-03-16 22:55:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-03-18 21:00:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2018-04-10 22:23:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 4,
+      "when": "2018-05-18 06:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

@@ -23,6 +23,153 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "Helioth",
+      "vote": 1,
+      "when": "2008-12-01"
+    },
+    {
+      "user": "scene",
+      "vote": 5,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "Insectecutor",
+      "vote": 1,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "waffle",
+      "vote": 3,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "SJD",
+      "vote": 1,
+      "when": "2009-10-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-01-31"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-07-10"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-07-10"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-07-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-07-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-15 10:46:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-06-15 10:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-13 11:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-05 13:02:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-09-05 13:06:00"
+    },
+    {
+      "user": "sprocket",
+      "vote": 2,
+      "when": "2014-09-05 13:06:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2015-11-11"
+    },
+    {
+      "user": "epso",
+      "vote": 3,
+      "when": "2016-06-10"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-07 11:31:00"
+    },
+    {
+      "user": "Thexder",
+      "vote": 2,
+      "when": "2017-05-07 11:33:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-05-07 11:33:00"
+    },
+    {
+      "user": "Voobr",
+      "vote": 1,
+      "when": "2018-01-24 21:22:00"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2018-01-24 21:24:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-05-29 02:01:00"
+    },
+    {
+      "user": "piter",
+      "vote": 1,
+      "when": "2018-05-29 02:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "chkdsk",

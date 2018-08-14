@@ -27,6 +27,48 @@
   "artist_names": [
     "C.C. Catch"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "zilym",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-08 05:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-05 23:58:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-12-11"
+    }
+  ],
   "requests": [
     {
       "user": "TinGrill",

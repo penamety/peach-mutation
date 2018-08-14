@@ -24,6 +24,113 @@
   "artist_names": [
     "Kangaroo MusiQue"
   ],
+  "votes": [
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "EZH",
+      "vote": 4,
+      "when": "2013-05-27 19:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-27 19:00:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 4,
+      "when": "2013-05-27 19:00:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2013-11-06 22:09:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-11-06 22:10:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-03-23 10:11:00"
+    },
+    {
+      "user": "WTFcore",
+      "vote": 2,
+      "when": "2014-05-29 18:14:00"
+    },
+    {
+      "user": "joes",
+      "vote": 2,
+      "when": "2014-05-29 18:14:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-06-18 12:15:00"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2014-06-18 12:16:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-06-18 12:17:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-02 15:50:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-05-13 08:32:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2015-10-22"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-09-24 11:50:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-03-25 22:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

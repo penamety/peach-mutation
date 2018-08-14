@@ -23,6 +23,88 @@
   "artist_names": [
     "Uncle Tom"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "parkuhrwaechter",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "HED",
+      "vote": 5,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "sneh",
+      "vote": 4,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-09 23:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-09 23:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-11 13:26:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-10-14 13:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

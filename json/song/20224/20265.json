@@ -20,6 +20,78 @@
   "artist_names": [
     "Kermit"
   ],
+  "votes": [
+    {
+      "user": "parkuhrwaechter",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Zitrax",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "jakov",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-09-01 20:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-01 20:46:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2013-09-01 20:46:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-09-01 20:46:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2018-02-01 05:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "crrr",

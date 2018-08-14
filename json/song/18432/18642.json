@@ -19,6 +19,48 @@
   "artist_names": [
     "Genius"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-06-25 17:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2016-11-09 08:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

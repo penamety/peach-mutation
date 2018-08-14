@@ -19,6 +19,63 @@
   "artist_names": [
     "ShawnM"
   ],
+  "votes": [
+    {
+      "user": "Axioplase",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "tyco",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-17 08:52:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 2,
+      "when": "2013-10-17 08:54:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-10-17 08:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-11-03 07:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "G_Signal",

@@ -19,6 +19,78 @@
   "artist_names": [
     "Phaser"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "possatboi",
+      "vote": 5,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-11 01:29:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 5,
+      "when": "2013-09-11 01:29:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 5,
+      "when": "2014-08-08 12:03:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-08-08 12:04:00"
+    },
+    {
+      "user": "admchm",
+      "vote": 2,
+      "when": "2014-08-08 12:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

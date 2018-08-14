@@ -25,6 +25,53 @@
   "artist_names": [
     "Wiklund"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-02 08:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-28 01:29:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2016-10-24 04:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

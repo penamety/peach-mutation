@@ -25,6 +25,63 @@
   "artist_names": [
     "BIT"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-02-12"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-07-06 14:40:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-07-06 14:41:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-25 13:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-25 13:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-11-21"
+    },
+    {
+      "user": "velusip",
+      "vote": 3,
+      "when": "2018-02-04 07:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

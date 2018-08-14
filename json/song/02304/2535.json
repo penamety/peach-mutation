@@ -20,6 +20,78 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "Vampire",
+      "vote": 2,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "zerkman",
+      "vote": 2,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "alienNeWbeat",
+      "vote": 2,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-07-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-31 06:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-10 20:18:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-02-10 20:19:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-02-10 20:21:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 1,
+      "when": "2015-03-08 19:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-03-08 20:14:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-05-14 20:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "zerkman",

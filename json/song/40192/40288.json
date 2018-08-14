@@ -26,6 +26,83 @@
   "artist_names": [
     "Shinobi"
   ],
+  "votes": [
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-03-31 19:24:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-03-31 19:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-31 19:27:00"
+    },
+    {
+      "user": "mjwise",
+      "vote": 4,
+      "when": "2014-03-31 19:27:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-04-09 11:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-09 11:25:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-04-09 11:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-04-09 12:03:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-04-11 09:17:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-04-23 23:17:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-08-24 19:08:00"
+    },
+    {
+      "user": "Feuermurmel",
+      "vote": 4,
+      "when": "2015-01-19 18:42:00"
+    },
+    {
+      "user": "opfer15",
+      "vote": 3,
+      "when": "2015-01-19 18:42:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2015-09-08"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-09-08"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

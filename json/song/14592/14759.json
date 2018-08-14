@@ -22,6 +22,133 @@
   "artist_names": [
     "Ben Daglish"
   ],
+  "votes": [
+    {
+      "user": "Lizard",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 2,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Octoate",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "matsim",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "guru64",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-12-02 07:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-21 02:03:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-04-19 21:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

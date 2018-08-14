@@ -20,6 +20,68 @@
   "artist_names": [
     "Strobo"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Archmage",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-03-12"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-07-21 20:52:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-04-02 03:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-30 00:26:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-03-08 09:14:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-03-08 09:14:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-03-08 09:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-06-16 11:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

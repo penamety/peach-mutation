@@ -19,6 +19,68 @@
   "artist_names": [
     "Grass"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-09-10 00:27:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2014-05-01 05:48:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2015-10-27"
+    },
+    {
+      "user": "Vit",
+      "vote": 1,
+      "when": "2016-03-27 00:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-07-15 08:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-07-15 08:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

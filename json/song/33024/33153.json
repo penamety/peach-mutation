@@ -23,6 +23,63 @@
   "artist_names": [
     "Fabian"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "RbR",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-28 09:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-28 09:00:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2014-02-14 13:09:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-14 13:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-08-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-02-23 22:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -23,5 +23,42 @@
     "Bacter",
     "Skie"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 5,
+      "when": "2009-10-08"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-07-19 23:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-06-16 00:26:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2017-02-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-05-21 18:51:00"
+    }
+  ],
   "requests": []
 }

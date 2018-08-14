@@ -19,5 +19,22 @@
   "artist_names": [
     "Horn and Bartes"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-09-13"
+    }
+  ],
   "requests": []
 }

@@ -28,5 +28,77 @@
   "artist_names": [
     "Virgill"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 5,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "Jakim",
+      "vote": 5,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "main",
+      "vote": 5,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "pera",
+      "vote": 5,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Zac",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "gauri",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "deadguy",
+      "vote": 5,
+      "when": "2013-12-28 19:00:00"
+    },
+    {
+      "user": "Gismo",
+      "vote": 1,
+      "when": "2014-10-23 10:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-08-23 06:43:00"
+    }
+  ],
   "requests": []
 }

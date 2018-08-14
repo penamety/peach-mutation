@@ -20,6 +20,88 @@
   "artist_names": [
     "Little Bitchard"
   ],
+  "votes": [
+    {
+      "user": "Xeno",
+      "vote": 2,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-04 09:59:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2014-03-04 10:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-03-04 10:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-05-08 15:50:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-12-07 18:19:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-01-17 09:07:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 2,
+      "when": "2018-01-17 09:08:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2018-05-10 09:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

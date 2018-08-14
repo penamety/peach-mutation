@@ -20,6 +20,63 @@
   "artist_names": [
     "Gem Two"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-11-25 14:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-25 14:43:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-03-04 16:00:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 5,
+      "when": "2016-03-04 16:00:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2016-03-04 16:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

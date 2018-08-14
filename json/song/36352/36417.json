@@ -22,6 +22,63 @@
   "artist_names": [
     "Assign"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-02 10:18:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2014-01-13 19:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-13 19:55:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-01-13 19:57:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-05-13 11:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "silok",

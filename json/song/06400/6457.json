@@ -19,6 +19,93 @@
   "artist_names": [
     "Shout"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Zitrax",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "tas",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2013-07-28 12:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-07-28 12:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-03 21:53:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2014-01-03 21:53:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 1,
+      "when": "2014-01-03 21:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-03 21:54:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 1,
+      "when": "2015-11-27"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2015-11-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-11-27"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-03-16 20:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

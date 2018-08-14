@@ -23,6 +23,73 @@
   "artist_names": [
     "Interphace"
   ],
+  "votes": [
+    {
+      "user": "Longbow",
+      "vote": 3,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Andersson",
+      "vote": 5,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-25 03:05:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-02-27 18:46:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-02-27 18:49:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-11-13"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-10-13 22:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mel",

@@ -26,6 +26,143 @@
   "artist_names": [
     "Silok"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Hasse",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Triton",
+      "vote": 3,
+      "when": "2013-06-28"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-30 21:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-30 21:26:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-06-30 21:27:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2013-10-05 20:16:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2013-10-05 20:18:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-12-21 10:06:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2013-12-21 10:08:00"
+    },
+    {
+      "user": "tas",
+      "vote": 2,
+      "when": "2013-12-21 10:09:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-10 18:37:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 2,
+      "when": "2014-11-06 00:18:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-06-07 05:38:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 3,
+      "when": "2016-07-31"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2016-09-22"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2018-03-27 18:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

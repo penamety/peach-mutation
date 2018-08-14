@@ -26,6 +26,123 @@
   "artist_names": [
     "Kitsune"
   ],
+  "votes": [
+    {
+      "user": "bitl",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Flatline",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "perfectcode",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "vanward",
+      "vote": 2,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "ldc",
+      "vote": 1,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "SampL",
+      "vote": 3,
+      "when": "2013-09-13 16:36:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2013-09-13 16:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-13 16:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-05-15 09:59:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2014-05-15 10:00:00"
+    },
+    {
+      "user": "turbine5",
+      "vote": 3,
+      "when": "2014-05-15 10:00:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 1,
+      "when": "2014-11-13 19:03:00"
+    },
+    {
+      "user": "SpecialDefect",
+      "vote": 3,
+      "when": "2014-11-13 19:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "Flatline",

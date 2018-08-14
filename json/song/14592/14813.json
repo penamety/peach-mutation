@@ -21,6 +21,68 @@
   "artist_names": [
     "Bert"
   ],
+  "votes": [
+    {
+      "user": "Melo",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "codehead",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-30 02:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-30 02:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-12-01 04:28:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-12-01 04:30:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-12-11 10:45:00"
+    },
+    {
+      "user": "velusip",
+      "vote": 1,
+      "when": "2017-11-09 07:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

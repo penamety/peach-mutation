@@ -26,6 +26,48 @@
   "artist_names": [
     "Binf"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-20 23:10:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2015-09-09"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-11 13:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

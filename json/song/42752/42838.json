@@ -24,6 +24,63 @@
   "artist_names": [
     "Vhiiula"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-02-08"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-02-09"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-02-09"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-04-12 08:54:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-10-05"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-10-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-11-19 15:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-11-19 15:44:00"
+    },
+    {
+      "user": "Thexder",
+      "vote": 3,
+      "when": "2017-11-19 15:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

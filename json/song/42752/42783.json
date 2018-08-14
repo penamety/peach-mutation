@@ -26,6 +26,53 @@
   "artist_names": [
     "Paav!"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-01-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-01-27"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2016-02-14"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-02-14"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-03-01 19:47:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-04-22 09:17:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-05-18 09:36:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2016-10-19 08:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-01-12 21:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

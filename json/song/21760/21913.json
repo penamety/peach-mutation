@@ -20,6 +20,98 @@
   "artist_names": [
     "Mr Coke"
   ],
+  "votes": [
+    {
+      "user": "hojou",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "main",
+      "vote": 2,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "zero2k",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-16 00:15:00"
+    },
+    {
+      "user": "zensonic",
+      "vote": 3,
+      "when": "2013-09-16 00:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-08-26 17:00:00"
+    },
+    {
+      "user": "beavis77",
+      "vote": 3,
+      "when": "2014-08-26 17:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-08-26 17:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-26 18:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-04-28 06:58:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-05-09 13:51:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 2,
+      "when": "2016-05-09 14:24:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2016-11-01 03:56:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-04-05 04:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

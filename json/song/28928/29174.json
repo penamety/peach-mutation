@@ -23,6 +23,68 @@
   "artist_names": [
     "Azo"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "codehead",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "motherchip",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-06 00:43:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2015-12-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-05-01 16:04:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-12-28 17:21:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2016-12-28 17:21:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-12-28 17:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

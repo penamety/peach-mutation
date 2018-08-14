@@ -19,6 +19,63 @@
   "artist_names": [
     "Raiden"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "ZTube",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-30 10:10:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-30 10:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-15 23:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-04 08:56:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-04-04 08:57:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-04-04 08:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

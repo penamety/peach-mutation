@@ -20,6 +20,93 @@
   "artist_names": [
     "Virt"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "jolic",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "korkut",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "vsk",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "DiGiT",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "minus",
+      "vote": 5,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-07 15:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-07 15:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-07 15:52:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-02-12 03:14:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-02-12 03:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

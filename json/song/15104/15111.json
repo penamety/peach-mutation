@@ -22,6 +22,58 @@
   "artist_names": [
     "Boulderdash"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "Gismo",
+      "vote": 3,
+      "when": "2014-07-08 12:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-06-23 23:06:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-01-09 11:14:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-09 11:20:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2017-01-09 11:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

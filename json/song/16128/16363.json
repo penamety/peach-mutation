@@ -20,6 +20,123 @@
   "artist_names": [
     "Cyborg"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "doggyfred",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "zerkman",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "AnonymousCoward",
+      "vote": 4,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-27 16:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-01-27 16:46:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2016-03-16 12:01:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 1,
+      "when": "2016-03-16 12:01:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-07-13 19:25:00"
+    },
+    {
+      "user": "jzp",
+      "vote": 1,
+      "when": "2017-07-13 19:25:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-02-20 11:10:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2018-02-20 11:10:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 1,
+      "when": "2018-04-18 12:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

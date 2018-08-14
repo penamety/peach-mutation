@@ -19,6 +19,78 @@
   "artist_names": [
     "Crazy Man"
   ],
+  "votes": [
+    {
+      "user": "Locutus",
+      "vote": 2,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Radar",
+      "vote": 5,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Speeder",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "ldc",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2012-04-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-09-14 14:29:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-14 14:30:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2013-09-14 14:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-02 10:00:00"
+    },
+    {
+      "user": "Jimantha",
+      "vote": 1,
+      "when": "2016-08-14"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2017-06-29 09:27:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 1,
+      "when": "2017-06-29 09:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-06-29 09:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

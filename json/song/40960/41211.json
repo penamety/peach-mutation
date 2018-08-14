@@ -25,6 +25,63 @@
   "artist_names": [
     "Jogeir"
   ],
+  "votes": [
+    {
+      "user": "Rapture",
+      "vote": 5,
+      "when": "2014-11-03 02:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-11-03 16:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-12-02 00:52:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-01 11:27:00"
+    },
+    {
+      "user": "Latis",
+      "vote": 5,
+      "when": "2015-01-25 13:38:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2015-02-27 13:49:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-03-31 12:09:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-03-31 12:10:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-01-25 11:54:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-25 11:56:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-01-25 11:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Spiral",

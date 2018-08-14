@@ -20,6 +20,78 @@
   "artist_names": [
     "Lord Squeak"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-07-04 11:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-07-04 11:24:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-04 11:24:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-04 11:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-02 06:02:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2014-08-28 10:21:00"
+    },
+    {
+      "user": "Archmage",
+      "vote": 1,
+      "when": "2014-08-28 10:22:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 3,
+      "when": "2014-08-28 10:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-04-13 23:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

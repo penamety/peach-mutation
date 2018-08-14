@@ -20,6 +20,83 @@
   "artist_names": [
     "Superted"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 1,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Scribblette",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-05-28 02:00:00"
+    },
+    {
+      "user": "Riphur",
+      "vote": 1,
+      "when": "2013-12-16 17:21:00"
+    },
+    {
+      "user": "BeautyNerd",
+      "vote": 3,
+      "when": "2013-12-16 17:22:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-12-16 17:22:00"
+    },
+    {
+      "user": "Fireball",
+      "vote": 1,
+      "when": "2013-12-16 17:25:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2014-12-09 20:00:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2014-12-09 20:01:00"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2015-06-20 22:17:00"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2018-04-10 00:27:00"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 1,
+      "when": "2018-06-01 08:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

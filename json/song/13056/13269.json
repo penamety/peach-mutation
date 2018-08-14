@@ -24,6 +24,63 @@
   "artist_names": [
     "Mr Soundwave "
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Ishma",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "aaai",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "numerus",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-04-03 02:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

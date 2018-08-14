@@ -22,6 +22,68 @@
   "artist_names": [
     "Drax"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-07-05 15:13:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-07-05 18:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-14 16:40:00"
+    },
+    {
+      "user": "matrim",
+      "vote": 4,
+      "when": "2013-09-23 15:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-09 00:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-11-09 00:09:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2015-02-03 19:39:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2015-02-03 19:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-03 20:01:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-06-07 11:19:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-06-07 11:19:00"
+    },
+    {
+      "user": "robert",
+      "vote": 4,
+      "when": "2018-06-07 11:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "Shinobi",

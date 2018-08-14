@@ -20,6 +20,73 @@
   "artist_names": [
     "Chisel"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-11-13 05:03:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-13 05:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

@@ -24,6 +24,113 @@
   "artist_names": [
     "Spiral"
   ],
+  "votes": [
+    {
+      "user": "Danger",
+      "vote": 2,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Axioplase",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "sly",
+      "vote": 1,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2013-05-31 18:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-31 18:00:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-03-30 11:01:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2014-11-14 11:19:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 1,
+      "when": "2015-11-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-11-18"
+    },
+    {
+      "user": "Machforr",
+      "vote": 1,
+      "when": "2016-02-01"
+    },
+    {
+      "user": "emoon",
+      "vote": 1,
+      "when": "2018-01-11 15:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

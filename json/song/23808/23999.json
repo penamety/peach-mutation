@@ -21,6 +21,48 @@
   "artist_names": [
     "Scavenger"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-27 02:55:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-07-29 16:35:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 3,
+      "when": "2016-06-09"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -24,6 +24,103 @@
   "artist_names": [
     "Flame"
   ],
+  "votes": [
+    {
+      "user": "HexenNI",
+      "vote": 1,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 5,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "skall",
+      "vote": 3,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2013-09-14 15:59:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-09-14 15:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-14 16:06:00"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 3,
+      "when": "2014-01-31 16:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-31 16:21:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-12-15 10:07:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-11-10 11:40:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-11-10 11:44:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-11-10 11:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

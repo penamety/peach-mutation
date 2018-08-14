@@ -19,5 +19,17 @@
   "artist_names": [
     "Arachno"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-08-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-02-08 04:00:00"
+    }
+  ],
   "requests": []
 }

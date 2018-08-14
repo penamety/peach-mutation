@@ -23,6 +23,58 @@
   "artist_names": [
     "Flapjack"
   ],
+  "votes": [
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-15 18:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-15 18:50:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-01-30 03:29:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-09-28 07:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

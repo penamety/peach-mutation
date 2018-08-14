@@ -25,6 +25,88 @@
   "artist_names": [
     "Klim"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "minus",
+      "vote": 5,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "mud",
+      "vote": 5,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2013-05-31 13:00:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-31 13:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-05-31 13:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-07-11 19:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-15 19:35:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-10-25 00:12:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-04-02 18:37:00"
+    },
+    {
+      "user": "mruczek",
+      "vote": 5,
+      "when": "2015-04-02 18:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

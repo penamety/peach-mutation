@@ -21,6 +21,113 @@
   "artist_names": [
     "Octoque"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-07-19 16:46:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-19 16:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-19 16:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-06-09 19:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-03-18 11:06:00"
+    },
+    {
+      "user": "antipod",
+      "vote": 2,
+      "when": "2015-03-18 11:06:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-03-18 11:07:00"
+    },
+    {
+      "user": "mmx64",
+      "vote": 1,
+      "when": "2015-03-18 11:07:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-03-18 11:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-03-18 11:10:00"
+    },
+    {
+      "user": "exocet",
+      "vote": 2,
+      "when": "2015-10-12"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2017-04-29 18:02:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-04-29 18:02:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-29 18:06:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-04-29 18:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "Chakotay",

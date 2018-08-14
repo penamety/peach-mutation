@@ -25,6 +25,78 @@
   "artist_names": [
     "Randall"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "utx1379",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "K",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-08 05:54:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-11-22 18:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-05-21 00:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-11-25 15:10:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-25 15:10:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2016-11-25 15:12:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2018-04-07 01:18:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-05-23 07:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "korkut",

@@ -15,6 +15,23 @@
   "last_scraped": "2018-05-23 08:35:34",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

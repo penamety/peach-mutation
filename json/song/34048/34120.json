@@ -21,6 +21,18 @@
   "source": "Musicdisk",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "GaRaOne",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

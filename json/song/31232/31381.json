@@ -27,6 +27,73 @@
   "artist_names": [
     "BSC"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "jay",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "H0lySh1t",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-06 08:49:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-04-03 22:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-04-03 22:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

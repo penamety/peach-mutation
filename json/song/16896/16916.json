@@ -24,6 +24,23 @@
   "artist_names": [
     "David Whittaker"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "randomforum",
+      "vote": 1,
+      "when": "2011-03-04"
+    }
+  ],
   "requests": [
     {
       "user": "EchterSpieler",

@@ -25,6 +25,58 @@
   "artist_names": [
     "Rayza"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-23 04:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-07-11 11:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-07 21:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

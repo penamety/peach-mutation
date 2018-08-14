@@ -26,6 +26,63 @@
   "artist_names": [
     "Joooo"
   ],
+  "votes": [
+    {
+      "user": "Shriggar",
+      "vote": 2,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "SampL",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-04 10:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-02-04 10:01:00"
+    },
+    {
+      "user": "plc",
+      "vote": 1,
+      "when": "2016-12-07 13:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "psymleko",

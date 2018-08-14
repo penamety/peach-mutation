@@ -20,6 +20,103 @@
   "artist_names": [
     "Signal"
   ],
+  "votes": [
+    {
+      "user": "manji",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "velusip",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 5,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "venttiili",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "jesper",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-17 09:20:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-10-17 09:21:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-10-29 20:38:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2014-10-29 20:38:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-10-29 20:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "G_Signal",

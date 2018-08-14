@@ -19,6 +19,33 @@
   "artist_names": [
     "Melcom"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-12-21"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

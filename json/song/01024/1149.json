@@ -23,6 +23,68 @@
   "artist_names": [
     "Chrylian"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-05-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-19 14:06:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2014-05-28"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-05-29 00:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2015-08-10"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

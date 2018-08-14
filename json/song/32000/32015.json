@@ -25,6 +25,68 @@
   "artist_names": [
     "Gavin Lucas"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-22 02:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-22 02:28:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-12-21 22:08:00"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 5,
+      "when": "2015-08-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-08-11"
+    }
+  ],
   "requests": [
     {
       "user": "hornpipe2",

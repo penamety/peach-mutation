@@ -21,6 +21,238 @@
   "artist_names": [
     "Awesome"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "deathy",
+      "vote": 4,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2009-04-05"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2010-03-03"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 5,
+      "when": "2010-03-03"
+    },
+    {
+      "user": "kezoomer",
+      "vote": 3,
+      "when": "2010-03-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2010-03-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Recycler",
+      "vote": 5,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 4,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "anerte",
+      "vote": 5,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "Guru",
+      "vote": 5,
+      "when": "2010-11-01"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 4,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 5,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "chellomere",
+      "vote": 5,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Arktos",
+      "vote": 5,
+      "when": "2012-06-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "infinigon",
+      "vote": 4,
+      "when": "2012-12-24"
+    },
+    {
+      "user": "rombust",
+      "vote": 5,
+      "when": "2013-02-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-03-11"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-12-22 02:19:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-12-22 02:21:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 5,
+      "when": "2015-05-26 02:28:00"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 3,
+      "when": "2015-06-15 08:56:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-11-17"
+    },
+    {
+      "user": "frankrm78",
+      "vote": 5,
+      "when": "2015-12-17"
+    },
+    {
+      "user": "jesper",
+      "vote": 4,
+      "when": "2016-01-24"
+    },
+    {
+      "user": "Rapidkirby3k",
+      "vote": 5,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2016-10-08 19:18:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-12-12 17:46:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-05-04 11:48:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2017-07-09 05:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "Gnurou",

@@ -16,6 +16,63 @@
   "last_scraped": "2018-05-23 02:06:42",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "abaddon",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-05-31 10:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-05-31 10:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-31 10:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-12 16:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

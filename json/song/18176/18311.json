@@ -20,6 +20,133 @@
   "artist_names": [
     "Fox"
   ],
+  "votes": [
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Scope",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "TurboHz",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "SampL",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Mantalow",
+      "vote": 4,
+      "when": "2012-12-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-06 20:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-10-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-01-30 03:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "rv6502",

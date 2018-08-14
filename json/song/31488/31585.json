@@ -24,6 +24,68 @@
   "artist_names": [
     "Ogge"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-29 03:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-20 19:58:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-03-20 19:59:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-03-20 20:01:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2016-10-26 06:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2016-10-26 06:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

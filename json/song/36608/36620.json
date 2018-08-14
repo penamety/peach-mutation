@@ -25,6 +25,98 @@
   "artist_names": [
     "Response"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "minus",
+      "vote": 5,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-06-13 11:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-13 11:22:00"
+    },
+    {
+      "user": "kvachu",
+      "vote": 5,
+      "when": "2013-06-13 11:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-06-13 11:23:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-13 11:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-07 20:47:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2014-03-28 17:11:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-20 14:07:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-01-20 14:09:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2017-01-20 14:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

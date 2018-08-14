@@ -19,6 +19,53 @@
   "artist_names": [
     "Teque"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "codehead",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-07-26 19:24:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-07-26 19:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-26 19:28:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-28 13:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

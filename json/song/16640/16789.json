@@ -20,6 +20,78 @@
   "artist_names": [
     "Dan"
   ],
+  "votes": [
+    {
+      "user": "Qumran",
+      "vote": 5,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "jinx",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-08-18 03:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-18 03:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-14 21:39:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2014-02-14 21:39:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-15 07:08:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2015-07-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-07-12"
+    },
+    {
+      "user": "Rapture",
+      "vote": 2,
+      "when": "2017-06-06 18:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

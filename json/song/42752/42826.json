@@ -26,6 +26,93 @@
   "artist_names": [
     "Scortia"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2016-02-08"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-02-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-02-09"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2016-02-23 10:49:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2016-03-11 19:02:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-03-11 19:03:00"
+    },
+    {
+      "user": "Cordwainer",
+      "vote": 5,
+      "when": "2016-05-13 23:29:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-10-07"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-10-07"
+    },
+    {
+      "user": "MrsBeanbag",
+      "vote": 5,
+      "when": "2016-10-29 20:54:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2016-10-29 20:55:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-01-24 21:15:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2017-05-19 22:14:00"
+    },
+    {
+      "user": "aricz",
+      "vote": 5,
+      "when": "2017-05-19 22:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-07-03 19:16:00"
+    },
+    {
+      "user": "jantho",
+      "vote": 5,
+      "when": "2018-02-09 16:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-03-08 22:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

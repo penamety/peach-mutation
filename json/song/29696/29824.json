@@ -23,5 +23,12 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 5,
+      "when": "2010-09-03"
+    }
+  ],
   "requests": []
 }

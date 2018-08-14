@@ -23,6 +23,83 @@
   "artist_names": [
     "Stamen"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-09-30 00:25:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2014-09-30 00:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-30 00:25:00"
+    },
+    {
+      "user": "bmn",
+      "vote": 2,
+      "when": "2014-09-30 00:25:00"
+    },
+    {
+      "user": "randomlistener842",
+      "vote": 2,
+      "when": "2014-09-30 00:26:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-25"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

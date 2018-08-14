@@ -19,6 +19,58 @@
   "artist_names": [
     "Alexg"
   ],
+  "votes": [
+    {
+      "user": "AnaMark",
+      "vote": 4,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-04-28"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-08-05 09:55:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-08-05 10:16:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-02-10 14:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

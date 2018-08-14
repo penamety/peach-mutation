@@ -19,6 +19,68 @@
   "artist_names": [
     "Bloody"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "OCCASVS",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-07-07 22:54:00"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2015-07-07 22:56:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 5,
+      "when": "2017-04-25 17:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-04-25 17:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

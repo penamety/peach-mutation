@@ -23,6 +23,103 @@
   "artist_names": [
     "Einstein"
   ],
+  "votes": [
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Herute",
+      "vote": 4,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-09 06:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-09 06:29:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-12-20 18:59:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-07-27"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-06-01 13:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mindiell",

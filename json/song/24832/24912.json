@@ -19,6 +19,58 @@
   "artist_names": [
     "KvAzAr"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "AnaMark",
+      "vote": 3,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 4,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-04 00:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-04 00:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-15 00:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "Chakotay",

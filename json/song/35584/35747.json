@@ -23,6 +23,53 @@
   "artist_names": [
     "Madbrain"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-01 16:04:00"
+    },
+    {
+      "user": "joes",
+      "vote": 3,
+      "when": "2014-07-10 15:25:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 5,
+      "when": "2015-04-20 09:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-04-20 10:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

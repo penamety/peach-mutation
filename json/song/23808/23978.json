@@ -19,6 +19,58 @@
   "artist_names": [
     "Sarabi"
   ],
+  "votes": [
+    {
+      "user": "Bonstra",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-27 01:47:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-04-12 17:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-12 17:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-12-14 22:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "Bonstra",

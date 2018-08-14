@@ -24,6 +24,53 @@
   "artist_names": [
     "sLASH"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-11-22 01:18:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2016-12-07 00:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

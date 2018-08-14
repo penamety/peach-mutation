@@ -26,6 +26,28 @@
   "artist_names": [
     "MmcM"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-05-01 16:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2018-04-30 23:50:00"
+    },
+    {
+      "user": "epso",
+      "vote": 4,
+      "when": "2018-06-03 20:49:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-05-01 16:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

@@ -19,6 +19,68 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "puffball",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Hasse",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-23 16:46:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-08-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-08-26"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

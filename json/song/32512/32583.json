@@ -21,6 +21,88 @@
   "artist_names": [
     "Marcer"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "velusip",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-24 19:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-09 14:57:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2014-03-09 14:58:00"
+    },
+    {
+      "user": "Infovorr",
+      "vote": 1,
+      "when": "2015-11-28"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 1,
+      "when": "2017-06-23 01:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

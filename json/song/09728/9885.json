@@ -23,6 +23,98 @@
   "artist_names": [
     "Baz"
   ],
+  "votes": [
+    {
+      "user": "FishGuy876",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "psyd3r",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Skyrunner",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-08 12:20:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-09-08 12:20:00"
+    },
+    {
+      "user": "Fireball",
+      "vote": 3,
+      "when": "2015-09-22"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-04-09 23:09:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2016-09-22"
+    },
+    {
+      "user": "t3l",
+      "vote": 3,
+      "when": "2016-09-22"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-05-24 09:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "Zitrax",

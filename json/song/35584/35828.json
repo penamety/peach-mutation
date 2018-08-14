@@ -24,6 +24,73 @@
   "artist_names": [
     "Ivan Roshin"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-03 05:31:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-25 15:38:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-12-05 12:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-05 12:01:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2014-02-18 21:18:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-25 05:30:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-01-05 13:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "anni",

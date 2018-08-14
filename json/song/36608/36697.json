@@ -23,6 +23,58 @@
   "artist_names": [
     "Android"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Nicknack",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "r043v",
+      "vote": 5,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-14 23:32:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2014-04-26 13:27:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-03-03 09:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-07 21:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Nicknack",

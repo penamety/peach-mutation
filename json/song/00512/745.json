@@ -25,6 +25,53 @@
   "artist_names": [
     "Boomerang"
   ],
+  "votes": [
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-02-23"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-02-23"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-02-23"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-24 06:08:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-11-24 06:08:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-04-21 10:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

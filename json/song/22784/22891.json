@@ -20,6 +20,53 @@
   "artist_names": [
     "Posture"
   ],
+  "votes": [
+    {
+      "user": "Bonstra",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-02-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-01 01:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-01 01:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-06-01 01:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-26 01:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

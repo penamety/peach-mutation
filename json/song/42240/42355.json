@@ -26,6 +26,58 @@
   "artist_names": [
     "Alpha C"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-08-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-08-26"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-08-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-08-26"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-09-09"
+    },
+    {
+      "user": "Zitrax",
+      "vote": 4,
+      "when": "2015-09-23"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-29 09:38:00"
+    },
+    {
+      "user": "Tak300",
+      "vote": 5,
+      "when": "2016-04-29 09:38:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2016-04-29 09:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

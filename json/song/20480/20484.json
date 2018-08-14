@@ -22,5 +22,27 @@
   "artist_names": [
     "Koji Kondo"
   ],
+  "votes": [
+    {
+      "user": "muffinsdotexe",
+      "vote": 2,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Bonstra",
+      "vote": 5,
+      "when": "2010-06-03"
+    },
+    {
+      "user": "Jimantha",
+      "vote": 5,
+      "when": "2010-06-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-07-04 19:00:00"
+    }
+  ],
   "requests": []
 }

@@ -23,6 +23,53 @@
   "artist_names": [
     "Kendo"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-14 14:03:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-03 12:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-03 12:44:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-03-16 06:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

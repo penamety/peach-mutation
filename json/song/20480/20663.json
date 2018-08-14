@@ -19,6 +19,88 @@
   "artist_names": [
     "Locutus"
   ],
+  "votes": [
+    {
+      "user": "Antitribu",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "golio",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Jimantha",
+      "vote": 5,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-15 04:38:00"
+    },
+    {
+      "user": "deot",
+      "vote": 2,
+      "when": "2013-11-20 18:14:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-06-03 19:10:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-06-03 19:13:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-11-02 03:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-05-04 21:33:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-05-12 20:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "linuxhappy",

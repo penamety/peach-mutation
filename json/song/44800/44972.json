@@ -24,6 +24,23 @@
   "artist_names": [
     "Floaf"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2018-05-22 08:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2018-05-22 08:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-05-22 09:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

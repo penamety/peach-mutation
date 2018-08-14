@@ -19,5 +19,17 @@
   "artist_names": [
     "Audiomonster"
   ],
+  "votes": [
+    {
+      "user": "Qumran",
+      "vote": 2,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-01-27 20:00:00"
+    }
+  ],
   "requests": []
 }

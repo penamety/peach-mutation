@@ -19,6 +19,53 @@
   "artist_names": [
     "Karsten Koch"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Jones",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "peach",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-17 17:55:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-06-17 17:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-14"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

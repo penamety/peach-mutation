@@ -25,6 +25,58 @@
   "artist_names": [
     "Rez"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-27 05:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-01-30 21:50:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-01-30 21:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-01-30 21:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

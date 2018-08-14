@@ -27,6 +27,78 @@
   "artist_names": [
     "AND"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "WoDK",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-04 03:54:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-09-22 20:41:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-05 06:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-10-11 21:14:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2016-03-07 13:25:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2016-03-07 13:30:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2016-11-29 03:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "Scope",

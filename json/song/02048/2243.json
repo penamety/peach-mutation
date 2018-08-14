@@ -24,6 +24,143 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "Stormdragonblue",
+      "vote": 5,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "Rirsuhacker",
+      "vote": 4,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "Mr_T",
+      "vote": 2,
+      "when": "2010-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-04-02"
+    },
+    {
+      "user": "deot",
+      "vote": 2,
+      "when": "2010-04-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-04-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2010-12-06"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "r043v",
+      "vote": 4,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-06-14 11:11:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-06-14 11:12:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-14 11:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-14 11:14:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2014-03-06 13:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-06 13:35:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 4,
+      "when": "2014-03-06 13:35:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 2,
+      "when": "2014-12-11 10:56:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-02-03"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2016-02-03"
+    },
+    {
+      "user": "U4iaF8",
+      "vote": 5,
+      "when": "2016-02-03"
+    },
+    {
+      "user": "EvanR",
+      "vote": 1,
+      "when": "2016-10-24 08:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-02-10 21:45:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-12-14 19:50:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2018-02-18 17:17:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 5,
+      "when": "2018-05-05 18:51:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-05-05 19:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

@@ -19,6 +19,58 @@
   "artist_names": [
     "Crud"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-11-08"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-26 15:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-09-20"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

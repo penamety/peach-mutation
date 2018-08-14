@@ -20,6 +20,93 @@
   "artist_names": [
     "Martyn"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "zerkman",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-12 00:02:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-09-12 00:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-12 00:05:00"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 4,
+      "when": "2014-09-07 21:43:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 2,
+      "when": "2015-02-28 18:29:00"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 4,
+      "when": "2015-07-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-08-19"
+    },
+    {
+      "user": "Octoate",
+      "vote": 3,
+      "when": "2015-08-19"
+    },
+    {
+      "user": "encelo",
+      "vote": 4,
+      "when": "2015-08-19"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2015-12-05"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-16 21:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

@@ -19,6 +19,58 @@
   "artist_names": [
     "Laviopra13"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2013-10-11 12:13:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-09-17 20:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-17 20:09:00"
+    },
+    {
+      "user": "scanjam",
+      "vote": 2,
+      "when": "2014-09-17 20:09:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-02-15"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

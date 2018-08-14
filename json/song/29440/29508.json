@@ -24,6 +24,38 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "anderaiso",
+      "vote": 1,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "velusip",
+      "vote": 1,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2011-04-04"
+    }
+  ],
   "requests": [
     {
       "user": "LittleWhite",

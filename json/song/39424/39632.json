@@ -26,6 +26,48 @@
   "artist_names": [
     "Yavin"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-20 12:37:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-11-20 12:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-15 12:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-01-09 09:56:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2014-03-31 22:19:00"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2014-04-21 17:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-18 20:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-09-15"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

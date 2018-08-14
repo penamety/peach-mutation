@@ -25,6 +25,103 @@
   "artist_names": [
     "Treks"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2011-06-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "MikuroK",
+      "vote": 5,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-25 00:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-06-25 00:37:00"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2016-01-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-01-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-04-26 04:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

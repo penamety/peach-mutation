@@ -25,6 +25,68 @@
   "artist_names": [
     "Martin Galway"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-18 14:30:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-07-18 14:30:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2013-10-14 18:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-03-28 21:40:00"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2016-02-15"
+    },
+    {
+      "user": "t3l",
+      "vote": 3,
+      "when": "2016-02-15"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

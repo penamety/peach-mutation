@@ -20,6 +20,63 @@
   "artist_names": [
     "Mad Freak"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-26 05:17:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-12-20 19:52:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2015-01-12 11:51:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2015-01-12 11:52:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-01-12 11:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-01-12 11:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

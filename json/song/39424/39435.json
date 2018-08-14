@@ -25,6 +25,133 @@
   "artist_names": [
     "Ferris"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-10-22 09:29:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-10-22 10:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-22 10:19:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-10-22 10:20:00"
+    },
+    {
+      "user": "evanval1",
+      "vote": 5,
+      "when": "2013-10-22 10:20:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-10-22 10:21:00"
+    },
+    {
+      "user": "MageOnline",
+      "vote": 4,
+      "when": "2014-01-08 13:19:00"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 4,
+      "when": "2014-01-08 13:20:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2014-01-08 13:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2014-03-06 22:27:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 5,
+      "when": "2014-03-06 22:28:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2014-03-06 22:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-03-06 22:33:00"
+    },
+    {
+      "user": "arab",
+      "vote": 5,
+      "when": "2014-04-23 19:47:00"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2014-04-23 19:47:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2014-04-23 19:49:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-04-23 19:49:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-11-04 18:32:00"
+    },
+    {
+      "user": "Fireball",
+      "vote": 4,
+      "when": "2014-11-04 18:33:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 3,
+      "when": "2015-07-23"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-08-08"
+    },
+    {
+      "user": "t3l",
+      "vote": 3,
+      "when": "2015-09-15"
+    },
+    {
+      "user": "Rage",
+      "vote": 2,
+      "when": "2016-01-15"
+    },
+    {
+      "user": "sdjm",
+      "vote": 5,
+      "when": "2016-01-15"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-20 15:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

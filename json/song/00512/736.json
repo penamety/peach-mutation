@@ -19,6 +19,83 @@
   "artist_names": [
     "Blackthorne"
   ],
+  "votes": [
+    {
+      "user": "deathy",
+      "vote": 5,
+      "when": "2009-01-31"
+    },
+    {
+      "user": "kzo",
+      "vote": 5,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "unfy",
+      "vote": 5,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-02-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-09 11:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-09 11:58:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-02-19 06:07:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-12-03 04:53:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-01-21 19:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-04-01 09:57:00"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 5,
+      "when": "2015-07-18"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

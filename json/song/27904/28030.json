@@ -23,6 +23,88 @@
   "artist_names": [
     "Slice"
   ],
+  "votes": [
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "The_Tubes",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "z5",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-02-02 00:03:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-25 00:46:00"
+    },
+    {
+      "user": "Rahta",
+      "vote": 1,
+      "when": "2017-05-25 00:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

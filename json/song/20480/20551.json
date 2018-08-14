@@ -19,6 +19,53 @@
   "artist_names": [
     "Lights Set North"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-07-17 12:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-27 22:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-07-25"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-10-21 06:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

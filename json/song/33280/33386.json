@@ -27,6 +27,68 @@
   "artist_names": [
     "Ramosa"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Sonox",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-06-07 11:48:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-06-07 11:49:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-06-07 11:49:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-07 11:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-05-16 19:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-05-16 20:12:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-16"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

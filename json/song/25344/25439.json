@@ -20,6 +20,108 @@
   "artist_names": [
     "Tempest"
   ],
+  "votes": [
+    {
+      "user": "MyO",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "rez",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "blindpilot",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-05-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-06 11:49:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2014-04-04 22:23:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2014-04-04 22:23:00"
+    },
+    {
+      "user": "error_spirit",
+      "vote": 3,
+      "when": "2014-08-01 07:24:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-08-01 07:24:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2015-07-01 19:51:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-07-01 19:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

@@ -19,6 +19,63 @@
   "artist_names": [
     "Gdream"
   ],
+  "votes": [
+    {
+      "user": "Flatline",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "mud",
+      "vote": 2,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-03 18:31:00"
+    },
+    {
+      "user": "MageOnline",
+      "vote": 3,
+      "when": "2014-05-20 06:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-10-27"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2015-10-27"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

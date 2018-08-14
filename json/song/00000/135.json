@@ -19,6 +19,53 @@
   "artist_names": [
     "911"
   ],
+  "votes": [
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-08-11 10:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-01-27"
+    },
+    {
+      "user": "zeograd",
+      "vote": 1,
+      "when": "2016-01-27"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

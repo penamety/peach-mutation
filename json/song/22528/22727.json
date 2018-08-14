@@ -23,6 +23,58 @@
   "artist_names": [
     "Philippe Marchiset"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2014-05-20 13:16:00"
+    },
+    {
+      "user": "etray",
+      "vote": 2,
+      "when": "2014-05-20 13:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-03-07 21:35:00"
+    },
+    {
+      "user": "Triton",
+      "vote": 3,
+      "when": "2015-03-07 21:36:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-02-11 16:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

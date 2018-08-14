@@ -20,6 +20,88 @@
   "artist_names": [
     "Bosco"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Sylve_Copper",
+      "vote": 4,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-14 14:38:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2014-01-14 07:34:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-01-14 07:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-10-25"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2015-10-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2016-09-14"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2016-12-19 13:37:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2017-07-26 16:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

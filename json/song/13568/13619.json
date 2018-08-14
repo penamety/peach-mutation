@@ -23,6 +23,88 @@
   "artist_names": [
     "AceMan"
   ],
+  "votes": [
+    {
+      "user": "Jakim",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 4,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-18 04:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-25 23:40:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-10-25 23:40:00"
+    },
+    {
+      "user": "Moses",
+      "vote": 4,
+      "when": "2013-10-25 23:41:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-29 00:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-21 17:20:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-03-21 17:22:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-10-19 20:08:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-10-19 20:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "infinigon",

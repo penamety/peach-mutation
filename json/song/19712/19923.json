@@ -22,5 +22,17 @@
   "artist_names": [
     "Kaktusen"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-07-21"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-01-25 09:00:00"
+    }
+  ],
   "requests": []
 }

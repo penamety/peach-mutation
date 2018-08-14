@@ -19,6 +19,103 @@
   "artist_names": [
     "Geas"
   ],
+  "votes": [
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "RoC",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "chellomere",
+      "vote": 2,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "nvictor",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-05-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-10-21 17:09:00"
+    },
+    {
+      "user": "Hasse",
+      "vote": 1,
+      "when": "2013-10-21 17:10:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2013-10-21 17:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-21 17:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-10-27"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-02-03"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

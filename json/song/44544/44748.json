@@ -23,6 +23,18 @@
   "artist_names": [
     "Bob (Bobby Mitchell)"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-06-09 13:34:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-03-26"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

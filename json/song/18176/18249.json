@@ -20,6 +20,78 @@
   "artist_names": [
     "Flamingo"
   ],
+  "votes": [
+    {
+      "user": "BeautyNerd",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "MiguelAtWork",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-22 10:42:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-06-09 10:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-09 10:02:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-06-09 10:02:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-06-09 10:05:00"
+    },
+    {
+      "user": "Archmage",
+      "vote": 1,
+      "when": "2016-11-18 11:09:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-11-18 11:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

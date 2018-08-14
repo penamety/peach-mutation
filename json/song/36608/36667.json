@@ -26,6 +26,53 @@
   "artist_names": [
     "Critical Science"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "funnyn8",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-22 17:22:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-01-14 04:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-05-02 21:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

@@ -20,6 +20,78 @@
   "artist_names": [
     "Scavenger"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Herute",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Znurre",
+      "vote": 5,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-08-28 01:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-28 01:20:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-11-18 23:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2014-02-21 21:14:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-02-21 21:15:00"
+    },
+    {
+      "user": "Frylix",
+      "vote": 5,
+      "when": "2017-01-18 18:22:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-03-31 12:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

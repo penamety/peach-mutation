@@ -24,6 +24,23 @@
   "artist_names": [
     "Saga Musix"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-04-10 15:38:00"
+    },
+    {
+      "user": "eefi",
+      "vote": 3,
+      "when": "2018-04-10 15:51:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2018-04-10 15:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

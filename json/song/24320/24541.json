@@ -24,6 +24,83 @@
   "artist_names": [
     "Repo"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Feuermurmel",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-06 04:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-06 00:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-03-06 00:33:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-04-25 16:39:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-04-25 16:40:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-06-16"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-01-24 10:53:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-01-24 10:54:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 1,
+      "when": "2017-01-24 10:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

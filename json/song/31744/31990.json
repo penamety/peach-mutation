@@ -27,6 +27,103 @@
   "artist_names": [
     "Jean9"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2011-12-12"
+    },
+    {
+      "user": "DexterAYS",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "kwokkie",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Turnips",
+      "vote": 4,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-02 14:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-02 14:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

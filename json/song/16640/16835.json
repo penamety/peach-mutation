@@ -20,6 +20,93 @@
   "artist_names": [
     "Dart"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Marlon",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "r043v",
+      "vote": 2,
+      "when": "2013-07-31 05:58:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-03-28 18:52:00"
+    },
+    {
+      "user": "MrsBeanbag",
+      "vote": 1,
+      "when": "2016-11-05 21:48:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2016-11-05 21:48:00"
+    },
+    {
+      "user": "wig",
+      "vote": 1,
+      "when": "2016-11-05 21:49:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 2,
+      "when": "2017-10-30 16:18:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2018-02-02 01:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

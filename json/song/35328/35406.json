@@ -24,6 +24,118 @@
   "artist_names": [
     "Mordi"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "flash",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "storm",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "minus",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2013-08-08 09:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-18 21:12:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2013-09-18 21:13:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-02-06 14:09:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2015-06-05 13:19:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2015-09-19"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2015-09-19"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-12-26"
+    }
+  ],
   "requests": [
     {
       "user": "storm",

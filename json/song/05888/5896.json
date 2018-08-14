@@ -23,6 +23,68 @@
   "artist_names": [
     "Qwan"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 1,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "jolic",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2012-05-08"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-24 03:39:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-03-06 00:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-03-06 00:47:00"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2015-06-29 23:03:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-02-17 07:56:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-04-04 12:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

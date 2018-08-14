@@ -23,6 +23,63 @@
   "artist_names": [
     "Xerion"
   ],
+  "votes": [
+    {
+      "user": "Rapture",
+      "vote": 5,
+      "when": "2015-03-05 02:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-05 22:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-20 17:55:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-04-22 10:45:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-05-28 16:52:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 3,
+      "when": "2015-05-28 16:52:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-10"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2015-10-10"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-04-21 12:49:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-04-21 12:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-04-08 01:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Rapture",

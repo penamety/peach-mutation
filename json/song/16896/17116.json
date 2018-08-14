@@ -19,6 +19,78 @@
   "artist_names": [
     "Dipswitch"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Octoate",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "lilelk",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-06-07 00:29:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2015-01-25 10:36:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-25 10:38:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-11-23 12:17:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-11-23 12:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

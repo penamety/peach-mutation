@@ -25,6 +25,53 @@
   "artist_names": [
     "Leach"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2009-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-25 19:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-06-22 23:14:00"
+    },
+    {
+      "user": "zilog",
+      "vote": 2,
+      "when": "2016-02-26 15:39:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-08-03"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

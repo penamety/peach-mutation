@@ -19,6 +19,58 @@
   "artist_names": [
     "Shad"
   ],
+  "votes": [
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "grachev",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-30 06:53:00"
+    },
+    {
+      "user": "Infovorr",
+      "vote": 1,
+      "when": "2015-07-30"
+    },
+    {
+      "user": "Zabchob",
+      "vote": 2,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-05-28"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

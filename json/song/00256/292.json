@@ -20,5 +20,32 @@
   "artist_names": [
     "Andrew Barnabas"
   ],
+  "votes": [
+    {
+      "user": "Longbow",
+      "vote": 4,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "Zitrax",
+      "vote": 2,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-05 10:00:00"
+    }
+  ],
   "requests": []
 }

@@ -23,6 +23,48 @@
   "artist_names": [
     "Orcan"
   ],
+  "votes": [
+    {
+      "user": "BitArts",
+      "vote": 2,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Dude_1980",
+      "vote": 5,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-19 03:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

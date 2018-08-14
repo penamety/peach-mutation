@@ -23,6 +23,48 @@
   "artist_names": [
     "Cartoon"
   ],
+  "votes": [
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "tyco",
+      "vote": 4,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-17 05:55:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2014-02-03 09:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-02-03 09:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "datucker",

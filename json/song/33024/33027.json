@@ -24,6 +24,88 @@
   "artist_names": [
     "Bryface"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "tyco",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Znurre",
+      "vote": 2,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "simpoir",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-06-05 15:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-05 15:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-06-05 15:00:00"
+    },
+    {
+      "user": "wig",
+      "vote": 3,
+      "when": "2013-08-29 17:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-29 17:20:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-10-17 12:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-07-20 10:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-01-03 06:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

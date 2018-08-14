@@ -21,6 +21,53 @@
   "artist_names": [
     "Slice"
   ],
+  "votes": [
+    {
+      "user": "Grit",
+      "vote": 2,
+      "when": "2013-12-17 17:29:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-12-17 17:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-03 16:14:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-01-03 16:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-30 15:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-06-30 15:57:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2014-11-11 01:15:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-01-15"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-05-12 09:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

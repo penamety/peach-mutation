@@ -19,6 +19,48 @@
   "artist_names": [
     "Khyron"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-03 09:54:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-06-03 09:55:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-12-01 11:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-07-08 21:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

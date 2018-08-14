@@ -24,6 +24,83 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "MyO",
+      "vote": 3,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Unstruct",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "infinigon",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-06-29 09:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-26 02:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-11-26 02:52:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-11-26 02:52:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-10-22 11:44:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-10-22 11:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-10-22 11:45:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-10-22 11:45:00"
+    },
+    {
+      "user": "Zabchob",
+      "vote": 3,
+      "when": "2017-06-27 16:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

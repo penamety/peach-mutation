@@ -20,6 +20,53 @@
   "artist_names": [
     "Da Gany Boe"
   ],
+  "votes": [
+    {
+      "user": "AnaMark",
+      "vote": 1,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-08-19 08:53:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-02-26 15:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-26 15:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

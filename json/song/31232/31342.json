@@ -23,6 +23,68 @@
   "artist_names": [
     "Oona"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-26 16:54:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 2,
+      "when": "2015-03-20 08:04:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-03-20 08:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-20 08:05:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-09-26 09:14:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2018-01-23 07:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-01-23 07:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

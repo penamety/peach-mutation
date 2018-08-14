@@ -19,6 +19,48 @@
   "artist_names": [
     "MaXyM"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-23 04:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-04-15 19:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "iTowah68k",

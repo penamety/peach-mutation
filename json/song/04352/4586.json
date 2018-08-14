@@ -21,6 +21,78 @@
   "artist_names": [
     "Marvin"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-06-04"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 4,
+      "when": "2012-06-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-04 23:57:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-06-04 23:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-12-04 13:57:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-12-26 09:57:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 4,
+      "when": "2014-12-26 09:59:00"
+    },
+    {
+      "user": "freem",
+      "vote": 3,
+      "when": "2015-12-26"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

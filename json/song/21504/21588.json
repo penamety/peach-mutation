@@ -19,6 +19,63 @@
   "artist_names": [
     "Metal"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 1,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "dang",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-19 03:26:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-20 22:12:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2015-04-02 21:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-02 21:11:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2015-04-02 21:13:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-12-10 15:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

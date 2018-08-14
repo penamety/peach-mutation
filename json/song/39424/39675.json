@@ -25,6 +25,48 @@
   "artist_names": [
     "Karlos"
   ],
+  "votes": [
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-11-26 00:50:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-11-26 00:50:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-11-26 02:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-05 09:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-06-03 14:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-08-17"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-11-10 16:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

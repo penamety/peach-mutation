@@ -23,6 +23,68 @@
   "artist_names": [
     "Psycho"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Machforr",
+      "vote": 3,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-12 05:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-06-03 00:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-03 00:14:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-02-08 04:52:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-18 19:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

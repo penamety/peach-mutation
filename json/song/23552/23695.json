@@ -24,6 +24,63 @@
   "artist_names": [
     "Robert A. Allen"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-07-26 06:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-21 22:10:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-04-09 21:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

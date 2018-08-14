@@ -24,6 +24,83 @@
   "artist_names": [
     "Preston"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "r043v",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 3,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "tomi",
+      "vote": 1,
+      "when": "2013-07-24 23:11:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2014-01-24 18:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-03-29 21:17:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-03-29 21:18:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-01-07 04:47:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2017-06-02 15:11:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2017-06-02 15:11:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-06-02 15:11:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-06-02 15:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

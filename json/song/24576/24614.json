@@ -26,6 +26,73 @@
   "artist_names": [
     "Solarc repe"
   ],
+  "votes": [
+    {
+      "user": "namuol",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-11 10:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-11 10:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-09 04:41:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2014-05-26 16:29:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2014-06-24 11:08:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-11-12 03:19:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2015-07-31"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-07-31"
+    }
+  ],
   "requests": [
     {
       "user": "namuol",

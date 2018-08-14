@@ -20,6 +20,58 @@
   "artist_names": [
     "Danko"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-07-11 13:17:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-08-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-08-18"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-11 15:41:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2017-06-11 15:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

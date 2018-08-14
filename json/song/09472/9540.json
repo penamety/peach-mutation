@@ -24,6 +24,93 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Chewrafa",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "matsim",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-05 01:17:00"
+    },
+    {
+      "user": "Analyzer",
+      "vote": 5,
+      "when": "2014-01-25 09:42:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-04-27 17:22:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-04-25 18:09:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2018-04-25 18:10:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-04-25 18:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "anni",

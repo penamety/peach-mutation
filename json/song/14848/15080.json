@@ -21,6 +21,53 @@
   "artist_names": [
     "Boomer"
   ],
+  "votes": [
+    {
+      "user": "neutron",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-04-09"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-09-28 14:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-28 15:24:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2017-10-18 15:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

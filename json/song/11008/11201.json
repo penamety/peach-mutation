@@ -24,6 +24,123 @@
   "artist_names": [
     "Aymes"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "zerkman",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "mud",
+      "vote": 5,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "Radar",
+      "vote": 5,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "DJJoge",
+      "vote": 4,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-07-14 12:37:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-14 12:37:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-10-16 19:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-16 19:07:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-11-26 14:26:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-01-30 17:48:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-08-12 19:41:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-08-12 19:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

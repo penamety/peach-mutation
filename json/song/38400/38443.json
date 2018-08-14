@@ -28,6 +28,48 @@
   "artist_names": [
     "Slack"
   ],
+  "votes": [
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2013-08-30 12:38:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-30 12:38:00"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-08-30 12:38:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-08-30 12:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-26 02:12:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 5,
+      "when": "2015-08-31"
+    }
+  ],
   "requests": [
     {
       "user": "sqrmax",

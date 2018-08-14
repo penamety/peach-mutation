@@ -25,6 +25,103 @@
   "artist_names": [
     "Ben Daglish"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "TurboHz",
+      "vote": 5,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "cxw",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "dasepsilon",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "H0lySh1t",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Skofo",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 3,
+      "when": "2013-07-31 19:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-31 19:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-07-31 20:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-12 15:24:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 1,
+      "when": "2014-03-12 15:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-05-31"
+    }
+  ],
   "requests": [
     {
       "user": "TurboHz",

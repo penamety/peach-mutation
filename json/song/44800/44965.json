@@ -26,6 +26,33 @@
   "artist_names": [
     "Mordi"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2018-05-21 12:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-05-21 12:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-05-21 13:05:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2018-05-21 08:50:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-05-21 12:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "plc",

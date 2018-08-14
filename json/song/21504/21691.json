@@ -22,6 +22,53 @@
   "artist_names": [
     "Mindblast"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-02 03:34:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-15 07:01:00"
+    },
+    {
+      "user": "Cyan",
+      "vote": 2,
+      "when": "2015-03-31 21:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-31 21:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

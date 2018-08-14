@@ -23,6 +23,63 @@
   "artist_names": [
     "Beek"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-23 00:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-12-03 06:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-04-15 13:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-04-15 13:45:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-10-07 07:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "The_Tubes",

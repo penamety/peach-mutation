@@ -20,6 +20,93 @@
   "artist_names": [
     "Tbob"
   ],
+  "votes": [
+    {
+      "user": "Axioplase",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "MyO",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "osan",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "GeraldJerome",
+      "vote": 5,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-09-30"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

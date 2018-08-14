@@ -23,6 +23,68 @@
   "artist_names": [
     "Jonathan Dunn"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "emuman",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "infinigon",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-02-03 16:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-03 16:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-02-17 07:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "LittleWhite",

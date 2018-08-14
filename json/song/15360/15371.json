@@ -21,6 +21,53 @@
   "artist_names": [
     "Captain Bifat"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-11-18 03:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-12-26 05:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

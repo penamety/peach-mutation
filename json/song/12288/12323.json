@@ -24,6 +24,73 @@
   "artist_names": [
     "TDK"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "parkuhrwaechter",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 1,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "MyO",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "qbit",
+      "vote": 3,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "numerus",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Recycler",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-04-03"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

@@ -25,6 +25,48 @@
   "artist_names": [
     "Andy Fer"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-18 01:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-02 15:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-02 15:13:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-04-19 17:03:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-05-05 11:34:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2014-05-05 11:36:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-05-05 11:37:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-10 13:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

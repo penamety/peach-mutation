@@ -25,6 +25,88 @@
   "artist_names": [
     "Unison (dk)"
   ],
+  "votes": [
+    {
+      "user": "aaai",
+      "vote": 5,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-07-05"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-07-05"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-07-05"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 5,
+      "when": "2013-06-14 18:45:00"
+    },
+    {
+      "user": "selmi",
+      "vote": 2,
+      "when": "2013-06-14 18:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-14 18:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-28 18:42:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-04-23 20:12:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-23 20:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-04-23 20:13:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-04-23 20:13:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-05 01:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-11-17"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2017-04-25 08:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

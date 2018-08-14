@@ -25,6 +25,68 @@
   "artist_names": [
     "Dubmood"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-02-07"
+    },
+    {
+      "user": "Zaius",
+      "vote": 5,
+      "when": "2016-02-07"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-07"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2016-02-08"
+    },
+    {
+      "user": "zmurf",
+      "vote": 4,
+      "when": "2016-02-23 15:36:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2016-03-29 12:51:00"
+    },
+    {
+      "user": "Machforr",
+      "vote": 4,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2016-11-21 16:54:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-07-13 08:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-07-13 08:36:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2018-01-08 19:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

@@ -20,6 +20,83 @@
   "artist_names": [
     "Moby"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "Colidace",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-08-22 11:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-22 11:19:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-08-22 11:20:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2014-06-26 04:52:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-07-17 19:41:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-07-17 19:43:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-08-10 14:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-01-22 11:47:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2016-12-14 05:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-04-08 23:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

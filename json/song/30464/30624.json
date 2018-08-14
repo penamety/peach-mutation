@@ -26,6 +26,123 @@
   "artist_names": [
     "Mystra"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Virgill",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lilelk",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "sLASH",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-21 10:58:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-06-21 11:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-07 07:42:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2013-08-19 14:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-01 15:38:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-01-12 17:00:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 2,
+      "when": "2016-04-06 10:42:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-04-06 10:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

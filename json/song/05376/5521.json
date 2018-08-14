@@ -22,6 +22,78 @@
   "artist_names": [
     "Pap"
   ],
+  "votes": [
+    {
+      "user": "Chewrafa",
+      "vote": 5,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-03-08"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-21 09:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-06 13:05:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-09-06 13:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-06 13:25:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-26 03:44:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-03-05 18:53:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2016-04-15 05:05:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-17 19:33:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-12-17 19:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "Chewrafa",

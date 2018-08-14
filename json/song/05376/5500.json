@@ -24,6 +24,48 @@
   "artist_names": [
     "Osirus"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "cxw",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-07-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-02 20:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-11 09:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

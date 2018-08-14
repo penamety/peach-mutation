@@ -24,6 +24,48 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "MageOnline",
+      "vote": 1,
+      "when": "2014-05-29 07:48:00"
+    },
+    {
+      "user": "etray",
+      "vote": 2,
+      "when": "2014-05-29 07:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

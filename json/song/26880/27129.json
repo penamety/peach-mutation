@@ -24,6 +24,53 @@
   "artist_names": [
     "Ajaxlemon"
   ],
+  "votes": [
+    {
+      "user": "Recycler",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "jakov",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-26 05:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-19 22:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "Recycler",

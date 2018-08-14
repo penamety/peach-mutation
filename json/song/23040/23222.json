@@ -25,6 +25,83 @@
   "artist_names": [
     "Randall"
   ],
+  "votes": [
+    {
+      "user": "jay",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-19 00:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-05-08 15:11:00"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 2,
+      "when": "2016-09-02"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 5,
+      "when": "2017-10-30 16:04:00"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 1,
+      "when": "2018-04-09 21:25:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2018-04-09 21:26:00"
+    },
+    {
+      "user": "medinuxx",
+      "vote": 3,
+      "when": "2018-06-05 11:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

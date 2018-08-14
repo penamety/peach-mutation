@@ -19,6 +19,58 @@
   "artist_names": [
     "Tonic"
   ],
+  "votes": [
+    {
+      "user": "Shriggar",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-07 16:36:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-17 08:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-17 08:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

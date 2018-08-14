@@ -23,6 +23,148 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "robert",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "skall",
+      "vote": 4,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2013-07-09 14:03:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-02 00:41:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 4,
+      "when": "2013-11-02 00:41:00"
+    },
+    {
+      "user": "MikuroK",
+      "vote": 4,
+      "when": "2013-12-12 11:07:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-01-07 19:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-07 19:29:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-01-07 19:29:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-04-07 11:52:00"
+    },
+    {
+      "user": "Dadu207",
+      "vote": 3,
+      "when": "2014-04-07 11:54:00"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2014-08-18 11:00:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 5,
+      "when": "2014-08-18 11:00:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2015-01-10 18:21:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2015-01-10 18:21:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-10 18:23:00"
+    },
+    {
+      "user": "grazey",
+      "vote": 4,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-11-04 07:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "chkdsk",

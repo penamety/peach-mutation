@@ -23,6 +23,58 @@
   "artist_names": [
     "Mrs. Beanbag"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-09-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-09-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-09-27"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-10-31 13:23:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 3,
+      "when": "2016-10-31 13:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-31 13:25:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-11-22 12:58:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-11-22 12:58:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-04-15 13:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

@@ -24,5 +24,27 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2011-06-01"
+    }
+  ],
   "requests": []
 }

@@ -23,6 +23,93 @@
   "artist_names": [
     "Datachild"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 4,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "r043v",
+      "vote": 5,
+      "when": "2013-07-31 04:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-31 04:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-24 23:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-05-13 11:54:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-07-10 22:19:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-10-29"
+    }
+  ],
   "requests": [
     {
       "user": "lilelk",

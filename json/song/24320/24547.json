@@ -22,6 +22,78 @@
   "artist_names": [
     "SLL"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "bryc",
+      "vote": 5,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-06 18:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-06 18:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-20 08:22:00"
+    },
+    {
+      "user": "uniqlo",
+      "vote": 5,
+      "when": "2013-12-20 23:37:00"
+    },
+    {
+      "user": "Shriggar",
+      "vote": 4,
+      "when": "2014-03-21 08:14:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-20 11:51:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-04-20 11:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -24,6 +24,48 @@
   "artist_names": [
     "Makary Brauner"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-06-18 22:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-06-21 08:35:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2017-07-11 11:41:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-07-31 09:17:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2017-08-24 13:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-09-29 15:17:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-01-11 04:01:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2018-03-12 14:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

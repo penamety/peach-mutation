@@ -24,6 +24,83 @@
   "artist_names": [
     "Ogge"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "drozerix",
+      "vote": 5,
+      "when": "2013-12-17 23:04:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2013-12-17 23:55:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-02-28 05:27:00"
+    },
+    {
+      "user": "Peak",
+      "vote": 5,
+      "when": "2014-03-28 17:04:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2016-10-23 05:02:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-02-16 23:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-02-16 23:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

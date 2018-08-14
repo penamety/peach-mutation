@@ -19,6 +19,73 @@
   "artist_names": [
     "Cyborg Jeff"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "jakov",
+      "vote": 5,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-05 16:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-09-05 16:45:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-04-02 02:14:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2014-04-02 02:15:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-08-25 22:32:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-08-25 22:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-08-25 22:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

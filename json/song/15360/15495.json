@@ -20,6 +20,98 @@
   "artist_names": [
     "Cerror"
   ],
+  "votes": [
+    {
+      "user": "julz",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "vsk",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "cxw",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Arktos",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-10-21 16:59:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2014-05-12 17:09:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-05-12 17:11:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2016-05-17 04:35:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-11-09 02:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

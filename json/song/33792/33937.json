@@ -25,6 +25,63 @@
   "artist_names": [
     "Dime"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-04-01 10:03:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2017-11-30 15:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -24,6 +24,58 @@
   "artist_names": [
     "Lluvia"
   ],
+  "votes": [
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-07-30 10:52:00"
+    },
+    {
+      "user": "scanjam",
+      "vote": 3,
+      "when": "2014-07-30 10:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-09 19:02:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-08-09 19:02:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-08-09 19:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-09-22 10:34:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-11-29 11:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-11-29 11:27:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-20 19:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-01-26 22:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

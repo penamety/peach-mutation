@@ -20,5 +20,32 @@
   "artist_names": [
     "Teque"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-20 10:45:00"
+    }
+  ],
   "requests": []
 }

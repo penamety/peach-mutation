@@ -22,6 +22,53 @@
   "artist_names": [
     "Rage"
   ],
+  "votes": [
+    {
+      "user": "cxw",
+      "vote": 3,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-31 18:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-01-18 21:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-18 20:26:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2015-07-23"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

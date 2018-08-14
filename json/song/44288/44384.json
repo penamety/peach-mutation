@@ -25,6 +25,43 @@
   "artist_names": [
     "Chaser"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-09-25 10:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-09-25 10:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-10-04 11:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-10-04 11:22:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-10-10 09:24:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2017-10-25 15:27:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-30 10:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

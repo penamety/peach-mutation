@@ -25,6 +25,58 @@
   "artist_names": [
     "Joule"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-01-02 20:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-03 11:33:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-01-03 11:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-01-03 11:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-02 14:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-07-08 23:04:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-11-08"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-11-08"
+    },
+    {
+      "user": "trenki",
+      "vote": 4,
+      "when": "2015-11-08"
+    },
+    {
+      "user": "Machforr",
+      "vote": 4,
+      "when": "2016-02-11"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

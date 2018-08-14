@@ -22,6 +22,68 @@
   "artist_names": [
     "Jazzcat"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-09 05:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-11-01 14:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-16 16:15:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-06-01"
+    },
+    {
+      "user": "Creonix",
+      "vote": 2,
+      "when": "2016-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-06-01"
+    }
+  ],
   "requests": [
     {
       "user": "Erk",

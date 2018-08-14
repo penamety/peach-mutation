@@ -26,6 +26,68 @@
   "artist_names": [
     "Gibson"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "sneh",
+      "vote": 3,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-06-17 10:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-17 10:13:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-17 10:13:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-06-20 10:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

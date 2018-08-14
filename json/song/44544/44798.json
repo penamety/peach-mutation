@@ -26,6 +26,38 @@
   "artist_names": [
     "Virgill"
   ],
+  "votes": [
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-05-07 09:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-06-08 10:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-04-06 22:23:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-04-06 22:02:00"
+    },
+    {
+      "user": "seppjo",
+      "vote": 5,
+      "when": "2018-04-06 19:29:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 4,
+      "when": "2018-04-06 22:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "zoner",

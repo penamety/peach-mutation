@@ -20,6 +20,103 @@
   "artist_names": [
     "Basehead"
   ],
+  "votes": [
+    {
+      "user": "Zac",
+      "vote": 1,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "seppjo",
+      "vote": 2,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2012-04-06"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "Rapture",
+      "vote": 2,
+      "when": "2013-08-14 08:39:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2013-08-14 08:40:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2014-02-20 19:04:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-02-20 19:06:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2014-02-20 19:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-07-25"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-20 23:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-06-18 15:09:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-17 10:04:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-03-17 10:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

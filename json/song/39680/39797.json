@@ -20,6 +20,68 @@
   "artist_names": [
     "The Zapper"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2013-12-25 07:49:00"
+    },
+    {
+      "user": "killaspirit",
+      "vote": 5,
+      "when": "2013-12-25 19:42:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-12-25 19:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-12-25 20:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-12-25 20:54:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-12-25 20:57:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-01-12 17:51:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-01-12 17:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-01-12 17:55:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-17 21:48:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-04-17 21:49:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2015-12-25"
+    }
+  ],
   "requests": [
     {
       "user": "killaspirit",

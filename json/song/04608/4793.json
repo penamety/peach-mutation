@@ -21,6 +21,78 @@
   "artist_names": [
     "Melomaniac"
   ],
+  "votes": [
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "krusty",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "pave64",
+      "vote": 4,
+      "when": "2013-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-04 02:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-04 02:46:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-03-19 09:18:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-09-21 01:54:00"
+    },
+    {
+      "user": "andyabstract",
+      "vote": 4,
+      "when": "2015-03-29 11:45:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2015-03-29 11:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-23 10:27:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-05-28 18:22:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2018-04-15 09:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "Ishaan",

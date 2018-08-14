@@ -26,6 +26,53 @@
   "artist_names": [
     "Weidemann"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-07 13:43:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-03-01 10:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

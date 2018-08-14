@@ -19,6 +19,83 @@
   "artist_names": [
     "Mad God"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "clumdon",
+      "vote": 5,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-18 04:51:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-19 15:06:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-19 15:07:00"
+    },
+    {
+      "user": "omilian",
+      "vote": 5,
+      "when": "2015-11-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-06-22 06:33:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-07-17 11:27:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-07-17 11:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-07-17 12:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -19,6 +19,83 @@
   "artist_names": [
     "Iv tracks"
   ],
+  "votes": [
+    {
+      "user": "funnyn8",
+      "vote": 3,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-01 17:00:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-09-12 15:00:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2014-09-12 15:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-13 15:55:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-12-15 15:01:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2014-12-15 15:02:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2014-12-15 15:03:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-07-30"
+    },
+    {
+      "user": "trenki",
+      "vote": 4,
+      "when": "2016-03-11 17:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

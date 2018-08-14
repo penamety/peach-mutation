@@ -20,6 +20,93 @@
   "artist_names": [
     "Baz"
   ],
+  "votes": [
+    {
+      "user": "Shriggar",
+      "vote": 4,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2010-03-03"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 3,
+      "when": "2010-03-03"
+    },
+    {
+      "user": "isvenger",
+      "vote": 3,
+      "when": "2010-03-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "zensonic",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-27 20:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-22 22:23:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-22 22:25:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-07-06 19:20:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-11-02 19:09:00"
+    },
+    {
+      "user": "sarka",
+      "vote": 4,
+      "when": "2017-11-02 19:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "dukzcry",

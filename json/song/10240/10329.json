@@ -20,5 +20,27 @@
   "source": "Game",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 3,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "numerus",
+      "vote": 3,
+      "when": "2009-11-02"
+    }
+  ],
   "requests": []
 }

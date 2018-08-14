@@ -19,5 +19,22 @@
   "artist_names": [
     "Kaneel"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-02-02"
+    }
+  ],
   "requests": []
 }

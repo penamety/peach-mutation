@@ -19,6 +19,93 @@
   "artist_names": [
     "Haxxxxor night"
   ],
+  "votes": [
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 1,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-04 01:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-04 01:57:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-07-31 06:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-09-27"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2015-09-27"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2015-09-27"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2017-06-17 18:57:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-06-17 18:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2017-06-17 18:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

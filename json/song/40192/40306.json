@@ -22,6 +22,48 @@
   "artist_names": [
     "Jörg Schütte"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-04-03 11:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-03 11:37:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2014-04-03 11:38:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-04-03 11:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-04-03 11:40:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-04-16 16:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-12-14 13:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-08-04"
+    }
+  ],
   "requests": [
     {
       "user": "rombust",

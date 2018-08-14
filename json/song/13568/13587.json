@@ -19,6 +19,78 @@
   "artist_names": [
     "Ace Bandit"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-30 04:00:00"
+    },
+    {
+      "user": "bc2001",
+      "vote": 2,
+      "when": "2014-12-19 07:03:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-12-19 07:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-12-31"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-12-31"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2015-12-31"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-02-16 22:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-02-16 22:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

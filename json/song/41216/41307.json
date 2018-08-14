@@ -27,6 +27,98 @@
   "artist_names": [
     "Jerry"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-12-13 20:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-12-13 20:30:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-12-13 20:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-12-13 20:33:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2014-12-13 20:33:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-12-18 14:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2015-01-04 06:05:00"
+    },
+    {
+      "user": "LeadFiner",
+      "vote": 3,
+      "when": "2015-02-03 10:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-02-03 10:26:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2015-02-03 10:29:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2015-02-27 21:22:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2018-01-11 18:53:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-02-20 14:50:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 4,
+      "when": "2018-02-20 14:51:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2018-03-29 15:53:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2018-03-29 15:54:00"
+    },
+    {
+      "user": "luminous",
+      "vote": 4,
+      "when": "2018-06-07 04:30:00"
+    },
+    {
+      "user": "velusip",
+      "vote": 3,
+      "when": "2018-06-07 04:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

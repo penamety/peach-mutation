@@ -19,6 +19,53 @@
   "artist_names": [
     "Rave-N"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-02-06 09:03:00"
+    },
+    {
+      "user": "Zeether",
+      "vote": 2,
+      "when": "2015-02-08 20:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-02-08 20:58:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2018-03-24 22:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

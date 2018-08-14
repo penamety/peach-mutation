@@ -19,6 +19,93 @@
   "artist_names": [
     "Moonshine"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "SampL",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "caminante",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-28 14:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "dodge",

@@ -19,6 +19,73 @@
   "artist_names": [
     "Kenshi"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "na85",
+      "vote": 5,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "r043v",
+      "vote": 5,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "jesper",
+      "vote": 4,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-11 05:07:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-11 05:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-07-28 04:18:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-03-31 11:35:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-03-31 11:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-03-31 11:37:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-03-31 11:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

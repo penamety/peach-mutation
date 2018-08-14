@@ -23,6 +23,113 @@
   "artist_names": [
     "Shinobi"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Arktos",
+      "vote": 4,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-07-05 18:22:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-07-05 18:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-31 20:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-31 21:28:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-02-17 19:32:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-17 19:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-08-16"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2015-03-30 16:11:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-04-23 10:16:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 5,
+      "when": "2016-04-23 10:19:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-06-02"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-07-17"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2016-09-27"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2016-11-16 18:58:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-01-27 12:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

@@ -16,5 +16,32 @@
   "last_scraped": "2018-05-23 02:49:45",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "asbjornu",
+      "vote": 4,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-06-02"
+    }
+  ],
   "requests": []
 }

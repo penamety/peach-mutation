@@ -19,6 +19,68 @@
   "artist_names": [
     "Urban Breed"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2014-01-13 22:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-01-13 22:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-13 22:05:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2014-01-13 22:05:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-02-17 14:22:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 1,
+      "when": "2018-05-23 14:04:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-05-23 14:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

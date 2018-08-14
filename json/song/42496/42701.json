@@ -25,6 +25,78 @@
   "artist_names": [
     "u4ia"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2016-01-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "Thexder",
+      "vote": 3,
+      "when": "2016-03-11 21:19:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-03-11 21:19:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 2,
+      "when": "2016-03-11 21:21:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-03-11 21:24:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 1,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-09 07:40:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-01-31 15:42:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-01-31 15:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "Perennially",

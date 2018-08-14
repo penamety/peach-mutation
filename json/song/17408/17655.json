@@ -19,6 +19,53 @@
   "artist_names": [
     "Dyka"
   ],
+  "votes": [
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-07 19:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-09-07 19:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

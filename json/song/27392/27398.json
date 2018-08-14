@@ -25,6 +25,73 @@
   "artist_names": [
     "Manwe"
   ],
+  "votes": [
+    {
+      "user": "Kerus",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "bitl",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-25 01:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-25 01:02:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-25 01:03:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-11-14 07:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

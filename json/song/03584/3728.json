@@ -19,6 +19,53 @@
   "artist_names": [
     "Kalsu"
   ],
+  "votes": [
+    {
+      "user": "syntetic_man",
+      "vote": 5,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "SampL",
+      "vote": 3,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-02 12:12:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-11-24 21:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

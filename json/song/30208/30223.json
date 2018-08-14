@@ -25,6 +25,63 @@
   "artist_names": [
     "Reflect"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "wig",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-22 05:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-02 22:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

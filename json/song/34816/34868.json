@@ -24,6 +24,58 @@
   "artist_names": [
     "Jerry"
   ],
+  "votes": [
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-12 02:17:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-12 02:18:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-11-11 16:06:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-02-12"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

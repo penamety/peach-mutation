@@ -20,6 +20,48 @@
   "artist_names": [
     "Jade"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-09-24 02:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-24 02:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

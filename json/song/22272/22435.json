@@ -20,6 +20,48 @@
   "artist_names": [
     "Omega"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-22 03:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-22 03:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-20 09:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

@@ -26,6 +26,73 @@
   "artist_names": [
     "Alpha C"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "deetroy",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-07-03 16:57:00"
+    },
+    {
+      "user": "juky",
+      "vote": 3,
+      "when": "2013-07-03 16:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-24 00:43:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2014-08-09 08:06:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-08-09 08:06:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-20 19:17:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-12-20 19:17:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-12-20 19:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "Grit",

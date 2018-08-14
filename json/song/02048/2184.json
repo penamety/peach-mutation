@@ -19,6 +19,73 @@
   "artist_names": [
     "Dustbin"
   ],
+  "votes": [
+    {
+      "user": "Longbow",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "lilelk",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-12 02:14:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-12 02:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-12 02:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-24 03:23:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 5,
+      "when": "2014-02-07 00:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-12-22 18:12:00"
+    },
+    {
+      "user": "FF7Cayn",
+      "vote": 4,
+      "when": "2017-01-25 00:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

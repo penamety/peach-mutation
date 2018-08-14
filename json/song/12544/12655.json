@@ -24,6 +24,78 @@
   "artist_names": [
     "Tommy [de]"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-10 02:11:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-07-10 02:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-10 02:15:00"
+    },
+    {
+      "user": "cyberant",
+      "vote": 5,
+      "when": "2013-07-10 02:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-05 18:26:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2014-02-05 18:30:00"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 3,
+      "when": "2014-02-05 18:32:00"
+    },
+    {
+      "user": "Tokkey",
+      "vote": 1,
+      "when": "2016-12-03 16:17:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-12-03 16:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

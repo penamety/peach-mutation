@@ -24,6 +24,98 @@
   "artist_names": [
     "Ogge"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Flatline",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "gaussgss",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "Gismo",
+      "vote": 1,
+      "when": "2013-11-19 17:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-19 17:04:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-10-14 00:30:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-05-16 18:29:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2017-01-23 03:28:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-01-23 03:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

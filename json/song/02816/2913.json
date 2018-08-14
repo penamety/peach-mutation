@@ -19,6 +19,83 @@
   "artist_names": [
     "Hamster Alliance"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-06-17"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-17"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-11"
+    },
+    {
+      "user": "Sketch",
+      "vote": 2,
+      "when": "2013-04-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-11"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-09-02 19:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-02 19:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-02 19:09:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-10 15:32:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-06-19 19:36:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-19 19:36:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-06-19 19:36:00"
+    },
+    {
+      "user": "voy",
+      "vote": 3,
+      "when": "2017-06-19 19:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

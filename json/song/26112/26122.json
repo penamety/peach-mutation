@@ -15,5 +15,27 @@
   "last_scraped": "2018-05-23 05:20:47",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "edlinfan",
+      "vote": 5,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2010-05-05"
+    }
+  ],
   "requests": []
 }

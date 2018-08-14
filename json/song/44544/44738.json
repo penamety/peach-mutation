@@ -23,6 +23,53 @@
   "artist_names": [
     "Beek"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2018-03-19 03:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-03-20 12:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-03-20 12:07:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-03-20 12:07:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-03-20 12:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-03-25 01:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2018-04-21 23:42:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2018-04-21 23:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-06-07 00:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

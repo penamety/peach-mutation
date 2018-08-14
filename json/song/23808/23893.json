@@ -23,6 +23,73 @@
   "artist_names": [
     "Rudolf Stember"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Thjodolf",
+      "vote": 4,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-16 02:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-16 02:50:00"
+    },
+    {
+      "user": "Grit",
+      "vote": 3,
+      "when": "2013-12-06 01:53:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-12-06 01:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-11-11 14:57:00"
+    },
+    {
+      "user": "jass0",
+      "vote": 1,
+      "when": "2014-11-11 15:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-02-12 13:54:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-02-12 13:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

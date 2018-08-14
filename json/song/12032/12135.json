@@ -25,6 +25,153 @@
   "artist_names": [
     "Mel o'Dee"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Ultrasyd",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "TohoFuhai",
+      "vote": 4,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "hojou",
+      "vote": 4,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "hiltunen",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Vampire",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-10-04"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-10-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-07-26 15:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-26 15:08:00"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-12-02 09:41:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-25 22:57:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-01-25 23:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2017-02-17 21:00:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2017-06-16 23:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -22,6 +22,98 @@
   "artist_names": [
     "Con"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "DiaAWAY",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Latis",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-09 11:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-09 11:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-09 11:39:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-04 05:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-22 06:08:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-02-07"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-02-27 14:31:00"
+    },
+    {
+      "user": "Mindiell",
+      "vote": 5,
+      "when": "2017-05-11 16:45:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 4,
+      "when": "2018-03-20 14:04:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-04-30 10:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

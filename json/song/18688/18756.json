@@ -20,6 +20,78 @@
   "artist_names": [
     "Gojita"
   ],
+  "votes": [
+    {
+      "user": "Flatline",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-02-19 06:53:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-07-07"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-07"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-09-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-06-16 00:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -24,6 +24,88 @@
   "artist_names": [
     "XyCe"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "sdjm",
+      "vote": 4,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-10-14 22:00:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-10-14 22:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-11-14 07:47:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-11-14 07:49:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2017-06-17 05:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

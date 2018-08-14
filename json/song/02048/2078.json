@@ -23,6 +23,98 @@
   "artist_names": [
     "Dr. Awesome"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-17"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-14 06:52:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-14 06:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-07 17:16:00"
+    },
+    {
+      "user": "Chapelier",
+      "vote": 2,
+      "when": "2014-06-07 17:17:00"
+    },
+    {
+      "user": "etray",
+      "vote": 3,
+      "when": "2014-06-07 17:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-06-07 17:20:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-09-18"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-25"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2015-10-25"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2015-10-25"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

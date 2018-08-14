@@ -23,6 +23,53 @@
   "artist_names": [
     "Mantronix"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-06-18 16:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-06-18 22:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-06-18 22:12:00"
+    },
+    {
+      "user": "finrock",
+      "vote": 5,
+      "when": "2017-06-18 22:12:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-06-24 10:08:00"
+    },
+    {
+      "user": "bmn",
+      "vote": 4,
+      "when": "2017-06-24 10:12:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2017-07-01 00:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2017-08-17 14:48:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2017-10-04 09:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "foster",

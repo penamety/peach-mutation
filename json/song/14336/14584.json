@@ -23,6 +23,78 @@
   "artist_names": [
     "Banana"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-23 04:01:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-12-12 09:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-20 23:23:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-09-20 23:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-24"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-24"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2017-06-21 23:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

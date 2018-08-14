@@ -24,6 +24,73 @@
   "artist_names": [
     "Greg [CH]"
   ],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Shriggar",
+      "vote": 4,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-01 02:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-01 02:37:00"
+    },
+    {
+      "user": "Qumran",
+      "vote": 5,
+      "when": "2014-01-29 07:57:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-06-26 00:16:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-09-29 07:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

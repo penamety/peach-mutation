@@ -19,6 +19,68 @@
   "artist_names": [
     "Simen"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-09-11 09:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-11 09:57:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-01-08 11:39:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-01-08 11:40:00"
+    },
+    {
+      "user": "jass0",
+      "vote": 3,
+      "when": "2015-01-08 11:40:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-01-08 11:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

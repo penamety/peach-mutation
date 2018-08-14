@@ -20,6 +20,68 @@
   "artist_names": [
     "Big Jim"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 5,
+      "when": "2014-04-01 02:00:00"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2016-02-12"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2016-03-16 19:32:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-19 14:50:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2016-04-19 14:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-12-26 18:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

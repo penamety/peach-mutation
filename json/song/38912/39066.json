@@ -27,6 +27,123 @@
   "artist_names": [
     "Elrinth"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-18 16:49:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2013-07-18 16:50:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-07-18 16:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-18 16:51:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-07-18 16:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-07-18 22:00:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2013-08-12 12:26:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-08-12 12:26:00"
+    },
+    {
+      "user": "sLASH",
+      "vote": 4,
+      "when": "2013-08-12 12:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-08-12 12:31:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2013-09-15 22:41:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-10-23 16:21:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-12-02 16:14:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2014-01-16 07:36:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-10-17 15:08:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2014-11-02 23:17:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-12-19 04:54:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-11-24"
+    },
+    {
+      "user": "satan",
+      "vote": 4,
+      "when": "2015-11-24"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2015-12-15"
+    },
+    {
+      "user": "nobody",
+      "vote": 5,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-02-02 11:21:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-04-05 02:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

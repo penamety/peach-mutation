@@ -20,6 +20,128 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "qbit",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Rudee",
+      "vote": 3,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "vsk",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 4,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 5,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-20 18:10:00"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2013-07-20 18:12:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-10-15 08:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-01-13 23:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-13 22:24:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-07-12 19:53:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 3,
+      "when": "2014-12-19 21:02:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 4,
+      "when": "2014-12-19 21:03:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2014-12-19 21:03:00"
+    },
+    {
+      "user": "nikamota",
+      "vote": 2,
+      "when": "2017-03-04 04:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-05-05 11:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "zerkman",

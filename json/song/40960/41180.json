@@ -22,6 +22,53 @@
   "artist_names": [
     "Vivid"
   ],
+  "votes": [
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2014-10-30 17:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-30 17:15:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-11-10 08:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-11-10 08:16:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-11-10 08:19:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-11-30 05:06:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-12-24 09:33:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-10-31 14:36:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2016-10-31 14:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

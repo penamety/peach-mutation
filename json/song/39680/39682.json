@@ -25,5 +25,17 @@
   "artist_names": [
     "Makke"
   ],
+  "votes": [
+    {
+      "user": "mainhoon",
+      "vote": 5,
+      "when": "2013-12-01 21:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-12-01 23:00:00"
+    }
+  ],
   "requests": []
 }

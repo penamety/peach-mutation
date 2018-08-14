@@ -25,6 +25,58 @@
   "artist_names": [
     "Terwiz"
   ],
+  "votes": [
+    {
+      "user": "Rage",
+      "vote": 3,
+      "when": "2015-05-17 22:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-05-26 23:38:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-06-28 13:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-06-28 20:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-07-18"
+    },
+    {
+      "user": "oryx",
+      "vote": 2,
+      "when": "2015-10-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-24 14:48:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-03-17"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-08-30 19:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-02-07 02:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "Rage",

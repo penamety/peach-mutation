@@ -27,6 +27,48 @@
   "artist_names": [
     "DJ Bass"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-05-22 20:25:00"
+    },
+    {
+      "user": "Erk",
+      "vote": 2,
+      "when": "2015-05-22 20:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-18"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-07-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-09-26"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-11-17"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-11-17"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-11-17"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -22,6 +22,68 @@
   "artist_names": [
     "Rage"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-01 20:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-06-01 20:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-18 21:27:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2015-07-30"
+    },
+    {
+      "user": "melcom",
+      "vote": 3,
+      "when": "2015-07-30"
+    },
+    {
+      "user": "Triace",
+      "vote": 3,
+      "when": "2016-10-16 13:00:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2016-10-16 13:17:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-09 23:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

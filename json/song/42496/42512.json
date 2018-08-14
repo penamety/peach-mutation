@@ -26,6 +26,58 @@
   "artist_names": [
     "Ziutek"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-02-08"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-11-23"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-11-23"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-29 15:30:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-01-25 15:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-11-09"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

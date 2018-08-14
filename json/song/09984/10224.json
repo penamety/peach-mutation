@@ -23,6 +23,88 @@
   "artist_names": [
     "Praiser"
   ],
+  "votes": [
+    {
+      "user": "ezal",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "abaddon",
+      "vote": 2,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-31 08:06:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-11-08 10:14:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-03-15 16:05:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-11-27 14:45:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-11-27 14:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-10 13:56:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-08-30 06:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "ezal",

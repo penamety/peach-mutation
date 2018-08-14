@@ -23,6 +23,63 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "Danalog",
+      "vote": 3,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "turbine5",
+      "vote": 3,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-10 05:39:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-10 05:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-02-08 21:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-01-31 00:46:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 2,
+      "when": "2018-01-31 00:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

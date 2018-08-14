@@ -25,6 +25,73 @@
   "artist_names": [
     "Hellrazor"
   ],
+  "votes": [
+    {
+      "user": "Shriggar",
+      "vote": 3,
+      "when": "2008-11-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-07-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-26 19:14:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-11-02 03:38:00"
+    },
+    {
+      "user": "trenki",
+      "vote": 4,
+      "when": "2017-01-05 10:31:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-05 10:33:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2018-05-07 22:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

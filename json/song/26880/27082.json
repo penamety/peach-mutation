@@ -23,5 +23,17 @@
   "artist_names": [
     "4-mat"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-06-28 22:00:00"
+    },
+    {
+      "user": "ultra",
+      "vote": 5,
+      "when": "2018-04-18 17:16:00"
+    }
+  ],
   "requests": []
 }

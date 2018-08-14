@@ -19,6 +19,58 @@
   "artist_names": [
     "Phoenix [DE]"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "selmi",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-27 17:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-09-07 06:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-26 00:46:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2017-03-27"
+    }
+  ],
   "requests": [
     {
       "user": "bakho",

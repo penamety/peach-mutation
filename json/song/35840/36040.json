@@ -26,6 +26,118 @@
   "artist_names": [
     "Spirit"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "GeekShadow",
+      "vote": 4,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "oryx",
+      "vote": 4,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "Chapelier",
+      "vote": 3,
+      "when": "2013-07-18 00:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-18 00:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-18 00:31:00"
+    },
+    {
+      "user": "tas",
+      "vote": 4,
+      "when": "2013-07-18 00:32:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 4,
+      "when": "2014-02-09 22:15:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-05-30"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-05-30"
+    },
+    {
+      "user": "Ishma",
+      "vote": 4,
+      "when": "2016-05-30"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-05-30"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-05-09 23:23:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 4,
+      "when": "2018-01-14 22:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

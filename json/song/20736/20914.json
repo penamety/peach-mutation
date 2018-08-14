@@ -22,6 +22,93 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "Starbreaker",
+      "vote": 3,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2010-06-03"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2010-06-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-17 12:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-17 12:52:00"
+    },
+    {
+      "user": "CanisCanine",
+      "vote": 3,
+      "when": "2014-08-05 21:48:00"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2015-07-15"
+    },
+    {
+      "user": "PhotonStorm",
+      "vote": 5,
+      "when": "2016-02-11"
+    },
+    {
+      "user": "grazey",
+      "vote": 4,
+      "when": "2016-04-06 22:37:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-10-19 01:23:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 5,
+      "when": "2017-06-23 01:41:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-08-14 11:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Spiral",

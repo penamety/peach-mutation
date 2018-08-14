@@ -25,6 +25,93 @@
   "artist_names": [
     "cTrix"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2016-02-22 08:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-10-08"
+    },
+    {
+      "user": "velusip",
+      "vote": 5,
+      "when": "2016-10-08"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2017-01-29 13:30:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-01-29 13:30:00"
+    },
+    {
+      "user": "MrsBeanbag",
+      "vote": 4,
+      "when": "2017-04-17 20:39:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2017-04-17 20:40:00"
+    },
+    {
+      "user": "JosephCollins",
+      "vote": 4,
+      "when": "2017-11-21 09:22:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2017-11-21 09:23:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-06-02 12:38:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2018-06-02 12:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

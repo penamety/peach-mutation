@@ -23,6 +23,68 @@
   "artist_names": [
     "Scyphe"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2011-10-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-03-18 16:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-12-06 20:14:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-12-06 20:14:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-04-12 20:19:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-04-12 20:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-04-12 20:22:00"
+    },
+    {
+      "user": "aricz",
+      "vote": 5,
+      "when": "2017-05-28 02:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

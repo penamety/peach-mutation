@@ -21,6 +21,138 @@
   "artist_names": [
     "Cybelius"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-15 05:28:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 5,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-10-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2015-12-25"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-12-25"
+    },
+    {
+      "user": "Zaius",
+      "vote": 2,
+      "when": "2016-02-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-03-05 18:28:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-04-19 20:58:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-05-31"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2016-07-08"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-09-07"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-09-07"
+    },
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2016-11-20 18:55:00"
+    },
+    {
+      "user": "EZH",
+      "vote": 3,
+      "when": "2016-11-20 18:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "crrr",

@@ -20,6 +20,23 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "acidline",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2017-05-16 19:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

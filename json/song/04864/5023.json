@@ -19,6 +19,63 @@
   "artist_names": [
     "Mr Young"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-10-19 22:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-19 22:08:00"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 2,
+      "when": "2015-03-27 15:40:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2015-03-27 15:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-27 15:43:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-07-14 21:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Toto",

@@ -23,6 +23,33 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "dasepsilon",
+      "vote": 1,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "rakzom",
+      "vote": 1,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Danger",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-07-03"
+    }
+  ],
   "requests": [
     {
       "user": "acidline",

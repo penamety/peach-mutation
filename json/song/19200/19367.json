@@ -24,6 +24,48 @@
   "artist_names": [
     "Jakub Husak"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "krusty",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-10 01:18:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-08-04 18:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-08-04 18:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

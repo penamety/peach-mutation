@@ -19,6 +19,58 @@
   "artist_names": [
     "Phabula"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Flatline",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-05 20:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-03 23:01:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 2,
+      "when": "2016-10-27 14:08:00"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 3,
+      "when": "2016-10-27 14:09:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-10-27 14:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

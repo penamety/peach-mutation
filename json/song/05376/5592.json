@@ -20,6 +20,68 @@
   "artist_names": [
     "Pinion"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-10-15 18:21:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-01-05 13:44:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-03-06 18:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-06 18:50:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2015-03-06 18:52:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2015-03-06 18:53:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-09-12"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

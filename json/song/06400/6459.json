@@ -19,6 +19,88 @@
   "artist_names": [
     "Shout"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Manax",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-23 02:33:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2013-12-19 11:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-12-19 11:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-11-02 10:33:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-02 00:50:00"
+    },
+    {
+      "user": "Machforr",
+      "vote": 1,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "zeograd",
+      "vote": 1,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "zmurf",
+      "vote": 1,
+      "when": "2017-04-11 08:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

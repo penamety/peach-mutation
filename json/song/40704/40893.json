@@ -24,6 +24,68 @@
   "artist_names": [
     "Hollywood"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-08-28 23:41:00"
+    },
+    {
+      "user": "OSH",
+      "vote": 5,
+      "when": "2014-08-28 23:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-08-28 23:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-28 23:41:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-08-28 23:42:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 5,
+      "when": "2014-08-28 23:44:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-09-09 20:46:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-10-19 23:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-11-07 12:40:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-11-07 12:43:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2017-02-18 20:58:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-05-19 20:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "BrittletheFly",

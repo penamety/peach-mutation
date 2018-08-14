@@ -21,6 +21,68 @@
   "artist_names": [
     "Substance"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-04-09 14:19:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-04-09 14:21:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-09-28 16:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-28 16:31:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-07-28"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-03-15 09:21:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2018-05-29 17:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

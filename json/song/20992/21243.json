@@ -22,6 +22,53 @@
   "artist_names": [
     "Matthew Cannon"
   ],
+  "votes": [
+    {
+      "user": "Octoate",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "SageBF",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "vanward",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-07-28 10:22:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-13 16:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-21 22:18:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-04-11 14:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

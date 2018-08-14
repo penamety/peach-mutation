@@ -25,6 +25,73 @@
   "artist_names": [
     "Eckhard Kruse"
   ],
+  "votes": [
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "lewiS",
+      "vote": 1,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-03 09:39:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 1,
+      "when": "2014-04-30 23:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-30 23:37:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 2,
+      "when": "2014-04-30 23:38:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-01-09"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2016-01-09"
+    },
+    {
+      "user": "PhotonStorm",
+      "vote": 5,
+      "when": "2017-07-07 17:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "zerkman",

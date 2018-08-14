@@ -26,6 +26,53 @@
   "artist_names": [
     "Selectanovel"
   ],
+  "votes": [
+    {
+      "user": "aaai",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "wiseman",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-01 01:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-24 07:39:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-03"
+    }
+  ],
   "requests": [
     {
       "user": "Bornheim",

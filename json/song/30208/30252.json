@@ -24,6 +24,133 @@
   "artist_names": [
     "TEO"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Locutus",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "matsim",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "mucha",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-30 14:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-30 14:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-14 20:21:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-03-14 20:21:00"
+    },
+    {
+      "user": "epso",
+      "vote": 4,
+      "when": "2017-04-05 17:24:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-01-05 08:14:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-03-12 07:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

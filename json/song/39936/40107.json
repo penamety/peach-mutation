@@ -25,6 +25,63 @@
   "artist_names": [
     "Avenger"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-17 14:20:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-02-17 14:22:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-02-17 14:22:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-17 14:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-04-14 17:51:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-05-30 19:47:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-08-31 16:20:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-08-31 16:21:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2014-08-31 16:21:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2014-12-15 19:46:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-28"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

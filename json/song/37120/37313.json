@@ -23,6 +23,78 @@
   "artist_names": [
     "Panda"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "corewhore",
+      "vote": 5,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-06-14 11:00:00"
+    },
+    {
+      "user": "wizard",
+      "vote": 2,
+      "when": "2013-10-31 06:21:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-02-21 14:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-21 14:32:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-11-27 15:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

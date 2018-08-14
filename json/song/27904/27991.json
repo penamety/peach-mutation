@@ -22,6 +22,93 @@
   "artist_names": [
     "Quark"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "PushEax85",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "deot",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-03 10:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-03 10:50:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-03 10:50:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-02-03 10:52:00"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 1,
+      "when": "2014-11-25 22:00:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2014-11-25 22:00:00"
+    },
+    {
+      "user": "SpecialDefect",
+      "vote": 3,
+      "when": "2014-11-25 22:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "regbit3hex",

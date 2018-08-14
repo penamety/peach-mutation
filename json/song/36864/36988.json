@@ -25,6 +25,68 @@
   "artist_names": [
     "Benjamin Gerardin"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Jimantha",
+      "vote": 5,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-14 14:41:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 4,
+      "when": "2014-10-14 14:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-06-07"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 4,
+      "when": "2016-06-07"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

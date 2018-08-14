@@ -26,6 +26,73 @@
   "artist_names": [
     "JayBlood"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-09-07"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Moses",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-08 17:12:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-27 22:25:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-09-16 13:10:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2015-07-12"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-05-03 09:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "psymleko",

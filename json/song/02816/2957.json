@@ -20,6 +20,78 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-11-23"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-11-23"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-11-23"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-11-23"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-23 07:04:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-06-23 02:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-09-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-09-25"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

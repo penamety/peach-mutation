@@ -25,6 +25,103 @@
   "artist_names": [
     "Frequent"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "BSC",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "gauri",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Zitrax",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2013-09-15 23:35:00"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2013-11-27 03:34:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-11-27 03:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-27 03:37:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-11-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-11-12"
+    },
+    {
+      "user": "frankrm78",
+      "vote": 4,
+      "when": "2015-11-12"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-17 14:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-03-13 13:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "pipe",

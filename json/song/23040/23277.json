@@ -20,6 +20,103 @@
   "artist_names": [
     "Randall"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "halvare",
+      "vote": 1,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-06-11 06:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-11 07:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-24 22:10:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 2,
+      "when": "2014-02-24 22:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-02-13 20:58:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-02-13 20:58:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2015-02-13 20:59:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 1,
+      "when": "2015-02-13 21:02:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-13 21:02:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2015-05-29 00:39:00"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 1,
+      "when": "2017-06-01 18:42:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2018-04-08 16:21:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2018-06-05 12:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

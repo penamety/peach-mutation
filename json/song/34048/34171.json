@@ -23,6 +23,73 @@
   "artist_names": [
     "Mr. Stewe"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Fireball",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-14 02:41:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-03-26 14:53:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2014-03-26 14:54:00"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 3,
+      "when": "2014-03-26 14:55:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-03-26 14:58:00"
+    },
+    {
+      "user": "Zabchob",
+      "vote": 1,
+      "when": "2014-03-26 15:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

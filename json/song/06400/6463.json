@@ -19,6 +19,83 @@
   "artist_names": [
     "Sidewinder"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Rirsuhacker",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "winferno",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-06-11 11:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-11 11:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-01 03:32:00"
+    },
+    {
+      "user": "xerion567",
+      "vote": 5,
+      "when": "2014-03-10 05:04:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-10 05:07:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-12-27"
+    },
+    {
+      "user": "freem",
+      "vote": 3,
+      "when": "2015-12-27"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-12-20 13:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

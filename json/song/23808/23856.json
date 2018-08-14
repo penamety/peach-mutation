@@ -25,6 +25,153 @@
   "artist_names": [
     "Rubberbrain"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-12 09:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-12 09:42:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-07-30 13:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-11 12:33:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2014-08-07 08:17:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-09-15 08:18:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2015-09-05"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-02-19 12:38:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-04-27 11:04:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-07-03"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-10-12 13:00:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 3,
+      "when": "2016-11-03 11:16:00"
+    },
+    {
+      "user": "blippyJon",
+      "vote": 3,
+      "when": "2016-11-03 11:17:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-11-24 12:23:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2017-01-06 14:26:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-04-01 20:00:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 3,
+      "when": "2017-06-19 13:08:00"
+    },
+    {
+      "user": "t3l",
+      "vote": 3,
+      "when": "2018-04-09 09:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

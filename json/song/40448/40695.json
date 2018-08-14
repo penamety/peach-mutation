@@ -26,6 +26,113 @@
   "artist_names": [
     "Shinobi"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2014-07-28 10:55:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-07-28 11:20:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-07-28 11:20:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-07-28 11:20:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-07-28 11:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-07-28 12:43:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2014-07-29"
+    },
+    {
+      "user": "Triace",
+      "vote": 4,
+      "when": "2014-07-30"
+    },
+    {
+      "user": "chellomere",
+      "vote": 5,
+      "when": "2014-07-30"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-08-26 17:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-09-16 20:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-09-16 20:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2014-11-04 20:14:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-12 23:29:00"
+    },
+    {
+      "user": "vacheatuba",
+      "vote": 4,
+      "when": "2015-01-01 17:25:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2015-04-23 15:33:00"
+    },
+    {
+      "user": "EatMe",
+      "vote": 5,
+      "when": "2016-02-10"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2016-10-16 15:00:00"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2016-10-16 15:00:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2017-04-05"
+    },
+    {
+      "user": "malmen",
+      "vote": 3,
+      "when": "2017-12-16 01:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

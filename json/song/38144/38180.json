@@ -19,6 +19,38 @@
   "last_scraped": "2018-05-23 07:29:30",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Negrostrike",
+      "vote": 5,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-03-29"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-12-14"
+    }
+  ],
   "requests": [
     {
       "user": "Negrostrike",

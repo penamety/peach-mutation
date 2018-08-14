@@ -21,5 +21,57 @@
   "source": "Game",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-02-01"
+    },
+    {
+      "user": "Vampire",
+      "vote": 4,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 4,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "HED",
+      "vote": 3,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "quazzie",
+      "vote": 4,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-03-04"
+    }
+  ],
   "requests": []
 }

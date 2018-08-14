@@ -22,6 +22,88 @@
   "artist_names": [
     "Edwin van Santen"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-09 05:38:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-09 05:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-09 05:39:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2016-02-09"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2016-02-09"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2017-01-31 10:02:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-01-31 10:02:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-31 10:06:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2018-02-15 20:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

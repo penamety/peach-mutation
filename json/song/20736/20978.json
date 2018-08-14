@@ -19,6 +19,68 @@
   "artist_names": [
     "Fab"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Jerry",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Sensei",
+      "vote": 1,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-30 09:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-30 09:00:00"
+    },
+    {
+      "user": "Gismo",
+      "vote": 3,
+      "when": "2013-12-13 14:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-03-30 14:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

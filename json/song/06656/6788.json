@@ -19,6 +19,78 @@
   "artist_names": [
     "$volkraq"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "oryx",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2013-07-06 15:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-05 08:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-05 09:29:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-27 16:03:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-08-10 09:03:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-12-22 06:33:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2017-12-25 14:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

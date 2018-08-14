@@ -26,6 +26,73 @@
   "artist_names": [
     "u4ia"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-11 01:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-11 14:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-03-12 21:28:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 1,
+      "when": "2015-05-01 14:56:00"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 1,
+      "when": "2015-05-01 14:57:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-07-11"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 2,
+      "when": "2015-07-11"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2016-02-09"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-11-06 15:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2016-11-06 15:21:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2017-05-02 21:43:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-06-06 23:02:00"
+    },
+    {
+      "user": "Thexder",
+      "vote": 2,
+      "when": "2018-06-06 23:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

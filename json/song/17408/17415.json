@@ -23,6 +23,93 @@
   "artist_names": [
     "Dolphin"
   ],
+  "votes": [
+    {
+      "user": "aaai",
+      "vote": 4,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-08 07:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-18 23:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-19 00:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-06 23:53:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2018-04-25 20:07:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2018-04-25 20:08:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-04-25 20:09:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2018-04-25 20:09:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2018-04-25 20:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

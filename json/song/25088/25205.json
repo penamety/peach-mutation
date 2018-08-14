@@ -19,6 +19,48 @@
   "artist_names": [
     "Tbob"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-22 04:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-05-29 20:56:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-06-02"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

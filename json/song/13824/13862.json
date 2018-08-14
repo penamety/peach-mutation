@@ -20,6 +20,83 @@
   "artist_names": [
     "Airworx"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "SampL",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "doggyfred",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "ubbabar",
+      "vote": 2,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-09-18 11:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-18 11:02:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-03-23 20:49:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-03-23 20:52:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-23 15:34:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-04-23 15:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

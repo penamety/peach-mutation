@@ -26,6 +26,118 @@
   "artist_names": [
     "Crazy Q"
   ],
+  "votes": [
+    {
+      "user": "gauri",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "RoC",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Arktos",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "codehead",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "eefi",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "venttiili",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Hasse",
+      "vote": 2,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-12 16:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-12 16:30:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2016-02-24 07:13:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2016-02-24 07:14:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-06-07"
+    },
+    {
+      "user": "alienNeWbeat",
+      "vote": 2,
+      "when": "2016-08-31"
+    },
+    {
+      "user": "robert",
+      "vote": 2,
+      "when": "2016-08-31"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-12-11 12:01:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-04-29 10:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "Dimouse",

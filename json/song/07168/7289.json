@@ -25,6 +25,63 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-03-08"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-03-28 13:14:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-03-28 13:17:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2016-05-21"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-10-04 23:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-11-19 18:41:00"
+    },
+    {
+      "user": "Thexder",
+      "vote": 1,
+      "when": "2017-11-19 18:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

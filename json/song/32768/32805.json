@@ -24,6 +24,68 @@
   "artist_names": [
     "Awesome"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-08-16 09:24:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2013-10-06 10:57:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-12-05 14:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-19 15:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-19 15:13:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-14 05:46:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-14 05:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

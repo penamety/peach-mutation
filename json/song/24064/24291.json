@@ -19,6 +19,18 @@
   "artist_names": [
     "Kendo"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "LeadFiner",
+      "vote": 2,
+      "when": "2010-02-02"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -20,6 +20,48 @@
   "artist_names": [
     "Dr. Awesome"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "selmi",
+      "vote": 3,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-04 01:36:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-08-05 06:40:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-09-21 14:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-14 02:13:00"
+    },
+    {
+      "user": "Turnips",
+      "vote": 4,
+      "when": "2014-04-19 00:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

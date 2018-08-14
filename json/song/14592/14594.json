@@ -23,6 +23,78 @@
   "artist_names": [
     "Banana"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-10 11:24:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2013-07-10 11:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-10 11:32:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-12-18 19:56:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-10"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-17 20:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-17 20:03:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2017-05-17 20:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

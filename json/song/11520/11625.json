@@ -24,6 +24,153 @@
   "artist_names": [
     "Acumen"
   ],
+  "votes": [
+    {
+      "user": "Bachelor",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Smanux",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "aaai",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "korkut",
+      "vote": 5,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "krusty",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "sneh",
+      "vote": 4,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-10 16:03:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-23 02:48:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-10 08:19:00"
+    },
+    {
+      "user": "jass0",
+      "vote": 3,
+      "when": "2014-07-04 06:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-04 04:34:00"
+    },
+    {
+      "user": "joes",
+      "vote": 4,
+      "when": "2015-06-14 13:10:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2016-01-31"
+    },
+    {
+      "user": "silencer",
+      "vote": 5,
+      "when": "2016-08-13"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-02-03 13:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

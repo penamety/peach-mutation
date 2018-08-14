@@ -20,6 +20,78 @@
   "artist_names": [
     "Dune"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-09-09"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-09-09"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-09"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-09-09"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-09-09"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-09"
+    },
+    {
+      "user": "skall",
+      "vote": 2,
+      "when": "2012-09-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-06-14 10:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-14 10:55:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-14 10:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-11-25 04:39:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-01-01 18:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

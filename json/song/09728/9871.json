@@ -23,6 +23,113 @@
   "artist_names": [
     "Baz"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "FishGuy876",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Vampire",
+      "vote": 5,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Smanux",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Sofad2k",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "omilian",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 5,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-06-13 11:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-13 11:41:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-12-10 08:06:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-02-23 22:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2015-03-07 16:50:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 2,
+      "when": "2015-07-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-05"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

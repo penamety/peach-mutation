@@ -20,6 +20,93 @@
   "artist_names": [
     "Mellow-D"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "tas",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-26 14:59:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-27 08:00:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-03-27 08:03:00"
+    },
+    {
+      "user": "Infovorr",
+      "vote": 5,
+      "when": "2014-09-21 00:31:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 2,
+      "when": "2014-09-21 00:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-21 01:42:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-04-18 11:16:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-05-26 22:28:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-05-26 22:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

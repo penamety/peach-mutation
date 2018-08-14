@@ -26,6 +26,68 @@
   "artist_names": [
     "Teel"
   ],
+  "votes": [
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-12-09 19:16:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-01-03 11:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-03 11:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-01-03 11:38:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-03-20 15:31:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2014-03-20 15:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-06-04 02:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-20 20:25:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 1,
+      "when": "2014-11-17 22:52:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-19 15:38:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-05-23 16:20:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 3,
+      "when": "2018-05-23 16:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Shinobi",

@@ -26,6 +26,133 @@
   "artist_names": [
     "Brothomstates"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "velusip",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "seppjo",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-26 00:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-07-26 00:35:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-11-09 20:57:00"
+    },
+    {
+      "user": "alecs",
+      "vote": 3,
+      "when": "2014-02-03 17:20:00"
+    },
+    {
+      "user": "besh",
+      "vote": 2,
+      "when": "2014-02-03 17:20:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-05-30 06:58:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-08-08 13:54:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-11-16 07:06:00"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 1,
+      "when": "2017-01-23 17:09:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2017-12-18 13:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-02-03 07:15:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2018-04-12 10:33:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-05-23 22:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

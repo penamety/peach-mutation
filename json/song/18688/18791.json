@@ -19,6 +19,63 @@
   "artist_names": [
     "Goor00"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2011-11-10"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-02 11:12:00"
+    },
+    {
+      "user": "t3l",
+      "vote": 2,
+      "when": "2015-06-07 18:37:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-01-18"
+    },
+    {
+      "user": "jamque",
+      "vote": 5,
+      "when": "2016-01-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-02-17 12:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-18 02:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

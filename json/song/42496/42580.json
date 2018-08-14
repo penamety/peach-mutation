@@ -25,6 +25,53 @@
   "artist_names": [
     "Miracle Man"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 4,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2015-12-23"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-01-09"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-25 12:46:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2016-07-21"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2017-01-26 14:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

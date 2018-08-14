@@ -22,6 +22,83 @@
   "artist_names": [
     "Juippi"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "infinigon",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "fnx",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-06-14 17:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-14 17:28:00"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 4,
+      "when": "2014-01-20 13:09:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-01-20 13:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-20 13:44:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2014-01-20 13:45:00"
+    },
+    {
+      "user": "Osmic",
+      "vote": 3,
+      "when": "2014-01-20 13:45:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-20 13:46:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-06-19 01:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

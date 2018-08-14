@@ -19,6 +19,118 @@
   "artist_names": [
     "Dragonfly"
   ],
+  "votes": [
+    {
+      "user": "Mindless",
+      "vote": 5,
+      "when": "2008-10-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-08-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 5,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "Moses",
+      "vote": 5,
+      "when": "2010-11-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 5,
+      "when": "2010-12-06"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "Machforr",
+      "vote": 4,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-01 11:12:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2013-07-01 11:13:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-01 11:13:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-07-01 11:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-01 11:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-14 23:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-01-03"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-01-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2016-03-13 14:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

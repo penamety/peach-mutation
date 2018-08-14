@@ -26,6 +26,73 @@
   "artist_names": [
     "Ben Daglish"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-06 18:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-03-06 20:14:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2015-03-06 20:14:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-03-20 07:05:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-04-21 14:52:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2015-04-21 14:53:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 5,
+      "when": "2015-04-21 14:53:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-11-16"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-01-25 04:56:00"
+    },
+    {
+      "user": "Threef",
+      "vote": 5,
+      "when": "2017-03-23"
+    },
+    {
+      "user": "t3l",
+      "vote": 4,
+      "when": "2018-04-09 09:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

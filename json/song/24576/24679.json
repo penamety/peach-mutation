@@ -25,6 +25,98 @@
   "artist_names": [
     "Soul"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "elusive",
+      "vote": 5,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-05 05:21:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-08-05 05:24:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-08-29 09:33:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2014-03-25 12:12:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-05-16 15:11:00"
+    },
+    {
+      "user": "AdvertisePlay",
+      "vote": 2,
+      "when": "2014-05-16 15:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-10-28 11:32:00"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2014-10-28 11:33:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-05-31 17:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

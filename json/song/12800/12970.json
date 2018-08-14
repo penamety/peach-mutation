@@ -26,6 +26,88 @@
   "artist_names": [
     "Some1"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "isvenger",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "digix",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-12 04:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-10-09 11:37:00"
+    },
+    {
+      "user": "egreek",
+      "vote": 5,
+      "when": "2014-10-09 11:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-11-29 10:59:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-02-01 07:40:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-09-26"
+    }
+  ],
   "requests": [
     {
       "user": "prowler",

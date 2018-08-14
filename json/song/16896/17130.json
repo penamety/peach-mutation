@@ -20,6 +20,53 @@
   "artist_names": [
     "Dizzy"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-16 06:20:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-16 06:21:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-10-04 14:25:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-23 07:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

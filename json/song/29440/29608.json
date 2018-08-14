@@ -25,6 +25,58 @@
   "artist_names": [
     "Chris M"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-17 02:11:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-12 07:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-25 21:49:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-06-11"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

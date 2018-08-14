@@ -26,6 +26,73 @@
   "artist_names": [
     "Stax"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-28 16:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-10 15:26:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2014-09-10 15:30:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2016-05-16 11:47:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-16 11:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-05-16 11:53:00"
+    },
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2016-09-09"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-12-06 07:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -23,6 +23,73 @@
   "artist_names": [
     "Zalza"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "anerte",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-06-08 01:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-08 11:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-08 11:26:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2013-11-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-03-06 07:04:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2018-04-21 15:45:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2018-04-21 15:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

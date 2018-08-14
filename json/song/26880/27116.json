@@ -21,6 +21,73 @@
   "artist_names": [
     "Beaner"
   ],
+  "votes": [
+    {
+      "user": "Bonstra",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-08-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2014-07-11 10:48:00"
+    },
+    {
+      "user": "essential",
+      "vote": 1,
+      "when": "2014-07-11 10:48:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2014-07-11 10:48:00"
+    },
+    {
+      "user": "sprocket",
+      "vote": 1,
+      "when": "2014-07-11 10:48:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 1,
+      "when": "2014-07-11 10:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-07-11 10:50:00"
+    },
+    {
+      "user": "silok",
+      "vote": 1,
+      "when": "2016-05-15 22:58:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2016-05-15 22:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

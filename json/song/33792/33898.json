@@ -25,6 +25,68 @@
   "artist_names": [
     "Elf"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-08 10:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-08 10:07:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-11-23 14:50:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2015-11-22"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-11-22"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-11-22"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-11-22"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

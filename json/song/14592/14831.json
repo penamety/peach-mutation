@@ -25,6 +25,83 @@
   "artist_names": [
     "Biboy"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2011-11-09"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2013-10-31"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-10-31 23:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-10-31 23:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-16 00:12:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-04-17 19:54:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-04-17 19:55:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 2,
+      "when": "2016-04-17 19:57:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-05-24"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2018-02-11 00:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

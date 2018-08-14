@@ -25,6 +25,58 @@
   "artist_names": [
     "Andrew Kolesnik"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-01-13 19:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-01-13 20:10:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-01-25 14:38:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-02-10 08:08:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 3,
+      "when": "2015-02-27 10:44:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2015-02-27 10:46:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-03-26"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

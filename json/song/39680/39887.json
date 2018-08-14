@@ -25,6 +25,48 @@
   "artist_names": [
     "Kashka"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-27 16:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-27 16:40:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-11 18:05:00"
+    },
+    {
+      "user": "joes",
+      "vote": 3,
+      "when": "2014-04-11 18:08:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-04-27 20:31:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-08 02:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-17 00:19:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-11-01 15:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "SPACE",

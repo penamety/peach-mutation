@@ -25,6 +25,53 @@
   "artist_names": [
     "Silok"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2013-07-02 10:19:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-07-02 10:19:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-02 10:19:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-08-22 09:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-22 09:37:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-04-03 10:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-10-21"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

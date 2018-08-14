@@ -23,6 +23,68 @@
   "artist_names": [
     "Jogeir"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-22 12:33:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-11-22 12:35:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-11-22 12:35:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-11-22 12:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-28 14:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-12-28 14:03:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-08-02 05:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

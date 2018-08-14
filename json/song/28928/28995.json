@@ -24,6 +24,83 @@
   "artist_names": [
     "Quasian"
   ],
+  "votes": [
+    {
+      "user": "Fabzirya",
+      "vote": 5,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 4,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-12-27 22:21:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-12-27 22:22:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-30 06:43:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2015-02-01 23:34:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-02-09"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

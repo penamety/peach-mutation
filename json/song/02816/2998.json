@@ -20,6 +20,128 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "Zac",
+      "vote": 1,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "skall",
+      "vote": 3,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Hasse",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2014-02-26 08:18:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2014-02-26 08:19:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2014-02-26 08:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-02-26 08:22:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-02-26 08:23:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 1,
+      "when": "2014-02-26 08:24:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-08 07:09:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2015-02-08 07:11:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-04-17 05:20:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 1,
+      "when": "2016-07-04"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2017-07-23 03:42:00"
+    },
+    {
+      "user": "Threef",
+      "vote": 1,
+      "when": "2017-07-23 03:45:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 3,
+      "when": "2017-11-29 07:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

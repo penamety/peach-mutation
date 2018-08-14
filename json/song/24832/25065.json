@@ -16,6 +16,33 @@
   "last_scraped": "2018-05-23 02:24:00",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-01-03"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

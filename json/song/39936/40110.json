@@ -21,6 +21,48 @@
   "artist_names": [
     "Avenger"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-17 12:20:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-02-17 12:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-17 12:21:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-17 12:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-02-17 12:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-04-18 21:40:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-04-04 14:00:00"
+    },
+    {
+      "user": "robert",
+      "vote": 2,
+      "when": "2016-09-22"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

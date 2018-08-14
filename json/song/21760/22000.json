@@ -19,6 +19,58 @@
   "artist_names": [
     "Mushies"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "zerkman",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-18 19:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-14 05:14:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-24 06:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-25 23:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-03-12 23:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

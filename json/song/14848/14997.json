@@ -22,6 +22,53 @@
   "artist_names": [
     "Blaizer"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-11-26 06:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-19 20:48:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-09-07"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -25,6 +25,118 @@
   "artist_names": [
     "Malekith"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "eftet",
+      "vote": 5,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Vampire",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Mikle",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 4,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "Triton",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2013-02-04"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -25,5 +25,17 @@
   "artist_names": [
     "Firefox"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2017-12-31 06:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-03-21"
+    }
+  ],
   "requests": []
 }

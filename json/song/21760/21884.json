@@ -22,6 +22,78 @@
   "artist_names": [
     "Mortimer Twang"
   ],
+  "votes": [
+    {
+      "user": "jkolb",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-31 22:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-31 22:09:00"
+    },
+    {
+      "user": "joes",
+      "vote": 3,
+      "when": "2015-06-14 21:01:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2015-09-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-09-19"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2017-02-26 23:34:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2018-02-24 17:22:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-06-07 10:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -22,6 +22,78 @@
   "artist_names": [
     "David Filskov"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2010-07-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-07-02"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2010-07-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "Sixx",
+      "vote": 5,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "Haju",
+      "vote": 5,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "Zac",
+      "vote": 5,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "vanward",
+      "vote": 4,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "tyc314159",
+      "vote": 4,
+      "when": "2012-12-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-21 00:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-06 00:01:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-02-25 05:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sixx",

@@ -23,6 +23,53 @@
   "artist_names": [
     "Fup"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-08-14"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-08-24 16:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-08-24 16:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-10 21:30:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 2,
+      "when": "2014-12-01 23:32:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 2,
+      "when": "2014-12-31 12:19:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-21 22:48:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 2,
+      "when": "2015-02-21 22:50:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2017-04-20 08:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

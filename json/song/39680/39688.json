@@ -25,6 +25,48 @@
   "artist_names": [
     "V0yager"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-03 02:25:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-12-03 15:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-03 15:09:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-12-03 15:11:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-03 15:13:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-12-26 02:29:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2014-11-11 02:19:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2016-07-28"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

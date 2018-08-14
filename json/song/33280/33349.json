@@ -22,6 +22,73 @@
   "artist_names": [
     "Spiral"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-09 05:45:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-03-10 09:17:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-03-10 09:18:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "chiefsucker",
+      "vote": 5,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-02-26 08:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

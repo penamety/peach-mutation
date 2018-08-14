@@ -23,6 +23,108 @@
   "artist_names": [
     "Shogoon"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "MyO",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "cyborgjeff",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "EZH",
+      "vote": 5,
+      "when": "2014-03-12 18:35:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-03-12 18:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-12 18:38:00"
+    },
+    {
+      "user": "CanisCanine",
+      "vote": 5,
+      "when": "2014-08-13 17:00:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 5,
+      "when": "2014-08-13 17:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-04-28 11:57:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-04-28 11:58:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-09-30 18:47:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-04-16 15:44:00"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 5,
+      "when": "2018-04-16 15:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "MyO",

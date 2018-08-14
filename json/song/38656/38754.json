@@ -26,6 +26,88 @@
   "artist_names": [
     "Den"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-06-07 13:09:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-06-07 13:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-07 13:11:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2013-09-19 19:00:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2013-09-19 19:02:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-01-07 14:25:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-01-07 14:25:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-20 08:22:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-12-11 15:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-12-24"
+    },
+    {
+      "user": "freem",
+      "vote": 3,
+      "when": "2015-12-24"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

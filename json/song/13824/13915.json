@@ -16,6 +16,43 @@
   "last_scraped": "2018-05-23 06:55:00",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-20 21:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

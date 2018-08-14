@@ -26,5 +26,147 @@
   "artist_names": [
     "Lizardking"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Rudee",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "sLASH",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "HaCKa",
+      "vote": 5,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 5,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Zac",
+      "vote": 5,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "vesseli1977",
+      "vote": 5,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "matsim",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "rv6502",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "bitl",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "velusip",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "asbjornu",
+      "vote": 4,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "pipe",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "bledking",
+      "vote": 5,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Squ33z0r",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "cxw",
+      "vote": 5,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "SampL",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2014-04-01 03:00:00"
+    },
+    {
+      "user": "Gismo",
+      "vote": 1,
+      "when": "2014-10-23 11:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-06-27 22:50:00"
+    }
+  ],
   "requests": []
 }

@@ -23,6 +23,53 @@
   "artist_names": [
     "Linus"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-08-14 22:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-08-16 08:18:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-09-25 11:05:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-09-25 11:06:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-07 11:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-07 11:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-07 11:54:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2015-03-16 15:14:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 4,
+      "when": "2018-05-26 00:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

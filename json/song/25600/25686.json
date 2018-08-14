@@ -21,6 +21,98 @@
   "artist_names": [
     "Tim Wright"
   ],
+  "votes": [
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Darkseed",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Susanna",
+      "vote": 1,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-18 01:50:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2014-01-22 12:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-22 12:59:00"
+    },
+    {
+      "user": "XaNtoR",
+      "vote": 2,
+      "when": "2014-02-14 07:13:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-24 13:49:00"
+    },
+    {
+      "user": "joes",
+      "vote": 2,
+      "when": "2014-05-24 13:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-07 23:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

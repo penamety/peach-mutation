@@ -22,6 +22,18 @@
   "artist_names": [
     "Punkt"
   ],
+  "votes": [
+    {
+      "user": "AnaMark",
+      "vote": 1,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-02-22 21:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

@@ -26,6 +26,78 @@
   "artist_names": [
     "Ziutek"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-17 19:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-05 03:09:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2015-11-07"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-11-07"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2016-07-22"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2016-07-22"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-02-04 22:13:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-04-12 18:00:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 1,
+      "when": "2017-04-12 18:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

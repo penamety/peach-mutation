@@ -16,6 +16,28 @@
   "last_scraped": "2018-05-23 04:12:24",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2011-09-03"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

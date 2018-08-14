@@ -20,6 +20,93 @@
   "artist_names": [
     "Superted"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Zac",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "hiltunen",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-29 04:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-11-28 20:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-04 19:08:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2014-02-04 19:09:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2016-04-02 14:13:00"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2016-04-02 14:14:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-20 23:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

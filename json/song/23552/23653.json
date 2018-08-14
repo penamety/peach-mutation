@@ -19,6 +19,53 @@
   "artist_names": [
     "Rimbo"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "dukzcry",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-10-11 14:30:00"
+    },
+    {
+      "user": "MikuroK",
+      "vote": 4,
+      "when": "2013-10-11 14:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-10-11 14:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-02 10:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "The_Tubes",

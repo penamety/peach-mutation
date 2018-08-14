@@ -20,6 +20,73 @@
   "artist_names": [
     "Cedyń"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Zac",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "rams",
+      "vote": 2,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "Helioth",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "chellomere",
+      "vote": 2,
+      "when": "2013-11-13 19:13:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-02-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-12-16 12:01:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-16 12:02:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-12-16 12:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-12-15 01:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

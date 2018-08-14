@@ -23,6 +23,53 @@
   "artist_names": [
     "MSK"
   ],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-21 19:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-21 19:12:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-02-10 12:49:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-10 12:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

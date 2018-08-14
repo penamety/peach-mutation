@@ -19,6 +19,73 @@
   "artist_names": [
     "MC Laser"
   ],
+  "votes": [
+    {
+      "user": "anthony62490",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Schlicky",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-03 16:19:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-08-03 16:20:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-11-25 16:41:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-11-25 16:42:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-10-22 13:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

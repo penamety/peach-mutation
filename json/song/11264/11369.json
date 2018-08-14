@@ -23,6 +23,78 @@
   "artist_names": [
     "Allister Brimble"
   ],
+  "votes": [
+    {
+      "user": "GaRaOne",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "HexenNI",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Aardvark",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "FroggyMe",
+      "vote": 4,
+      "when": "2013-09-17 04:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-17 04:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-15 17:22:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2014-03-15 17:22:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-09-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-02-12 18:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aardvark",

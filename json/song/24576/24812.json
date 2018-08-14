@@ -21,6 +21,93 @@
   "artist_names": [
     "Benjy"
   ],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 2,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "SJD",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Rapture",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-31 17:20:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-07-31 17:20:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-31 17:21:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-10-28 17:55:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-10-28 17:57:00"
+    },
+    {
+      "user": "Infovorr",
+      "vote": 1,
+      "when": "2015-01-10 20:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-01-10 20:51:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2015-03-25 20:00:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2017-06-07 13:41:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2017-06-07 13:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-06-07 13:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

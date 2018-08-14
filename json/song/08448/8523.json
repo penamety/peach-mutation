@@ -21,6 +21,148 @@
   "artist_names": [
     "Ghidorah"
   ],
+  "votes": [
+    {
+      "user": "chrono",
+      "vote": 4,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "gaben87",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 5,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2013-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-01-17 09:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-05-01 04:11:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-23 00:09:00"
+    },
+    {
+      "user": "bmn",
+      "vote": 5,
+      "when": "2014-12-23 00:10:00"
+    },
+    {
+      "user": "lenny",
+      "vote": 5,
+      "when": "2016-08-22"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-10-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-04-02"
+    },
+    {
+      "user": "H3LL4Sphoros",
+      "vote": 5,
+      "when": "2017-04-02"
+    }
+  ],
   "requests": [
     {
       "user": "wabe",

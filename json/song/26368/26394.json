@@ -19,6 +19,63 @@
   "artist_names": [
     "Moechofe"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-21 05:04:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-07-27 04:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-29 21:25:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-11-08 22:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

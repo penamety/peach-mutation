@@ -22,6 +22,58 @@
   "artist_names": [
     "Drozerix"
   ],
+  "votes": [
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-02 13:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-04 00:22:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-06-04 00:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-04 00:24:00"
+    },
+    {
+      "user": "phuck1",
+      "vote": 4,
+      "when": "2013-07-12 04:48:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-07-23 17:40:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2014-04-25 01:03:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-11-28 08:59:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-28 10:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-01-10 06:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

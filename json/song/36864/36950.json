@@ -25,6 +25,63 @@
   "artist_names": [
     "Darkman007"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-10-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-08-13 06:26:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2014-03-21 14:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-12-14"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2016-07-24"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

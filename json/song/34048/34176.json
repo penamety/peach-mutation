@@ -23,6 +23,88 @@
   "artist_names": [
     "Mark Gyro"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lilelk",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "zapzap",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-11-08 21:33:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-11-08 21:33:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-17 12:43:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-01-17 12:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-01-17 12:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-03 13:13:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-05-27"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2016-07-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-10-19 12:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

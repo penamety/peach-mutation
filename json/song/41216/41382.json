@@ -26,6 +26,73 @@
   "artist_names": [
     "Jerry"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-12-19 09:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-12-19 09:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-12-19 09:58:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-12-31 09:38:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-01-26 18:42:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-01-26 18:43:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2015-02-14 12:57:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2015-06-08 19:42:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2015-06-27 18:32:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2015-09-03"
+    },
+    {
+      "user": "Ramonb5",
+      "vote": 4,
+      "when": "2015-09-19"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-17 10:57:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-03-25 04:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

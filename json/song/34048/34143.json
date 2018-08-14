@@ -23,6 +23,173 @@
   "artist_names": [
     "Metal"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "venttiili",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-03-14"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Firetruck9",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "_wally",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "crome",
+      "vote": 5,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "crrr",
+      "vote": 5,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2013-09-11 03:49:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-28 06:32:00"
+    },
+    {
+      "user": "HED",
+      "vote": 3,
+      "when": "2015-06-23 14:17:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-05-16 04:05:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2017-05-16 04:06:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-06-08 11:52:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-27 17:44:00"
+    },
+    {
+      "user": "MrsBeanbag",
+      "vote": 4,
+      "when": "2017-12-27 17:45:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2018-02-24 08:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-05-12 01:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

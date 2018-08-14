@@ -22,6 +22,68 @@
   "artist_names": [
     "Red Ribbon"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-27 14:32:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-05 09:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-05 09:56:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-12 11:59:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-01-12 12:02:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-01-12 12:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

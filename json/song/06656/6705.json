@@ -22,5 +22,27 @@
   "artist_names": [
     "Stéphane Picq"
   ],
+  "votes": [
+    {
+      "user": "deathy",
+      "vote": 5,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-06-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-10-13 08:00:00"
+    }
+  ],
   "requests": []
 }

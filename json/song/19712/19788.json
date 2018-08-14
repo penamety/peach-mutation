@@ -19,6 +19,78 @@
   "artist_names": [
     "Jonhywalker"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "jass0",
+      "vote": 2,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "mud",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-08-04"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-04-25 19:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-04-25 19:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

@@ -19,6 +19,108 @@
   "artist_names": [
     "Dan"
   ],
+  "votes": [
+    {
+      "user": "Scribblette",
+      "vote": 1,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Jerry",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Octoate",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 2,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "Machforr",
+      "vote": 1,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-06-04 15:22:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-06-04 15:23:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-06-04 15:23:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-06-04 15:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-04 15:24:00"
+    },
+    {
+      "user": "Sketch",
+      "vote": 1,
+      "when": "2013-06-04 15:24:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-06-04 15:24:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2013-12-18 15:41:00"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 1,
+      "when": "2015-01-03 00:47:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 1,
+      "when": "2015-01-03 00:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

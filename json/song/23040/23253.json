@@ -24,6 +24,113 @@
   "artist_names": [
     "Randall"
   ],
+  "votes": [
+    {
+      "user": "DennyGSXR",
+      "vote": 1,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "zerkman",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Ishma",
+      "vote": 1,
+      "when": "2013-05-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-18"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 3,
+      "when": "2013-05-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-11-19 10:57:00"
+    },
+    {
+      "user": "deot",
+      "vote": 2,
+      "when": "2013-11-19 10:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-05 15:06:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2014-03-05 15:07:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-03-05 15:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-02-12 21:33:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2015-02-12 21:34:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-07-08 20:53:00"
+    },
+    {
+      "user": "veeall",
+      "vote": 1,
+      "when": "2017-07-08 20:53:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-07-08 20:56:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2018-04-09 21:31:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2018-04-09 21:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

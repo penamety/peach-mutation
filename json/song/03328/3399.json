@@ -16,5 +16,17 @@
   "last_scraped": "2018-05-22 23:03:45",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-07-18 21:54:00"
+    }
+  ],
   "requests": []
 }

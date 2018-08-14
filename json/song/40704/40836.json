@@ -27,6 +27,73 @@
   "artist_names": [
     "Boo"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-08-18 10:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-08-27 09:42:00"
+    },
+    {
+      "user": "Znurre",
+      "vote": 2,
+      "when": "2014-08-27 09:43:00"
+    },
+    {
+      "user": "Radar",
+      "vote": 3,
+      "when": "2014-08-27 09:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-27 09:51:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-09-12 15:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-09-12 15:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-11-06 19:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-11-06 19:37:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-12-10 15:22:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-26 14:31:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-26 14:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-02-28 06:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Robot2037",

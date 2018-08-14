@@ -23,6 +23,73 @@
   "artist_names": [
     "Puddy"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-09-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-09-09"
+    },
+    {
+      "user": "t3l",
+      "vote": 4,
+      "when": "2015-09-09"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-09-23"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 3,
+      "when": "2015-09-25"
+    },
+    {
+      "user": "Accidental",
+      "vote": 5,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "Ishma",
+      "vote": 4,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 3,
+      "when": "2016-12-15 17:15:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2016-12-15 17:16:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 5,
+      "when": "2016-12-15 17:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-10-03 04:34:00"
+    },
+    {
+      "user": "Stein",
+      "vote": 5,
+      "when": "2018-03-28 08:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "t3l",

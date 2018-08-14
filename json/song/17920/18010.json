@@ -21,6 +21,143 @@
   "artist_names": [
     "Rapture"
   ],
+  "votes": [
+    {
+      "user": "HED",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "MAT",
+      "vote": 5,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "velusip",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-08 06:23:00"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 4,
+      "when": "2013-10-06 02:46:00"
+    },
+    {
+      "user": "MikuroK",
+      "vote": 5,
+      "when": "2013-12-11 05:33:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-22 08:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-01-22 08:32:00"
+    },
+    {
+      "user": "etray",
+      "vote": 3,
+      "when": "2014-04-04 23:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-04-04 23:33:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-06-19 15:49:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 5,
+      "when": "2015-07-13"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 4,
+      "when": "2015-07-13"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2015-07-13"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-08-12"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-01-19"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-11-19 11:38:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2016-11-19 11:39:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-12-13 13:06:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 4,
+      "when": "2017-04-27 15:28:00"
+    },
+    {
+      "user": "ssirkriss",
+      "vote": 4,
+      "when": "2018-02-26 16:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

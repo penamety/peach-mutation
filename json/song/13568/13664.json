@@ -19,5 +19,22 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "gauri",
+      "vote": 3,
+      "when": "2010-12-02"
+    }
+  ],
   "requests": []
 }

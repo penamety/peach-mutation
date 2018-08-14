@@ -23,6 +23,63 @@
   "artist_names": [
     "Tim Follin"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 2,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "ghidorah",
+      "vote": 2,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-20 14:43:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2014-09-10 22:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-10 22:49:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-26 10:54:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2017-05-26 10:54:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-05-26 10:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "bif",

@@ -27,6 +27,83 @@
   "artist_names": [
     "Piirakkamunalla"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2016-10-13 21:00:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 1,
+      "when": "2016-10-13 21:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2016-10-13 21:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2016-10-13 21:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2016-11-09 07:02:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-12-20 10:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2017-02-02 08:30:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 1,
+      "when": "2017-02-02 08:31:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 1,
+      "when": "2017-03-23 19:13:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-03-23 19:15:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 1,
+      "when": "2018-05-06 21:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

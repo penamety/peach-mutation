@@ -19,6 +19,68 @@
   "artist_names": [
     "Felix Lindgren"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "velusip",
+      "vote": 3,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "bitsocker",
+      "vote": 4,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-02 03:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-09 04:56:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-04-26 13:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "bitsocker",

@@ -22,6 +22,48 @@
   "artist_names": [
     "Trixter"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-15 19:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-15 19:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

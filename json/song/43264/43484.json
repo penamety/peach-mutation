@@ -26,6 +26,68 @@
   "artist_names": [
     "codehead"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-10-16 17:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-16 17:38:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-11-07 15:38:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-11-07 15:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-11-07 16:16:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2016-11-30 19:13:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-30 19:13:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-01-29 12:22:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-01-29 12:23:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2017-03-06 17:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

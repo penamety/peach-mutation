@@ -23,6 +23,53 @@
   "artist_names": [
     "Phred"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-30 04:40:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-06-05 05:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-07 15:47:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-02-24 09:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

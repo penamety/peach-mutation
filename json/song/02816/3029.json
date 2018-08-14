@@ -20,6 +20,83 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "seatac",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Axel",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-23 05:56:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-06-18 12:59:00"
+    },
+    {
+      "user": "ChipOManiac",
+      "vote": 3,
+      "when": "2014-06-18 12:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-18 12:59:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-06-18 12:59:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2014-11-07 20:38:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 5,
+      "when": "2014-11-07 20:38:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-11-07 20:39:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-03-30 14:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

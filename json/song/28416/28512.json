@@ -16,5 +16,22 @@
   "last_scraped": "2018-05-23 07:09:16",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Moses",
+      "vote": 3,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2018-02-19 21:00:00"
+    }
+  ],
   "requests": []
 }

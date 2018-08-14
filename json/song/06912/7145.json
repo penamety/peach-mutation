@@ -19,6 +19,63 @@
   "artist_names": [
     "Traven"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-05 08:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-15 07:33:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2017-06-02 13:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

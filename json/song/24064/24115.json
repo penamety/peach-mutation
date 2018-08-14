@@ -19,6 +19,48 @@
   "artist_names": [
     "Scotty"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-21 22:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-21 22:45:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-11-21"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2016-11-07 13:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -25,6 +25,123 @@
   "artist_names": [
     "Zalza"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ubbabar",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Eshy",
+      "vote": 1,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 1,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 1,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 1,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-06-11 10:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-11 10:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-11 10:59:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 1,
+      "when": "2013-06-11 11:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-06-11 11:01:00"
+    },
+    {
+      "user": "RENJPS",
+      "vote": 1,
+      "when": "2014-02-07 10:25:00"
+    },
+    {
+      "user": "teddy",
+      "vote": 1,
+      "when": "2014-02-07 10:26:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-09-27 18:15:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2014-12-04 07:25:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-12-04 07:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "silok",

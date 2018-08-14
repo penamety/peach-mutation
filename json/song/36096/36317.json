@@ -23,6 +23,73 @@
   "artist_names": [
     "Little Elk"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "juky",
+      "vote": 3,
+      "when": "2013-06-14 16:55:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-14 16:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-14 16:56:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-10-13 14:35:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2014-10-13 14:36:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-02-15 07:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

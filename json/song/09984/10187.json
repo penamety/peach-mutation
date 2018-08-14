@@ -26,6 +26,113 @@
   "artist_names": [
     "Epi"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 5,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-04 18:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-03-13 07:01:00"
+    },
+    {
+      "user": "drobangelo",
+      "vote": 5,
+      "when": "2015-05-03 22:34:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2015-05-26 00:20:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-10-12 19:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

@@ -15,6 +15,18 @@
   "last_scraped": "2018-05-23 06:40:17",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

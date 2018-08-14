@@ -16,6 +16,23 @@
   "last_scraped": "2018-05-22 21:32:51",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "mu6k",
+      "vote": 1,
+      "when": "2009-08-02"
+    }
+  ],
   "requests": [
     {
       "user": "tyco",

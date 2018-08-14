@@ -19,6 +19,48 @@
   "artist_names": [
     "Noisefever"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "wiseman",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "WTFcore",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-11-17 18:16:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-09 15:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -21,6 +21,53 @@
   "artist_names": [
     "DeathJester"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "wiseman",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-25 06:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-07-07 14:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

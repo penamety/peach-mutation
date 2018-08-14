@@ -23,6 +23,68 @@
   "artist_names": [
     "Xaser"
   ],
+  "votes": [
+    {
+      "user": "Pink_Silver",
+      "vote": 3,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "alienNeWbeat",
+      "vote": 2,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-10 08:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-19 23:02:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-03-30 10:36:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-03-30 10:37:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2016-03-30 10:38:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-03-30 10:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-13 23:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

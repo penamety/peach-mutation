@@ -26,6 +26,88 @@
   "artist_names": [
     "Kribust"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "grachev",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Rapidkirby3k",
+      "vote": 5,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-27 21:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-05-27 21:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-19 17:45:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-03-11 19:43:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2015-08-28"
+    }
+  ],
   "requests": [
     {
       "user": "The_Tubes",

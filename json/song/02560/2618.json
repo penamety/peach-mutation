@@ -19,6 +19,58 @@
   "artist_names": [
     "Fcs And Rock"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "krakozhia",
+      "vote": 2,
+      "when": "2013-02-09"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-01-25 00:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-01-25 00:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

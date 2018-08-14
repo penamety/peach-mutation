@@ -20,6 +20,53 @@
   "artist_names": [
     "Hopper"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Speeder",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "The_Tubes",
+      "vote": 1,
+      "when": "2012-10-05"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 1,
+      "when": "2012-10-05"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2012-10-09"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-27"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

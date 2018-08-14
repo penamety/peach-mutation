@@ -18,5 +18,17 @@
   "last_scraped": "2018-05-23 09:15:48",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2010-10-03"
+    }
+  ],
   "requests": []
 }

@@ -28,6 +28,103 @@
   "artist_names": [
     "Nick Roll"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-07-06 03:50:00"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 4,
+      "when": "2015-07-06 16:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-07-18"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2015-08-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-08-17"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2015-08-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2015-11-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-11-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-12-27"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2016-01-27"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 2,
+      "when": "2016-01-27"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2016-09-18"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-12-19 20:50:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-12-19 20:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-04-19 21:51:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2017-04-19 21:51:00"
+    },
+    {
+      "user": "eefi",
+      "vote": 3,
+      "when": "2017-10-01 19:31:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-10-08 09:28:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-11-08 21:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

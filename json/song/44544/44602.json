@@ -21,6 +21,38 @@
   "artist_names": [
     "Bee Hunter"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-01-05 05:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-01-05 14:09:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2018-01-23 21:39:00"
+    },
+    {
+      "user": "veeall",
+      "vote": 5,
+      "when": "2018-03-01 05:49:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2018-05-02 13:13:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2018-06-04 13:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

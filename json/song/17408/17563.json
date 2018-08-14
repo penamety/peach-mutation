@@ -20,6 +20,63 @@
   "artist_names": [
     "Dreamer"
   ],
+  "votes": [
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-04"
+    },
+    {
+      "user": "codehead",
+      "vote": 1,
+      "when": "2012-06-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-27 06:30:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2014-12-18 19:38:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 2,
+      "when": "2014-12-18 19:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-12-18 20:35:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-02-16"
+    }
+  ],
   "requests": [
     {
       "user": "psymleko",

@@ -23,6 +23,58 @@
   "artist_names": [
     "Infra"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "kristian",
+      "vote": 1,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "im_ieee",
+      "vote": 2,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-08-21 14:39:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-08-21 14:39:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-05-14 19:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-07-05 21:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-06-05 20:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

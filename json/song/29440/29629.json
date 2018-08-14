@@ -28,6 +28,78 @@
   "artist_names": [
     "Punqtured"
   ],
+  "votes": [
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "velusip",
+      "vote": 2,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Punqtured",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Colidace",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2013-07-28 00:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-28 00:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-08 14:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-03-08 14:05:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-02-09 04:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "dukzcry",

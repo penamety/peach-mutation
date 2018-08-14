@@ -20,6 +20,73 @@
   "artist_names": [
     "Rick Millson"
   ],
+  "votes": [
+    {
+      "user": "Leho",
+      "vote": 2,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-07-05 22:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-05 22:32:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-14 05:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-04-06 23:11:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-05-23 13:17:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-06-05 12:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

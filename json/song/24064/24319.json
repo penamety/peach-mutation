@@ -25,6 +25,83 @@
   "artist_names": [
     "Shun"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "infinigon",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-04 03:10:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-26 15:40:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2014-03-26 15:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-10-31 18:51:00"
+    },
+    {
+      "user": "pave64",
+      "vote": 3,
+      "when": "2014-10-31 18:52:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-10-31 18:53:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-05-01 08:02:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-05-01 08:04:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-07-07 18:46:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-04-16 10:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

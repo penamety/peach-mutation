@@ -24,6 +24,118 @@
   "artist_names": [
     "Reed"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "perfectcode",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "sys2074",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Metalli",
+      "vote": 5,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Colidace",
+      "vote": 4,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "funnyn8",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "liquidstupid",
+      "vote": 4,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-10 18:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-20 10:53:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-29 04:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-02 22:21:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-02-02 22:24:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-05-25 01:36:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2018-01-29 15:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

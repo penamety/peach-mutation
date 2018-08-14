@@ -24,6 +24,73 @@
     "Braintumour",
     "Heywood"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "asbjornu",
+      "vote": 5,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "korkut",
+      "vote": 5,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "SageBF",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-22 23:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-22 23:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-23 00:27:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-24 04:37:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 3,
+      "when": "2016-03-11 09:25:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-03-11 09:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

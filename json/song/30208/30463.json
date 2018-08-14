@@ -25,6 +25,88 @@
   "artist_names": [
     "Zzzax"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-09-05 17:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-05 17:44:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-03-16 08:29:00"
+    },
+    {
+      "user": "Analyzer",
+      "vote": 5,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2017-04-07 14:08:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-05-09 21:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

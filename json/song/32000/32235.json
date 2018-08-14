@@ -21,6 +21,68 @@
   "artist_names": [
     "Marcer"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-09-12 13:57:00"
+    },
+    {
+      "user": "sLASH",
+      "vote": 3,
+      "when": "2013-09-12 13:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-12 14:09:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2013-11-11 23:33:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-11-11 23:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-25 08:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

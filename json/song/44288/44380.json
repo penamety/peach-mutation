@@ -25,6 +25,33 @@
   "artist_names": [
     "HideawayStudio"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-09-23 17:55:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-09-23 18:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-09-23 19:28:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-09-30 08:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-09 16:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "VodkaBot",

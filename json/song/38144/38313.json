@@ -25,6 +25,83 @@
   "artist_names": [
     "BIT"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-09 08:35:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-09 08:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-25 23:02:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-10-21 14:19:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-02-20 18:39:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-02-20 18:39:00"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 3,
+      "when": "2015-07-31"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-11-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-14"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

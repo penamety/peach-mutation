@@ -19,6 +19,93 @@
   "artist_names": [
     "PowerTrace"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-06-18 20:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-18 20:03:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2013-06-18 20:04:00"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 3,
+      "when": "2013-10-04 15:35:00"
+    },
+    {
+      "user": "Gismo",
+      "vote": 2,
+      "when": "2014-02-06 12:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-27 18:59:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2015-02-27 18:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

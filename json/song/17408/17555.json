@@ -23,6 +23,73 @@
   "artist_names": [
     "Dreamer"
   ],
+  "votes": [
+    {
+      "user": "velusip",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-29 09:58:00"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-06-29 09:59:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-29 09:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-28 04:38:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-12-10 16:23:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-04-09 11:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-13 20:18:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-06-13 20:20:00"
+    },
+    {
+      "user": "essential",
+      "vote": 3,
+      "when": "2014-06-13 20:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

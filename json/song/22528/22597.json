@@ -24,6 +24,148 @@
   "artist_names": [
     "Patrick Phelan"
   ],
+  "votes": [
+    {
+      "user": "MyO",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "OSH",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Fabzirya",
+      "vote": 5,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "qbit",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Octoate",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "krusty",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 5,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-06-24 01:47:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-07-19 16:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-19 16:32:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-07-19 16:33:00"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 5,
+      "when": "2013-11-02 12:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-26 13:04:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2014-11-15 10:01:00"
+    },
+    {
+      "user": "sdjm",
+      "vote": 3,
+      "when": "2016-02-26"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 5,
+      "when": "2016-04-21 07:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-04-21 07:34:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2017-04-20 10:38:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 4,
+      "when": "2017-04-20 10:38:00"
+    },
+    {
+      "user": "veeall",
+      "vote": 5,
+      "when": "2017-07-14 00:33:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 5,
+      "when": "2017-07-14 01:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "Octoate",

@@ -20,6 +20,58 @@
   "artist_names": [
     "deathy"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-02-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-25 07:50:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2014-02-21 12:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-21 12:26:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2016-10-27 13:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-05-13 23:16:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-05-13 23:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

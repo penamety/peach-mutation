@@ -26,6 +26,123 @@
   "artist_names": [
     "Jobe"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Colidace",
+      "vote": 1,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2012-11-09"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2013-07-11 15:17:00"
+    },
+    {
+      "user": "DexterAYS",
+      "vote": 1,
+      "when": "2013-07-11 15:18:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-07-11 15:18:00"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2013-07-11 15:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-11 15:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-01-18 21:53:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-01-18 21:54:00"
+    },
+    {
+      "user": "Fireball",
+      "vote": 1,
+      "when": "2015-03-25 18:00:00"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 1,
+      "when": "2015-03-25 18:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-05-30 15:20:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2015-12-19"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2017-05-01 21:20:00"
+    },
+    {
+      "user": "omilian",
+      "vote": 1,
+      "when": "2018-03-09 04:51:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 1,
+      "when": "2018-04-29 05:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

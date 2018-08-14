@@ -27,6 +27,78 @@
   "artist_names": [
     "Shaiggon"
   ],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 5,
+      "when": "2017-08-07 20:06:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-08-07 22:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-08-07 22:02:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2017-08-12 12:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2017-08-12 12:15:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-08-19 10:20:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-08-25 20:45:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-08-25 20:46:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-11-03 13:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-03 13:08:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2017-12-26 13:56:00"
+    },
+    {
+      "user": "Voobr",
+      "vote": 3,
+      "when": "2018-01-24 02:36:00"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 3,
+      "when": "2018-03-18 19:00:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "vote": 5,
+      "when": "2018-05-07 18:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "Rage",

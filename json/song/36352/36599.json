@@ -21,6 +21,58 @@
   "artist_names": [
     "Paokala"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-06-02 20:16:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2015-06-02 20:16:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2016-10-06"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

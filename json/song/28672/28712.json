@@ -23,6 +23,53 @@
   "artist_names": [
     "DJ Cat"
   ],
+  "votes": [
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Radar",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-05-07 11:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-18 23:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-10-18 23:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

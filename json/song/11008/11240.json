@@ -26,6 +26,158 @@
   "artist_names": [
     "Some1"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Rudee",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Hattmannen",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Mindless",
+      "vote": 5,
+      "when": "2013-06-09 03:38:00"
+    },
+    {
+      "user": "turbine5",
+      "vote": 5,
+      "when": "2013-08-23 03:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-23 03:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-01-17 11:53:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2014-01-17 11:57:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2014-11-16 20:09:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-02-01 18:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-03-02 08:15:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-05-25 04:44:00"
+    },
+    {
+      "user": "0A000h",
+      "vote": 5,
+      "when": "2015-07-16"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-22"
+    },
+    {
+      "user": "essential",
+      "vote": 4,
+      "when": "2015-10-22"
+    },
+    {
+      "user": "kirsche",
+      "vote": 5,
+      "when": "2015-10-22"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2015-11-08"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-03-11 12:06:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2017-12-13 09:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

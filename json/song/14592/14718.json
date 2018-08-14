@@ -24,6 +24,93 @@
   "artist_names": [
     "Beathoven"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-08-14 17:57:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-12-02 07:45:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-01-25 09:59:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-09 06:16:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-04-09 06:16:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-04-15 19:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-04-15 20:30:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-04-10 21:02:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-06-11 15:39:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-05-08 12:56:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-05-08 12:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

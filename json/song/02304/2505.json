@@ -19,6 +19,63 @@
   "artist_names": [
     "Fash"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-10"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2012-10-10"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-22 03:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-09-05 18:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-05 18:42:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-04-21 22:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-03-31"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

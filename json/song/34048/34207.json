@@ -26,6 +26,73 @@
   "artist_names": [
     "Bass-Cadet"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-01 22:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-12-14 10:42:00"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2014-03-04 15:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-05-10 16:40:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-09-12"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-06-07 16:21:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2018-06-07 16:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

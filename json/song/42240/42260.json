@@ -26,6 +26,93 @@
   "artist_names": [
     "GTK"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "codehead",
+      "vote": 3,
+      "when": "2015-09-23"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-09-23"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2016-05-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2016-11-11 20:41:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 2,
+      "when": "2017-01-08 15:39:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2017-01-08 15:41:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2017-08-22 22:07:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2017-08-22 22:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

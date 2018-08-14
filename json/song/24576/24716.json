@@ -19,6 +19,53 @@
   "artist_names": [
     "Spatulaman"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-19 09:34:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-01-24 21:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-09-30"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-06-23 00:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

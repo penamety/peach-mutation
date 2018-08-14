@@ -19,6 +19,68 @@
   "artist_names": [
     "Cold Machine"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-02 04:50:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-06 04:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-11-06 04:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-25 23:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-05-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-05-24"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-18 07:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

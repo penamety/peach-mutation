@@ -24,6 +24,63 @@
   "artist_names": [
     "505"
   ],
+  "votes": [
+    {
+      "user": "br4inlock",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-30 05:15:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-11-01 13:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-11-01 13:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-02-24 20:23:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-02-24 20:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

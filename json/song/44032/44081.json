@@ -26,6 +26,53 @@
   "artist_names": [
     "BTS"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2017-06-09 21:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-06-09 22:06:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-06-10 07:17:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-06-10 07:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-06-10 07:22:00"
+    },
+    {
+      "user": "Mindiell",
+      "vote": 5,
+      "when": "2017-06-15 16:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2017-06-15 16:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-08-17 14:11:00"
+    },
+    {
+      "user": "MrsBeanbag",
+      "vote": 3,
+      "when": "2018-03-18 20:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

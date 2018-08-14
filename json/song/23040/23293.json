@@ -19,6 +19,53 @@
   "artist_names": [
     "Jade"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-29 14:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-04-25 13:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-06-27 16:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-11-11 09:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-11-11 09:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

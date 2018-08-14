@@ -23,6 +23,68 @@
   "artist_names": [
     "Starpath"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "motherchip",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "ldc",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-07 19:12:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-07 19:13:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-12-24 16:07:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-04-10 10:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-10 10:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-10 07:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

@@ -26,6 +26,123 @@
   "artist_names": [
     "mch"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ldc",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "SampL",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-05-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-06 22:15:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2016-02-17 02:04:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-01-23 10:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-03-05 21:45:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2018-03-05 21:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "Ultrasyd",

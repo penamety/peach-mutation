@@ -20,6 +20,93 @@
   "artist_names": [
     "Tbob"
   ],
+  "votes": [
+    {
+      "user": "aaai",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-16 12:35:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2013-10-16 12:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-10-16 12:36:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-10-16 12:36:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2014-05-06 10:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-06-08 22:12:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2015-12-29"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-12-29"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2015-12-29"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-01-08 11:34:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-01-08 11:36:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2017-06-22 00:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

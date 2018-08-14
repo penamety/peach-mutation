@@ -26,6 +26,93 @@
     "Gore",
     "Reindeer"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-01-07 12:30:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-01-07 12:30:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-01-07 12:32:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-07 12:33:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-01-25 19:45:00"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2015-01-25 19:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-01-25 20:04:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2015-03-31 19:57:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 3,
+      "when": "2015-07-03 18:47:00"
+    },
+    {
+      "user": "tohe",
+      "vote": 4,
+      "when": "2016-01-26"
+    },
+    {
+      "user": "zeograd",
+      "vote": 4,
+      "when": "2016-01-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-11-14 17:25:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-14 17:26:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2017-02-28 08:02:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-28 08:03:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-10-07 01:59:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-06-16 18:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

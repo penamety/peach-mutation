@@ -24,6 +24,58 @@
   "artist_names": [
     "Beaner"
   ],
+  "votes": [
+    {
+      "user": "Axioplase",
+      "vote": 1,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2012-05-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-09 03:10:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-18 13:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-02-18 13:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

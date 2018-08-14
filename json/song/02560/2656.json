@@ -25,6 +25,58 @@
   "artist_names": [
     "Firefox"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-08 07:21:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-03-24 09:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-03-24 09:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-03-24 09:27:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 3,
+      "when": "2016-04-14 23:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

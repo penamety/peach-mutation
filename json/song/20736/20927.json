@@ -20,6 +20,138 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "LSA_Vinnie",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Arktos",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "mud",
+      "vote": 5,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-11-04 16:48:00"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2013-11-04 16:49:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 5,
+      "when": "2014-08-19 15:00:00"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2014-08-19 15:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-12-05 04:22:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-01-07 12:14:00"
+    },
+    {
+      "user": "Mindiell",
+      "vote": 5,
+      "when": "2015-03-12 13:38:00"
+    },
+    {
+      "user": "PhotonStorm",
+      "vote": 5,
+      "when": "2016-11-08 00:16:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-01-17 00:36:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2018-02-12 17:57:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 5,
+      "when": "2018-02-12 17:58:00"
+    },
+    {
+      "user": "EZH",
+      "vote": 4,
+      "when": "2018-02-12 18:00:00"
+    },
+    {
+      "user": "grazey",
+      "vote": 4,
+      "when": "2018-02-12 18:00:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 4,
+      "when": "2018-02-12 18:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2018-02-12 18:01:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-03-20 10:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

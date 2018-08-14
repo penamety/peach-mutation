@@ -19,6 +19,53 @@
   "artist_names": [
     "Shs"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-13 09:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-17 18:49:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-16 16:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

@@ -25,6 +25,68 @@
   "artist_names": [
     "Andreas Viklund"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-07-11"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2016-07-11"
+    },
+    {
+      "user": "el_infame",
+      "vote": 4,
+      "when": "2016-07-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-07-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-07-11"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-07-18"
+    },
+    {
+      "user": "Flatline",
+      "vote": 2,
+      "when": "2016-08-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-08-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-10-21 07:52:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2016-11-16 11:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-16 11:32:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-11-16 11:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

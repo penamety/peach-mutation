@@ -26,6 +26,53 @@
   "artist_names": [
     "DSH"
   ],
+  "votes": [
+    {
+      "user": "Dascon",
+      "vote": 2,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-10-18 09:53:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-11-09 12:09:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-11-09 12:10:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-09 12:11:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-01-03 13:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "Gargaj",

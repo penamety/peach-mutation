@@ -26,6 +26,78 @@
   "artist_names": [
     "Gore"
   ],
+  "votes": [
+    {
+      "user": "Hasse",
+      "vote": 1,
+      "when": "2015-01-06 15:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-01-06 15:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-12 23:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-22 09:50:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-01-22 09:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-01-22 09:52:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2016-01-02"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-08-28"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-08-28"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-11-10 12:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-10 12:25:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-11-10 12:25:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2017-05-04 04:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

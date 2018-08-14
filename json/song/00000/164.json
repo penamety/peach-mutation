@@ -19,6 +19,58 @@
   "artist_names": [
     "Aeroflot"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2008-11-01"
+    },
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2011-01-31"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-17 03:49:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2014-01-26 17:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-05-14 20:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2017-04-26 09:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

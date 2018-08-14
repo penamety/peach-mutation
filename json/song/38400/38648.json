@@ -26,6 +26,58 @@
   "artist_names": [
     "Dr Krall"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-06-12 11:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-06-12 11:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-21 18:02:00"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2015-08-21"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-10-01"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2018-03-31 08:39:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 1,
+      "when": "2018-03-31 08:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

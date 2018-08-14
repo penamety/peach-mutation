@@ -19,6 +19,58 @@
   "artist_names": [
     "Psychofreud"
   ],
+  "votes": [
+    {
+      "user": "Genetic_Gemini",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-26 00:46:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-05-12 12:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-05-12 12:55:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-25 09:06:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-05-10 07:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

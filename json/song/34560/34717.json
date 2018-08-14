@@ -26,6 +26,73 @@
   "artist_names": [
     "Elrinth"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-28 08:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-28 08:00:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2014-04-11 11:20:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-04-11 11:20:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-11-02 03:40:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-11-22 06:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

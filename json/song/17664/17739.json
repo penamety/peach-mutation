@@ -23,6 +23,58 @@
   "artist_names": [
     "Einstein"
   ],
+  "votes": [
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "caiwan",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-09 09:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-04-17 14:06:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 3,
+      "when": "2015-04-17 14:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-04-17 14:21:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-06-25 18:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "Neobyte",

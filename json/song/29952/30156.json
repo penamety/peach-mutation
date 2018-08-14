@@ -26,6 +26,83 @@
   "artist_names": [
     "Christian Mæland"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "cxw",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Radar",
+      "vote": 5,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-12 16:49:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2013-07-12 16:49:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2013-08-14 16:17:00"
+    },
+    {
+      "user": "timmy",
+      "vote": 4,
+      "when": "2014-02-20 05:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-14 03:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

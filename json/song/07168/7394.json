@@ -25,6 +25,53 @@
   "artist_names": [
     "505"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-16 05:38:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-16 05:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-06-05 06:20:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-07-14 18:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

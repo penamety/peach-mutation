@@ -23,6 +23,58 @@
   "artist_names": [
     "Estrayk"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-10-17"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-10-17"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-07 06:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-27 06:08:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-06-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-06-20"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2017-10-13 16:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

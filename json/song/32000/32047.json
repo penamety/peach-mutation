@@ -25,6 +25,98 @@
   "artist_names": [
     "Rob Hubbard"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "baabeli",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-01 04:48:00"
+    },
+    {
+      "user": "menthes",
+      "vote": 5,
+      "when": "2013-09-18 02:27:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 4,
+      "when": "2013-09-18 02:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-18 22:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-10 12:15:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-02-10 12:16:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-02-10 12:17:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-10 12:18:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 4,
+      "when": "2014-11-04 00:25:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2014-11-04 00:27:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2015-03-12 03:18:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-06-01 01:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

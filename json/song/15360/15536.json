@@ -19,6 +19,53 @@
   "artist_names": [
     "Cerror"
   ],
+  "votes": [
+    {
+      "user": "cxw",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-13 22:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "cxw",

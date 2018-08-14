@@ -19,6 +19,78 @@
   "artist_names": [
     "Shrift"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "ZTube",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-06 08:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-12 18:53:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-02-12 18:54:00"
+    },
+    {
+      "user": "onc",
+      "vote": 1,
+      "when": "2014-02-12 18:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-11-01 20:15:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-11-01 20:16:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2014-11-01 20:19:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-11-01 20:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

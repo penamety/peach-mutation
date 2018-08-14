@@ -20,6 +20,73 @@
   "artist_names": [
     "Tada"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-28 13:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-28 13:29:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-07-31 19:01:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-14"
+    },
+    {
+      "user": "PypeBros",
+      "vote": 1,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-10-05 18:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

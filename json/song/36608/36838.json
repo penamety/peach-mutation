@@ -27,6 +27,113 @@
   "artist_names": [
     "Jerry"
   ],
+  "votes": [
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "jakov",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "tas",
+      "vote": 5,
+      "when": "2013-07-23 16:19:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-09-19 10:53:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2014-03-29 18:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-10-08 00:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-08-21"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-03-24 12:58:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-06-07 21:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "_wally",

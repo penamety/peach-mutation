@@ -19,6 +19,78 @@
   "artist_names": [
     "Little Bitchard"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2009-02-01"
+    },
+    {
+      "user": "chrono",
+      "vote": 1,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "skall",
+      "vote": 3,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-10 22:42:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2014-01-10 22:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-10 22:43:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-08-25 19:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-11-05 19:33:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2018-05-10 10:56:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2018-05-10 10:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

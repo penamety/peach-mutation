@@ -23,6 +23,83 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "dasepsilon",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "klashn",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "tomi",
+      "vote": 4,
+      "when": "2013-08-29 23:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-29 23:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-29 23:48:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-08-29 23:48:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-08-29 23:49:00"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2014-11-24 13:21:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-11-24 13:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-01-04 10:04:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2018-01-04 10:06:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2018-02-01 05:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "Lancastersilk",

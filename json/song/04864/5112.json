@@ -20,6 +20,58 @@
   "artist_names": [
     "Muffler"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-19 04:40:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-27 08:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-26 23:14:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2015-03-26 23:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

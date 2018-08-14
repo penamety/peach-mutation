@@ -27,6 +27,78 @@
   "artist_names": [
     "Blade"
   ],
+  "votes": [
+    {
+      "user": "caminante",
+      "vote": 5,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-28 03:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-28 03:00:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 5,
+      "when": "2014-02-20 05:37:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2017-05-16 03:35:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-05-16 03:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "caminante",

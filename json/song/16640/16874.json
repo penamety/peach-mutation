@@ -25,6 +25,93 @@
   "artist_names": [
     "David Whittaker"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "tas",
+      "vote": 3,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-31 23:12:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-27 23:15:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2014-02-27 23:16:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 5,
+      "when": "2014-02-27 23:17:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-02-18 20:37:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-02-18 20:37:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2015-02-18 20:37:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2015-08-06"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2016-02-26 12:45:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-07-07 12:14:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-07-07 12:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

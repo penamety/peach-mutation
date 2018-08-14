@@ -20,5 +20,32 @@
   "artist_names": [
     "Chuck Biscuits"
   ],
+  "votes": [
+    {
+      "user": "muffinsdotexe",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Fabzirya",
+      "vote": 1,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-11-09"
+    }
+  ],
   "requests": []
 }

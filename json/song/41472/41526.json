@@ -24,6 +24,63 @@
   "artist_names": [
     "Amadeus Voxon"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-01-13 13:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-01-24 23:31:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-02-09 07:54:00"
+    },
+    {
+      "user": "ashesofpain",
+      "vote": 5,
+      "when": "2015-02-24 11:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-02-24 11:52:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-02-24 12:01:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2015-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Colidace",
+      "vote": 3,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-02-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-06-02 10:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

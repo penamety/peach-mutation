@@ -19,6 +19,63 @@
   "artist_names": [
     "Red Ribbon"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2008-12-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "mud",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-16 06:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

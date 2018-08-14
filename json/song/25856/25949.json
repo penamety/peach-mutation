@@ -19,6 +19,53 @@
   "artist_names": [
     "TwiTerror"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-10 16:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-04-04 08:02:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-08-05 20:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-08-05 20:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

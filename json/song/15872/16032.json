@@ -19,6 +19,78 @@
   "artist_names": [
     "Codi"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Jerry",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Octoate",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-22 13:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-22 13:53:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-07-22 13:55:00"
+    },
+    {
+      "user": "antipod",
+      "vote": 2,
+      "when": "2014-06-12 10:13:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-16 13:58:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2017-02-16 14:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2018-04-21 13:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

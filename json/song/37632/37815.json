@@ -24,6 +24,88 @@
   "artist_names": [
     "Robric"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-22 16:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-22 16:41:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-08-22 16:42:00"
+    },
+    {
+      "user": "lenny",
+      "vote": 4,
+      "when": "2013-12-08 07:05:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-10 01:23:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-08-10 01:24:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-03-10 14:16:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-03-10 14:17:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2016-03-10 14:18:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-04-19 19:20:00"
+    },
+    {
+      "user": "EXJ",
+      "vote": 4,
+      "when": "2016-04-19 19:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

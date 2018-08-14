@@ -19,6 +19,53 @@
   "artist_names": [
     "Gojita"
   ],
+  "votes": [
+    {
+      "user": "CaptCookie",
+      "vote": 2,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-08-10 19:04:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-08-10 19:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-07-24 00:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-10-01 14:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

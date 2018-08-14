@@ -25,6 +25,78 @@
   "artist_names": [
     "Busy Brain"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-14 09:30:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-14 09:31:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-03-20 11:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -21,6 +21,28 @@
   "artist_names": [
     "Gusse"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-05-11"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2018-05-25 19:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-05-25 19:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-05-25 19:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

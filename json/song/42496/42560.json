@@ -22,6 +22,58 @@
   "artist_names": [
     "elblanco"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "codehead",
+      "vote": 2,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2016-01-09"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-01-09"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-04-19 22:44:00"
+    },
+    {
+      "user": "Shinsakuto",
+      "vote": 3,
+      "when": "2016-09-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-09-27 00:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

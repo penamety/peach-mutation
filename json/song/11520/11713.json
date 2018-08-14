@@ -23,5 +23,17 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2009-09-02"
+    }
+  ],
   "requests": []
 }

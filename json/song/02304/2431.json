@@ -21,6 +21,53 @@
   "artist_names": [
     "Estrayk"
   ],
+  "votes": [
+    {
+      "user": "anderaiso",
+      "vote": 2,
+      "when": "2010-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-08-31"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-03 22:32:00"
+    },
+    {
+      "user": "alecs",
+      "vote": 2,
+      "when": "2014-02-03 22:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -23,6 +23,73 @@
   "artist_names": [
     "Jesper Kyd"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "SageBF",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "zensonic",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-08-25 19:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-25 19:47:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-01 03:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-23 15:18:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-09-04 12:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

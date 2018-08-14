@@ -25,6 +25,238 @@
   "artist_names": [
     "Neko"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "BeautyNerd",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "bitl",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Mindless",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "SampL",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "slartibartfast",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "tails_",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "vacheatuba",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "neutron",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "RoC",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "cxw",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "doggyfred",
+      "vote": 2,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "caminante",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 5,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "ldc",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Kathup",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "zmurf",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "crrr",
+      "vote": 5,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-28 21:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-28 21:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-05-28 21:00:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2013-07-13 15:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-30 10:21:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-10-20 18:37:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 5,
+      "when": "2015-09-11"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 3,
+      "when": "2016-05-06 19:46:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-08-02 10:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "prowler",

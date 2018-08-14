@@ -20,5 +20,32 @@
   "artist_names": [
     "Geir Tjelta"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-04-08 19:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-10-27"
+    }
+  ],
   "requests": []
 }

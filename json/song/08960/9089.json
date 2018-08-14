@@ -23,6 +23,63 @@
   "artist_names": [
     "Maggot"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-21 00:28:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-11-21 00:29:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-04-26 13:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

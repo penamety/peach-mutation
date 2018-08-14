@@ -26,6 +26,58 @@
   "artist_names": [
     "IMP"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-01-07 21:41:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-07 21:50:00"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2015-01-19 13:28:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-02-03 07:43:00"
+    },
+    {
+      "user": "admchm",
+      "vote": 4,
+      "when": "2015-02-03 07:44:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-02-03 07:45:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-02-03 07:46:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-03-03 10:42:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-04"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2017-08-29 00:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "Abrahaz",

@@ -24,6 +24,58 @@
   "artist_names": [
     "Toalnkor"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-13 01:21:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-01-29 22:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-29 22:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-01-07 15:24:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-09-25 23:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

@@ -21,6 +21,63 @@
   "artist_names": [
     "Acell"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "AnaMark",
+      "vote": 1,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-04 06:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-09-04 14:24:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2014-09-04 14:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

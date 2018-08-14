@@ -24,6 +24,108 @@
   "artist_names": [
     "Crazy Q"
   ],
+  "votes": [
+    {
+      "user": "RoC",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 5,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-20 03:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-03-01 13:56:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-05-26 08:29:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-05-26 08:30:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-07-08 19:47:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2016-12-11 12:21:00"
+    },
+    {
+      "user": "medinuxx",
+      "vote": 5,
+      "when": "2016-12-11 12:22:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2016-12-11 12:24:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2017-07-06 22:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

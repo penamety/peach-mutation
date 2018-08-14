@@ -26,6 +26,78 @@
   "artist_names": [
     "HyperUnknown"
   ],
+  "votes": [
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-16 10:00:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-06-16 10:51:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-06-16 10:51:00"
+    },
+    {
+      "user": "dcb",
+      "vote": 4,
+      "when": "2013-06-16 10:52:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-06-16 10:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-07-10 08:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-10 08:51:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-11-25 11:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-25 11:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-25 11:58:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-12-22"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 4,
+      "when": "2015-12-22"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2015-12-22"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2017-04-28 13:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

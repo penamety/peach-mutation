@@ -20,6 +20,78 @@
   "artist_names": [
     "The Undertaker"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "venttiili",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Riphur",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-11-16 03:30:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-03-09 15:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-03-09 15:23:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2015-08-31"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2016-03-27 17:50:00"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 1,
+      "when": "2017-05-06 17:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "SPACE",

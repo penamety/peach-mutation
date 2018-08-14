@@ -19,6 +19,48 @@
   "artist_names": [
     "Nigel Grieve"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-05-22 22:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-05-22 23:01:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-09-16"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -25,6 +25,88 @@
     "Prime",
     "Some1"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "motherchip",
+      "vote": 5,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-04-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-06 04:09:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2013-11-14 20:58:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-22 02:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-05-17 21:25:00"
+    },
+    {
+      "user": "turbine5",
+      "vote": 4,
+      "when": "2014-05-17 21:28:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-03-28 12:27:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "zeograd",
+      "vote": 3,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2018-02-10 02:00:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 3,
+      "when": "2018-03-21 10:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

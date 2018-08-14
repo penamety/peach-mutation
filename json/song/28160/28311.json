@@ -23,6 +23,68 @@
   "artist_names": [
     "Virt"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-14 06:57:00"
+    },
+    {
+      "user": "CanisCanine",
+      "vote": 1,
+      "when": "2014-10-10 19:27:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 2,
+      "when": "2014-12-19 11:39:00"
+    },
+    {
+      "user": "PhotonStorm",
+      "vote": 1,
+      "when": "2016-05-12 02:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-02-16 10:04:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 3,
+      "when": "2017-02-16 10:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

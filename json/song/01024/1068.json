@@ -20,6 +20,78 @@
   "artist_names": [
     "Chromag"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2009-02-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2013-06-12 20:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-12 20:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-13 05:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-05 06:12:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2016-02-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-10-22 06:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "SJD",

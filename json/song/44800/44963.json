@@ -23,6 +23,23 @@
   "artist_names": [
     "Kangaroo MusiQue"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-22 06:53:00"
+    },
+    {
+      "user": "luminous",
+      "vote": 2,
+      "when": "2018-05-22 06:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-05-22 06:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

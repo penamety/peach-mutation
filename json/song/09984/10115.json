@@ -25,6 +25,68 @@
   "artist_names": [
     "Mixer"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-08 23:30:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2015-10-08"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-05-29"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-05-29"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-29"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-10-05 14:40:00"
+    },
+    {
+      "user": "Mindiell",
+      "vote": 1,
+      "when": "2017-10-05 14:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

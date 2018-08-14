@@ -19,6 +19,53 @@
   "artist_names": [
     "Swag"
   ],
+  "votes": [
+    {
+      "user": "chellomere",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "nvictor",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-29 05:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-23 22:56:00"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2015-10-06"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2017-04-29 00:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

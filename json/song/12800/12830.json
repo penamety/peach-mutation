@@ -25,6 +25,33 @@
   "artist_names": [
     "Elrinth"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-25 00:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "mufftin",

@@ -22,6 +22,83 @@
   "artist_names": [
     "Cerror"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "alebu",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "H0lySh1t",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-18 07:26:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-11-18 07:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-08-09 23:03:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-08-09 23:09:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-09-11"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

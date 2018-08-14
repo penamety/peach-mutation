@@ -23,6 +23,93 @@
     "Booker",
     "Olsen"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Rage",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-26 15:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-26 15:25:00"
+    },
+    {
+      "user": "brightentayle",
+      "vote": 5,
+      "when": "2013-08-26 15:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-08-26 15:25:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 2,
+      "when": "2013-08-26 15:26:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-24 05:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-05-18 00:57:00"
+    },
+    {
+      "user": "Venty",
+      "vote": 5,
+      "when": "2014-05-18 00:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Chakotay",

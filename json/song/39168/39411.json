@@ -25,6 +25,53 @@
   "artist_names": [
     "Dakota"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-01 08:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-25 12:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-25 12:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-27 08:58:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-02-04 20:30:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-02-04 20:31:00"
+    },
+    {
+      "user": "alecs",
+      "vote": 4,
+      "when": "2014-02-04 20:32:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2015-10-15"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-19 13:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

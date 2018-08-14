@@ -22,6 +22,138 @@
   "artist_names": [
     "Cyborg Jeff"
   ],
+  "votes": [
+    {
+      "user": "Susanna",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Zac",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "gauri",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Clanfear",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Tudhalyas",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2011-11-09"
+    },
+    {
+      "user": "selmi",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "Grit",
+      "vote": 4,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-18 01:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-18 01:38:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-12-05 23:05:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-12-05 23:05:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2018-01-24 04:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

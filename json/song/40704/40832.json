@@ -23,6 +23,63 @@
   "artist_names": [
     "Norfair"
   ],
+  "votes": [
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-08-18 14:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-08-18 14:00:00"
+    },
+    {
+      "user": "joes",
+      "vote": 5,
+      "when": "2014-08-18 14:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-18 14:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-18 15:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-08-28 21:29:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-08-28 21:30:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-09-12 20:04:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-09-12 20:06:00"
+    },
+    {
+      "user": "egreek",
+      "vote": 3,
+      "when": "2014-09-29 21:31:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-11-23 12:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

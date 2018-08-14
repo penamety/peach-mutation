@@ -19,6 +19,88 @@
   "artist_names": [
     "Aeroflot"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2008-11-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-01-31"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-27 02:24:00"
+    },
+    {
+      "user": "oryx",
+      "vote": 4,
+      "when": "2014-01-27 02:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-05-15 20:31:00"
+    },
+    {
+      "user": "turbine5",
+      "vote": 3,
+      "when": "2014-05-15 20:40:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-09-28 17:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-09-28 17:30:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-11-22 11:39:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-22 11:39:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-11-22 11:39:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-11-22 11:41:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-11-22 11:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

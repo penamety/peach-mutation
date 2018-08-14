@@ -19,6 +19,63 @@
   "artist_names": [
     "Danko"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "scanjam",
+      "vote": 2,
+      "when": "2014-07-24 01:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-07-24 01:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-07-24 01:06:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2015-12-18"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-12-18"
+    }
+  ],
   "requests": [
     {
       "user": "rams",

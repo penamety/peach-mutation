@@ -19,6 +19,53 @@
   "artist_names": [
     "Gspot"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-08-03 08:28:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2014-08-03 08:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-10-04"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

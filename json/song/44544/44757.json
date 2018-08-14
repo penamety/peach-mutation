@@ -23,6 +23,28 @@
   "artist_names": [
     "Throb"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-06-10 09:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-05-09 09:17:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-05-09 09:17:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-03-26"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -21,6 +21,73 @@
   "artist_names": [
     "Melomaniac"
   ],
+  "votes": [
+    {
+      "user": "colonel_mustard",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "jellybubble",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-03 13:50:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-11-03 13:50:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-09-21 02:29:00"
+    },
+    {
+      "user": "Infovorr",
+      "vote": 1,
+      "when": "2014-09-21 02:30:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-09-21 02:30:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-03 18:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-03 18:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

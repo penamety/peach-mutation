@@ -22,6 +22,73 @@
   "artist_names": [
     "Treks"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Latis",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "peach",
+      "vote": 1,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-30 17:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-06-30 17:33:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-06-30 17:33:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 1,
+      "when": "2014-10-25 23:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-10-25 23:25:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-08-27"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

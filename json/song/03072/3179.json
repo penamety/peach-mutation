@@ -23,6 +23,98 @@
   "artist_names": [
     "Infra"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "tomi",
+      "vote": 2,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-30 01:41:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-19 15:30:00"
+    },
+    {
+      "user": "RENJPS",
+      "vote": 1,
+      "when": "2014-02-19 15:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-19 15:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-07-05 21:57:00"
+    },
+    {
+      "user": "shazz",
+      "vote": 2,
+      "when": "2015-07-05 21:57:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-01-29"
+    },
+    {
+      "user": "Rapture",
+      "vote": 2,
+      "when": "2017-03-07 11:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-03-07 11:00:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 2,
+      "when": "2018-04-30 15:29:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2018-04-30 15:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

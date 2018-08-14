@@ -20,6 +20,128 @@
   "artist_names": [
     "DJ 3.14"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "MyO",
+      "vote": 1,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "magipp",
+      "vote": 1,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "jetpropulsion",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-09 01:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-09 01:08:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 1,
+      "when": "2015-07-27"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-07 14:05:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2017-05-07 14:08:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-05-07 14:11:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2018-02-20 18:49:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 2,
+      "when": "2018-02-20 18:49:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-02-20 18:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-02-20 18:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

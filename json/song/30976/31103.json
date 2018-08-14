@@ -27,6 +27,73 @@
   "artist_names": [
     "daZe"
   ],
+  "votes": [
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-26 23:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-26 23:19:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-04-03 20:28:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-04-03 20:30:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-07-22 01:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "malodorous101",

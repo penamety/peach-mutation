@@ -19,6 +19,58 @@
   "artist_names": [
     "Jörg Rosenstiel"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-22 00:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-09-22 00:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-22 00:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

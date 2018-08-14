@@ -19,6 +19,73 @@
   "artist_names": [
     "Ronny"
   ],
+  "votes": [
+    {
+      "user": "Coco",
+      "vote": 5,
+      "when": "2008-12-02"
+    },
+    {
+      "user": "gravisrs",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 2,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2010-10-07"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-27 23:24:00"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-06-27 23:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-15 15:53:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-03-15 15:54:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-07-15 11:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-12-30 20:34:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-12-30 20:34:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-19 14:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

@@ -20,6 +20,83 @@
   "artist_names": [
     "TLF"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-04-08 09:03:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2014-04-08 09:04:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-08 09:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-08 09:06:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-01-13"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-28 20:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

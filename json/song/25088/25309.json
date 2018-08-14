@@ -23,6 +23,53 @@
   "artist_names": [
     "TDK"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-03 07:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-25 20:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-05-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-01 00:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "rombust",

@@ -26,6 +26,113 @@
   "artist_names": [
     "Spirit"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Sylve_Copper",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "WTFcore",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-24 05:49:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2014-09-21 13:58:00"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 3,
+      "when": "2017-04-30 20:42:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-30 20:43:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2018-02-23 03:28:00"
+    },
+    {
+      "user": "Wolfgang",
+      "vote": 5,
+      "when": "2018-02-23 03:30:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 4,
+      "when": "2018-02-23 03:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

@@ -20,6 +20,63 @@
   "artist_names": [
     "Floppi"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "infinigon",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2014-04-24 02:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

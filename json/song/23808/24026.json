@@ -20,5 +20,17 @@
   "artist_names": [
     "Scavenger"
   ],
+  "votes": [
+    {
+      "user": "Billx",
+      "vote": 5,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-06-07 13:00:00"
+    }
+  ],
   "requests": []
 }

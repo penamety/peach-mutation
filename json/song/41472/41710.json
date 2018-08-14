@@ -25,6 +25,78 @@
   "artist_names": [
     "Jeff"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2015-03-07 07:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-07 13:07:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 5,
+      "when": "2015-03-07 14:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2015-03-21 15:29:00"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2015-03-21 15:29:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2015-03-22 20:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2015-04-23 21:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-04-23 21:02:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-07-06 10:48:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2015-08-03"
+    },
+    {
+      "user": "skall",
+      "vote": 5,
+      "when": "2016-05-17 20:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-08-28"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2016-08-28"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-03-17 12:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

@@ -24,6 +24,83 @@
   "artist_names": [
     "Jayce"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "pave64",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-05 05:16:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-12-16 17:26:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-08-28"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-05-05 17:57:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2017-05-05 18:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

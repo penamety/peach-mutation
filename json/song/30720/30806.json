@@ -22,6 +22,78 @@
   "artist_names": [
     "ArabCore"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "selmi",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-08-16 11:42:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-10-20 06:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-12 15:26:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2014-04-28 17:24:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-04-28 17:24:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-04-28 17:26:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2015-03-16 17:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "Haju",

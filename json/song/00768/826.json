@@ -21,6 +21,68 @@
   "artist_names": [
     "Bug"
   ],
+  "votes": [
+    {
+      "user": "mutex",
+      "vote": 2,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Alain",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-04 18:21:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-10-15 07:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-14 21:22:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-05 06:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

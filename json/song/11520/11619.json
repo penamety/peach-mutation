@@ -22,6 +22,103 @@
   "artist_names": [
     "Acumen"
   ],
+  "votes": [
+    {
+      "user": "Bachelor",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "oryx",
+      "vote": 5,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "na85",
+      "vote": 5,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-02 18:33:00"
+    },
+    {
+      "user": "juky",
+      "vote": 4,
+      "when": "2013-07-02 18:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-12-01 09:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-03-24 16:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-04-23 06:29:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-02-20 17:03:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-04-17 20:03:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-06-08 14:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "tyco",

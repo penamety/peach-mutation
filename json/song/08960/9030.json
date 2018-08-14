@@ -23,6 +23,38 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Kork",
+      "vote": 1,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "SampL",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "zneek",
+      "vote": 5,
+      "when": "2009-09-02"
+    }
+  ],
   "requests": [
     {
       "user": "Welly",

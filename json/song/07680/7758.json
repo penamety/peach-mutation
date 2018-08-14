@@ -25,6 +25,153 @@
   "artist_names": [
     "Hip"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "koitsu",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Bonstra",
+      "vote": 5,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "vvvvvv",
+      "vote": 5,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "gforce",
+      "vote": 5,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "rez",
+      "vote": 3,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "asbjornu",
+      "vote": 4,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "rv6502",
+      "vote": 2,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Zarggg",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Fredu",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "zneek",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "p2502",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "psypuls",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "BlackDot",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Cybervince",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "vanward",
+      "vote": 5,
+      "when": "2011-09-02"
+    }
+  ],
   "requests": [
     {
       "user": "G_Signal",

@@ -22,6 +22,88 @@
   "artist_names": [
     "Azo"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-30 20:38:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-09-30 20:38:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-09-30 20:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-12-20 02:10:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-12-20 02:11:00"
+    },
+    {
+      "user": "Tezar",
+      "vote": 3,
+      "when": "2014-02-14 15:15:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-14 15:15:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-06-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-06-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-03"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 5,
+      "when": "2017-10-05 06:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

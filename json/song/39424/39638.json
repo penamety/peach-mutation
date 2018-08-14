@@ -25,6 +25,78 @@
   "artist_names": [
     "AceMan"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-11-20 05:26:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 3,
+      "when": "2013-11-20 14:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-03 15:40:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-01-03 15:41:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2014-01-03 15:43:00"
+    },
+    {
+      "user": "LoveMetal",
+      "vote": 4,
+      "when": "2014-03-02 15:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-02 15:24:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-22 21:19:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-04-22 21:21:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 5,
+      "when": "2014-04-22 21:22:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-05-27 09:18:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2014-05-27 09:19:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-05-27 09:20:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-10-22"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

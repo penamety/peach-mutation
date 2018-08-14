@@ -20,6 +20,68 @@
   "artist_names": [
     "Mellow-D"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-04-07"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-09-08 09:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-28 06:02:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-22 15:51:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2016-02-22 15:51:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-07-06 21:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

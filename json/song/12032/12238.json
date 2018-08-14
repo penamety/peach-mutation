@@ -24,6 +24,78 @@
   "artist_names": [
     "Mister Beep"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Fabzirya",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "johny8",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Machforr",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-23 19:39:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-04 03:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-04 03:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-06 08:15:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-06 08:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

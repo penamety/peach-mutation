@@ -20,6 +20,73 @@
   "artist_names": [
     "Gnome Design"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "cxw",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-31 18:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-07-31 18:10:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-31 18:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-31 18:11:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-03-15 19:24:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-02-24 11:44:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-02-24 11:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

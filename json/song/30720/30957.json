@@ -24,6 +24,78 @@
   "artist_names": [
     "Bart Roijmans"
   ],
+  "votes": [
+    {
+      "user": "blindpilot",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-30 03:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-15 06:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-05-21 07:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-02-21 15:24:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-03-10 16:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "blindpilot",

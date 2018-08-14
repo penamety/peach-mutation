@@ -19,6 +19,53 @@
   "artist_names": [
     "Kalachnikov"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-22 05:25:00"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2013-08-22 05:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-01-10 09:04:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2017-01-10 09:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

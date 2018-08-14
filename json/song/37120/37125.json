@@ -25,6 +25,98 @@
   "artist_names": [
     "Jens Blidon"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Analyzer",
+      "vote": 5,
+      "when": "2013-06-02 12:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-02 12:00:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2013-06-02 12:00:00"
+    },
+    {
+      "user": "Sketch",
+      "vote": 4,
+      "when": "2013-06-02 12:00:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2013-12-03 01:16:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 5,
+      "when": "2013-12-03 01:18:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 5,
+      "when": "2013-12-29 20:20:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-03-04 07:02:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-03-04 07:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "Galancy",

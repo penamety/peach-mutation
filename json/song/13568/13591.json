@@ -25,6 +25,58 @@
   "artist_names": [
     "Acell"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "motherchip",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "AnaMark",
+      "vote": 1,
+      "when": "2013-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-03"
+    },
+    {
+      "user": "chellomere",
+      "vote": 2,
+      "when": "2013-01-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-16 05:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-12-01"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2017-06-23 01:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

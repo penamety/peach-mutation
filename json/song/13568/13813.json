@@ -26,6 +26,373 @@
   "artist_names": [
     "Agemixer"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "rv6502",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "pipe",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "alebu",
+      "vote": 5,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Melo",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "waagbo",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Octoate",
+      "vote": 4,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Entropia",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Haju",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Sixx",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "TurboHz",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Andersson",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lilelk",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "caminante",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 5,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 5,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Manax",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 5,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "qbit",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "ldc",
+      "vote": 1,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "K",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Archmage",
+      "vote": 5,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 5,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "EZH",
+      "vote": 2,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 4,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "zmurf",
+      "vote": 4,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 3,
+      "when": "2013-06-23 17:36:00"
+    },
+    {
+      "user": "Longbow",
+      "vote": 4,
+      "when": "2013-06-23 17:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-23 17:38:00"
+    },
+    {
+      "user": "Colidace",
+      "vote": 3,
+      "when": "2013-06-23 17:39:00"
+    },
+    {
+      "user": "deot",
+      "vote": 4,
+      "when": "2013-09-09 11:00:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2013-10-28 19:27:00"
+    },
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2014-05-18 00:10:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2014-07-19 06:41:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2014-08-06 18:25:00"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 5,
+      "when": "2014-10-27 23:59:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 5,
+      "when": "2014-10-28 00:00:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 4,
+      "when": "2014-10-28 00:03:00"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2015-01-26 14:24:00"
+    },
+    {
+      "user": "LeadFiner",
+      "vote": 3,
+      "when": "2015-01-26 14:26:00"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2015-01-26 14:27:00"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 3,
+      "when": "2015-03-10 18:05:00"
+    },
+    {
+      "user": "HED",
+      "vote": 3,
+      "when": "2015-06-22 11:09:00"
+    },
+    {
+      "user": "sdjm",
+      "vote": 4,
+      "when": "2016-08-17"
+    },
+    {
+      "user": "the_Deviant",
+      "vote": 5,
+      "when": "2018-04-26 10:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "anni",

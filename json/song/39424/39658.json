@@ -26,6 +26,58 @@
   "artist_names": [
     "Marek Roczniak"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-02 19:39:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-03 10:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-01 22:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-05 04:58:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-06-25 15:29:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-07-16 15:01:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-07-16 15:01:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-10 14:56:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-02-24 13:21:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-17 11:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "hornpipe2",

@@ -25,6 +25,93 @@
   "artist_names": [
     "Markus Schneider"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "Galancy",
+      "vote": 5,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-06-05 23:02:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-07-23 13:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-08 21:29:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-11-08 21:29:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-20 20:43:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 4,
+      "when": "2014-01-20 20:43:00"
+    },
+    {
+      "user": "Znurre",
+      "vote": 3,
+      "when": "2015-04-21 17:17:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2016-02-17"
+    }
+  ],
   "requests": [
     {
       "user": "silok",

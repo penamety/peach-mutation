@@ -21,6 +21,123 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2010-08-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "OCCASVS",
+      "vote": 3,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Xeno",
+      "vote": 2,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 1,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "isvenger",
+      "vote": 3,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "Ishma",
+      "vote": 1,
+      "when": "2013-10-09 11:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-10-09 11:00:00"
+    },
+    {
+      "user": "Erk",
+      "vote": 3,
+      "when": "2014-01-23 16:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-01-22 09:39:00"
+    },
+    {
+      "user": "olligobber",
+      "vote": 1,
+      "when": "2015-01-22 09:39:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-01-22 09:40:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 2,
+      "when": "2015-01-22 09:40:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2015-09-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-09-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-06-17 17:04:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-07-09 12:38:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-07-09 12:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "franz_koopa",

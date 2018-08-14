@@ -24,6 +24,53 @@
   "artist_names": [
     "Cutcreator"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-09-09 20:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-09-09 20:59:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-09-13 13:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-09-26 08:57:00"
+    },
+    {
+      "user": "robert",
+      "vote": 1,
+      "when": "2017-10-03 10:26:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-10-11 14:24:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-10-11 14:25:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-03 12:20:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-12-03 12:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

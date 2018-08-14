@@ -17,6 +17,23 @@
   "last_scraped": "2018-05-23 02:02:58",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-03"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

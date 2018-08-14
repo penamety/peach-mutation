@@ -20,6 +20,78 @@
   "artist_names": [
     "Chisel"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2013-02-09"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "yeep",
+      "vote": 2,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-11-13 05:10:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-13 05:11:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-02-12 10:27:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-12 10:27:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-02-12 10:28:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-02-02 11:45:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-02-02 11:46:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-02-02 11:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

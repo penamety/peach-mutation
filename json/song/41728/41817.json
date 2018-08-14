@@ -26,6 +26,53 @@
   "artist_names": [
     "505"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-03-30 00:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-30 09:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-05-20 09:53:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-05-20 09:54:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2015-06-27 21:12:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-08-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-10-10"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-01-22"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2017-03-02 14:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

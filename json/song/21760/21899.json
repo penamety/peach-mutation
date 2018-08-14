@@ -20,6 +20,78 @@
   "artist_names": [
     "Mortimer Twang"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "bitl",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-05 07:05:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-02-03 11:28:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-03 11:28:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-02-03 11:29:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-02-03 11:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

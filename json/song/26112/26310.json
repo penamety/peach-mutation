@@ -21,6 +21,68 @@
   "artist_names": [
     "Melcom"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "tobe",
+      "vote": 4,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "bc2001",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-22 23:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-22 23:16:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-12-18 18:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

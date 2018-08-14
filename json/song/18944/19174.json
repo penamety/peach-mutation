@@ -19,6 +19,73 @@
   "artist_names": [
     "Homicide"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 5,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2013-09-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-09-25 21:33:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-09-25 21:34:00"
+    },
+    {
+      "user": "geggert1",
+      "vote": 1,
+      "when": "2013-09-25 21:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-15 18:37:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-11-14 11:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-11-14 11:37:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-14 11:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

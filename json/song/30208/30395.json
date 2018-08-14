@@ -26,6 +26,93 @@
   "artist_names": [
     "Corwin"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "liquidstupid",
+      "vote": 5,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Scope",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "ZTube",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 1,
+      "when": "2013-06-28 03:49:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 2,
+      "when": "2013-06-28 03:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2013-06-28 03:52:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-02 08:01:00"
+    },
+    {
+      "user": "AdvertisePlay",
+      "vote": 1,
+      "when": "2014-05-16 15:41:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2014-05-16 15:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-08-26 07:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "ZTube",

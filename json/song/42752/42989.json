@@ -25,6 +25,58 @@
   "artist_names": [
     "Agemixer"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-03-16 10:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-03-16 10:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-03-16 19:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-03-29 15:19:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2016-03-29 15:19:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 3,
+      "when": "2016-03-29 15:19:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 2,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-26 16:18:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-06-16 07:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

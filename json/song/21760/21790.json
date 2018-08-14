@@ -20,6 +20,48 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-07-12 20:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-12 20:33:00"
+    },
+    {
+      "user": "exocet",
+      "vote": 2,
+      "when": "2016-09-16"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

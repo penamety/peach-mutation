@@ -19,6 +19,78 @@
   "artist_names": [
     "The Fear"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 1,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-04 03:30:00"
+    },
+    {
+      "user": "selmi",
+      "vote": 1,
+      "when": "2014-03-30 13:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-09-16 22:18:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-06-01 18:05:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2015-06-01 18:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-06-01 18:06:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-06-01 18:08:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-10-24 17:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

@@ -25,6 +25,58 @@
   "artist_names": [
     "ALPAidUS"
   ],
+  "votes": [
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-03-03 15:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2017-03-03 15:42:00"
+    },
+    {
+      "user": "Fireball",
+      "vote": 4,
+      "when": "2017-03-03 15:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2017-03-03 15:45:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 5,
+      "when": "2017-03-03 15:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-03-03 19:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2017-05-05 08:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-05-05 08:21:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2017-08-26 08:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-02-09 22:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

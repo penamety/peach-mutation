@@ -25,5 +25,37 @@
   "artist_names": [
     "Mixer"
   ],
+  "votes": [
+    {
+      "user": "Terrasque",
+      "vote": 1,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "acidline",
+      "vote": 1,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "halvare",
+      "vote": 1,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-03-30 00:24:00"
+    }
+  ],
   "requests": []
 }

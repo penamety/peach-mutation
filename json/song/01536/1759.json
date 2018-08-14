@@ -20,6 +20,83 @@
   "artist_names": [
     "Distance"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2008-12-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "cxw",
+      "vote": 4,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-07-09 12:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-09 12:42:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-09 12:43:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-09-15 16:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-15 16:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-27 00:45:00"
+    },
+    {
+      "user": "oryx",
+      "vote": 4,
+      "when": "2014-01-27 00:50:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-06-07 10:45:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-06-07 10:46:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-07-03"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

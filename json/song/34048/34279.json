@@ -26,6 +26,68 @@
   "artist_names": [
     "Shake"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "SampL",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "kwokkie",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "sylicon",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-28 03:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-20 08:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-10 13:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "lilelk",

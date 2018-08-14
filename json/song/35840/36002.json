@@ -26,6 +26,118 @@
   "artist_names": [
     "d vibe"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "SampL",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-13 01:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-12-02 03:10:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-01-02 06:19:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-03-28 10:30:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2018-03-28 10:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-03-28 10:32:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2018-05-29 14:51:00"
+    },
+    {
+      "user": "Scribblette",
+      "vote": 1,
+      "when": "2018-05-29 14:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

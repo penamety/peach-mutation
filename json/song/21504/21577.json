@@ -19,6 +19,83 @@
   "artist_names": [
     "Merlin"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "aaai",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Axioplase",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-01 04:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-01 04:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-16 15:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-12 19:31:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-02-12 19:31:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-02-12 19:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-11-07 08:24:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-11-07 08:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "Axioplase",

@@ -25,6 +25,48 @@
   "artist_names": [
     "Tempest"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-02-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-02-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-02-11"
+    },
+    {
+      "user": "Colidace",
+      "vote": 3,
+      "when": "2016-02-27 11:01:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-03-21 08:30:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2016-04-07 12:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-04-07 13:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-05-28"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

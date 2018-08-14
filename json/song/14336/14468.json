@@ -19,6 +19,53 @@
   "artist_names": [
     "Badsnail"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-06-24 19:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-24 19:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-24 19:42:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-12-16 06:34:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-10-25 22:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

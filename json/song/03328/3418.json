@@ -19,6 +19,78 @@
   "artist_names": [
     "Jld"
   ],
+  "votes": [
+    {
+      "user": "Marlon",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "gauri",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "robert",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-08-11 21:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-11 21:06:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2013-11-16 11:56:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 4,
+      "when": "2014-02-28 00:55:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-06-29 10:53:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2014-11-14 14:25:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2014-11-14 14:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-02-04 10:08:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2015-07-19"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

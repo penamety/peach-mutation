@@ -25,6 +25,68 @@
   "artist_names": [
     "Zone"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crt",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-06-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "malmen",
+      "vote": 2,
+      "when": "2013-09-02 17:10:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-02 17:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-30 22:10:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 3,
+      "when": "2014-11-21 19:03:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-11-21 19:04:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-14 15:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

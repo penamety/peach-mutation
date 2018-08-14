@@ -25,6 +25,73 @@
   "artist_names": [
     "Richard Joseph"
   ],
+  "votes": [
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 1,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-12-26 17:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-12 21:04:00"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2016-10-25 09:54:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2016-10-25 09:54:00"
+    },
+    {
+      "user": "hptt",
+      "vote": 3,
+      "when": "2016-10-25 09:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2016-12-09 22:55:00"
+    },
+    {
+      "user": "H3LL4Sphoros",
+      "vote": 5,
+      "when": "2017-03-24"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

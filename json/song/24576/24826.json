@@ -16,5 +16,17 @@
   "last_scraped": "2018-05-23 10:15:40",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Mynnia",
+      "vote": 4,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-06-01 08:00:00"
+    }
+  ],
   "requests": []
 }

@@ -25,6 +25,138 @@
   "artist_names": [
     "Pink"
   ],
+  "votes": [
+    {
+      "user": "deot",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "rv6502",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "venttiili",
+      "vote": 5,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "caminante",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 5,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "DexterAYS",
+      "vote": 5,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "SampL",
+      "vote": 5,
+      "when": "2013-06-25 18:39:00"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-10-19 14:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-03-14 20:58:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-09-18 07:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-01-30 23:14:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2016-09-14"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2016-11-13 03:28:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-11-13 03:28:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2017-01-16 14:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-04-19 15:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "Starchaser",

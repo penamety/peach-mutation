@@ -25,6 +25,93 @@
   "artist_names": [
     "Deek"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Eshy",
+      "vote": 5,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 5,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-06 02:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-01-12 20:41:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2014-05-20 15:01:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-06-19 04:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

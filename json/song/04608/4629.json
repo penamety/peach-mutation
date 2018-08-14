@@ -19,6 +19,58 @@
   "artist_names": [
     "MED"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-02-08 21:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-08 21:34:00"
+    },
+    {
+      "user": "bc2001",
+      "vote": 2,
+      "when": "2014-12-17 19:29:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 2,
+      "when": "2018-04-23 09:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -22,6 +22,88 @@
   "artist_names": [
     "Praiser"
   ],
+  "votes": [
+    {
+      "user": "korkut",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "hiltunen",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "svenzzon",
+      "vote": 2,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-24 22:41:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-11 22:42:00"
+    },
+    {
+      "user": "HaasiD",
+      "vote": 5,
+      "when": "2014-07-01 05:28:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2014-12-10 16:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-12-10 17:00:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-01-29 17:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "malodorous101",

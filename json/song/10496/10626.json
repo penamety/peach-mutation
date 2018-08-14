@@ -25,6 +25,78 @@
   "artist_names": [
     "Lord Performer"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 1,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "nous",
+      "vote": 4,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-06-03 11:34:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-03 11:34:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2013-08-18 14:23:00"
+    },
+    {
+      "user": "cyberant",
+      "vote": 2,
+      "when": "2013-08-18 14:24:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-16 12:04:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-11-16 12:04:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-11-16 12:06:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2016-11-16 12:06:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-11-29 13:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

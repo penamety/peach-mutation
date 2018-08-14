@@ -25,6 +25,73 @@
   "artist_names": [
     "Jesper Kyd"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-10 20:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-06-10 20:56:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-06-10 20:57:00"
+    },
+    {
+      "user": "etray",
+      "vote": 2,
+      "when": "2014-06-10 20:58:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-06-20 10:20:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-06-20 10:21:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-08-22 11:00:00"
+    },
+    {
+      "user": "OSH",
+      "vote": 5,
+      "when": "2014-08-22 11:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-08-22 11:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-05 19:08:00"
+    },
+    {
+      "user": "Thexder",
+      "vote": 4,
+      "when": "2014-10-05 19:13:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-13"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-21 11:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "VodkaBot",

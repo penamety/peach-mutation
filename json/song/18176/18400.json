@@ -19,6 +19,53 @@
   "artist_names": [
     "FTC"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "funnyn8",
+      "vote": 1,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "Grit",
+      "vote": 4,
+      "when": "2013-12-13 00:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-13 00:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "anni",

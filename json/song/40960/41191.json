@@ -22,6 +22,58 @@
   "artist_names": [
     "Qumran"
   ],
+  "votes": [
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-10-31 18:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-11-03 15:58:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-11-21 08:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-11-21 08:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-12-09 01:13:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-06-02 23:36:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-06-02 23:36:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-03-10 17:06:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-03-10 17:08:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2016-03-10 17:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

@@ -18,6 +18,28 @@
   "last_scraped": "2018-05-24 00:11:10",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-04-26 22:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-05-07 14:57:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-05-20 18:58:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-06-03 15:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

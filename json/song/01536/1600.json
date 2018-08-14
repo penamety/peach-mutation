@@ -23,6 +23,93 @@
   "artist_names": [
     "DeLorean"
   ],
+  "votes": [
+    {
+      "user": "ftl",
+      "vote": 2,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 4,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-12-04 21:12:00"
+    },
+    {
+      "user": "_wally",
+      "vote": 3,
+      "when": "2013-12-04 21:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-03 17:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-02-03 17:01:00"
+    },
+    {
+      "user": "alecs",
+      "vote": 3,
+      "when": "2014-02-03 17:01:00"
+    },
+    {
+      "user": "Tezar",
+      "vote": 1,
+      "when": "2014-02-03 17:02:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-01-09 16:24:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2015-01-09 16:27:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-04-05 04:29:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2018-04-05 04:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

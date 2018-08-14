@@ -25,6 +25,78 @@
   "artist_names": [
     "Judge Brad"
   ],
+  "votes": [
+    {
+      "user": "Cyan",
+      "vote": 4,
+      "when": "2015-03-25 19:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-25 19:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-05 07:33:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-04-20 09:57:00"
+    },
+    {
+      "user": "jzp",
+      "vote": 3,
+      "when": "2015-04-20 10:01:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-05-05 20:20:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "Rahta",
+      "vote": 5,
+      "when": "2017-04-18 11:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-04-18 11:24:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-11-02 19:49:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2017-11-02 19:52:00"
+    },
+    {
+      "user": "JaPeK",
+      "vote": 4,
+      "when": "2018-01-28 06:06:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-01-28 06:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

@@ -26,6 +26,73 @@
   "artist_names": [
     "Michael"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-19 02:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-19 02:46:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2014-02-01 09:21:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-09-28 19:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-09-28 19:53:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-05-31 18:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "rombust",

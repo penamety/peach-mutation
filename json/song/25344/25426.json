@@ -22,6 +22,73 @@
   "artist_names": [
     "Teijo Kinnunen"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 2,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-26 13:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-11 14:01:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2014-04-11 14:01:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2014-04-11 14:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-27 09:00:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 2,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2017-12-02 00:50:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-02 00:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

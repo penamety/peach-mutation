@@ -24,6 +24,98 @@
   "artist_names": [
     "Speedy"
   ],
+  "votes": [
+    {
+      "user": "Argolyn",
+      "vote": 1,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Locutus",
+      "vote": 1,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Machforr",
+      "vote": 1,
+      "when": "2013-11-27 03:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-11-27 03:18:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-11-27 03:19:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-04-10 13:43:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-04-10 13:43:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2014-04-10 13:44:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-04-10 13:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-10-05 12:12:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 1,
+      "when": "2014-10-05 12:13:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2017-06-04 13:44:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2017-08-22 20:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

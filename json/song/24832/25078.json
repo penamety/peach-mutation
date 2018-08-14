@@ -25,6 +25,68 @@
   "artist_names": [
     "Takomo"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "hiltunen",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-20 20:19:00"
+    },
+    {
+      "user": "SpecialDefect",
+      "vote": 4,
+      "when": "2014-10-31 05:23:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-10-31 05:25:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-10-31 05:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-02-16 06:55:00"
+    },
+    {
+      "user": "the_Deviant",
+      "vote": 4,
+      "when": "2018-04-20 17:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

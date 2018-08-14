@@ -19,6 +19,58 @@
   "artist_names": [
     "Mlein"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-02 11:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-02 11:03:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-02 11:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-26 21:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-30 00:13:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2017-05-18 14:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

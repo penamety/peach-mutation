@@ -23,6 +23,83 @@
   "artist_names": [
     "Fortunato"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Mikle",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-11-14 15:00:00"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 2,
+      "when": "2013-11-14 15:01:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-11-14 15:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-10-11 07:29:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-02 15:46:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2017-02-02 15:46:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-02 15:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "ycorrupt",

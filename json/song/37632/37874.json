@@ -21,6 +21,78 @@
   "artist_names": [
     "Motion"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "Coco",
+      "vote": 3,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "Machforr",
+      "vote": 2,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "eefi",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-31 02:10:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-08-02 09:26:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2014-08-02 09:27:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-08-02 09:28:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-10-01"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -24,6 +24,48 @@
   "artist_names": [
     "Xerion"
   ],
+  "votes": [
+    {
+      "user": "Rapture",
+      "vote": 5,
+      "when": "2015-03-04 06:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-04 13:48:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-03-18 15:47:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-04-22 01:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-05-29 20:53:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-10-03"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-01-04 13:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

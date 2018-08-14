@@ -28,6 +28,48 @@
   "artist_names": [
     "Wasp"
   ],
+  "votes": [
+    {
+      "user": "skall",
+      "vote": 3,
+      "when": "2013-10-24 11:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-24 11:04:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-10-24 11:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-24 12:03:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-01-08 14:41:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-04-02 22:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-29 15:00:00"
+    },
+    {
+      "user": "Fredu",
+      "vote": 3,
+      "when": "2016-12-13 10:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

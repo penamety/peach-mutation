@@ -26,6 +26,238 @@
   "artist_names": [
     "Puryx"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "esher",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "MyO",
+      "vote": 1,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "atom32k",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "gaben87",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "cer",
+      "vote": 5,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 5,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "Andersson",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Ultrasyd",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "SampL",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "neutron",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "zerkman",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "zensonic",
+      "vote": 5,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "qbit",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "codehead",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "wiseman",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "caiwan",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "freak_out",
+      "vote": 5,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "zoner",
+      "vote": 4,
+      "when": "2013-06-08 00:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-18 18:03:00"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2014-03-04 14:47:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-07-09 12:44:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2014-11-05 23:57:00"
+    },
+    {
+      "user": "Machforr",
+      "vote": 3,
+      "when": "2016-01-14"
+    },
+    {
+      "user": "Frylix",
+      "vote": 5,
+      "when": "2017-01-30 14:15:00"
+    },
+    {
+      "user": "velusip",
+      "vote": 3,
+      "when": "2017-11-17 08:13:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-04-20 10:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Andersson",

@@ -26,6 +26,83 @@
   "artist_names": [
     "Prodigy"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "mud",
+      "vote": 5,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-03-24 12:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-24 12:55:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-03-24 12:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-24 16:00:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-03-13 17:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

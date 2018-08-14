@@ -20,6 +20,73 @@
   "artist_names": [
     "Banana"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-05-26 21:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-05-26 21:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-05-26 21:00:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2013-05-26 21:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-26 22:00:00"
+    },
+    {
+      "user": "Blakbanshee",
+      "vote": 2,
+      "when": "2013-12-16 05:20:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-05-13 20:56:00"
+    },
+    {
+      "user": "epso",
+      "vote": 3,
+      "when": "2017-05-13 20:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "anni",

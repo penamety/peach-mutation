@@ -24,6 +24,58 @@
   "artist_names": [
     "Razmo"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-03 02:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-14 07:02:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-10 05:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

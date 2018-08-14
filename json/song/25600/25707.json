@@ -23,6 +23,83 @@
   "artist_names": [
     "Tim Wright"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lilelk",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "caminante",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "skall",
+      "vote": 1,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-05 23:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-23 11:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-02-23 11:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "Zitrax",

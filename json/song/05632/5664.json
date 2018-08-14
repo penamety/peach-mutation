@@ -25,6 +25,153 @@
   "artist_names": [
     "Pink"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "qbit",
+      "vote": 4,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "chellomere",
+      "vote": 5,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-11-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2013-08-09 00:44:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-08-09 00:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-08-09 00:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-17 13:33:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-01-26 18:47:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 5,
+      "when": "2014-04-01 04:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2015-02-06 03:36:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2015-10-19"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 5,
+      "when": "2015-10-19"
+    },
+    {
+      "user": "satan",
+      "vote": 4,
+      "when": "2016-05-15 23:49:00"
+    },
+    {
+      "user": "alienNeWbeat",
+      "vote": 5,
+      "when": "2016-09-15"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -22,6 +22,103 @@
   "artist_names": [
     "Prodigy"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "SampL",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Bornheim",
+      "vote": 4,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "barek",
+      "vote": 5,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-06-05 18:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-08-31 23:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-31 23:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-08-31 23:03:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2013-12-14 10:47:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-02-18 13:53:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 5,
+      "when": "2015-02-18 13:53:00"
+    },
+    {
+      "user": "DrFlay",
+      "vote": 4,
+      "when": "2015-02-18 13:56:00"
+    },
+    {
+      "user": "joes",
+      "vote": 4,
+      "when": "2015-06-14 13:00:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2017-01-05 15:18:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2017-01-05 15:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

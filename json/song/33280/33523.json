@@ -23,6 +23,88 @@
   "artist_names": [
     "Reed"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "korkut",
+      "vote": 5,
+      "when": "2013-07-09 13:51:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-09 13:53:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-07-09 13:54:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-10-30 15:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-10-30 15:22:00"
+    },
+    {
+      "user": "yeep",
+      "vote": 4,
+      "when": "2013-10-30 15:23:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-09 00:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-01-09 00:27:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-07 07:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

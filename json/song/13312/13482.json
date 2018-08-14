@@ -23,6 +23,73 @@
   "artist_names": [
     "4-mat"
   ],
+  "votes": [
+    {
+      "user": "Rirsuhacker",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2013-06-28 01:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-28 01:23:00"
+    },
+    {
+      "user": "robert",
+      "vote": 3,
+      "when": "2013-06-28 01:24:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-10-15 15:36:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-02 04:18:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2014-02-02 04:19:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-10-31"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-06-19 01:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "edlinfan",

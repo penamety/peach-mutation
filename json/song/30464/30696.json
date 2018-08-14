@@ -21,6 +21,53 @@
   "source": "Demo",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Machforr",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Robus",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2011-03-05"
+    }
+  ],
   "requests": [
     {
       "user": "prowler",

@@ -26,6 +26,73 @@
   "artist_names": [
     "Superted"
   ],
+  "votes": [
+    {
+      "user": "Mr_T",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Venty",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-02-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-08-25 02:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-25 02:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-25 02:28:00"
+    },
+    {
+      "user": "zilog",
+      "vote": 1,
+      "when": "2016-05-09 10:51:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 2,
+      "when": "2016-06-02"
+    },
+    {
+      "user": "robert",
+      "vote": 1,
+      "when": "2017-12-04 15:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2018-04-10 07:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "lilelk",

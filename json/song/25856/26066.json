@@ -24,6 +24,78 @@
   "artist_names": [
     "Unix"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-07-20 15:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-20 15:04:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-05-17 14:46:00"
+    },
+    {
+      "user": "Lancastersilk",
+      "vote": 2,
+      "when": "2016-05-17 14:47:00"
+    },
+    {
+      "user": "sdjm",
+      "vote": 2,
+      "when": "2016-05-17 14:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

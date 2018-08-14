@@ -21,6 +21,78 @@
   "artist_names": [
     "Boomer"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-01 00:49:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 4,
+      "when": "2013-11-01 00:49:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-11-01 00:50:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-10-25"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 5,
+      "when": "2015-10-25"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2017-12-15 01:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

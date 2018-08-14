@@ -26,6 +26,43 @@
   "artist_names": [
     "Groo"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-09-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2016-09-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-09-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-10-04"
+    },
+    {
+      "user": "grazey",
+      "vote": 4,
+      "when": "2016-10-04"
+    },
+    {
+      "user": "Tudhalyas",
+      "vote": 2,
+      "when": "2016-11-15 22:12:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-10-25 09:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

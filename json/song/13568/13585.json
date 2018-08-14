@@ -19,6 +19,58 @@
   "artist_names": [
     "Ace Bandit"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "lilelk",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-03"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-01-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-16 08:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-16 08:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-15"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-08-15"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-03-02 10:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

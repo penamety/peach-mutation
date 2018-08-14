@@ -25,6 +25,123 @@
   "artist_names": [
     "Kjell Nordbø"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Latis",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Andersson",
+      "vote": 5,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 4,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-24 23:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-10-03 01:41:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-11-14 15:31:00"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 4,
+      "when": "2014-07-03 20:12:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-07-29"
+    }
+  ],
   "requests": [
     {
       "user": "Jeminami",

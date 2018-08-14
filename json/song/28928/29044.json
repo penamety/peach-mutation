@@ -22,6 +22,73 @@
   "artist_names": [
     "MSK"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "crt",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "tomi",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-21 09:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-09-21 09:43:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-02-10 13:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-10 13:33:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-06-26 04:55:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-03-12 02:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

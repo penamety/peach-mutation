@@ -26,6 +26,103 @@
   "artist_names": [
     "PowerTrace"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 5,
+      "when": "2016-12-12 17:23:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2016-12-12 17:33:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-12-12 17:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-12-13"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2016-12-14"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2016-12-27 04:52:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2017-01-17 18:32:00"
+    },
+    {
+      "user": "olivierh59",
+      "vote": 5,
+      "when": "2017-02-10 08:58:00"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 5,
+      "when": "2017-02-10 08:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2017-02-10 09:35:00"
+    },
+    {
+      "user": "DJJoge",
+      "vote": 4,
+      "when": "2017-03-08 12:00:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2017-03-08 12:00:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 5,
+      "when": "2017-03-08 12:00:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 5,
+      "when": "2017-03-30"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2017-03-30"
+    },
+    {
+      "user": "Rahta",
+      "vote": 5,
+      "when": "2017-03-30"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-05-10 08:57:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-07-25 16:46:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2017-09-24 11:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

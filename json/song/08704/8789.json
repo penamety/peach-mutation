@@ -24,6 +24,108 @@
   "artist_names": [
     "Raven"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "neutron",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "tunah",
+      "vote": 1,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "dodge",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Speeder",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "vanward",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-22 16:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-10-22 16:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-02-08 20:47:00"
+    },
+    {
+      "user": "Achtwerk",
+      "vote": 1,
+      "when": "2015-02-08 20:49:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-03-16 19:13:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 5,
+      "when": "2016-03-16 19:14:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-10-15 15:35:00"
+    },
+    {
+      "user": "jimee",
+      "vote": 3,
+      "when": "2017-10-15 15:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "Stormdragonblue",

@@ -19,6 +19,93 @@
   "artist_names": [
     "Signal"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "revenant",
+      "vote": 4,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "oryx",
+      "vote": 5,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Flatline",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-24 20:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-24 20:53:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-20 02:16:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-05-11 23:04:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-01-25 07:17:00"
+    },
+    {
+      "user": "bmn",
+      "vote": 4,
+      "when": "2017-01-25 07:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-04-28 01:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "oryx",

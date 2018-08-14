@@ -22,6 +22,88 @@
   "artist_names": [
     "Pink"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Rudee",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "isvenger",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Moses",
+      "vote": 5,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "dang",
+      "vote": 4,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "HED",
+      "vote": 5,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-04 16:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-08-11 09:46:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-10-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-09-30 18:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-10-30 21:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

@@ -26,6 +26,48 @@
   "artist_names": [
     "Subi"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-06-26 06:10:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-06-26 09:29:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-06-26 09:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-06-26 21:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-07-02 13:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-08-25 08:00:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 4,
+      "when": "2017-12-22 13:26:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-05-18 11:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -23,6 +23,68 @@
   "artist_names": [
     "The Union Demo"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "seatac",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 1,
+      "when": "2013-06-17 18:45:00"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-06-17 18:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-17 18:46:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-17 18:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-17 18:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-03-25 10:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "bakho",

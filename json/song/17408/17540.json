@@ -20,6 +20,73 @@
   "artist_names": [
     "Dreadnought"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2013-06-07 23:04:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-06-07 23:04:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-07 23:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-07 23:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-12-06 03:33:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2015-02-22 21:53:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-22 21:53:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-05 03:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

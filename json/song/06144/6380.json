@@ -19,6 +19,88 @@
   "artist_names": [
     "Saint Shoe"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Sketch",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-19 17:16:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-09-19 17:17:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2014-02-26 11:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-12-16 19:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

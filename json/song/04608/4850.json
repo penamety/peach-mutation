@@ -19,6 +19,53 @@
   "artist_names": [
     "Mikrem"
   ],
+  "votes": [
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-04 02:30:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-10-31 09:33:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2014-03-31 03:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-31 22:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

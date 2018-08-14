@@ -23,6 +23,23 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "BeautyNerd",
+      "vote": 5,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Feuermurmel",
+      "vote": 2,
+      "when": "2010-03-04"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

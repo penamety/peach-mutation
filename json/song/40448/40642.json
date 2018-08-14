@@ -25,6 +25,123 @@
   "artist_names": [
     "Andy Abstract"
   ],
+  "votes": [
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2014-08-01 19:58:00"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 4,
+      "when": "2014-08-01 19:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-08-11 16:52:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-08-11 16:53:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-08-11 16:54:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2014-08-11 16:54:00"
+    },
+    {
+      "user": "CanisCanine",
+      "vote": 1,
+      "when": "2014-09-01 21:11:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2014-09-01 21:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-01 21:19:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 1,
+      "when": "2014-12-18 22:24:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2014-12-18 22:29:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-20 11:07:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 1,
+      "when": "2015-02-20 11:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-04-15 21:03:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 1,
+      "when": "2015-07-09"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-07-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-09-15"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2015-09-15"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2017-12-01 07:51:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2018-01-12 21:40:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-01-12 21:40:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2018-03-30 11:51:00"
+    },
+    {
+      "user": "plc",
+      "vote": 1,
+      "when": "2018-03-30 11:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

@@ -25,6 +25,83 @@
   "artist_names": [
     "Cutcreator"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2010-11-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-09-05 21:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-05 21:19:00"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-09-05 21:23:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-10-22 08:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-22 08:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-03-21 02:22:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2016-02-14"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2016-07-26"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

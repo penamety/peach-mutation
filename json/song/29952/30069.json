@@ -23,6 +23,78 @@
   "artist_names": [
     "elblanco"
   ],
+  "votes": [
+    {
+      "user": "elblanco",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Jimantha",
+      "vote": 5,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2013-06-07 06:44:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2013-06-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2013-11-24 01:48:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2014-01-24 22:13:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-01-24 22:16:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2014-01-24 22:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-24"
+    },
+    {
+      "user": "t4s0thcmdr",
+      "vote": 2,
+      "when": "2015-03-24"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-09 19:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "elblanco",

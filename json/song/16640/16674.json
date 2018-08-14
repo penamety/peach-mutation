@@ -19,6 +19,93 @@
   "artist_names": [
     "Cyborg"
   ],
+  "votes": [
+    {
+      "user": "velusip",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Znurre",
+      "vote": 1,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-06-04 15:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-06-04 15:00:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 2,
+      "when": "2013-06-04 15:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-06-04 15:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-06-04 15:00:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2015-12-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-12-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-12-04"
+    },
+    {
+      "user": "plc",
+      "vote": 1,
+      "when": "2016-12-26 12:37:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-02-25 13:52:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2017-02-25 13:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Robot2037",

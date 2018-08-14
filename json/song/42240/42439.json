@@ -25,5 +25,17 @@
   "artist_names": [
     "Excellence in Art"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-10-16"
+    }
+  ],
   "requests": []
 }

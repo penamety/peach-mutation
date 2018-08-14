@@ -25,6 +25,98 @@
   "artist_names": [
     "DTN"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "perfectcode",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 5,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "vtuulos",
+      "vote": 4,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-15 07:59:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-15 07:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-24 23:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-25 00:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-21 10:19:00"
+    },
+    {
+      "user": "RENJPS",
+      "vote": 4,
+      "when": "2014-02-21 10:20:00"
+    },
+    {
+      "user": "java311",
+      "vote": 5,
+      "when": "2014-02-21 10:20:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 5,
+      "when": "2016-11-02 02:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-07 03:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "tyco",

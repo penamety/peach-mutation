@@ -22,6 +22,103 @@
   "artist_names": [
     "Mentz"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "codehead",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-10-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "corewhore",
+      "vote": 5,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2014-01-13 18:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-04 21:10:00"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 2,
+      "when": "2015-09-12"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 2,
+      "when": "2018-03-26 10:33:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2018-05-15 12:27:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-05-15 12:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

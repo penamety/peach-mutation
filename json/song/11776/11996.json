@@ -25,6 +25,78 @@
     "El Loco",
     "Sundance Kid"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "rv6502",
+      "vote": 2,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-05 09:24:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-06-05 09:28:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-30 19:40:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-03-30 19:40:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-03-30 19:45:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2017-02-15 16:58:00"
+    },
+    {
+      "user": "krusty",
+      "vote": 1,
+      "when": "2017-02-15 17:02:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-09-18 06:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

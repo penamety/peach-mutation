@@ -25,6 +25,83 @@
   "artist_names": [
     "Gladiator"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-06-10"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-11-16"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-09 03:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-09 03:43:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-05-02 17:25:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-05-02 17:26:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "pwet",
+      "vote": 4,
+      "when": "2016-02-16 12:00:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-17 14:35:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-03-09 09:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

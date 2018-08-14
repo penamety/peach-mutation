@@ -23,6 +23,68 @@
   "artist_names": [
     "Skyline"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-08 09:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-29 13:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-10-17 21:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

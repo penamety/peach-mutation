@@ -26,6 +26,68 @@
   "artist_names": [
     "Christophe Fevre"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-05 01:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-05 01:54:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-11 09:00:00"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 2,
+      "when": "2014-10-07 19:11:00"
+    },
+    {
+      "user": "Siegfried",
+      "vote": 3,
+      "when": "2016-05-17 15:58:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-17 15:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

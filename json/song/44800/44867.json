@@ -26,6 +26,23 @@
   "artist_names": [
     "Jadex"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-05-16 15:35:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2018-04-20 19:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-04-20 19:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

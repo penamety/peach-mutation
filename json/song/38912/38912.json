@@ -18,6 +18,38 @@
   "last_scraped": "2018-05-23 12:18:26",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 5,
+      "when": "2013-06-16 21:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-06-16 21:00:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-06-16 21:49:00"
+    },
+    {
+      "user": "Triton",
+      "vote": 5,
+      "when": "2013-06-16 21:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-16 21:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-16 21:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

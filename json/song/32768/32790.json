@@ -26,6 +26,178 @@
   "artist_names": [
     "Judge Brad"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Slotos",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "uridium",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "wiseman",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "onc",
+      "vote": 3,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "Riphur",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-05 05:10:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-05 15:41:00"
+    },
+    {
+      "user": "Tezar",
+      "vote": 5,
+      "when": "2014-02-05 15:42:00"
+    },
+    {
+      "user": "alecs",
+      "vote": 2,
+      "when": "2014-02-05 15:43:00"
+    },
+    {
+      "user": "joes",
+      "vote": 3,
+      "when": "2014-05-18 13:26:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-05-18 13:28:00"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 3,
+      "when": "2015-03-04 23:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-05 20:00:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 2,
+      "when": "2015-09-21"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-05-09 01:08:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-11-06 09:22:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2017-11-06 09:28:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "vote": 4,
+      "when": "2018-01-28 14:34:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-04-15 04:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "drybrain",

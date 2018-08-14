@@ -19,6 +19,63 @@
   "artist_names": [
     "Phaser"
   ],
+  "votes": [
+    {
+      "user": "Octoate",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-02 14:47:00"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-06-02 14:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-18 17:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-18 17:40:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-12-15"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-24 16:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

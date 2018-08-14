@@ -25,6 +25,58 @@
   "artist_names": [
     "Maza"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "SampL",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-26 07:19:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-29"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-10-29"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

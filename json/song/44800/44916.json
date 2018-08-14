@@ -21,6 +21,33 @@
   "artist_names": [
     "Wiklund"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2018-05-11 21:29:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2018-05-10 23:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-05-11 21:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-05-11 21:29:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-05-11 21:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

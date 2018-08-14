@@ -22,6 +22,63 @@
   "artist_names": [
     "Fab"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "wiseman",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-13 07:10:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-12-22 18:30:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-05-26"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-10-22 11:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

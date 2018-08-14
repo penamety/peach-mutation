@@ -20,5 +20,17 @@
   "artist_names": [
     "PG"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-12-05 01:49:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-01-27 06:00:00"
+    }
+  ],
   "requests": []
 }

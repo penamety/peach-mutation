@@ -26,6 +26,88 @@
   "artist_names": [
     "Bernard Sumner"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-09-03 12:07:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2014-02-09 21:23:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2015-03-25 14:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-03-25 14:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-25 14:00:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2015-03-25 14:00:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 3,
+      "when": "2015-07-28"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

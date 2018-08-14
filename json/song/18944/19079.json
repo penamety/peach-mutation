@@ -20,6 +20,63 @@
   "artist_names": [
     "Hein Design"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-02 02:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-12-02 02:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-12-02 02:26:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-12-02 02:27:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2014-02-25 07:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-02-25 07:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

@@ -24,6 +24,83 @@
   "artist_names": [
     "Goto80"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "grazey",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-11 02:44:00"
+    },
+    {
+      "user": "headache",
+      "vote": 4,
+      "when": "2013-12-31 01:00:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-11-26 15:54:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2014-11-26 15:54:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-11-26 15:54:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-10-28"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2018-04-21 04:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "hornpipe2",

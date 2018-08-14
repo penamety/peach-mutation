@@ -22,6 +22,48 @@
   "artist_names": [
     "Major Tom (DE)"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-01 12:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-11-01 12:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-01 12:26:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-11-01 12:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -23,6 +23,103 @@
   "artist_names": [
     "Infra"
   ],
+  "votes": [
+    {
+      "user": "jolic",
+      "vote": 5,
+      "when": "2008-12-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-15 08:14:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-10-15 08:14:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 3,
+      "when": "2014-04-25 13:00:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2014-06-19 08:38:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-06-19 08:38:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-06-19 08:39:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2014-06-23"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

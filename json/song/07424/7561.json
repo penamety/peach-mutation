@@ -19,6 +19,78 @@
   "artist_names": [
     "Divag"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Marlon",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-16 05:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-23 09:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-23 09:53:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2014-01-23 09:53:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2014-01-23 09:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-07-21"
+    },
+    {
+      "user": "fred532",
+      "vote": 1,
+      "when": "2015-07-21"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2017-06-06 15:02:00"
+    },
+    {
+      "user": "SLMOE",
+      "vote": 2,
+      "when": "2017-06-06 15:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

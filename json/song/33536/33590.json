@@ -24,6 +24,53 @@
   "artist_names": [
     "Dualtrax"
   ],
+  "votes": [
+    {
+      "user": "crrr",
+      "vote": 5,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-01 01:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-01 01:00:00"
+    },
+    {
+      "user": "phuck1",
+      "vote": 5,
+      "when": "2013-07-12 06:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-18 23:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

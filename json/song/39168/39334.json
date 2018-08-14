@@ -23,6 +23,48 @@
   "artist_names": [
     "Komosa"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2013-10-09 19:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-09 19:46:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-11-02 10:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-12-19 09:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-13 22:20:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-05-30 21:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-05-30 21:04:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-10-27 11:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

@@ -23,6 +23,53 @@
   "artist_names": [
     "Bibby"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-09 13:30:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-03-09 13:32:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-04-03 18:57:00"
+    },
+    {
+      "user": "joes",
+      "vote": 4,
+      "when": "2014-04-03 18:58:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-04-03 18:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-06-03 01:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-03 01:57:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2014-10-26 06:10:00"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 4,
+      "when": "2016-08-18"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

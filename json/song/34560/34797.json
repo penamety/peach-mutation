@@ -23,6 +23,53 @@
   "artist_names": [
     "Matrix Cubed"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-28 07:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-28 08:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-11-19 19:14:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2014-02-17 22:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

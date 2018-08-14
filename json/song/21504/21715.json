@@ -22,6 +22,113 @@
   "artist_names": [
     "Mister Beep"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-06-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "halvare",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "jakov",
+      "vote": 1,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ldc",
+      "vote": 1,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-07-01 23:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-01 23:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-01 23:56:00"
+    },
+    {
+      "user": "Hasse",
+      "vote": 1,
+      "when": "2014-04-13 16:47:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-05-26"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-11-22 19:32:00"
+    },
+    {
+      "user": "PAPA_RimskY",
+      "vote": 5,
+      "when": "2016-11-22 19:32:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-11-22 19:32:00"
+    },
+    {
+      "user": "makako",
+      "vote": 5,
+      "when": "2016-11-22 19:33:00"
+    },
+    {
+      "user": "Mindiell",
+      "vote": 4,
+      "when": "2017-05-12 16:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -26,6 +26,73 @@
   "artist_names": [
     "Junkhead"
   ],
+  "votes": [
+    {
+      "user": "BeautyNerd",
+      "vote": 5,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-28 06:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-09 19:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-11-09 19:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-09 19:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-22"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-08 10:40:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-06-08 10:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

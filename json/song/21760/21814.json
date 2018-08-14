@@ -24,6 +24,63 @@
   "artist_names": [
     "Gamma"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "AnaMark",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-22 23:43:00"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2013-07-22 23:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-22 23:44:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-10-01"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

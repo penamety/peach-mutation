@@ -22,6 +22,53 @@
   "artist_names": [
     "Quazar"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-01-19"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2016-01-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-01-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-03"
+    },
+    {
+      "user": "zeograd",
+      "vote": 1,
+      "when": "2016-02-03"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2016-03-17 13:42:00"
+    },
+    {
+      "user": "JosephCollins",
+      "vote": 3,
+      "when": "2016-03-17 13:44:00"
+    },
+    {
+      "user": "egreek",
+      "vote": 5,
+      "when": "2016-08-04"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-26 17:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

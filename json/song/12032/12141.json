@@ -23,6 +23,78 @@
   "artist_names": [
     "Chromag"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "selmi",
+      "vote": 5,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-16 13:41:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-12-02 04:51:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-04-19 09:32:00"
+    },
+    {
+      "user": "freem",
+      "vote": 4,
+      "when": "2016-06-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-06-30"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-05-05 15:04:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 4,
+      "when": "2017-05-05 15:04:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-10-24 05:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

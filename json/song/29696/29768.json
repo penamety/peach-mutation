@@ -25,6 +25,88 @@
   "artist_names": [
     "Vain"
   ],
+  "votes": [
+    {
+      "user": "Chocoholic",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "matsim",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-04 09:12:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2013-09-29 09:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-07-08 21:13:00"
+    },
+    {
+      "user": "Mimosaa",
+      "vote": 1,
+      "when": "2014-10-09 10:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

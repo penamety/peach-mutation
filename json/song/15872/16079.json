@@ -19,6 +19,68 @@
   "artist_names": [
     "CONS"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "vanward",
+      "vote": 2,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-02-14 14:39:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-14 14:40:00"
+    },
+    {
+      "user": "Fireball",
+      "vote": 2,
+      "when": "2016-01-18"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2016-01-18"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2016-07-31"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-03-17 20:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-03-17 20:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "vanward",

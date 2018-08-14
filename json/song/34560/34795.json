@@ -28,6 +28,73 @@
   "artist_names": [
     "Statix"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "codehead",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "_wally",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-22 22:56:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-09-22 22:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-12-30 07:01:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2014-10-28 23:58:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2015-09-05"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

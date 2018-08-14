@@ -24,6 +24,48 @@
   "artist_names": [
     "Gavin Lucas"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Arktos",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-08 07:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-04 07:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "hornpipe2",

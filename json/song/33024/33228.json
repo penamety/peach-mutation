@@ -25,6 +25,98 @@
   "artist_names": [
     "Madbit"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "wiseman",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 2,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-27 21:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-05-27 21:00:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2014-04-24 12:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-20 19:00:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-11-26 09:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "BeautyNerd",

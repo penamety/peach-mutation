@@ -19,6 +19,78 @@
   "artist_names": [
     "Berserker"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "MyO",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Riphur",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Smu",
+      "vote": 1,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "skall",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-07-31"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-07-31"
+    }
+  ],
   "requests": [
     {
       "user": "psymleko",

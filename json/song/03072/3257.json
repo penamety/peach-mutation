@@ -19,6 +19,63 @@
   "artist_names": [
     "Jase"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-15 14:29:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2015-04-15 14:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2015-08-18"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

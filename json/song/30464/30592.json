@@ -22,6 +22,48 @@
   "artist_names": [
     "Peter Salomonsen"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Glow",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-17 03:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-02-01 22:49:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 2,
+      "when": "2016-01-10"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

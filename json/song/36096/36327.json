@@ -22,6 +22,58 @@
   "artist_names": [
     "Assign"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-06-01 18:45:00"
+    },
+    {
+      "user": "EvanR",
+      "vote": 1,
+      "when": "2015-01-25 02:02:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-04-21 17:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

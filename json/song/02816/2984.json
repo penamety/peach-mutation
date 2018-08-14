@@ -20,6 +20,78 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "GaRaOne",
+      "vote": 3,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "K",
+      "vote": 2,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "artician",
+      "vote": 4,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 4,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-29 05:04:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2014-06-18 10:33:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2014-06-18 10:33:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-01-24 13:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-24 13:23:00"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2015-01-24 13:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "jellybubble",

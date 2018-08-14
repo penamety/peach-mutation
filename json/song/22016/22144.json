@@ -23,6 +23,73 @@
   "artist_names": [
     "Neil Baldwin"
   ],
+  "votes": [
+    {
+      "user": "EZH",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "vanward",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2011-09-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-07-04 07:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-24 20:20:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-10-08 21:56:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2013-10-08 21:57:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2013-10-08 21:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-04-28 00:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-03-22 15:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "vanward",

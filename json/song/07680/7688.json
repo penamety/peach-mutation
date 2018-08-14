@@ -16,5 +16,17 @@
   "last_scraped": "2018-05-22 20:33:16",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Shriggar",
+      "vote": 5,
+      "when": "2008-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-02"
+    }
+  ],
   "requests": []
 }

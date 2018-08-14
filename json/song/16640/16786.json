@@ -21,6 +21,83 @@
   "artist_names": [
     "Maelcum"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 2,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-27 01:00:00"
+    },
+    {
+      "user": "Sirocco",
+      "vote": 4,
+      "when": "2013-05-27 01:00:00"
+    },
+    {
+      "user": "selmi",
+      "vote": 1,
+      "when": "2013-05-27 01:00:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2014-04-02 15:25:00"
+    },
+    {
+      "user": "JosephCollins",
+      "vote": 5,
+      "when": "2014-04-02 15:25:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2015-01-04 15:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

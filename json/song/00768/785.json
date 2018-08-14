@@ -19,6 +19,68 @@
   "artist_names": [
     "Brave New Music"
   ],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "velusip",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-06-03 14:28:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-08-13"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

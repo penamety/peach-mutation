@@ -20,6 +20,103 @@
   "artist_names": [
     "GRG"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "colonel_mustard",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Longbow",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-07-31 08:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-24 04:25:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-01-03 16:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-01-03 16:13:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-05-30 13:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "LittleWhite",

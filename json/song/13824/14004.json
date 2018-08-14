@@ -19,6 +19,78 @@
   "artist_names": [
     "aMUSIC"
   ],
+  "votes": [
+    {
+      "user": "besh",
+      "vote": 3,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-04 03:38:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-12 13:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-04-23 08:15:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-27 13:33:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-06-24"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-06-24"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-03-22 13:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

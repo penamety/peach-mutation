@@ -25,6 +25,108 @@
   "artist_names": [
     "Bug Vindicator"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2008-12-01"
+    },
+    {
+      "user": "Helioth",
+      "vote": 3,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "Rawer",
+      "vote": 5,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-01-09"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-05 12:45:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-09-05 12:46:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-01-11 19:45:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-01-11 19:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-01-11 19:46:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2015-09-10"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2016-07-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-07-10"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-12-25 12:59:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2016-12-25 13:00:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2017-05-06 21:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-06 21:54:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 4,
+      "when": "2018-04-17 14:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

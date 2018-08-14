@@ -20,6 +20,48 @@
   "artist_names": [
     "Jesus2099"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-04-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-05-29 16:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-29 16:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-05-29 16:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-10-21 02:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -25,6 +25,68 @@
   "artist_names": [
     "Human"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "cxw",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "scanjam",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-17 12:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-17 12:07:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-10-22 07:29:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-11-25 22:28:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-03-25 06:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "cxw",

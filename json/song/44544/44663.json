@@ -25,6 +25,33 @@
   "artist_names": [
     "Nagz"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-02-04 19:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2018-02-04 20:02:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-02-05 21:34:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-02-05 21:37:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-04-08 16:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

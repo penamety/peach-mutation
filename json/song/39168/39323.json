@@ -23,6 +23,58 @@
   "artist_names": [
     "Andy [FI]"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-11 13:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-11 13:42:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-09-11 13:43:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2013-09-11 13:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-11 13:44:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-10-06 22:45:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-01-05 18:11:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2014-04-10 06:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-04-10 06:21:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-22 09:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "Jerry",

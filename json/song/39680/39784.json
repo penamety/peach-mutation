@@ -21,6 +21,63 @@
   "artist_names": [
     "Quad"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-12-17 22:08:00"
+    },
+    {
+      "user": "chellomere",
+      "vote": 3,
+      "when": "2013-12-17 22:09:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-02 15:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-02 15:53:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-04-25 20:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-04-25 20:48:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-08-01"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-11-14 15:51:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-14 15:51:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-03-25 03:47:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 2,
+      "when": "2018-03-25 03:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "kirsche",

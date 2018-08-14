@@ -20,6 +20,53 @@
   "artist_names": [
     "FTC"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-11-09"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-09 02:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-02-18 12:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-18 12:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

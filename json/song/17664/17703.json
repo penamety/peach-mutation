@@ -21,6 +21,73 @@
   "artist_names": [
     "Eftos"
   ],
+  "votes": [
+    {
+      "user": "RoC",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Nicknack",
+      "vote": 5,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "guru64",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "wig",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Locutus",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2013-06-08 01:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2015-03-04 18:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

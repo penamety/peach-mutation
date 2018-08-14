@@ -21,6 +21,68 @@
   "artist_names": [
     "Tito"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Bluerain33",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "bitl",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-08-16 09:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-23 22:31:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-01-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-07-01 18:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

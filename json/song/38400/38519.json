@@ -25,6 +25,68 @@
   "artist_names": [
     "Tope"
   ],
+  "votes": [
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-06-03 12:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-06-03 12:01:00"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2013-06-03 12:01:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-10-10 11:09:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-10-10 11:09:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-10-10 11:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-10-10 11:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-17"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-08-17"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-14 22:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "franz_koopa",

@@ -25,6 +25,78 @@
   "artist_names": [
     "Hein Design"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2010-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-12 05:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-02-07 07:27:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-02-07 07:30:00"
+    },
+    {
+      "user": "Melo",
+      "vote": 3,
+      "when": "2014-08-21"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 4,
+      "when": "2015-07-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-12-23 06:59:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2018-03-08 18:23:00"
+    },
+    {
+      "user": "Scribblette",
+      "vote": 2,
+      "when": "2018-05-18 05:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

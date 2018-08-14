@@ -25,6 +25,23 @@
   "artist_names": [
     "Walkman"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-01-30"
+    }
+  ],
   "requests": [
     {
       "user": "Rage",

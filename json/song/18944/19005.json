@@ -20,6 +20,28 @@
   "artist_names": [
     "Hannes Seifert"
   ],
+  "votes": [
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-04-02"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

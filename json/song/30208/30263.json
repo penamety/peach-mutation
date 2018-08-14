@@ -23,6 +23,63 @@
   "artist_names": [
     "Etic"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 2,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-10-31 11:38:00"
+    },
+    {
+      "user": "Erk",
+      "vote": 3,
+      "when": "2014-02-17 17:36:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-02-17 17:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-17 17:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -19,6 +19,48 @@
   "artist_names": [
     "The REW"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-27 00:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-27 00:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -20,6 +20,53 @@
   "artist_names": [
     "Avalanche"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-12-18 03:54:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-06-12 18:32:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-01-13"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2017-04-29 00:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

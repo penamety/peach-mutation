@@ -23,6 +23,73 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-01-06"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-10 02:55:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-10 02:55:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-09-16 12:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-16 12:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-16 12:52:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2014-04-24 12:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-09-06"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

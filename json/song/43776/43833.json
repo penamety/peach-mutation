@@ -23,6 +23,38 @@
   "artist_names": [
     "Drax"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-03-03 23:26:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-03-03 23:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-03-03 23:26:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2017-03-20 10:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-05-28 15:36:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-05-28 15:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

@@ -26,6 +26,83 @@
   "artist_names": [
     "Corwin"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-10-14 12:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-08-16"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-20 14:19:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2017-01-20 14:19:00"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 2,
+      "when": "2017-01-20 14:22:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 1,
+      "when": "2018-04-17 05:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

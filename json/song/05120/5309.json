@@ -20,6 +20,68 @@
   "artist_names": [
     "NogSF"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "zneek",
+      "vote": 1,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "pecet",
+      "vote": 1,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-21 09:10:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2014-09-05 10:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-05 10:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-05 11:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-10-28 21:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

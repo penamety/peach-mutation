@@ -19,6 +19,63 @@
   "artist_names": [
     "Mittag Leffler"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-16 05:58:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-16 05:59:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-09-12 11:00:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2014-09-12 11:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-30 00:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-05-10 07:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

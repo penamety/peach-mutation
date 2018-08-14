@@ -19,6 +19,48 @@
   "artist_names": [
     "Kenny Beltrey"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-01-20"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

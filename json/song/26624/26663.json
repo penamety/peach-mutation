@@ -24,6 +24,53 @@
   "artist_names": [
     "Danger"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-12 23:09:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-06-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-05-23 21:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -21,6 +21,53 @@
   "artist_names": [
     "Interphace"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-05 09:42:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-04"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -22,6 +22,48 @@
   "artist_names": [
     "Kenet"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-27 06:23:00"
+    },
+    {
+      "user": "Qumran",
+      "vote": 5,
+      "when": "2014-01-29 08:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-07-07"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

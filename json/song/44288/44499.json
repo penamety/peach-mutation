@@ -25,6 +25,48 @@
   "artist_names": [
     "Advertise Play"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2017-12-07 11:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-12-07 12:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-12-07 21:01:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-12-07 21:02:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-12-07 21:02:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-25 18:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-02-02 12:41:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-02-23 23:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

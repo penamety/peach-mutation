@@ -25,6 +25,68 @@
   "artist_names": [
     "Hector"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-17 15:31:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-01-17 15:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-17 15:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-09-21"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2017-12-11 10:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

@@ -19,5 +19,17 @@
   "source": "Game",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "bitl",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-06-01"
+    }
+  ],
   "requests": []
 }

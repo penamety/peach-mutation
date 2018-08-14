@@ -22,6 +22,53 @@
     "Braintumour",
     "Heywood"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-24 06:23:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-11-24 06:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-16 23:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-04-16 14:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

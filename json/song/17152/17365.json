@@ -23,6 +23,73 @@
   "artist_names": [
     "Doh"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "chellomere",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-11 07:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-11 07:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-10-16 12:31:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-10-16 12:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-16 12:32:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-07-01 15:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Erk",

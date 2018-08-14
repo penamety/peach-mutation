@@ -24,5 +24,27 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Oliwerko",
+      "vote": 2,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "MyO",
+      "vote": 1,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-12-03"
+    }
+  ],
   "requests": []
 }

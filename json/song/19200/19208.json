@@ -22,6 +22,63 @@
   "artist_names": [
     "Human"
   ],
+  "votes": [
+    {
+      "user": "aaai",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-06-03 09:27:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-06-03 09:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-09-13"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-13 13:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

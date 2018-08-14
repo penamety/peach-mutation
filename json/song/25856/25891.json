@@ -19,6 +19,73 @@
   "artist_names": [
     "Troll"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "corewhore",
+      "vote": 5,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-11-11 14:18:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-11-11 14:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-11 14:19:00"
+    },
+    {
+      "user": "subzey",
+      "vote": 2,
+      "when": "2013-11-11 14:20:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 2,
+      "when": "2014-10-28 22:57:00"
+    },
+    {
+      "user": "robert",
+      "vote": 2,
+      "when": "2017-12-04 11:33:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-12-04 11:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

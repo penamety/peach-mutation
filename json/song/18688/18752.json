@@ -19,6 +19,68 @@
   "artist_names": [
     "Gojita"
   ],
+  "votes": [
+    {
+      "user": "MyO",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-28 06:57:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-10-13"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2015-10-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-10-13"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

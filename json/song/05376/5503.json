@@ -20,6 +20,88 @@
   "artist_names": [
     "Overgrown"
   ],
+  "votes": [
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Sensei",
+      "vote": 1,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-04 02:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-01-12 09:28:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 1,
+      "when": "2015-05-21 10:00:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2015-09-19"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-02-25 22:12:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-06-02 15:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-09-30 23:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -19,6 +19,73 @@
   "artist_names": [
     "Trayzor"
   ],
+  "votes": [
+    {
+      "user": "Axioplase",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "HED",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-07-24 11:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-07-24 11:46:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-24 11:47:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-03-17 15:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-03-17 15:30:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-02-15 14:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

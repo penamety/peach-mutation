@@ -19,6 +19,58 @@
   "artist_names": [
     "Psitron"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-07 14:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-07 14:16:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-07-16 07:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

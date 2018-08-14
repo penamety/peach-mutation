@@ -23,6 +23,53 @@
   "artist_names": [
     "DEATHLOK"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2017-12-31 22:22:00"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 4,
+      "when": "2018-01-01 10:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-01-01 13:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-01-20 08:16:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-04-04 08:41:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-05-07 14:00:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-05-07 14:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-05-07 14:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-07 14:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

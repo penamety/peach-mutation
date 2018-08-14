@@ -25,6 +25,78 @@
   "artist_names": [
     "DaXX"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-27 03:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-27 03:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-07 14:55:00"
+    },
+    {
+      "user": "omilian",
+      "vote": 5,
+      "when": "2015-09-13"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-05-07 19:19:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-10-20 20:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-10-20 20:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

@@ -23,6 +23,83 @@
   "artist_names": [
     "Armadon"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "rombust",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Gismo",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-07-24 23:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-24 23:25:00"
+    },
+    {
+      "user": "Jimantha",
+      "vote": 4,
+      "when": "2014-09-30 18:57:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-01-04 10:54:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-04 10:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

@@ -22,6 +22,48 @@
   "artist_names": [
     "fsFreak"
   ],
+  "votes": [
+    {
+      "user": "damaa",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-11 16:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-11 16:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-23 23:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

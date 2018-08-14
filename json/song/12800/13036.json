@@ -24,6 +24,73 @@
   "artist_names": [
     "Quasian"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "ZTube",
+      "vote": 1,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "alebu",
+      "vote": 5,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-05 15:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-09-05 15:44:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-30 07:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-06-07"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-06-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-10-06 23:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "sqrmax",

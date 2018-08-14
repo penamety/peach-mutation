@@ -22,6 +22,88 @@
   "artist_names": [
     "Trap"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-11-10 19:48:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-11-10 19:50:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2013-11-10 19:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-26 13:55:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-03-26 13:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-13 20:19:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-08-13 20:23:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-12-28 16:33:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-12-28 16:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

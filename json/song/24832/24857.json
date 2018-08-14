@@ -20,6 +20,108 @@
   "artist_names": [
     "Stote"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-13 03:06:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-17 16:22:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-02-17 16:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-02-17 16:24:00"
+    },
+    {
+      "user": "Fireball",
+      "vote": 1,
+      "when": "2014-02-17 16:25:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2014-02-17 16:26:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-10-20 20:51:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-28 03:24:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2015-04-30 13:09:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2015-04-30 13:11:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2015-12-07"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2017-07-08 01:24:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-17 12:17:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-03-17 12:18:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2018-03-17 12:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

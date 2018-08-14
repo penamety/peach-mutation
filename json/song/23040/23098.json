@@ -16,5 +16,37 @@
   "last_scraped": "2018-05-23 06:13:20",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "vacheatuba",
+      "vote": 3,
+      "when": "2010-09-03"
+    }
+  ],
   "requests": []
 }

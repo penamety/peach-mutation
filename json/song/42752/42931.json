@@ -26,6 +26,58 @@
   "artist_names": [
     "BeWu"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2016-03-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-03-04 08:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-03-04 08:53:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 5,
+      "when": "2016-03-18 11:16:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-04 14:09:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-05-19"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "yzi",
+      "vote": 5,
+      "when": "2016-09-22"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2016-10-25 09:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-01-27 21:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

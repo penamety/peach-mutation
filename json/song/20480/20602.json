@@ -19,6 +19,93 @@
   "artist_names": [
     "Little Bitchard"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "gauri",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "zilym",
+      "vote": 3,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "NickBahamondes",
+      "vote": 4,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2013-10-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-10-18 00:35:00"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-10-18 00:36:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-01-20 13:59:00"
+    },
+    {
+      "user": "Osmic",
+      "vote": 3,
+      "when": "2014-01-20 14:02:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-01-20 14:02:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-19 01:03:00"
+    },
+    {
+      "user": "grazey",
+      "vote": 3,
+      "when": "2016-08-15"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-08-15"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-09 17:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

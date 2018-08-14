@@ -25,6 +25,78 @@
   "artist_names": [
     "LAVender"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Manwe",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "streki",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-10-26 21:18:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-10-26 21:19:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-10-26 21:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-25 02:09:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-03-28 20:11:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2014-03-28 20:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-06-21 23:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-07-09 21:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "crosbow",

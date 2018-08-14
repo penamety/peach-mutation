@@ -19,6 +19,53 @@
   "artist_names": [
     "Andy [DE]"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-09-25 13:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-05 17:09:00"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2014-01-05 17:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

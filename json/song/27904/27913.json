@@ -23,6 +23,53 @@
   "artist_names": [
     "Khrome"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-08 01:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-08 01:14:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-02-08 01:14:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-07-01 19:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -26,6 +26,83 @@
   "artist_names": [
     "serpent"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Octoate",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "crome",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2013-06-04 23:19:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-06-04 23:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-04 23:24:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-25 12:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-12-01 02:45:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-12-01 02:45:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 2,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-03-19 10:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

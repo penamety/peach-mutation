@@ -19,6 +19,68 @@
   "artist_names": [
     "Tristan Lorach"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-07 00:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-07 00:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-06 16:18:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-02-06 16:19:00"
+    },
+    {
+      "user": "Tezar",
+      "vote": 1,
+      "when": "2014-02-06 16:23:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-03-26 04:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

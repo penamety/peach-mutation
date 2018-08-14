@@ -26,6 +26,88 @@
   "artist_names": [
     "rockmonitor"
   ],
+  "votes": [
+    {
+      "user": "nvictor",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "dang",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Shade_Daizl",
+      "vote": 2,
+      "when": "2013-06-29 17:46:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-06-29 17:48:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2015-08-12"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-12-28"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2016-03-16 19:42:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-03-16 19:44:00"
+    },
+    {
+      "user": "EXJ",
+      "vote": 4,
+      "when": "2016-03-16 19:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

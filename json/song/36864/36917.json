@@ -22,6 +22,33 @@
   "source": "Demo",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "seppjo",
+      "vote": 5,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-07 16:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "seppjo",

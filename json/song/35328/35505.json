@@ -27,6 +27,88 @@
   "artist_names": [
     "T-101"
   ],
+  "votes": [
+    {
+      "user": "omilian",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-09 03:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-12 16:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-15 03:14:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-15 19:01:00"
+    },
+    {
+      "user": "alecs",
+      "vote": 3,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-03-04 11:46:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 2,
+      "when": "2016-04-16 01:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "omilian",

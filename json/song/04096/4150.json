@@ -21,6 +21,73 @@
   "artist_names": [
     "Lizardking"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "RaGE_Newgen",
+      "vote": 5,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "turbine5",
+      "vote": 4,
+      "when": "2013-07-13 19:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-23 21:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-07-28 03:06:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-04-08 06:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "RaGE_Newgen",

@@ -24,6 +24,103 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Mordi",
+      "vote": 5,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "matsim",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "skall",
+      "vote": 4,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "jakov",
+      "vote": 3,
+      "when": "2013-08-12 16:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-12 16:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-07-02 12:28:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-10-09 07:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2016-02-03"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-11-16 19:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "pochmurnik",

@@ -22,6 +22,58 @@
   "artist_names": [
     "Lysander Lapine"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-25 03:46:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-09-08 18:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-08 18:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

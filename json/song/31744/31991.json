@@ -27,6 +27,83 @@
   "artist_names": [
     "Vincenzo"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "velusip",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-11-14 14:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-14 14:26:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-21 03:42:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-06-25 06:54:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-09-12 11:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-10-30 11:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

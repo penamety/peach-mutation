@@ -22,6 +22,78 @@
   "artist_names": [
     "Cyborg Jeff"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-09-17 13:29:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-17 13:31:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-04-05 23:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-05-05 07:52:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-05-05 07:53:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-05-05 07:53:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2017-05-29 18:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

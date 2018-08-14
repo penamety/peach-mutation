@@ -19,6 +19,58 @@
   "artist_names": [
     "The Plough"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2008-12-02"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 2,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-14 21:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-14 20:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

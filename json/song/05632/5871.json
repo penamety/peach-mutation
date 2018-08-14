@@ -21,6 +21,43 @@
   "artist_names": [
     "Purple thirdeye"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Colidace",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 5,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-22 20:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Colidace",

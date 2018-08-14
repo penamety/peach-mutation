@@ -25,6 +25,83 @@
   "artist_names": [
     "Chromag"
   ],
+  "votes": [
+    {
+      "user": "Chocoholic",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "spekki",
+      "vote": 4,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-30 03:40:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2013-11-13 04:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2014-03-13 07:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-03-13 07:22:00"
+    },
+    {
+      "user": "OSH",
+      "vote": 5,
+      "when": "2014-05-13 23:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-12-26 01:28:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-03-21 11:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-03-21 11:01:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2017-06-22 00:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

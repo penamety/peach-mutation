@@ -19,6 +19,53 @@
   "artist_names": [
     "Van Der Phunck"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "skall",
+      "vote": 1,
+      "when": "2012-12-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-11-01 16:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-11-01 16:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-11-01 16:35:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-14"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

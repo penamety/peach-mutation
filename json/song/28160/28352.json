@@ -24,6 +24,68 @@
   "artist_names": [
     "Danger"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "venttiili",
+      "vote": 2,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "mainhoon",
+      "vote": 5,
+      "when": "2013-12-04 02:40:00"
+    },
+    {
+      "user": "selmi",
+      "vote": 2,
+      "when": "2013-12-04 02:41:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-15 19:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-23 20:47:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-01-10 06:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

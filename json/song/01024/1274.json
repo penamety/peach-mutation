@@ -22,6 +22,133 @@
   "artist_names": [
     "Coma"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "Danger",
+      "vote": 5,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "Latis",
+      "vote": 5,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "caminante",
+      "vote": 5,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "crrr",
+      "vote": 5,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "pwrdwnsys",
+      "vote": 5,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "Mantalow",
+      "vote": 3,
+      "when": "2012-12-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-17 05:44:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-06 07:00:00"
+    },
+    {
+      "user": "xerion567",
+      "vote": 3,
+      "when": "2014-03-08 04:27:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-08-13 20:56:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 5,
+      "when": "2014-08-13 20:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-08-31 20:58:00"
+    },
+    {
+      "user": "jantho",
+      "vote": 4,
+      "when": "2016-11-17 17:31:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-11-17 17:31:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-02"
+    }
+  ],
   "requests": [
     {
       "user": "Danger",

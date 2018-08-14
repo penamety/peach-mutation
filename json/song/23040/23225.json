@@ -20,6 +20,58 @@
   "artist_names": [
     "Inu"
   ],
+  "votes": [
+    {
+      "user": "infinigon",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-09 03:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-15 22:53:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-10-24 04:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "vercarnist",

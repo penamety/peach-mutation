@@ -23,6 +23,58 @@
   "artist_names": [
     "Danny Oneway"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-25 00:14:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-08-30"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2018-06-16 11:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

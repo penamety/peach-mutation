@@ -21,6 +21,53 @@
   "artist_names": [
     "Ray Kendall"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "etray",
+      "vote": 3,
+      "when": "2014-06-02 17:45:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2016-06-11"
+    }
+  ],
   "requests": [
     {
       "user": "rockmonitor",

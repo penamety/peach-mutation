@@ -24,6 +24,78 @@
   "artist_names": [
     "Corwin"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-10-29 13:58:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-10-29 14:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-10-29 14:00:00"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-10-29 14:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-20 23:41:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-11-15 12:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

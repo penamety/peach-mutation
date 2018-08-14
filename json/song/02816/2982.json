@@ -21,6 +21,78 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "GaRaOne",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "warhawk",
+      "vote": 5,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-04 15:17:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-05-23 22:32:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-05-23 22:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-18"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-10-24 15:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

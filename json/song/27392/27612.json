@@ -24,6 +24,48 @@
   "artist_names": [
     "Morph"
   ],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 5,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-10 09:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-14 06:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -23,6 +23,98 @@
   "artist_names": [
     "DJ Raw B"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "phaser",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Vampire",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "mud",
+      "vote": 2,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2013-11-23 03:49:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-02-15 12:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-15 12:12:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-02-15 12:12:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-15 12:12:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-09-09 06:25:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-16 14:22:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2017-04-16 14:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-06-14 22:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "SPACE",

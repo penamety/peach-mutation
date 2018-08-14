@@ -20,6 +20,73 @@
   "artist_names": [
     "Sahaj Maituna"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "zinob",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "yeep",
+      "vote": 4,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-03 19:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-08-03 19:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-13 21:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

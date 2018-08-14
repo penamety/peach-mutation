@@ -26,6 +26,73 @@
   "artist_names": [
     "Randy Glover"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-07 20:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-05 01:45:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-08-05 01:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-05 01:46:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-05-26 11:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

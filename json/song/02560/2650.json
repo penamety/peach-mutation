@@ -19,6 +19,63 @@
   "artist_names": [
     "Filth"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 5,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-08-24 16:38:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-12-04"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2015-12-04"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-06-23 01:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-07-16 18:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -21,6 +21,48 @@
   "artist_names": [
     "Trixie"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-12-20 22:17:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-20 23:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2017-02-09 10:03:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-03-09 09:13:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 2,
+      "when": "2017-03-09 09:13:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 2,
+      "when": "2017-03-09 09:13:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-03-09 09:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-05-10 09:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

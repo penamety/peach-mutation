@@ -24,6 +24,68 @@
   "artist_names": [
     "Michael Tschögl"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-10 02:57:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-10 02:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-10 03:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-06-08 10:16:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-15 22:42:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 2,
+      "when": "2017-11-14 19:47:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-02-16 23:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

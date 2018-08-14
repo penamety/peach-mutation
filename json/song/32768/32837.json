@@ -22,6 +22,88 @@
   "artist_names": [
     "Marcer"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 1,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Tapewormz",
+      "vote": 3,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-08-23 19:33:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-08-23 19:34:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-23 13:08:00"
+    },
+    {
+      "user": "Insectecutor",
+      "vote": 1,
+      "when": "2014-01-23 13:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-23 13:09:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-01-23 13:10:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-08-09"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

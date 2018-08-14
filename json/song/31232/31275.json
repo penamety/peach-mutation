@@ -27,6 +27,68 @@
   "artist_names": [
     "Nightbeat"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-12 14:34:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 5,
+      "when": "2014-05-15 17:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-05 16:48:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2014-09-16 16:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-20 16:33:00"
+    },
+    {
+      "user": "dfast",
+      "vote": 3,
+      "when": "2015-01-29 09:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-01-29 09:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

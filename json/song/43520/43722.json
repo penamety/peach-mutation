@@ -26,6 +26,83 @@
   "artist_names": [
     "BTB"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-02-06 14:15:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-02-06 14:34:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-02-06 14:34:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2017-02-06 14:34:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-02-06 14:35:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-02-06 14:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-02-06 14:36:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-03-03 08:23:00"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 3,
+      "when": "2017-03-03 08:25:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-07-18 01:58:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 3,
+      "when": "2017-10-14 16:32:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-03-12 21:35:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-03-12 21:35:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-04-23 15:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-04-23 15:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

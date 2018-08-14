@@ -20,6 +20,78 @@
   "artist_names": [
     "Cyborg"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Terrasque",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "uridium",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "tyco",
+      "vote": 1,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-03-10"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-07-06 23:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-07-06 23:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-10 13:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-27 18:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-05-24 00:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-11-16 16:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

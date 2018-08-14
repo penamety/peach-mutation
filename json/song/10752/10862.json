@@ -23,6 +23,83 @@
   "artist_names": [
     "Oliwerko"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Danger",
+      "vote": 2,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "big_bear",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "funnyn8",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "aaai",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Colidace",
+      "vote": 2,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 1,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-05-10"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

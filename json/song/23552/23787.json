@@ -24,6 +24,88 @@
   "artist_names": [
     "Rolemusic"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-11 04:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-11 04:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-06 20:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-06 20:54:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-08-08 22:08:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-01-06 19:12:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-03-28 13:35:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-05-20 12:38:00"
+    },
+    {
+      "user": "joes",
+      "vote": 3,
+      "when": "2014-05-20 12:38:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-12"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

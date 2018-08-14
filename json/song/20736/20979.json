@@ -25,6 +25,78 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "rv6502",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-19 21:59:00"
+    },
+    {
+      "user": "DrFlay",
+      "vote": 5,
+      "when": "2014-03-01 19:46:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-03-01 19:47:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-09-22"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-01-30 23:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "hornpipe2",

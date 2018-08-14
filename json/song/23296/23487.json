@@ -19,6 +19,53 @@
   "artist_names": [
     "Reflex"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-08-05 15:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-05 15:07:00"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2013-08-05 15:08:00"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 4,
+      "when": "2015-08-06"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-08-06"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2015-10-08"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

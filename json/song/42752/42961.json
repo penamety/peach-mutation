@@ -25,6 +25,53 @@
   "artist_names": [
     "Metal"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-03-11 10:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-03-20 22:36:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-04-05 15:25:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-04-21 16:16:00"
+    },
+    {
+      "user": "Tethys",
+      "vote": 1,
+      "when": "2016-04-21 16:18:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2017-01-10 09:41:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-10 09:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "Creonix",

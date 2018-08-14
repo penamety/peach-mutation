@@ -25,6 +25,53 @@
   "artist_names": [
     "Wal"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Moses",
+      "vote": 5,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-08-03 11:49:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-01-14 19:43:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2015-03-04 20:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

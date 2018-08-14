@@ -25,6 +25,43 @@
   "artist_names": [
     "Conrad"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-11-07 18:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2017-11-08 12:00:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 5,
+      "when": "2017-11-08 12:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-11-08 12:13:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-01 22:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-12-01 22:58:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2017-12-26 20:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

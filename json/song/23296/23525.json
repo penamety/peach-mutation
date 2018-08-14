@@ -19,6 +19,53 @@
   "artist_names": [
     "Resonance"
   ],
+  "votes": [
+    {
+      "user": "Chocoholic",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "gauri",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "tas",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-08-23 12:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "rockmonitor",

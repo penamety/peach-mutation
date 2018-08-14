@@ -19,6 +19,58 @@
   "artist_names": [
     "The Super Street Fighter"
   ],
+  "votes": [
+    {
+      "user": "Ezzelin",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-21 02:40:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2016-09-23"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-09-23"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-11-12 20:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -20,6 +20,63 @@
   "artist_names": [
     "Kritix"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "tcn",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-15 11:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-09 03:06:00"
+    },
+    {
+      "user": "Geoman",
+      "vote": 5,
+      "when": "2017-04-20 22:53:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-04-25 11:55:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-04-25 11:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

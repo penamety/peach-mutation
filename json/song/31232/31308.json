@@ -26,6 +26,58 @@
   "artist_names": [
     "Velo"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "matsim",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-12 22:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-04-18 20:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

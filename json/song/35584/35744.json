@@ -24,6 +24,68 @@
   "artist_names": [
     "Madbrain"
   ],
+  "votes": [
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-11 06:29:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-11 06:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-11 06:32:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-03-02 10:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-19 21:25:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2017-04-28 19:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-04-28 19:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

@@ -20,6 +20,73 @@
   "artist_names": [
     "Pothead Pixie"
   ],
+  "votes": [
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "eno93",
+      "vote": 5,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-11 13:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-11 13:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-28 20:02:00"
+    },
+    {
+      "user": "flash",
+      "vote": 2,
+      "when": "2015-02-28 20:05:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-09-22"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-03-14"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

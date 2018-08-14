@@ -19,6 +19,63 @@
   "artist_names": [
     "CONS"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Machforr",
+      "vote": 2,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "possatboi",
+      "vote": 1,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-11"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-05-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-03-18"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-19 20:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "velusip",

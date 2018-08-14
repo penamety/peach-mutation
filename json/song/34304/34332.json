@@ -24,6 +24,78 @@
   "artist_names": [
     "Zeerios"
   ],
+  "votes": [
+    {
+      "user": "Gnurou",
+      "vote": 1,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2011-12-10"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-07-18 00:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-18 00:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-06-21 20:14:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-05-26 15:28:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2015-05-26 15:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

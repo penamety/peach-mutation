@@ -25,6 +25,53 @@
   "artist_names": [
     "XPEH"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-01-07 20:55:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-07 23:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-01-07 23:50:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-01-23 12:34:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-01-23 12:34:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-04-27 22:06:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-10-18 10:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-17 01:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

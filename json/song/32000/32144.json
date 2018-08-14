@@ -26,6 +26,78 @@
   "artist_names": [
     "Raytrayza"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "jkolb",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-06-07 17:00:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-06-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-04 20:10:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-03-04 20:21:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2015-03-04 20:22:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-07-21"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 3,
+      "when": "2015-09-20"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-09-20"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -23,6 +23,53 @@
   "artist_names": [
     "KeyG"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-02-02 14:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

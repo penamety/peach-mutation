@@ -25,6 +25,78 @@
   "artist_names": [
     "Vincenzo"
   ],
+  "votes": [
+    {
+      "user": "darkh",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "ThunderBird",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "r043v",
+      "vote": 5,
+      "when": "2013-07-31 03:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-31 03:49:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-27 22:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-10-03 20:13:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-11-02 03:01:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-05-12 05:29:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2015-12-10"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-12-10"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

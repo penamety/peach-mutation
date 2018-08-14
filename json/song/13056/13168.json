@@ -25,6 +25,78 @@
   "artist_names": [
     "Smash"
   ],
+  "votes": [
+    {
+      "user": "communicator",
+      "vote": 5,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "jakov",
+      "vote": 4,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-09 06:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-07-21 14:27:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2015-08-24"
+    },
+    {
+      "user": "Machforr",
+      "vote": 5,
+      "when": "2015-12-31"
+    },
+    {
+      "user": "Ishma",
+      "vote": 4,
+      "when": "2016-08-31"
+    },
+    {
+      "user": "alienNeWbeat",
+      "vote": 4,
+      "when": "2016-08-31"
+    },
+    {
+      "user": "nikamota",
+      "vote": 4,
+      "when": "2016-08-31"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-03-30"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2018-05-12 22:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

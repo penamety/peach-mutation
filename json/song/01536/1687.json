@@ -19,6 +19,73 @@
   "artist_names": [
     "Digistorm"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "shino",
+      "vote": 5,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "krakozhia",
+      "vote": 3,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-20 05:29:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-10-09 15:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-19 00:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-19 00:57:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-03-05 10:40:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-03-05 10:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

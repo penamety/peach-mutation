@@ -24,6 +24,38 @@
   "artist_names": [
     "Bob (Bobby Mitchell)"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-06-12 15:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-05-09 12:22:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-05-09 12:23:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-09 12:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-05-09 12:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

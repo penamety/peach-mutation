@@ -20,6 +20,63 @@
   "artist_names": [
     "The Fox"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-09-21 14:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-26 22:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-16 21:06:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-04-21 09:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -19,6 +19,83 @@
   "artist_names": [
     "Rolemusic"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-10-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-14 20:44:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-06-05 19:53:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2017-06-05 19:54:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2017-06-05 19:54:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2017-06-05 19:54:00"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2017-06-05 19:55:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 1,
+      "when": "2017-06-05 19:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

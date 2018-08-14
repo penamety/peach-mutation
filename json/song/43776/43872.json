@@ -25,6 +25,48 @@
   "artist_names": [
     "Shorty"
   ],
+  "votes": [
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-04-08 21:38:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-04-08 21:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-04-08 23:39:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-06-01 08:10:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-06-09 08:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-06-09 08:17:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-08-31 14:16:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-12-30 14:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "Nosferatu",

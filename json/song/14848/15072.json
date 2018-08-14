@@ -20,6 +20,58 @@
   "artist_names": [
     "Bod"
   ],
+  "votes": [
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-24 05:44:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-11-24 05:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-12-03 03:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

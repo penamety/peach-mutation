@@ -24,6 +24,68 @@
   "artist_names": [
     "Loxley"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-02-01"
+    },
+    {
+      "user": "Gluttony",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "Mel",
+      "vote": 1,
+      "when": "2013-02-03"
+    },
+    {
+      "user": "Scribblette",
+      "vote": 1,
+      "when": "2013-02-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-28 16:40:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-08-28 16:41:00"
+    },
+    {
+      "user": "_wally",
+      "vote": 3,
+      "when": "2013-08-28 16:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-28 16:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-09 23:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

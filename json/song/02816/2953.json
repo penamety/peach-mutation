@@ -20,6 +20,73 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Skyrunner",
+      "vote": 5,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-09 18:56:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-08-09 18:56:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-25 13:41:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-09-25 13:41:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-09-25 13:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-25 13:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-04-08 17:54:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2018-04-08 17:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

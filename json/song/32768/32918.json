@@ -21,6 +21,103 @@
   "artist_names": [
     "Floppi"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-09 14:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-09 14:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-09 14:52:00"
+    },
+    {
+      "user": "Analyzer",
+      "vote": 5,
+      "when": "2013-11-22 19:26:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2013-11-22 19:27:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2014-12-16 10:40:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-12-16 10:42:00"
+    },
+    {
+      "user": "The_Tubes",
+      "vote": 5,
+      "when": "2015-02-27 00:03:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 5,
+      "when": "2017-04-13 11:28:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-07-26 08:48:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-07-26 08:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

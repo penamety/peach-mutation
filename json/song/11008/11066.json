@@ -25,6 +25,93 @@
   "artist_names": [
     "Basehead"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "colonel_mustard",
+      "vote": 2,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "LSA_Vinnie",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "AnaMark",
+      "vote": 1,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "ezal",
+      "vote": 4,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-09 18:48:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-11-09 18:48:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 3,
+      "when": "2014-08-29 23:23:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2017-01-30 14:16:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-01-30 14:16:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-30 14:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

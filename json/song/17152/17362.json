@@ -24,6 +24,58 @@
   "artist_names": [
     "Doh"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "r043v",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-06-10 21:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-10 21:48:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-02-04 08:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-01-11 19:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

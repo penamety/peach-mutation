@@ -23,6 +23,63 @@
   "artist_names": [
     "Phred"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "qbit",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-20 23:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-06 11:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-07 15:34:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-08-29 07:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

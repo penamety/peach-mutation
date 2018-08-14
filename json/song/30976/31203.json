@@ -28,6 +28,73 @@
     "Arcane",
     "Woody"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "velusip",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-25 03:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-24 15:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-24 16:05:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-18 05:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

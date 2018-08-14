@@ -23,6 +23,63 @@
   "artist_names": [
     "Cutcreator"
   ],
+  "votes": [
+    {
+      "user": "Marlon",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2016-04-13 10:10:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-04-13 10:11:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-05-17 05:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-06-27 22:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

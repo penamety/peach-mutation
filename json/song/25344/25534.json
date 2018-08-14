@@ -19,5 +19,17 @@
   "artist_names": [
     "The Minibosses"
   ],
+  "votes": [
+    {
+      "user": "aaai",
+      "vote": 2,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 2,
+      "when": "2010-08-03"
+    }
+  ],
   "requests": []
 }

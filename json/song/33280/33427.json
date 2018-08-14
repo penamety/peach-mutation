@@ -23,6 +23,83 @@
   "artist_names": [
     "Preston"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "mud",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-04-02 23:09:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-11-18 07:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

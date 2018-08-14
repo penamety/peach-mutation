@@ -19,6 +19,73 @@
   "artist_names": [
     "Scorpion"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "WoDK",
+      "vote": 1,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "SampL",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2013-07-24 01:11:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-07-24 01:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-24 01:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-24 01:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-01 15:04:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-02-01 15:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

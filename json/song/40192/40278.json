@@ -26,6 +26,83 @@
   "artist_names": [
     "Longjam"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2014-03-25 19:17:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 5,
+      "when": "2014-03-26 08:28:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-04 23:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-04-04 23:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-04-18 20:53:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-06-23 19:23:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-06-23 19:24:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2015-03-20 22:25:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2016-09-18"
+    },
+    {
+      "user": "Rage",
+      "vote": 5,
+      "when": "2016-09-18"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-12-31 12:06:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-12-31 12:06:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-12-22 21:02:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2018-01-22 19:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-01-22 19:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

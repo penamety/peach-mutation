@@ -26,6 +26,113 @@
   "artist_names": [
     "Virgill"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-04-07 09:14:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-04-07 09:34:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2015-04-07 09:34:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2015-04-07 09:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-04-15 20:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-04-15 20:46:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2015-05-02 13:47:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-05-02 13:48:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 4,
+      "when": "2015-05-02 13:49:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 5,
+      "when": "2015-05-31 15:24:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-06-21 11:41:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2015-12-26"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2016-04-27 23:24:00"
+    },
+    {
+      "user": "LoveMetal",
+      "vote": 5,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-01-08 14:49:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-01-08 14:49:00"
+    },
+    {
+      "user": "beansmyname",
+      "vote": 3,
+      "when": "2017-04-17 06:37:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-07-30 14:44:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-05-11 12:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

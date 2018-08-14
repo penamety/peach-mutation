@@ -23,6 +23,78 @@
   "artist_names": [
     "Music-Steve"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-19 10:10:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-11-19 10:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-11-19 10:27:00"
+    },
+    {
+      "user": "Tudhalyas",
+      "vote": 4,
+      "when": "2016-11-19 10:28:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-11-19 12:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-11-19 19:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-01-26 10:54:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2017-01-26 10:55:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-26 10:55:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2017-01-26 10:58:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-02-26 14:18:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-02-26 14:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-03-30"
+    },
+    {
+      "user": "Rahta",
+      "vote": 3,
+      "when": "2017-03-30"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

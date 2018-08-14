@@ -23,6 +23,63 @@
   "artist_names": [
     "Spaghetto"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-10 21:23:00"
+    },
+    {
+      "user": "krusty",
+      "vote": 3,
+      "when": "2017-06-19 15:28:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-06-19 15:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -23,6 +23,53 @@
   "artist_names": [
     "Jesper Kristensen"
   ],
+  "votes": [
+    {
+      "user": "qbit",
+      "vote": 4,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-07-13 20:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

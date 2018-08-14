@@ -22,6 +22,113 @@
     "Dubmood",
     "Zabutom"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "skall",
+      "vote": 4,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "PypeBros",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "communicator",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Znurre",
+      "vote": 5,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2013-10-09"
+    },
+    {
+      "user": "MikuroK",
+      "vote": 4,
+      "when": "2013-11-30 22:55:00"
+    },
+    {
+      "user": "mainhoon",
+      "vote": 5,
+      "when": "2013-11-30 22:55:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-11-30 22:55:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-02-04 22:09:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-24 20:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-06-17 20:28:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2014-06-17 20:29:00"
+    },
+    {
+      "user": "jgilje",
+      "vote": 4,
+      "when": "2014-10-28 08:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-10-28 08:19:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-10-28 08:19:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2018-02-26 11:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "prowler",

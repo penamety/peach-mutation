@@ -23,6 +23,68 @@
   "artist_names": [
     "Danko"
   ],
+  "votes": [
+    {
+      "user": "Axioplase",
+      "vote": 2,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "zerkman",
+      "vote": 1,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Znurre",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-11 20:51:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2013-08-11 20:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-25 14:42:00"
+    },
+    {
+      "user": "onc",
+      "vote": 3,
+      "when": "2014-02-25 14:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "BeautyNerd",

@@ -20,6 +20,68 @@
   "artist_names": [
     "Syniphas"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Syniphas",
+      "vote": 5,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-31 15:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-08-02 10:48:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-09-23 21:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-23 21:22:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-05 11:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2017-05-16 18:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

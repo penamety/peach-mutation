@@ -23,5 +23,92 @@
   "artist_names": [
     "Spiral"
   ],
+  "votes": [
+    {
+      "user": "BitArts",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "FishGuy876",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Latis",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Bonstra",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "cxw",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 5,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-10-10 20:00:00"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 5,
+      "when": "2014-11-20 23:14:00"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2015-03-07 10:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-11-08"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-08-19"
+    }
+  ],
   "requests": []
 }

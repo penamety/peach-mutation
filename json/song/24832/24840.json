@@ -20,6 +20,63 @@
   "artist_names": [
     "Stéphane Picq"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Machforr",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2012-02-10"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-12-03 03:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-08 02:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-10-01 22:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "BSC",

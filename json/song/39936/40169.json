@@ -25,6 +25,88 @@
   "artist_names": [
     "Virt"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-03-19 09:10:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2014-03-19 09:12:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2014-03-19 09:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-04-17 14:31:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-30 12:22:00"
+    },
+    {
+      "user": "spekki",
+      "vote": 4,
+      "when": "2014-04-30 12:22:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2014-04-30 12:23:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-04-30 12:26:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-06-02 13:05:00"
+    },
+    {
+      "user": "golio",
+      "vote": 3,
+      "when": "2014-06-02 13:07:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-11-08 11:12:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2014-11-08 11:12:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 3,
+      "when": "2014-11-08 11:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-05-23 12:00:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2018-03-04 03:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

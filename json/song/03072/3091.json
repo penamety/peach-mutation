@@ -19,6 +19,78 @@
   "artist_names": [
     "Herr Weltschaft"
   ],
+  "votes": [
+    {
+      "user": "KoCaine",
+      "vote": 5,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "crt",
+      "vote": 5,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-06-21 19:02:00"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2013-06-21 19:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-07 06:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-01-01 18:40:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2015-04-25 16:28:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-05-18 09:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-05-18 09:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -26,6 +26,53 @@
   "artist_names": [
     "Bod"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-04-17 14:54:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2017-04-17 14:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-05-01 21:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-10 08:17:00"
+    },
+    {
+      "user": "aricz",
+      "vote": 4,
+      "when": "2017-05-26 22:49:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2017-06-22 12:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-08-11 22:04:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-09-10 20:18:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-10-17 22:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

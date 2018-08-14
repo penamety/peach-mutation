@@ -24,6 +24,58 @@
   "artist_names": [
     "Abaddon"
   ],
+  "votes": [
+    {
+      "user": "HaasiD",
+      "vote": 4,
+      "when": "2015-03-08 10:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-08 17:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-09 10:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-03-09 10:38:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-03-24 22:57:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2015-04-17 19:52:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-04-17 19:53:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-10-27 13:13:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-12-15 20:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-21 02:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

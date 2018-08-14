@@ -25,6 +25,98 @@
   "artist_names": [
     "Georg Feil"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "RoC",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Sofad2k",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "t4s0thcmdr",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2013-08-12 17:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-12 17:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-12 17:22:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-05-07 20:08:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2015-05-07 20:08:00"
+    },
+    {
+      "user": "Machforr",
+      "vote": 2,
+      "when": "2016-03-09 13:26:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2016-03-09 13:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

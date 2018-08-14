@@ -23,6 +23,138 @@
   "artist_names": [
     "Fred Gray"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "chellomere",
+      "vote": 4,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-28 22:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-29 21:07:00"
+    },
+    {
+      "user": "Grit",
+      "vote": 4,
+      "when": "2013-09-29 21:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-05 10:47:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-06-04 07:41:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2015-02-26 08:23:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 2,
+      "when": "2015-03-23 09:46:00"
+    },
+    {
+      "user": "claustro",
+      "vote": 5,
+      "when": "2015-03-23 09:47:00"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2015-06-10 10:52:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 5,
+      "when": "2016-04-20 12:54:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-05-25"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-05-19 11:47:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2017-05-19 11:47:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-08-08 11:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

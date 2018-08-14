@@ -19,6 +19,53 @@
   "artist_names": [
     "Skybax"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-27 23:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-19 14:47:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-01-13"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-01-04 07:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

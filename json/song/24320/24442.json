@@ -22,6 +22,103 @@
   "artist_names": [
     "Skaven"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Longbow",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2011-06-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "guru64",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Moses",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Falcon_11",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "TohoFuhai",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-30 02:43:00"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-12-20 13:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-12-20 13:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-05 15:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "Starchaser",

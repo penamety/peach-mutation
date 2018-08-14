@@ -25,6 +25,78 @@
   "artist_names": [
     "Beek"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "HED",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Lightning",
+      "vote": 1,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "H0lySh1t",
+      "vote": 1,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-09-02 18:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-02 18:58:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-10-07 02:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

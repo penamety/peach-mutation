@@ -19,6 +19,68 @@
   "artist_names": [
     "Goor00"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Smanux",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2013-10-18 12:30:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2013-10-18 12:30:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-10-18 12:30:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-30 16:21:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-05-25 00:12:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-09-02 01:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

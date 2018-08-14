@@ -28,6 +28,38 @@
   "artist_names": [
     "Comrade J."
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "r043v",
+      "vote": 5,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-03 12:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

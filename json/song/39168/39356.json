@@ -25,6 +25,58 @@
   "artist_names": [
     "Vibe"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-09-20 01:55:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-10-13 15:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-10-13 15:55:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-11-19 09:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-01-10 00:11:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-03-21 17:36:00"
+    },
+    {
+      "user": "joes",
+      "vote": 3,
+      "when": "2014-03-21 17:37:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-01-24 01:25:00"
+    },
+    {
+      "user": "satan",
+      "vote": 4,
+      "when": "2015-08-22"
+    },
+    {
+      "user": "t3l",
+      "vote": 5,
+      "when": "2015-09-15"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

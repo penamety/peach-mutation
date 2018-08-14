@@ -28,6 +28,98 @@
   "artist_names": [
     "Virgill"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-04-08 17:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-04-16 21:43:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2015-06-04 01:05:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-07-05 10:35:00"
+    },
+    {
+      "user": "turbine5",
+      "vote": 5,
+      "when": "2015-07-05 10:36:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2015-08-17"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 5,
+      "when": "2015-09-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2015-09-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2015-10-10"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2016-02-12 04:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "Triace",
+      "vote": 5,
+      "when": "2016-11-28 20:33:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2017-03-08 20:19:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2017-04-21 08:15:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-11-18 14:01:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2017-11-18 14:01:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2018-03-15 14:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "hornpipe2",

@@ -24,6 +24,93 @@
   "artist_names": [
     "Kepler"
   ],
+  "votes": [
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2013-05-30 16:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-30 16:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-07-24 18:35:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-07-24 18:35:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 1,
+      "when": "2013-07-24 18:35:00"
+    },
+    {
+      "user": "deot",
+      "vote": 2,
+      "when": "2013-09-23 12:06:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2014-03-10 16:12:00"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2014-03-10 16:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-29 23:55:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 1,
+      "when": "2016-04-29 04:05:00"
+    },
+    {
+      "user": "Speeder",
+      "vote": 2,
+      "when": "2017-04-26 06:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

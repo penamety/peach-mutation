@@ -24,6 +24,148 @@
   "artist_names": [
     "Yolk"
   ],
+  "votes": [
+    {
+      "user": "qbit",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "velusip",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Flatline",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "alebu",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-18 07:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-09 15:49:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-17 19:14:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2014-12-17 19:14:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2015-02-09 11:35:00"
+    },
+    {
+      "user": "essential",
+      "vote": 4,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-01-07 11:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "omilian",

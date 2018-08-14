@@ -19,6 +19,88 @@
   "artist_names": [
     "Resonance"
   ],
+  "votes": [
+    {
+      "user": "qbit",
+      "vote": 2,
+      "when": "2010-06-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 1,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-10 16:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-10 16:29:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-12-13 15:31:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2013-12-13 15:32:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-26 08:51:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2014-03-26 08:53:00"
+    },
+    {
+      "user": "essential",
+      "vote": 1,
+      "when": "2014-08-08 10:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-02-02 18:47:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 1,
+      "when": "2015-04-17 15:51:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2016-04-18 04:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2017-12-11 17:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

@@ -25,6 +25,98 @@
   "artist_names": [
     "Preston"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 5,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "jantho",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2013-07-07 00:06:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-07-07 00:11:00"
+    },
+    {
+      "user": "blippyJon",
+      "vote": 1,
+      "when": "2015-11-04"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2017-06-19 00:11:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2018-03-03 09:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

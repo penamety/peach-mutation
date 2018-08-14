@@ -21,6 +21,103 @@
   "artist_names": [
     "Mortimer Twang"
   ],
+  "votes": [
+    {
+      "user": "tunah",
+      "vote": 2,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-19 02:22:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-03-17 13:33:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-03-17 13:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-10-31 23:52:00"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 3,
+      "when": "2017-01-30 17:53:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-01-30 17:53:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-08-03 22:30:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2017-11-13 17:39:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2018-01-02 19:55:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2018-02-10 14:00:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-03-08 22:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

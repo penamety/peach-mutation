@@ -23,6 +23,113 @@
   "artist_names": [
     "Jörg Schütte"
   ],
+  "votes": [
+    {
+      "user": "tas",
+      "vote": 1,
+      "when": "2014-04-02 18:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-04-02 18:05:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2014-04-02 18:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-04-02 18:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-12 17:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-05-20 12:25:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-05-20 12:26:00"
+    },
+    {
+      "user": "joes",
+      "vote": 1,
+      "when": "2014-05-20 12:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-05-20 12:26:00"
+    },
+    {
+      "user": "flash",
+      "vote": 4,
+      "when": "2014-09-02 18:28:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-11-09 11:34:00"
+    },
+    {
+      "user": "Cyan",
+      "vote": 1,
+      "when": "2015-12-01"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-12-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2015-12-01"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-12-01"
+    },
+    {
+      "user": "Lancastersilk",
+      "vote": 1,
+      "when": "2016-04-20 15:40:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-04-20 15:42:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-10-17 12:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-02-18 18:10:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-02-18 18:10:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 1,
+      "when": "2018-04-14 09:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "flash",

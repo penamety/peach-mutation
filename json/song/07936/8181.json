@@ -19,6 +19,93 @@
   "artist_names": [
     "ReSidMod"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "mjwise",
+      "vote": 4,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-15 06:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-07-06 20:09:00"
+    },
+    {
+      "user": "SpecialDefect",
+      "vote": 5,
+      "when": "2014-11-01 06:35:00"
+    },
+    {
+      "user": "bmn",
+      "vote": 5,
+      "when": "2014-12-23 01:36:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2015-04-25 03:49:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-05-10 04:30:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-06-11 01:50:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 5,
+      "when": "2015-06-11 01:52:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2015-09-14"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "turbine5",
+      "vote": 2,
+      "when": "2017-10-26 01:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

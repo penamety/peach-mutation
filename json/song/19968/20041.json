@@ -19,6 +19,78 @@
   "artist_names": [
     "Kangaroo MusiQue"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Speeder",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "BSC",
+      "vote": 1,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-25 01:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-08-08"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2017-04-07 17:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

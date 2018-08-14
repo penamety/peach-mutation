@@ -19,6 +19,73 @@
   "artist_names": [
     "Justin owens"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "SampL",
+      "vote": 3,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 1,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 3,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-08-12 08:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-12 08:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-23 11:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-02-23 11:59:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 1,
+      "when": "2017-10-16 18:06:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-10-16 18:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

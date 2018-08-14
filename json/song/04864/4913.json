@@ -20,6 +20,83 @@
   "artist_names": [
     "Moby"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-10 11:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-24 21:44:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-06-24 21:44:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-06-24 21:44:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-07-20"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-04-26 11:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

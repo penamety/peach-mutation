@@ -20,6 +20,58 @@
   "artist_names": [
     "Sardokar"
   ],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-19 23:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-12-14 21:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-12-14 21:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-12-14 21:01:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-03-23 04:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

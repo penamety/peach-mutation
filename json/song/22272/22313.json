@@ -20,6 +20,53 @@
   "artist_names": [
     "nocnoc"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2011-11-10"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-20 11:10:00"
+    },
+    {
+      "user": "Octoate",
+      "vote": 3,
+      "when": "2013-08-20 11:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-07-27 00:57:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-27 00:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

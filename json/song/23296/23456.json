@@ -22,6 +22,108 @@
   "artist_names": [
     "Reed"
   ],
+  "votes": [
+    {
+      "user": "Chapelier",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "codehead",
+      "vote": 4,
+      "when": "2013-06-28 14:46:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-06-28 14:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-28 14:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-19 17:03:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-08-19 17:04:00"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-10-21 00:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-06-14 06:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-29 03:10:00"
+    },
+    {
+      "user": "ddoodm",
+      "vote": 4,
+      "when": "2014-07-29 03:12:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-01 06:08:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 4,
+      "when": "2015-04-13 21:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-13 21:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -19,6 +19,73 @@
   "artist_names": [
     "Balrog"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-05-29 10:00:00"
+    },
+    {
+      "user": "oryx",
+      "vote": 3,
+      "when": "2014-04-29 16:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-04 14:50:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-01-04 14:52:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-03-17 17:32:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-06-08 07:35:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-06-08 07:35:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-06-08 07:35:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-06-28 07:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

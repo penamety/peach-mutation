@@ -19,6 +19,48 @@
   "artist_names": [
     "Melcom"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Arktos",
+      "vote": 2,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-07 22:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

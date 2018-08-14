@@ -25,6 +25,73 @@
   "artist_names": [
     "mch"
   ],
+  "votes": [
+    {
+      "user": "Starchaser",
+      "vote": 5,
+      "when": "2015-01-01 05:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-01 20:15:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2015-01-15 04:18:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-15 04:20:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-02-16 11:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-02-16 11:24:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 5,
+      "when": "2015-02-16 11:30:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "malmen",
+      "vote": 5,
+      "when": "2016-11-22 00:05:00"
+    },
+    {
+      "user": "PAPA_RimskY",
+      "vote": 5,
+      "when": "2016-11-22 00:22:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2016-11-22 00:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-06-13 22:20:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-05-18 07:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "Starchaser",

@@ -22,6 +22,68 @@
   "artist_names": [
     "Clockwise"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2013-08-27 16:01:00"
+    },
+    {
+      "user": "mainhoon",
+      "vote": 5,
+      "when": "2013-12-19 22:25:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-12-19 12:19:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-19 12:20:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-12-19 12:21:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-12-19 12:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

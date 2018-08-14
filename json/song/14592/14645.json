@@ -19,5 +19,32 @@
   "artist_names": [
     "Basehead"
   ],
+  "votes": [
+    {
+      "user": "Manwe",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-11-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-16 01:07:00"
+    }
+  ],
   "requests": []
 }

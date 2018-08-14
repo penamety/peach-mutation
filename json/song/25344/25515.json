@@ -20,6 +20,68 @@
   "artist_names": [
     "The Hacker"
   ],
+  "votes": [
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2012-01-11"
+    },
+    {
+      "user": "AnaMark",
+      "vote": 1,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Jimantha",
+      "vote": 1,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "MrKomlev",
+      "vote": 1,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2013-08-31 21:16:00"
+    },
+    {
+      "user": "tas",
+      "vote": 1,
+      "when": "2013-08-31 21:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-09-20 00:48:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-09-20 00:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

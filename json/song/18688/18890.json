@@ -23,6 +23,83 @@
   "artist_names": [
     "Griffon"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "turbine5",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-17 15:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-17 15:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-26 12:51:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-07-09"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-03-04 19:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-03-04 19:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

@@ -23,6 +23,53 @@
   "artist_names": [
     "SLL"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Danger",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "bitl",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-06 18:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-06 19:02:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-10-12 09:12:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-10-12 09:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

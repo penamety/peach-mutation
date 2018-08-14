@@ -23,6 +23,38 @@
   "artist_names": [
     "Edge"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-09 09:30:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2017-12-09 09:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-12-24 22:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-12-24 22:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-02-01 09:34:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-03-30 12:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

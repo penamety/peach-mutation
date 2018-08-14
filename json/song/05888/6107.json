@@ -16,6 +16,28 @@
   "last_scraped": "2018-05-22 22:04:02",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

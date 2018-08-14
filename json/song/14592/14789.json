@@ -20,6 +20,98 @@
   "artist_names": [
     "benJam"
   ],
+  "votes": [
+    {
+      "user": "Moses",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Jones",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-07-02 12:47:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-07-02 12:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-07-02 12:48:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-03-09 18:01:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2014-03-09 18:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-03-09 18:16:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 3,
+      "when": "2017-02-09 22:32:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-02-09 22:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2017-02-09 22:43:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-02-09 22:51:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 3,
+      "when": "2018-03-26 11:40:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2018-03-26 11:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

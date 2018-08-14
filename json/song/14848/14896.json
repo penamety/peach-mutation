@@ -24,6 +24,83 @@
   "artist_names": [
     "Bird"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-06 05:24:00"
+    },
+    {
+      "user": "drislands",
+      "vote": 5,
+      "when": "2015-08-24"
+    },
+    {
+      "user": "Vampire",
+      "vote": 3,
+      "when": "2016-04-21 17:26:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2016-04-21 17:27:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-09 22:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-09 22:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

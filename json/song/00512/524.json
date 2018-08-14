@@ -21,6 +21,68 @@
   "artist_names": [
     "BAM"
   ],
+  "votes": [
+    {
+      "user": "Shriggar",
+      "vote": 4,
+      "when": "2008-11-01"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-20 11:31:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-08-20 11:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-20 11:33:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-08-20 11:34:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-02-17 19:44:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-17 19:44:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-10-25 06:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

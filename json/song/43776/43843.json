@@ -24,6 +24,53 @@
   "artist_names": [
     "Stormbringer"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-03-10 22:01:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 5,
+      "when": "2017-03-10 22:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-03-10 22:03:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 4,
+      "when": "2017-03-10 22:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2017-05-02 22:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-05-12 21:02:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 5,
+      "when": "2017-05-12 21:04:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-06-11 14:48:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2018-03-11 13:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

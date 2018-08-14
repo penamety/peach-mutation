@@ -23,6 +23,68 @@
   "artist_names": [
     "Mano"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-10-18 18:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-10-18 19:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-10-29 09:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-10-29 09:08:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2014-10-29 09:08:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-10-29 09:08:00"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 5,
+      "when": "2014-12-15 23:56:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-02-23 12:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-02-23 12:00:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2016-02-26 19:34:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2016-02-26 19:34:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 5,
+      "when": "2016-06-04"
+    }
+  ],
   "requests": [
     {
       "user": "Shinobi",

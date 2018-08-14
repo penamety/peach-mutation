@@ -20,6 +20,128 @@
   "artist_names": [
     "Robbfritt"
   ],
+  "votes": [
+    {
+      "user": "MyO",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-28 14:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-28 14:57:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-01-07 07:41:00"
+    },
+    {
+      "user": "jass0",
+      "vote": 1,
+      "when": "2015-01-07 07:41:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2016-04-04 17:00:00"
+    },
+    {
+      "user": "Siegfried",
+      "vote": 1,
+      "when": "2016-07-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2016-07-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-01-25 11:32:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-01-25 11:33:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 1,
+      "when": "2017-01-25 11:34:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-01-25 11:35:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-03-21 16:19:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-05-15 17:21:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2018-05-15 17:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

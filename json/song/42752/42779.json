@@ -26,6 +26,93 @@
   "artist_names": [
     "Baz"
   ],
+  "votes": [
+    {
+      "user": "U4iaF8",
+      "vote": 5,
+      "when": "2016-01-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-01-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-02-03"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2016-02-03"
+    },
+    {
+      "user": "zeograd",
+      "vote": 2,
+      "when": "2016-02-03"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-02-18 08:48:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-03-13 00:29:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-10-13 13:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-13 13:00:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 2,
+      "when": "2016-10-13 13:00:00"
+    },
+    {
+      "user": "Flatline",
+      "vote": 2,
+      "when": "2016-12-21 15:23:00"
+    },
+    {
+      "user": "oxx",
+      "vote": 1,
+      "when": "2016-12-21 15:23:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 1,
+      "when": "2016-12-21 15:23:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 3,
+      "when": "2016-12-21 15:28:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-12-21 15:29:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-03-19 17:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

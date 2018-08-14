@@ -24,6 +24,128 @@
   "artist_names": [
     "Archon"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "matsim",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Machforr",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "flash",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "mud",
+      "vote": 5,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "jakov",
+      "vote": 4,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-08-21 18:00:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2013-09-28 21:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-28 21:29:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2014-10-25 21:19:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2015-02-26 05:07:00"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2015-04-30 23:41:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 4,
+      "when": "2015-05-30 00:27:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2016-02-04"
+    },
+    {
+      "user": "Triace",
+      "vote": 4,
+      "when": "2016-12-04 18:34:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-01-23 20:50:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-03-08 19:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

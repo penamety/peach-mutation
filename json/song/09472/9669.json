@@ -23,6 +23,68 @@
   "artist_names": [
     "Pixel"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-08 02:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-02 20:34:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2015-03-02 20:34:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-03-02 20:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2018-01-14 11:28:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2018-01-14 11:28:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2018-01-14 11:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

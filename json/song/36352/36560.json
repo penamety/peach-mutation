@@ -28,6 +28,88 @@
   "artist_names": [
     "Nick Roll"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-06-13 12:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-13 12:51:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-02-18 16:37:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2015-07-04 22:27:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-02-21 02:40:00"
+    },
+    {
+      "user": "Kleingeist",
+      "vote": 4,
+      "when": "2017-02-21 02:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-06-03 19:00:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-05-14 15:50:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2018-05-14 15:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

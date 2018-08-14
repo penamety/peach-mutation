@@ -23,6 +23,93 @@
   "artist_names": [
     "Svenzzon"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-21 13:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-12-13 23:52:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-09-18"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2016-10-26 19:27:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-10-01 05:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

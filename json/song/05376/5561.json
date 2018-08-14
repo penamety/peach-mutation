@@ -19,6 +19,63 @@
   "artist_names": [
     "PG"
   ],
+  "votes": [
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-30 06:51:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-12-05 01:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-05 01:48:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-02-20 08:37:00"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 4,
+      "when": "2017-05-06 15:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "Chakotay",

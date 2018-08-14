@@ -22,6 +22,83 @@
   "artist_names": [
     "Werewolf"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Grit",
+      "vote": 3,
+      "when": "2013-10-24 22:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-24 22:24:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-10-24 22:25:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-05-25 03:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

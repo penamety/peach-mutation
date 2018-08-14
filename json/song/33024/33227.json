@@ -24,6 +24,53 @@
   "artist_names": [
     "Lakeee"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-05 19:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-15 00:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-07 17:55:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-12-05 18:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "sqrmax",

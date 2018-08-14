@@ -26,6 +26,73 @@
   "artist_names": [
     "Key-Jee"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-07-17"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2015-07-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 4,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2015-09-16"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "cerror",
+      "vote": 5,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 4,
+      "when": "2016-02-12"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2016-04-06 06:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-04-18 16:01:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-10 14:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

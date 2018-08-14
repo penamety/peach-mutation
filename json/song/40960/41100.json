@@ -24,6 +24,88 @@
   "artist_names": [
     "Tao"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-10-05 17:20:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-10-14 22:02:00"
+    },
+    {
+      "user": "insane",
+      "vote": 5,
+      "when": "2014-10-14 22:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-14 22:03:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-10-14 22:06:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-10-31 10:29:00"
+    },
+    {
+      "user": "SpecialDefect",
+      "vote": 2,
+      "when": "2014-10-31 10:31:00"
+    },
+    {
+      "user": "jass0",
+      "vote": 1,
+      "when": "2014-10-31 10:32:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-11-16 10:17:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-10 19:59:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-12-10 20:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "grazey",
+      "vote": 4,
+      "when": "2018-03-08 10:46:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2018-03-08 10:47:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-03-08 10:48:00"
+    },
+    {
+      "user": "trenki",
+      "vote": 5,
+      "when": "2018-04-16 18:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "Neobyte",

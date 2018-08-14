@@ -25,6 +25,118 @@
   "artist_names": [
     "One Man Group"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "chellomere",
+      "vote": 5,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "tas",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2012-07-05"
+    },
+    {
+      "user": "halvare",
+      "vote": 5,
+      "when": "2012-07-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-07-05"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-09 05:53:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2013-10-16 19:13:00"
+    },
+    {
+      "user": "joes",
+      "vote": 3,
+      "when": "2014-04-03 18:47:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-04-03 18:50:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-05-08 04:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-05-17 11:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

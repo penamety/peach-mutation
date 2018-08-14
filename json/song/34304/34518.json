@@ -23,6 +23,83 @@
   "artist_names": [
     "lemonade"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "infinigon",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-06-06"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-09 20:10:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-06-24 03:47:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-02-21 09:31:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 1,
+      "when": "2015-02-21 09:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-21 10:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -23,5 +23,67 @@
   "artist_names": [
     "TSM"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 5,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "aaai",
+      "vote": 5,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Locutus",
+      "vote": 3,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 5,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-23 14:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-05-23 21:11:00"
+    }
+  ],
   "requests": []
 }

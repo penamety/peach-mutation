@@ -24,6 +24,73 @@
   "artist_names": [
     "DHS"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-07-09 18:39:00"
+    },
+    {
+      "user": "Archmage",
+      "vote": 1,
+      "when": "2017-08-07 11:43:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-08-07 11:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2017-06-28 08:08:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2017-07-09 18:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-06-22 03:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-07-06 21:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2017-07-09 18:42:00"
+    },
+    {
+      "user": "medinuxx",
+      "vote": 1,
+      "when": "2017-07-09 18:42:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-07-09 18:42:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-08-07 11:44:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2018-01-02 08:50:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2017-06-28 08:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

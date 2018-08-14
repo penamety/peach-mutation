@@ -20,6 +20,88 @@
   "artist_names": [
     "Rawer"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Rudee",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-10-06"
+    },
+    {
+      "user": "etray",
+      "vote": 3,
+      "when": "2014-06-08 06:43:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-02-08 20:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-08 20:19:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2015-02-08 20:21:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-01-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-01-13"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-06-29 07:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

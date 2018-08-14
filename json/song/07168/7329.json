@@ -25,6 +25,73 @@
   "artist_names": [
     "Jam and Spoon"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "rv6502",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-01 14:38:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2013-07-01 14:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-10-28 15:07:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-10-28 15:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-28 15:08:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-10-28 15:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-21 22:52:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-03-29 14:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "sqrmax",

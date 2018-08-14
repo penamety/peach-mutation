@@ -20,6 +20,88 @@
   "artist_names": [
     "Tim Wright"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 5,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-08 07:19:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-01-11 07:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-10 18:27:00"
+    },
+    {
+      "user": "Skofo",
+      "vote": 4,
+      "when": "2015-02-23 16:41:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2015-02-23 16:42:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-02-23 16:43:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-11-13"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-11-13"
+    },
+    {
+      "user": "boriskender",
+      "vote": 5,
+      "when": "2015-12-20"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-12-21 22:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

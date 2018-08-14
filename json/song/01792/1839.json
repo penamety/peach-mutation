@@ -20,6 +20,88 @@
   "artist_names": [
     "DJArtz"
   ],
+  "votes": [
+    {
+      "user": "bittin",
+      "vote": 2,
+      "when": "2008-10-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-12 05:19:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-12 05:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-30 19:34:00"
+    },
+    {
+      "user": "mainhoon",
+      "vote": 5,
+      "when": "2013-11-30 19:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-30 19:37:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 1,
+      "when": "2014-10-21 17:21:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-10-21 17:22:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2014-10-21 17:22:00"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2014-10-21 17:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-12-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-01-18 06:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

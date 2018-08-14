@@ -23,6 +23,118 @@
   "artist_names": [
     "aMUSIC"
   ],
+  "votes": [
+    {
+      "user": "jantho",
+      "vote": 4,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "vanward",
+      "vote": 5,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-08-30 06:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-30 06:17:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-23 03:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-18 23:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-18 23:39:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-21 03:33:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-12-01 11:38:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-12-01 11:38:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-12-01 11:39:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-12-01 11:39:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-12-01 11:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "dukzcry",

@@ -20,6 +20,53 @@
   "artist_names": [
     "Hiryu"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "MyO",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "psymleko",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-01-25 21:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-25 21:02:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-02-27 09:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "psymleko",

@@ -19,6 +19,33 @@
   "artist_names": [
     "Kendo"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-03-04"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

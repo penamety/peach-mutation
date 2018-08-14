@@ -19,6 +19,48 @@
   "artist_names": [
     "Simen"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-13"
+    }
+  ],
   "requests": [
     {
       "user": "iTowah68k",

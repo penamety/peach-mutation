@@ -20,6 +20,123 @@
   "artist_names": [
     "Hopper"
   ],
+  "votes": [
+    {
+      "user": "deathy",
+      "vote": 1,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "jzp",
+      "vote": 1,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "ldc",
+      "vote": 1,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "storm",
+      "vote": 1,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 2,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "Susanna",
+      "vote": 1,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-17 03:06:00"
+    },
+    {
+      "user": "big_bear",
+      "vote": 1,
+      "when": "2014-01-24 12:01:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2014-01-24 12:01:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-01-24 12:02:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-01-24 12:02:00"
+    },
+    {
+      "user": "Erk",
+      "vote": 3,
+      "when": "2014-01-24 12:04:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2014-08-21 19:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2014-08-21 19:00:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2014-08-21 19:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2015-07-14"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

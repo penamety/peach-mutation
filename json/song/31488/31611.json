@@ -22,6 +22,98 @@
   "artist_names": [
     "A-Man"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "eclectro",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "TurboHz",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "abaddon",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Desirsar",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-08-13 23:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-13 23:54:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-10-30 17:58:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-05-13 17:08:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2015-05-13 17:10:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-07-05 17:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

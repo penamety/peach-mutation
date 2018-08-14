@@ -26,6 +26,93 @@
   "artist_names": [
     "Awesome"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "caminante",
+      "vote": 4,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Reptile",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-31 03:00:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 5,
+      "when": "2014-02-21 20:24:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-01-28 06:53:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-11-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-11-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-11-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-11-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-08-23 04:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

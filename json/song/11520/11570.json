@@ -20,6 +20,68 @@
   "artist_names": [
     "Iceman"
   ],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Lizard",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-09-18 07:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-18 07:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-04 16:26:00"
+    },
+    {
+      "user": "Stein",
+      "vote": 4,
+      "when": "2014-09-04 16:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-12-20 07:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

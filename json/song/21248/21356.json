@@ -23,6 +23,48 @@
   "artist_names": [
     "MC Laser"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "dcb",
+      "vote": 3,
+      "when": "2013-06-16 11:04:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-16 11:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-19 19:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-11-19 19:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

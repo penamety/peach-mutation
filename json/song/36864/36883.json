@@ -27,6 +27,78 @@
   "artist_names": [
     "Fanta"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "deot",
+      "vote": 4,
+      "when": "2013-11-05 18:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-05-29 17:38:00"
+    },
+    {
+      "user": "joes",
+      "vote": 3,
+      "when": "2014-05-29 17:40:00"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 4,
+      "when": "2015-03-11 01:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-01-14"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-04-08 20:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

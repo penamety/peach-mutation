@@ -24,6 +24,53 @@
   "artist_names": [
     "Von Rays"
   ],
+  "votes": [
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2014-01-19 06:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-06 21:34:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-22 19:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-04-22 19:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-05-08 16:11:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-05-23 20:46:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-04-29 11:30:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 2,
+      "when": "2015-04-29 11:30:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-04-28 19:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "SPACE",

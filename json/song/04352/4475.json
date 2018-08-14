@@ -26,6 +26,58 @@
   "artist_names": [
     "Charles Deenen"
   ],
+  "votes": [
+    {
+      "user": "Tobbeo",
+      "vote": 3,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-16 15:41:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-15 09:19:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-05-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-04-29 21:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

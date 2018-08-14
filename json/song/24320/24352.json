@@ -23,6 +23,48 @@
   "artist_names": [
     "Signal"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-30 12:00:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2016-08-02"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

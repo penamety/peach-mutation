@@ -20,6 +20,58 @@
   "artist_names": [
     "Goor00"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Ekorren",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-18 21:12:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-05-18 21:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

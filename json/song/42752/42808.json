@@ -26,6 +26,63 @@
   "artist_names": [
     "M.A.F"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-02-04"
+    },
+    {
+      "user": "Scribblette",
+      "vote": 2,
+      "when": "2016-02-04"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-02-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-02-04"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2016-02-15"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-02-15"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-05-15 15:40:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-09-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2016-11-15 15:30:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2017-02-28 03:21:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-08-01 02:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

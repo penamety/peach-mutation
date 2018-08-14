@@ -25,6 +25,83 @@
   "artist_names": [
     "Claxon"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2013-06-09 00:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-09 00:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-09 00:22:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2013-08-13 09:22:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-10-21 10:40:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-02-11 07:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-11 07:39:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-09-21"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-09-21"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

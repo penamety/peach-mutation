@@ -23,6 +23,68 @@
   "artist_names": [
     "KaEnn"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "michu",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "BitArts",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "infinigon",
+      "vote": 2,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-08-01 20:47:00"
+    },
+    {
+      "user": "honorabili",
+      "vote": 2,
+      "when": "2013-08-01 20:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-11-07 01:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-10-04 09:15:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-07-26"
+    },
+    {
+      "user": "Zabchob",
+      "vote": 4,
+      "when": "2017-04-15 02:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

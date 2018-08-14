@@ -19,6 +19,58 @@
   "artist_names": [
     "MistaDistah"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "selmi",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2013-06-05 23:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-06-05 23:59:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-06-06 00:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-06 00:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

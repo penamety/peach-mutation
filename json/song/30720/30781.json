@@ -25,6 +25,53 @@
   "artist_names": [
     "Response"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-08-20 23:00:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2015-09-10"
+    },
+    {
+      "user": "JaPeK",
+      "vote": 3,
+      "when": "2018-01-28 07:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "AnonymousCoward",

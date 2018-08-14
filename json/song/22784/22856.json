@@ -19,6 +19,48 @@
   "artist_names": [
     "Platon42"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-20 09:08:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-02-19 11:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -23,6 +23,118 @@
   "artist_names": [
     "David Whittaker"
   ],
+  "votes": [
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "BrandonWalsh",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Gismo",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-07-24 13:33:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2015-03-05 12:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-08-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-08-05"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-08-05"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2015-08-05"
+    },
+    {
+      "user": "Fennimore",
+      "vote": 2,
+      "when": "2016-06-25"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-10-15 14:30:00"
+    },
+    {
+      "user": "jimee",
+      "vote": 3,
+      "when": "2017-10-15 14:30:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 2,
+      "when": "2017-10-15 14:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "LittleWhite",

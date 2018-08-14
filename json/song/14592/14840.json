@@ -22,6 +22,53 @@
   "artist_names": [
     "Big Alec"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-05 22:39:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-02-26 08:08:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-06-14"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-02-24 13:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

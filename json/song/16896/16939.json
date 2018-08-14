@@ -25,6 +25,83 @@
   "artist_names": [
     "Dean"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-07-25 07:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-02 01:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-02 01:58:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-28 10:27:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2014-02-28 10:31:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-02-21 10:42:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-02-21 10:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-06-09 23:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-04-10 07:31:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-04-10 07:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Starbreaker",

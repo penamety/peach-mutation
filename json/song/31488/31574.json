@@ -25,6 +25,68 @@
   "artist_names": [
     "Necros"
   ],
+  "votes": [
+    {
+      "user": "dv",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-24 19:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-24 19:15:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-24 19:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-14 10:30:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-05-14 10:30:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-16 16:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "Gnurou",

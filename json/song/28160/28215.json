@@ -21,5 +21,17 @@
   "artist_names": [
     "Willbe"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-11-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-21 19:00:00"
+    }
+  ],
   "requests": []
 }

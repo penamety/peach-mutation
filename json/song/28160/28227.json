@@ -24,6 +24,93 @@
   "artist_names": [
     "Hunz"
   ],
+  "votes": [
+    {
+      "user": "Tobbeo",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-09-16 20:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-16 20:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-16 20:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-03-26 22:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-03-26 22:19:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 1,
+      "when": "2016-03-01 07:21:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2016-03-01 07:24:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-07-08 01:43:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2017-07-08 01:43:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2018-06-15 17:41:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-06-15 17:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

@@ -23,6 +23,53 @@
   "artist_names": [
     "Kschzt"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-06-08"
+    },
+    {
+      "user": "Mantalow",
+      "vote": 2,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-08-10 12:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-10 12:06:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-21 00:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-02-21 00:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

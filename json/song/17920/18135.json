@@ -26,6 +26,88 @@
   "artist_names": [
     "Faun"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "KoCaine",
+      "vote": 1,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Lightning",
+      "vote": 2,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Fireball",
+      "vote": 1,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "_wally",
+      "vote": 3,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-10-02 02:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-02 03:18:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2014-09-14 19:03:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 1,
+      "when": "2014-09-14 19:03:00"
+    },
+    {
+      "user": "Thexder",
+      "vote": 1,
+      "when": "2014-09-14 19:05:00"
+    },
+    {
+      "user": "Tethys",
+      "vote": 1,
+      "when": "2016-03-27 15:34:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2017-07-15 13:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

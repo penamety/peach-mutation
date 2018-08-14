@@ -24,6 +24,58 @@
   "artist_names": [
     "Basehead"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Manwe",
+      "vote": 2,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-03 19:59:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-12-17 19:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

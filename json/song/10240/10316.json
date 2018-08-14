@@ -24,6 +24,68 @@
   "artist_names": [
     "Xerxes"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Zac",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Steel",
+      "vote": 4,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "sneh",
+      "vote": 4,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-12 20:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-06-12 20:33:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-06-12 20:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-02 12:38:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-12-03 00:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-12-08"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-04 05:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

@@ -19,6 +19,53 @@
   "artist_names": [
     "Bitboy"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-02-23"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-02-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-02-23"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-09-22 01:20:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-05-19 10:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

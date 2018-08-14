@@ -21,6 +21,63 @@
   "artist_names": [
     "Retro [FI]"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "sprocket",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-31 03:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-31 03:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-31 03:46:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-23 11:22:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-09-25 11:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-09-25 11:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

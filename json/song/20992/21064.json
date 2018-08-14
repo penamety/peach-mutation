@@ -19,6 +19,63 @@
   "artist_names": [
     "Makke"
   ],
+  "votes": [
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "LSA_Vinnie",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-02-20 13:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-20 13:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-19 13:50:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-11-14 11:13:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-14 11:14:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-02 08:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

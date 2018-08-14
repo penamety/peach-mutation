@@ -24,6 +24,98 @@
   "artist_names": [
     "505"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "FishGuy876",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Octoate",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "zerkman",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "dasepsilon",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "deetroy",
+      "vote": 4,
+      "when": "2013-06-03 05:08:00"
+    },
+    {
+      "user": "impishrazor",
+      "vote": 4,
+      "when": "2013-06-03 05:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-03 05:09:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-15 08:31:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-04-15 08:31:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-04-15 08:32:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-04 16:25:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-12-22 05:10:00"
+    },
+    {
+      "user": "Axioplase",
+      "vote": 4,
+      "when": "2017-05-02 23:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "zerkman",

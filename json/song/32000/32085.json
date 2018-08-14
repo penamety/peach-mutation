@@ -25,6 +25,63 @@
   "artist_names": [
     "Graff"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-02-10 09:13:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-09 04:15:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 2,
+      "when": "2016-10-01"
+    }
+  ],
   "requests": [
     {
       "user": "SJD",

@@ -20,6 +20,73 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-10-17"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-10-17"
+    },
+    {
+      "user": "pave64",
+      "vote": 1,
+      "when": "2013-01-09"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "seppjo",
+      "vote": 1,
+      "when": "2013-10-12 17:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-10-12 17:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-21 16:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-09-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-09-25"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-06-17 20:34:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 3,
+      "when": "2018-02-08 01:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "franz_koopa",

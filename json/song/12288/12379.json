@@ -25,6 +25,133 @@
   "artist_names": [
     "Uncle Art"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 2,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Korguiq",
+      "vote": 2,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "SampL",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-27 14:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-06-27 14:11:00"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-06-27 14:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-27 14:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-11 21:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-12 22:21:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 2,
+      "when": "2014-09-12 22:23:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-04-26 17:05:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-04-26 17:06:00"
+    },
+    {
+      "user": "drislands",
+      "vote": 1,
+      "when": "2017-03-29"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-03-29"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-12-15 09:51:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-06-11 11:23:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-06-11 11:23:00"
+    },
+    {
+      "user": "robert",
+      "vote": 1,
+      "when": "2018-06-11 11:23:00"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 3,
+      "when": "2018-06-11 11:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

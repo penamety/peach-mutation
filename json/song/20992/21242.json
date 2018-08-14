@@ -22,6 +22,68 @@
   "artist_names": [
     "Matthew Cannon"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Sketch",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-13 17:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-07-08 22:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-28 15:45:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-02-28 15:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

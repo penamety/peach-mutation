@@ -24,6 +24,108 @@
   "artist_names": [
     "Twilight"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "nvictor",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 2,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "grachev",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Machforr",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-14 18:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-22 17:31:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 4,
+      "when": "2013-11-22 17:32:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-11-22 17:36:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-22 18:50:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 2,
+      "when": "2014-02-22 18:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-22 18:53:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-21 10:20:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2016-11-21 10:20:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2016-11-21 10:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

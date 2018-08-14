@@ -19,6 +19,53 @@
   "artist_names": [
     "Acid Vision"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-09 08:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

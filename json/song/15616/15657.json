@@ -16,5 +16,37 @@
   "last_scraped": "2018-05-22 23:55:41",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "micksam7",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "besh",
+      "vote": 5,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "esher",
+      "vote": 5,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Korguiq",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2010-05-04"
+    }
+  ],
   "requests": []
 }

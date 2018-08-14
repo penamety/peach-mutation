@@ -20,6 +20,33 @@
   "artist_names": [
     "Headache"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2017-12-31 03:16:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-31 21:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-12-31 21:53:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-12-31 21:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-05-11 14:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

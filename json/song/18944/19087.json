@@ -23,6 +23,88 @@
   "artist_names": [
     "Hein Design"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "RoC",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2011-02-09"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-27 00:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-27 00:55:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2013-08-27 00:58:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-17 10:20:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-02-27 17:37:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-02-27 18:13:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-04-12 06:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "Starchaser",

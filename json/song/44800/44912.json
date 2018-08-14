@@ -24,6 +24,23 @@
   "artist_names": [
     "Ap.t"
   ],
+  "votes": [
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2018-05-25 18:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2018-05-25 19:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-05-25 18:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "Shinobi",

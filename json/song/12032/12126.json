@@ -23,6 +23,58 @@
   "artist_names": [
     "Blue Fox"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-05 17:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-10 17:17:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2013-08-10 17:22:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-11-26 06:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2018-01-29 01:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

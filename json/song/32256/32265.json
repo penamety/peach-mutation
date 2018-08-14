@@ -26,6 +26,93 @@
   "artist_names": [
     "Ilmarque"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-06-04 22:04:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-06-04 22:05:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-06-04 22:05:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-06-04 22:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-12 00:34:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-02-04 18:32:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-09 10:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-09 10:35:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-04-09 10:36:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2016-11-03 06:17:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2017-01-31 09:03:00"
+    },
+    {
+      "user": "fveitsi",
+      "vote": 3,
+      "when": "2017-05-08 04:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

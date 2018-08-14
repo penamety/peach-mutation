@@ -19,6 +19,53 @@
   "artist_names": [
     "ArchAngel"
   ],
+  "votes": [
+    {
+      "user": "Erk",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-02-07"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-07 16:18:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-11-07 16:19:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 3,
+      "when": "2013-11-07 16:19:00"
+    },
+    {
+      "user": "Octoate",
+      "vote": 2,
+      "when": "2013-11-07 16:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

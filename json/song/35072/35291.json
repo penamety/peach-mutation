@@ -26,6 +26,53 @@
   "artist_names": [
     "Andy (UK)"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Teo",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-11-06 19:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2017-04-12 11:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

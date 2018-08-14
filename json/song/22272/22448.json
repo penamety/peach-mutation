@@ -19,6 +19,78 @@
   "artist_names": [
     "Opal"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-24 18:01:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-07-24 18:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-24 18:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-24 18:03:00"
+    },
+    {
+      "user": "64odore",
+      "vote": 4,
+      "when": "2014-01-19 19:52:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-01-19 19:54:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-08-18 16:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-08-18 16:00:00"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 2,
+      "when": "2015-07-16"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

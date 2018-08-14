@@ -19,6 +19,83 @@
   "artist_names": [
     "Maxsoft"
   ],
+  "votes": [
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 5,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "skall",
+      "vote": 4,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-10 11:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-10 11:07:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-07 21:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-02-16 14:44:00"
+    },
+    {
+      "user": "pwet",
+      "vote": 4,
+      "when": "2016-02-16 14:47:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-05-19 11:30:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-05-19 11:30:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-05-19 11:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "Radar",

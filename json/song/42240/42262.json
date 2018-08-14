@@ -26,6 +26,58 @@
   "artist_names": [
     "GTK"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "codehead",
+      "vote": 3,
+      "when": "2015-09-16"
+    },
+    {
+      "user": "jakov",
+      "vote": 1,
+      "when": "2015-09-16"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-11-16"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2016-11-08 20:36:00"
+    },
+    {
+      "user": "wig",
+      "vote": 1,
+      "when": "2016-11-08 20:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-27 00:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

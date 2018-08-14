@@ -20,6 +20,53 @@
   "artist_names": [
     "Cosmic Eclipse"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "antipod",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-26 18:34:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-04-06 00:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

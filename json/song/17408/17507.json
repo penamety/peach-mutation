@@ -19,6 +19,88 @@
   "artist_names": [
     "Dragonfly"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Turnips",
+      "vote": 4,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "selmi",
+      "vote": 5,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "WTFcore",
+      "vote": 2,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "oryx",
+      "vote": 4,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-05-30"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-25 10:43:00"
+    },
+    {
+      "user": "golio",
+      "vote": 4,
+      "when": "2014-02-25 10:45:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-11-26 06:13:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 5,
+      "when": "2017-08-25 00:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -28,6 +28,93 @@
   "artist_names": [
     "Vesuri"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2017-09-22 18:44:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-09-22 18:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2017-09-22 19:10:00"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2017-09-22 19:15:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-09-25 20:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-09-25 20:41:00"
+    },
+    {
+      "user": "Thexder",
+      "vote": 1,
+      "when": "2017-09-25 20:41:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2017-10-04 11:05:00"
+    },
+    {
+      "user": "Gismo",
+      "vote": 1,
+      "when": "2017-10-04 11:06:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 1,
+      "when": "2017-10-15 13:01:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2017-10-15 13:02:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-10-15 13:02:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2017-11-02 09:41:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 3,
+      "when": "2017-12-15 20:00:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2018-01-17 22:36:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-18 18:52:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-06-16 15:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

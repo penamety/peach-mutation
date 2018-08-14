@@ -23,6 +23,48 @@
   "artist_names": [
     "Xerxes"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-06-27"
+    },
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2016-06-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-07-27"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-08-17"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2016-09-21"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2016-11-07 11:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "MyO",

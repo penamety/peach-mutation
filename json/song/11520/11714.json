@@ -17,6 +17,43 @@
   "last_scraped": "2018-05-22 22:49:52",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Putte75",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "fledermausl",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Manax",
+      "vote": 5,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-03"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

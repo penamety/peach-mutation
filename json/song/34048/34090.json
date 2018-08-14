@@ -21,6 +21,93 @@
   "artist_names": [
     "Mark Gyro"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Joe",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "ubbabar",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-06-21 15:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-08 02:00:00"
+    },
+    {
+      "user": "medic",
+      "vote": 4,
+      "when": "2014-02-03 20:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-05 21:02:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-14 18:56:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-06-03"
+    },
+    {
+      "user": "epso",
+      "vote": 4,
+      "when": "2016-07-11"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-07-11"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 5,
+      "when": "2016-07-11"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

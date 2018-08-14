@@ -24,6 +24,133 @@
   "artist_names": [
     "Pink"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "tails_",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "deot",
+      "vote": 5,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 4,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "jantho",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Thoribass",
+      "vote": 4,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-06-30 13:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-30 13:54:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2013-09-24"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-02 14:36:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-02-25 07:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-25 07:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-12 23:47:00"
+    },
+    {
+      "user": "chiefsucker",
+      "vote": 4,
+      "when": "2016-03-19 08:50:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-10-20 10:59:00"
+    },
+    {
+      "user": "PAPA_RimskY",
+      "vote": 5,
+      "when": "2016-11-22 11:09:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2016-11-22 11:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

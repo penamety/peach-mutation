@@ -19,6 +19,78 @@
   "artist_names": [
     "Tito"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "zerkman",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "infinigon",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-24 20:47:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-06-24 20:47:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2013-11-02 12:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-04 22:50:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2014-09-04 22:53:00"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2015-06-27 03:01:00"
+    },
+    {
+      "user": "nikamota",
+      "vote": 3,
+      "when": "2016-04-05 03:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

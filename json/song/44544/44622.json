@@ -22,6 +22,33 @@
   "artist_names": [
     "Cyborg Jeff"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2018-01-09 11:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-01-09 11:38:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-01-09 16:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-01-23 22:17:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-02-12 08:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "VodkaBot",

@@ -24,6 +24,53 @@
   "artist_names": [
     "Baroque"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-12-10 07:39:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-03-21 14:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

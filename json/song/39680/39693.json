@@ -25,5 +25,27 @@
   "artist_names": [
     "mch"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-12-05 01:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-03 10:12:00"
+    },
+    {
+      "user": "hedning",
+      "vote": 5,
+      "when": "2017-01-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-10-27 01:00:00"
+    }
+  ],
   "requests": []
 }

@@ -23,5 +23,12 @@
   "artist_names": [
     "DJ Cat"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2010-05-05"
+    }
+  ],
   "requests": []
 }

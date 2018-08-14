@@ -23,6 +23,83 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 2,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-07-17"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2013-06-26 09:26:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-26 09:26:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 2,
+      "when": "2014-01-24 16:08:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2014-10-10 08:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-26 17:35:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2015-03-26 17:36:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2015-03-26 17:36:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2015-03-26 17:37:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-17 20:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

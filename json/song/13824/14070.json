@@ -19,6 +19,48 @@
   "artist_names": [
     "Arakosa"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "r043v",
+      "vote": 4,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-22 02:21:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-06 15:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

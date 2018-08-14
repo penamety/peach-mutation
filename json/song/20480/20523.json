@@ -19,6 +19,103 @@
   "artist_names": [
     "Liam the Lemming"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "motherchip",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-02-15 22:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-09 06:19:00"
+    },
+    {
+      "user": "HaasiD",
+      "vote": 1,
+      "when": "2014-08-09 06:21:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-12-27 04:44:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-08-08"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-20 15:29:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2017-04-07"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-04-07"
+    }
+  ],
   "requests": [
     {
       "user": "crrr",

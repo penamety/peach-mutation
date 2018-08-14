@@ -20,6 +20,103 @@
   "artist_names": [
     "Awesome"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 5,
+      "when": "2012-05-31"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2013-09-24 05:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-24 05:50:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-28 03:14:00"
+    },
+    {
+      "user": "SpecialDefect",
+      "vote": 4,
+      "when": "2014-10-31 08:34:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-10-31 08:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-11-14 21:25:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2015-05-17 11:59:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-03-07 04:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

@@ -23,6 +23,73 @@
   "artist_names": [
     "Tommy [de]"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2013-02-06"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "silok",
+      "vote": 1,
+      "when": "2014-03-09 18:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-03-09 18:16:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 2,
+      "when": "2014-12-31 19:29:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2015-05-25 13:45:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-05-25 13:46:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-05-25 13:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

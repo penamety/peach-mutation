@@ -19,6 +19,73 @@
   "artist_names": [
     "Playtrip"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-05-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-13 00:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-13 00:00:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2014-04-14 14:29:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2017-01-19 11:48:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2017-01-19 11:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

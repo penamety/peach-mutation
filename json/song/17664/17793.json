@@ -19,6 +19,68 @@
   "artist_names": [
     "Crazyq"
   ],
+  "votes": [
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "dang",
+      "vote": 2,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "omilian",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-17 01:57:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-10-28 06:52:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-10-31 13:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-10-31 13:04:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-11-14 15:30:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-11-14 15:32:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2016-11-14 15:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

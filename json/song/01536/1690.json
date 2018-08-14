@@ -23,6 +23,78 @@
   "artist_names": [
     "Digit"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "TheSLASH",
+      "vote": 2,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-19 08:17:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-10-13 16:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-05 00:34:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-05 00:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-12-10"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2015-12-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-04-25 16:22:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2017-10-19 15:00:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2017-10-19 15:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

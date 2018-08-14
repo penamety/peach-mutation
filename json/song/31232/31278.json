@@ -24,6 +24,53 @@
   "artist_names": [
     "Accel"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-09 08:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

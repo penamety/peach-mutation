@@ -15,5 +15,17 @@
   "last_scraped": "2018-05-23 11:28:40",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "quazzie",
+      "vote": 4,
+      "when": "2009-12-03"
+    }
+  ],
   "requests": []
 }

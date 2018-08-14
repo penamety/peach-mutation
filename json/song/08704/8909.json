@@ -27,6 +27,118 @@
   "artist_names": [
     "Mystra"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "cerror",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "neutron",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "turbine5",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "wiseman",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "doggyfred",
+      "vote": 2,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-06 03:41:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2013-08-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-04-04 14:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "Buzzer",

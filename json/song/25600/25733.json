@@ -19,6 +19,58 @@
   "artist_names": [
     "TNO"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-26 19:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-03 17:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

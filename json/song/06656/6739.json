@@ -23,6 +23,83 @@
   "artist_names": [
     "ST"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-16 00:28:00"
+    },
+    {
+      "user": "etray",
+      "vote": 3,
+      "when": "2014-05-26 00:03:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-02-16"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-02-16"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-07-05 14:43:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 3,
+      "when": "2018-01-22 22:18:00"
+    },
+    {
+      "user": "krusty",
+      "vote": 2,
+      "when": "2018-01-22 22:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

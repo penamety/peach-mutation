@@ -24,6 +24,28 @@
   "artist_names": [
     "Hannes Seifert"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-06-01"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

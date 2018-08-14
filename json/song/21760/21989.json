@@ -20,6 +20,78 @@
   "artist_names": [
     "Mushies"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "turbine5",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-06-11 14:12:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-06-11 14:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-11 14:14:00"
+    },
+    {
+      "user": "Sketch",
+      "vote": 1,
+      "when": "2013-06-11 14:16:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-07-13 10:54:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-03-24 07:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

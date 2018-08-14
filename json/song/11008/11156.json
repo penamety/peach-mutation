@@ -25,6 +25,103 @@
   "artist_names": [
     "Basehead"
   ],
+  "votes": [
+    {
+      "user": "Manwe",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Moses",
+      "vote": 4,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "Sketch",
+      "vote": 3,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-08-11 14:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-11 14:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-11 14:05:00"
+    },
+    {
+      "user": "tw1sted1981",
+      "vote": 3,
+      "when": "2013-08-11 14:08:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-12-20 02:42:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2014-08-31 17:41:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-08-31 17:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-08-31 17:43:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-06-07 11:03:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-06-07 11:04:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-06-07 11:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

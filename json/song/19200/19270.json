@@ -19,5 +19,27 @@
   "artist_names": [
     "Innocent"
   ],
+  "votes": [
+    {
+      "user": "Steve86",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "dang",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-24 10:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-09-03"
+    }
+  ],
   "requests": []
 }

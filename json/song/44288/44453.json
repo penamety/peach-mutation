@@ -25,6 +25,38 @@
   "artist_names": [
     "Klav"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-11-04 01:21:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-11-04 16:10:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-12-10 12:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-12-28 17:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-01-29 16:44:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-02-19 16:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

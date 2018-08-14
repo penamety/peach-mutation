@@ -24,6 +24,158 @@
   "artist_names": [
     "Danger"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "malmen",
+      "vote": 2,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Mindless",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Korguiq",
+      "vote": 3,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "mu6k",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "mud",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Moses",
+      "vote": 2,
+      "when": "2013-06-01 01:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-06-01 01:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-10-16 18:46:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-10-16 18:47:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-10-16 18:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-16 18:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-20 20:05:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 1,
+      "when": "2014-01-20 20:06:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2014-04-11 03:04:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-03 12:56:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-03-03 12:56:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2015-06-30 10:32:00"
+    },
+    {
+      "user": "exocet",
+      "vote": 2,
+      "when": "2015-11-04"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2015-11-04"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-01-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2016-01-11"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2017-01-16 23:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2017-05-05 11:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "Robot2037",

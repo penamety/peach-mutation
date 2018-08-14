@@ -26,6 +26,68 @@
   "artist_names": [
     "Thor"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-09-02 18:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-09-02 18:13:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2014-02-03 18:58:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 1,
+      "when": "2015-02-24 15:04:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2017-10-24 13:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

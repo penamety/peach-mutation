@@ -24,5 +24,47 @@
   "artist_names": [
     "TDK"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Danger",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "parkuhrwaechter",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Teo",
+      "vote": 4,
+      "when": "2010-09-02"
+    }
+  ],
   "requests": []
 }

@@ -26,6 +26,93 @@
   "artist_names": [
     "Binster"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-26"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2015-07-26"
+    },
+    {
+      "user": "melcom",
+      "vote": 3,
+      "when": "2015-07-26"
+    },
+    {
+      "user": "oxx",
+      "vote": 3,
+      "when": "2015-07-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "Thexder",
+      "vote": 4,
+      "when": "2015-11-25"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2015-11-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2015-12-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-12-23"
+    },
+    {
+      "user": "PhotonStorm",
+      "vote": 4,
+      "when": "2016-02-25 02:26:00"
+    },
+    {
+      "user": "sdjm",
+      "vote": 5,
+      "when": "2016-02-25 02:37:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2017-07-04 14:45:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2017-07-22 13:50:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-09-24 05:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

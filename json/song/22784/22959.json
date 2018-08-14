@@ -20,6 +20,68 @@
   "artist_names": [
     "Holberg"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "MyO",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2013-10-06 04:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-06 04:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-26 16:38:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-08-29 16:33:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-29 16:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

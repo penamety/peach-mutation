@@ -24,6 +24,103 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "BitArts",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "SampL",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "rombust",
+      "vote": 5,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-05 10:08:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-02-05 11:11:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2014-02-05 11:11:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-02-05 11:14:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-05-30 18:22:00"
+    },
+    {
+      "user": "Doclands",
+      "vote": 5,
+      "when": "2014-05-30 18:24:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2017-01-09 08:35:00"
+    },
+    {
+      "user": "baton",
+      "vote": 5,
+      "when": "2018-04-19 13:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "Ishaan",

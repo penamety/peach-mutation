@@ -18,6 +18,28 @@
   "last_scraped": "2018-05-23 09:21:12",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "nvictor",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-03-04"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

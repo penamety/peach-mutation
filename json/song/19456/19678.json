@@ -20,6 +20,68 @@
   "artist_names": [
     "Jimmy Hoffa"
   ],
+  "votes": [
+    {
+      "user": "sgtcrispy",
+      "vote": 5,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Sketch",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-22 18:55:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-01-22 18:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-11"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2017-01-30 07:54:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-01-30 07:54:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-01-30 07:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

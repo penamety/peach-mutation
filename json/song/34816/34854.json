@@ -24,6 +24,73 @@
   "artist_names": [
     "One Man Group"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-16 07:08:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2015-01-01 09:13:00"
+    },
+    {
+      "user": "EZH",
+      "vote": 3,
+      "when": "2017-09-30 02:02:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-06-08 11:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-06-08 11:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

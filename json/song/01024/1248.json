@@ -20,6 +20,68 @@
   "artist_names": [
     "Clint"
   ],
+  "votes": [
+    {
+      "user": "Bachelor",
+      "vote": 2,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Kork",
+      "vote": 1,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "MyO",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 1,
+      "when": "2013-03-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-15 03:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-11 22:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-20 21:39:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-03-20 21:39:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-06-21 16:16:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2017-11-23 13:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

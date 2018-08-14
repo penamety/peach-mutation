@@ -24,6 +24,53 @@
   "artist_names": [
     "Galancy"
   ],
+  "votes": [
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "skall",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-12 16:46:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-12-07 18:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

@@ -26,6 +26,78 @@
   "artist_names": [
     "DJ Jam"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "gauri",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "warhawk",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "jinx",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-04-18 07:03:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-17 22:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-05-19"
+    }
+  ],
   "requests": [
     {
       "user": "pwrdwnsys",

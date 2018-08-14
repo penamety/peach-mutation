@@ -23,6 +23,63 @@
   "artist_names": [
     "C-Frog"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-07 23:29:00"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2013-10-07 23:31:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-09-16 17:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-16 18:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-29 06:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

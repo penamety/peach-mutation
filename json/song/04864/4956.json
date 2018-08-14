@@ -21,6 +21,68 @@
   "artist_names": [
     "MrJ"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-16 12:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-16 12:44:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2016-05-27"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-05-27"
+    },
+    {
+      "user": "PypeBros",
+      "vote": 2,
+      "when": "2018-06-15 14:01:00"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 3,
+      "when": "2018-06-15 14:02:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2018-06-15 14:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

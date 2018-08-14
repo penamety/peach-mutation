@@ -22,6 +22,73 @@
   "artist_names": [
     "Xodus"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Teo",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-14 17:44:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-29 08:45:00"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 4,
+      "when": "2016-09-05"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-05-17 11:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-05-17 11:50:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-05-17 11:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "silok",

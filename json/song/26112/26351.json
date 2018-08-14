@@ -25,6 +25,58 @@
   "artist_names": [
     "Mice"
   ],
+  "votes": [
+    {
+      "user": "dv",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-01 10:03:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-03-28 06:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-13 02:45:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-06 15:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

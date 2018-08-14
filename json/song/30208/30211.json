@@ -21,6 +21,58 @@
   "artist_names": [
     "Dalezy"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Twinsun",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-19 11:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-06 21:08:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2014-12-17 20:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-12-17 20:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "LittleWhite",

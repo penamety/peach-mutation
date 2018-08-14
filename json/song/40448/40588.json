@@ -24,6 +24,93 @@
   "artist_names": [
     "SLL"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-06-24 07:13:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-07-03 08:46:00"
+    },
+    {
+      "user": "essential",
+      "vote": 1,
+      "when": "2014-07-03 08:46:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 2,
+      "when": "2014-07-03 08:49:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-07-03 08:49:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2014-07-21 00:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-28 00:03:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2014-08-28 00:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-08-28 00:05:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-09-12 10:00:00"
+    },
+    {
+      "user": "jesper",
+      "vote": 1,
+      "when": "2014-11-05 16:05:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-05-30 11:56:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2016-12-01 18:15:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2016-12-01 18:17:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-12-01 18:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

@@ -25,6 +25,58 @@
   "artist_names": [
     "Fred Funk"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "jetpropulsion",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-22 08:09:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-14 05:26:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 4,
+      "when": "2014-10-31 22:07:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-10-31 22:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-10-31 22:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

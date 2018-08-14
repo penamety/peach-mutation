@@ -26,6 +26,113 @@
   "artist_names": [
     "Corwin"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Vampire",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 2,
+      "when": "2013-06-10 12:49:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 1,
+      "when": "2013-06-10 12:50:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-06-10 12:50:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 3,
+      "when": "2013-06-10 12:50:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2013-06-10 12:53:00"
+    },
+    {
+      "user": "SpaghettiCat",
+      "vote": 2,
+      "when": "2013-10-22 15:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-10-22 15:10:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-01-11 16:01:00"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2014-11-08 17:19:00"
+    },
+    {
+      "user": "silok",
+      "vote": 1,
+      "when": "2014-11-08 17:19:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2015-03-03 16:48:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 1,
+      "when": "2018-03-28 04:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

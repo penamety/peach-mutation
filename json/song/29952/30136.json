@@ -26,6 +26,83 @@
   "artist_names": [
     "Ultrasyd"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "caiwan",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-05 00:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-05 01:54:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-08-05 01:54:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2018-03-08 18:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "G_Signal",

@@ -19,6 +19,63 @@
   "artist_names": [
     "Logic Dream"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Trallala",
+      "vote": 1,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "seppjo",
+      "vote": 1,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-05-03 15:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-05-03 15:57:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-05-03 15:57:00"
+    },
+    {
+      "user": "jzp",
+      "vote": 1,
+      "when": "2014-05-03 15:58:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 3,
+      "when": "2017-06-30 19:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

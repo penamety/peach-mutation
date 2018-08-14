@@ -23,6 +23,53 @@
   "artist_names": [
     "Tommy [de]"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "asbjornu",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "venttiili",
+      "vote": 1,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-08-30 21:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

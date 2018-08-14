@@ -20,6 +20,78 @@
   "artist_names": [
     "Garaone"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "RoC",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 1,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-01 12:19:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-11-01 12:20:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2015-10-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-10-26"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2015-10-26"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

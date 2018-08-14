@@ -24,6 +24,48 @@
   "artist_names": [
     "Fabian"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-17 06:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-06-13"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

@@ -27,6 +27,68 @@
   "artist_names": [
     "BeWu"
   ],
+  "votes": [
+    {
+      "user": "voy",
+      "vote": 5,
+      "when": "2017-06-21 18:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-06-21 19:36:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-06-21 19:36:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-06-21 19:38:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-06-26 07:28:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 4,
+      "when": "2017-07-09 17:08:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-07-09 17:09:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2017-07-09 17:09:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-07-09 17:10:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2017-08-18 12:01:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-08-18 12:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-12-02 18:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "voy",

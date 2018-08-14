@@ -25,6 +25,78 @@
   "artist_names": [
     "Zalza"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-06-20 13:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-07-06 21:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-07-20 15:40:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-09-01 16:16:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-10-08 12:58:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2014-11-05 16:19:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-12-04 09:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-12-04 09:37:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-02-03 10:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-02-03 10:50:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-10-11 14:00:00"
+    },
+    {
+      "user": "essential",
+      "vote": 4,
+      "when": "2016-10-11 14:00:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-10-11 14:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

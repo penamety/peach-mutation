@@ -23,6 +23,103 @@
   "artist_names": [
     "Lizardking"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Rudee",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "zipf",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "8823",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "cykor79",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "nvictor",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Arktos",
+      "vote": 5,
+      "when": "2013-08-31 20:16:00"
+    },
+    {
+      "user": "besh",
+      "vote": 3,
+      "when": "2013-08-31 20:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-31 21:26:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-07 13:34:00"
+    },
+    {
+      "user": "Triton",
+      "vote": 4,
+      "when": "2015-03-07 13:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

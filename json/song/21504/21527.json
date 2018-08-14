@@ -20,6 +20,128 @@
   "artist_names": [
     "Mental Floss"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "velusip",
+      "vote": 1,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "infinigon",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "traidmill",
+      "vote": 1,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-24 07:59:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-01-24 07:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-24 08:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-04 21:33:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2017-01-04 16:11:00"
+    },
+    {
+      "user": "plc",
+      "vote": 1,
+      "when": "2017-04-03 11:42:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-04-03 11:45:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-06-25 01:12:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 5,
+      "when": "2017-11-26 09:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2018-02-07 20:00:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 2,
+      "when": "2018-02-07 20:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

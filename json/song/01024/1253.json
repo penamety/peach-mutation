@@ -19,6 +19,53 @@
   "artist_names": [
     "Cliver and DJ Bars"
   ],
+  "votes": [
+    {
+      "user": "Argolyn",
+      "vote": 2,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "infinigon",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "Ishma",
+      "vote": 3,
+      "when": "2013-05-29 11:00:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-29 11:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-29 11:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-07 23:26:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-07 23:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

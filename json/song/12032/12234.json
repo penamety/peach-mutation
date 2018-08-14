@@ -24,6 +24,98 @@
   "artist_names": [
     "Mister Beep"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "zneek",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "peb",
+      "vote": 1,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "johny8",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "jesper",
+      "vote": 1,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-27 22:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-01 16:25:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-01-01 16:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-04-22 08:32:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-10-15 15:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-15 15:05:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 1,
+      "when": "2017-10-15 15:05:00"
+    },
+    {
+      "user": "jimee",
+      "vote": 4,
+      "when": "2017-10-15 15:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

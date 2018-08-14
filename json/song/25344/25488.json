@@ -23,6 +23,73 @@
   "artist_names": [
     "The Dead Guys"
   ],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2013-08-14 21:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-10-22 08:35:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2014-04-01 03:03:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-29 16:45:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-10-17 15:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

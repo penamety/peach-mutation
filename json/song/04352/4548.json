@@ -24,6 +24,58 @@
   "artist_names": [
     "Marillion"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-15 11:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-16 22:53:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-05-26 08:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

@@ -27,6 +27,58 @@
   "artist_names": [
     "Flex"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-04-22 08:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-04-22 09:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-04-22 20:38:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2017-06-03 12:12:00"
+    },
+    {
+      "user": "Zabchob",
+      "vote": 5,
+      "when": "2017-06-08 15:57:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 4,
+      "when": "2017-07-03 04:50:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2017-10-19 16:21:00"
+    },
+    {
+      "user": "Mindiell",
+      "vote": 4,
+      "when": "2017-11-09 15:06:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2018-04-13 20:25:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2018-05-28 08:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

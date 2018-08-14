@@ -25,6 +25,73 @@
   "artist_names": [
     "lemonade"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-10-19 23:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-21 18:13:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-05-31 11:15:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-03-10 06:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "Stormdragonblue",

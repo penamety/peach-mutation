@@ -24,6 +24,68 @@
   "artist_names": [
     "Twin S."
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-01-06 22:36:00"
+    },
+    {
+      "user": "Abrahaz",
+      "vote": 5,
+      "when": "2015-01-06 22:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-06 22:49:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-01-21 10:46:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-01-21 10:46:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-03-01 13:19:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2015-09-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2015-09-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2017-02-09 16:01:00"
+    },
+    {
+      "user": "G_o_D",
+      "vote": 4,
+      "when": "2017-02-09 16:02:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2017-02-09 16:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

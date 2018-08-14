@@ -19,5 +19,32 @@
   "artist_names": [
     "Eftos"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "chkdsk",
+      "vote": 1,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "HaCKa",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "MMX",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-01-03"
+    }
+  ],
   "requests": []
 }

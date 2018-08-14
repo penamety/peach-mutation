@@ -24,6 +24,78 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "iavcho",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 1,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "p2502",
+      "vote": 2,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "velusip",
+      "vote": 2,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Swb",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-03-04"
+    }
+  ],
   "requests": [
     {
       "user": "LittleWhite",

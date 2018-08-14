@@ -22,6 +22,68 @@
   "artist_names": [
     "dRe"
   ],
+  "votes": [
+    {
+      "user": "Flatline",
+      "vote": 3,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Shriggar",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-30 07:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-30 07:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-21 23:18:00"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2015-01-29 17:01:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2015-01-29 17:03:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-01-29 17:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "Flatline",

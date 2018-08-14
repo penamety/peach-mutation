@@ -19,6 +19,18 @@
   "artist_names": [
     "Kendo"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-01-03"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

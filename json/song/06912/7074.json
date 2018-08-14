@@ -19,6 +19,48 @@
   "artist_names": [
     "Tonza"
   ],
+  "votes": [
+    {
+      "user": "klashn",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-12 10:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-04-16 09:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-07-12"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

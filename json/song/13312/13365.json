@@ -19,6 +19,18 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 2,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Machforr",
+      "vote": 3,
+      "when": "2011-04-03"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

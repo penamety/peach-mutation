@@ -21,6 +21,88 @@
   "artist_names": [
     "Twice"
   ],
+  "votes": [
+    {
+      "user": "HexenNI",
+      "vote": 3,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-01 20:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-06-01 20:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-30 22:32:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-06-02 13:27:00"
+    },
+    {
+      "user": "fkey",
+      "vote": 2,
+      "when": "2014-06-02 13:28:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-06-02 13:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-06-02 13:30:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-20 12:01:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-04-20 12:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-04-20 12:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "Riphur",

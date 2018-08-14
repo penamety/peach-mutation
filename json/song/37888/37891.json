@@ -22,6 +22,58 @@
   "artist_names": [
     "Punkt"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Triton",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "weirdoz",
+      "vote": 1,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-02-22 21:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

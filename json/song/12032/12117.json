@@ -23,6 +23,108 @@
   "artist_names": [
     "Blue Fox"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Zac",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "mutex",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-06-18 12:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-18 12:25:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-06-18 12:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-06-18 12:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-18 12:28:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-11-26 05:47:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-26 05:49:00"
+    },
+    {
+      "user": "andyabstract",
+      "vote": 2,
+      "when": "2015-03-29 13:07:00"
+    },
+    {
+      "user": "Continuum",
+      "vote": 4,
+      "when": "2015-03-29 13:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-07-24"
+    }
+  ],
   "requests": [
     {
       "user": "Chewrafa",

@@ -23,6 +23,78 @@
   "artist_names": [
     "Power of Creation"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "asbjornu",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-06-06 10:16:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-06-06 10:16:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-06-06 10:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-24 12:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-24 13:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-02-24 13:34:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-02-24 13:35:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-02-24 13:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "Chakotay",

@@ -19,6 +19,73 @@
   "artist_names": [
     "Blood Works"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Noir04",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "jass0",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-09-03 19:54:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-09-03 19:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-03 20:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-07-31 08:02:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-10-01"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2016-10-01"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

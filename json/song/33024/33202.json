@@ -26,6 +26,123 @@
   "artist_names": [
     "Feedback"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 5,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 5,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "eefi",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-08 00:22:00"
+    },
+    {
+      "user": "tas",
+      "vote": 5,
+      "when": "2013-07-08 00:22:00"
+    },
+    {
+      "user": "x3lis",
+      "vote": 4,
+      "when": "2013-07-08 00:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-24 16:32:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-10-22 12:11:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-10-22 12:11:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 4,
+      "when": "2016-04-11 12:11:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-05-24 02:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -22,6 +22,88 @@
   "artist_names": [
     "DeLorean"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2009-01-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-07-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-07-17"
+    },
+    {
+      "user": "tomi",
+      "vote": 2,
+      "when": "2013-04-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-17 12:23:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 5,
+      "when": "2014-02-21 09:33:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-02-21 09:34:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-02-21 09:34:00"
+    },
+    {
+      "user": "essential",
+      "vote": 3,
+      "when": "2014-02-21 09:35:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-01-09 15:56:00"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2016-01-03"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2016-08-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-09-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-14 18:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

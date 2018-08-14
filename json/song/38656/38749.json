@@ -27,6 +27,73 @@
   "artist_names": [
     "Cinder"
   ],
+  "votes": [
+    {
+      "user": "Fireball",
+      "vote": 3,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "juky",
+      "vote": 3,
+      "when": "2013-06-21 16:09:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-06-21 16:13:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-19 13:48:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-10-24 12:55:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-01-10 19:48:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2014-12-01 13:28:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-12-01 13:28:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-10-21"
+    }
+  ],
   "requests": [
     {
       "user": "Fireball",

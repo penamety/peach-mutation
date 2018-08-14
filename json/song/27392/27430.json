@@ -23,6 +23,63 @@
   "artist_names": [
     "bad LSD trip"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-08 15:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-08 15:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-08 15:30:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-10-11"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

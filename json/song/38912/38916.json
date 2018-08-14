@@ -26,6 +26,68 @@
   "artist_names": [
     "Bruno"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-17 20:28:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-06-18 13:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-06-18 13:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-18 13:06:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-06-18 13:06:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-06-18 13:07:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-06-18 16:31:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-06-28 07:51:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-06-28 07:52:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-12 12:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-04-18 23:53:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-02-24 22:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "Buzzer",

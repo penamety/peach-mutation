@@ -19,6 +19,48 @@
   "artist_names": [
     "Moon"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "crt",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-26 08:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-24 13:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

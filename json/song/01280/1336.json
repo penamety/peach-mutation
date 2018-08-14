@@ -19,6 +19,83 @@
   "artist_names": [
     "Croaker"
   ],
+  "votes": [
+    {
+      "user": "_wally",
+      "vote": 3,
+      "when": "2010-01-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-01-01"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2012-07-24"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2012-07-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-10-28 05:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-16 12:57:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-01-16 12:58:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-01-16 12:59:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-16 12:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-03-02 21:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-07-08 02:17:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2017-07-08 02:19:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2017-07-08 02:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

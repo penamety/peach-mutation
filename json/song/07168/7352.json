@@ -20,6 +20,73 @@
   "artist_names": [
     "Up"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "flash",
+      "vote": 5,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-06-13 08:14:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-13 08:14:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2013-06-13 08:14:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-12-12 10:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-07-10 22:45:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2015-12-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-01-07 02:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

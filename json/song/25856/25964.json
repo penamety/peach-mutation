@@ -20,5 +20,22 @@
   "artist_names": [
     "u4ia"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-04-14 13:00:00"
+    }
+  ],
   "requests": []
 }

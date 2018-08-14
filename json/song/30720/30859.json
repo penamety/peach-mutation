@@ -20,6 +20,58 @@
   "artist_names": [
     "Inspekdah Deck"
   ],
+  "votes": [
+    {
+      "user": "Octoate",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "chrono",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-19 17:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-25 22:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-01-25 22:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -21,6 +21,78 @@
   "artist_names": [
     "Xentar"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-08-26 21:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-08-26 21:53:00"
+    },
+    {
+      "user": "yeep",
+      "vote": 4,
+      "when": "2013-08-26 21:53:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-11-28 15:46:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2013-11-28 15:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -24,6 +24,118 @@
   "artist_names": [
     "TAR"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-08-26 11:00:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2013-08-26 11:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-26 11:14:00"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2013-08-26 11:14:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-08-26 11:15:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-08-26 11:15:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-04-25 20:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-04-25 20:17:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 5,
+      "when": "2015-12-07"
+    },
+    {
+      "user": "spaxx",
+      "vote": 5,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-03-08 15:21:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2016-03-08 15:25:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-01-30 20:37:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-01-30 20:38:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2017-07-10 11:21:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-03-17 15:13:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-05-08 10:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

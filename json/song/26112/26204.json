@@ -22,6 +22,48 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-11 00:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-06-05 02:15:00"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 3,
+      "when": "2017-01-11 13:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

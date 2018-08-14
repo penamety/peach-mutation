@@ -20,6 +20,73 @@
   "artist_names": [
     "SnowBro"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "tails_",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-04-27 19:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-04-27 20:04:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-05-25 00:40:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-17 11:41:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-01-17 11:42:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "vote": 3,
+      "when": "2017-01-17 11:43:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-01-17 11:44:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-01-17 11:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

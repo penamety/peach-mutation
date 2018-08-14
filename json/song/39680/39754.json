@@ -21,6 +21,73 @@
   "artist_names": [
     "Andy Fer"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2013-12-17 15:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-03 09:28:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-05 08:24:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-03-05 08:25:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-04-23 11:01:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2014-05-31 23:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-05-31 23:10:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2014-11-09 16:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-11-09 16:49:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-10-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-10-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2016-10-03"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-02-04 13:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

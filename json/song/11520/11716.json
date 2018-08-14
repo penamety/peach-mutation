@@ -23,6 +23,73 @@
   "artist_names": [
     "raina"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-01-27 14:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-04-26 21:07:00"
+    },
+    {
+      "user": "Melo",
+      "vote": 4,
+      "when": "2014-04-26 21:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-04-26 21:08:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-05-28 07:02:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2014-12-11 00:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -24,6 +24,53 @@
   "artist_names": [
     "rockmonitor"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-05-31 14:39:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 3,
+      "when": "2015-05-31 14:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-05-31 14:41:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2015-06-10 10:50:00"
+    },
+    {
+      "user": "skall",
+      "vote": 3,
+      "when": "2015-06-10 10:50:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-20"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-09-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-09-17"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-27 17:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -20,6 +20,78 @@
   "artist_names": [
     "David Filskov"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Octoate",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chewrafa",
+      "vote": 5,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Manax",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-10 05:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-17 15:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-08 05:14:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-12-03"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-21 22:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

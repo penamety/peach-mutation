@@ -20,6 +20,73 @@
   "artist_names": [
     "Altcomputing"
   ],
+  "votes": [
+    {
+      "user": "eefi",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-10-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2013-12-17 05:54:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2016-05-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-05-24"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2016-05-24"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-10-04 19:17:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-06-16 18:56:00"
+    },
+    {
+      "user": "HaCKa",
+      "vote": 2,
+      "when": "2018-06-16 18:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

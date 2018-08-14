@@ -26,6 +26,53 @@
   "artist_names": [
     "Mr. Death"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-11-26 00:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-12-06 23:29:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-01-08 07:58:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-01-08 07:58:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-01-08 07:59:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-06-03 15:57:00"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 3,
+      "when": "2015-06-03 15:58:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-06-03 16:16:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 5,
+      "when": "2018-02-01 21:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "sLASH",

@@ -24,6 +24,103 @@
   "artist_names": [
     "Erk"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-05-14"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "jesper",
+      "vote": 1,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-14 01:44:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-07-14 01:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-02-07 11:29:00"
+    },
+    {
+      "user": "Feuermurmel",
+      "vote": 4,
+      "when": "2014-02-07 11:29:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-16 22:37:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-02-08 13:47:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2015-05-03 18:40:00"
+    },
+    {
+      "user": "hedning",
+      "vote": 5,
+      "when": "2017-01-12"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-26 16:35:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2017-01-26 16:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

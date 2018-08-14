@@ -19,6 +19,63 @@
   "artist_names": [
     "Piscis"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-03-19 13:37:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2015-03-03 20:36:00"
+    },
+    {
+      "user": "Triton",
+      "vote": 2,
+      "when": "2015-03-03 20:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-03 20:36:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-03-03 20:38:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-06-02"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

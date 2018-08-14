@@ -20,6 +20,78 @@
   "artist_names": [
     "Mr Future"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Vampire",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-01 19:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-29 23:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-29 23:40:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-02-17 11:06:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 2,
+      "when": "2017-02-17 11:10:00"
+    },
+    {
+      "user": "bucky",
+      "vote": 3,
+      "when": "2017-02-17 11:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

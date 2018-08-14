@@ -20,6 +20,93 @@
   "artist_names": [
     "Mr Young"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "q3k",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Ishma",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-08 16:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-07 08:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-09 01:12:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-15 05:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-11-30 16:59:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-26 09:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

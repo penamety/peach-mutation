@@ -27,6 +27,48 @@
   "artist_names": [
     "Tomchi"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-06-24 14:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-06-24 14:55:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2015-09-17"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-10-10"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-02-29 14:46:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-02-29 14:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

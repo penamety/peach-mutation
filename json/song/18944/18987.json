@@ -19,5 +19,32 @@
   "artist_names": [
     "Hamster Alliance"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Latis",
+      "vote": 2,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-09-27"
+    }
+  ],
   "requests": []
 }

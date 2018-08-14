@@ -19,6 +19,78 @@
   "artist_names": [
     "Subdrain"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2014-02-25 09:12:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-25 09:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-29 09:20:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-09-29 09:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-09-29 09:22:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-07-07 12:22:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-07-07 12:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yaroze",

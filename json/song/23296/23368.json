@@ -19,6 +19,68 @@
   "artist_names": [
     "Rasmussen"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-01-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "MyO",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-19 05:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-08 21:20:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-02-08 21:23:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2017-12-11 13:10:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-12-11 13:10:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-12-11 13:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

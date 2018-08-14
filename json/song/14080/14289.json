@@ -21,6 +21,128 @@
   "artist_names": [
     "Awesome"
   ],
+  "votes": [
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2010-03-11"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "xTr1m",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "infinigon",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Szrachnor",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-12-04"
+    },
+    {
+      "user": "Melo",
+      "vote": 5,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-30 05:40:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2014-03-17 01:59:00"
+    },
+    {
+      "user": "bmn",
+      "vote": 4,
+      "when": "2014-09-25 22:50:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2015-10-22"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2016-01-01"
+    },
+    {
+      "user": "Flatline",
+      "vote": 3,
+      "when": "2016-07-24"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-08-14"
+    },
+    {
+      "user": "darlaam",
+      "vote": 4,
+      "when": "2016-08-31"
+    },
+    {
+      "user": "velusip",
+      "vote": 4,
+      "when": "2016-11-02 02:37:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-01-24 05:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-07-11 18:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

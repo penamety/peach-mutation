@@ -19,6 +19,58 @@
   "artist_names": [
     "Lone slonono"
   ],
+  "votes": [
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-07-30 21:20:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2015-10-19"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 1,
+      "when": "2016-06-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-06-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-11-28 01:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "BLGM",

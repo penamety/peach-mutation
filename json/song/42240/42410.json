@@ -24,6 +24,58 @@
   "artist_names": [
     "Rage"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-09-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-09-16"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-10-09"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-09-21"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-09-21"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-01-28 10:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

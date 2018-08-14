@@ -20,6 +20,68 @@
   "artist_names": [
     "Stote"
   ],
+  "votes": [
+    {
+      "user": "HideawayStudio",
+      "vote": 5,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-02-09"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-19 20:47:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-07-19 20:47:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-07-19 20:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-07-19 20:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-10 20:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-25 15:33:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-11-25 15:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

@@ -19,6 +19,63 @@
   "artist_names": [
     "Marko sekulic"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "funnyn8",
+      "vote": 2,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "Unstruct",
+      "vote": 2,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-14 01:48:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-07-24 06:19:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-04 17:03:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-01-04 17:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

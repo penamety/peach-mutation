@@ -21,6 +21,58 @@
   "artist_names": [
     "Skie"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-06-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-31 06:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-31 06:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-07-10 22:19:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-07-10 22:20:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-12-14 14:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

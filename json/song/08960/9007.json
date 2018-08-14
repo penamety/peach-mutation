@@ -23,6 +23,23 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-07-03"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

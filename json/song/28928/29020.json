@@ -25,5 +25,47 @@
   "artist_names": [
     "Jork"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "mrx",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "venttiili",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2018-05-01 12:00:00"
+    }
+  ],
   "requests": []
 }

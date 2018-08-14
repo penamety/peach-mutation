@@ -19,6 +19,73 @@
   "artist_names": [
     "Astradyne"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "sarka",
+      "vote": 1,
+      "when": "2014-10-05 19:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-05 20:13:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-12-28 07:24:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-01-13 12:08:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-13 12:09:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-01-13 12:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

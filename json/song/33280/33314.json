@@ -25,6 +25,18 @@
   "artist_names": [
     "Frank Klepacki"
   ],
+  "votes": [
+    {
+      "user": "Danger",
+      "vote": 5,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "H0lySh1t",
+      "vote": 5,
+      "when": "2011-06-03"
+    }
+  ],
   "requests": [
     {
       "user": "Starchaser",

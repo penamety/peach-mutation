@@ -26,6 +26,93 @@
   "artist_names": [
     "XTD"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-11-16"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2016-01-26"
+    },
+    {
+      "user": "omilian",
+      "vote": 5,
+      "when": "2016-03-11 05:09:00"
+    },
+    {
+      "user": "Triton",
+      "vote": 4,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "Frylix",
+      "vote": 5,
+      "when": "2017-01-20 13:34:00"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 4,
+      "when": "2017-02-10 18:33:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-03-01 16:00:00"
+    },
+    {
+      "user": "krusty",
+      "vote": 4,
+      "when": "2017-03-22 14:34:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-02 21:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-12-02 21:34:00"
+    },
+    {
+      "user": "vgo",
+      "vote": 1,
+      "when": "2018-03-01 08:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

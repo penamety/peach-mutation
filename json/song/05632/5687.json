@@ -25,6 +25,63 @@
   "artist_names": [
     "Pink"
   ],
+  "votes": [
+    {
+      "user": "dachtunner",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "deathy",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-06 16:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-08 06:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-02 15:32:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 5,
+      "when": "2016-02-14"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-09-11"
+    }
+  ],
   "requests": [
     {
       "user": "Starchaser",

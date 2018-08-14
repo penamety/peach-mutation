@@ -25,6 +25,53 @@
   "artist_names": [
     "Hattrick"
   ],
+  "votes": [
+    {
+      "user": "turbine5",
+      "vote": 2,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-08 15:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-13 13:31:00"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2015-06-20 20:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

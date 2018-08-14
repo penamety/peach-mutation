@@ -26,6 +26,53 @@
   "artist_names": [
     "T.o.B"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Tethys",
+      "vote": 1,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-11-15 23:56:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2016-12-20 16:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

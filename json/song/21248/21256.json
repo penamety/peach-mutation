@@ -20,6 +20,88 @@
   "artist_names": [
     "Matthias Steinwachs"
   ],
+  "votes": [
+    {
+      "user": "jkolb",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "clumdon",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "dang",
+      "vote": 2,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "jakov",
+      "vote": 1,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-11-27 15:15:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-27 15:15:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 1,
+      "when": "2014-04-13 04:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-15 23:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -21,6 +21,68 @@
   "artist_names": [
     "Tonedeaf"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "besh",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-31 09:34:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-02-15 19:19:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-02-15 19:20:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2018-01-24 12:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

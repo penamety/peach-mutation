@@ -23,6 +23,58 @@
   "artist_names": [
     "Fred Gray"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "zerkman",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Sketch",
+      "vote": 1,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-03 22:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-03 22:12:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-09-25 13:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

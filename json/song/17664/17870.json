@@ -20,6 +20,93 @@
   "artist_names": [
     "CSM"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 1,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "tas",
+      "vote": 1,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-09-02 13:29:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 1,
+      "when": "2013-09-02 13:30:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2014-01-04 19:37:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 1,
+      "when": "2014-01-04 19:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-04 19:38:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-01-04 19:38:00"
+    },
+    {
+      "user": "Archmage",
+      "vote": 1,
+      "when": "2015-10-19"
+    },
+    {
+      "user": "TheNalex",
+      "vote": 1,
+      "when": "2015-10-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-10-19"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-03-28 12:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

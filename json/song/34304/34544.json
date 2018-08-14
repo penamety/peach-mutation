@@ -24,6 +24,108 @@
   "artist_names": [
     "Galancy"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "nvictor",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-08-09 19:23:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2013-08-09 19:24:00"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-10-16 19:09:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-10-16 19:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-16 19:12:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 3,
+      "when": "2013-10-16 19:12:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-03-25 14:48:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 5,
+      "when": "2014-03-25 14:48:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 3,
+      "when": "2014-05-09 13:20:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-05-09 13:21:00"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 3,
+      "when": "2015-07-30"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-07-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-04-11 07:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

@@ -20,6 +20,103 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "Rudee",
+      "vote": 2,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Frumple",
+      "vote": 1,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "DexterAYS",
+      "vote": 1,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "onc",
+      "vote": 1,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "jxx",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "zmurf",
+      "vote": 2,
+      "when": "2013-07-11 15:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-11 15:55:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-07-11 15:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-05 19:45:00"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 1,
+      "when": "2014-02-05 19:45:00"
+    },
+    {
+      "user": "DrFlay",
+      "vote": 3,
+      "when": "2014-02-05 19:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-02-05 20:37:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-08-20"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2017-06-12 17:37:00"
+    },
+    {
+      "user": "Fireball",
+      "vote": 1,
+      "when": "2017-06-12 17:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

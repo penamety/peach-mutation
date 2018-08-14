@@ -19,6 +19,48 @@
   "artist_names": [
     "Bullboy"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-02-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-11-11 13:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-11-11 13:29:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-03-11 22:15:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2015-03-11 22:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

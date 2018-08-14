@@ -22,6 +22,58 @@
   "artist_names": [
     "Audiomonster"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-05-17 19:56:00"
+    },
+    {
+      "user": "essential",
+      "vote": 3,
+      "when": "2015-10-24"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2015-10-24"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2016-06-14"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-09-28 00:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

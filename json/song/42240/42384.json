@@ -22,6 +22,68 @@
   "artist_names": [
     "Nagz"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-09-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-10-02"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2016-01-02"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-01-02"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2016-10-13 13:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-13 13:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-11 09:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

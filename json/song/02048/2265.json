@@ -22,6 +22,68 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "jay",
+      "vote": 1,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-17"
+    },
+    {
+      "user": "Hasse",
+      "vote": 1,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 2,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-06-26 09:13:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2014-01-21 07:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-01-21 07:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-21 07:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-02-08 22:26:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2017-02-08 22:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -19,6 +19,73 @@
   "artist_names": [
     "Roz"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "jesper",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-30 18:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-30 18:35:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-30 18:37:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-07-30 18:37:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-24 06:00:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2015-04-14 18:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

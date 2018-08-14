@@ -23,6 +23,63 @@
   "artist_names": [
     "4-mat"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Machforr",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-31 05:38:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-02-09 11:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-12-12 08:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-12-12 09:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

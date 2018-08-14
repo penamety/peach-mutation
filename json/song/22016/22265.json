@@ -19,6 +19,68 @@
   "artist_names": [
     "Nobbie"
   ],
+  "votes": [
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Marlon",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "shino",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-06-07"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-19 13:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-19 13:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-20 15:21:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-08-04 23:57:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 4,
+      "when": "2014-08-05 00:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-22 08:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

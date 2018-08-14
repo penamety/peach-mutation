@@ -22,6 +22,83 @@
   "artist_names": [
     "elblanco"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-03-04 17:30:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-03-30"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 3,
+      "when": "2018-02-04 23:22:00"
+    },
+    {
+      "user": "Masa76",
+      "vote": 2,
+      "when": "2017-12-09 10:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-03-30"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-03-04 17:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-26 21:40:00"
+    },
+    {
+      "user": "Thexder",
+      "vote": 3,
+      "when": "2017-03-04 17:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-06-08 21:37:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-03-04 17:13:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2017-03-04 17:40:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2018-02-04 23:18:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-05-26 21:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-03-04 17:35:00"
+    },
+    {
+      "user": "velusip",
+      "vote": 3,
+      "when": "2018-02-04 23:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "VodkaBot",

@@ -27,6 +27,93 @@
   "artist_names": [
     "Ziutek"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "demoded",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "anerte",
+      "vote": 5,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "od",
+      "vote": 5,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-13 23:07:00"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-08-13 23:09:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-12 17:27:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-09 20:24:00"
+    },
+    {
+      "user": "Abrahaz",
+      "vote": 5,
+      "when": "2015-01-09 20:25:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-03-02 21:46:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-07"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-06-26 11:43:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2018-02-04 04:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

@@ -19,6 +19,48 @@
   "artist_names": [
     "Mortimer Twang"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-31 10:11:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-08-30 15:17:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2014-08-30 15:21:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2015-12-14"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

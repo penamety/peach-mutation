@@ -22,6 +22,68 @@
   "artist_names": [
     "Argasek"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "kristian",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-09 06:44:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-09 06:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-12-17 03:24:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-10 12:06:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-10 12:08:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-02-10 12:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-05-16 19:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

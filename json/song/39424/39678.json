@@ -25,6 +25,83 @@
   "artist_names": [
     "Maf"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-11-28 23:19:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-11-28 23:20:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2013-11-28 23:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-12-22 22:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-12-22 22:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-01-12 22:24:00"
+    },
+    {
+      "user": "0A000h",
+      "vote": 4,
+      "when": "2014-01-12 22:25:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-03-19 11:40:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2014-03-19 11:40:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-06-26 12:47:00"
+    },
+    {
+      "user": "cerror",
+      "vote": 4,
+      "when": "2015-11-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-11-26"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-03-01 23:13:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2017-03-01 23:14:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2017-06-30 09:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

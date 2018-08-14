@@ -20,6 +20,63 @@
   "artist_names": [
     "Honorabili"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-08 00:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-08 00:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-05-21 07:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

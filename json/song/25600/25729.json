@@ -19,6 +19,63 @@
   "artist_names": [
     "TJOA"
   ],
+  "votes": [
+    {
+      "user": "oryx",
+      "vote": 3,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 3,
+      "when": "2014-07-04 17:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-04 12:58:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2014-09-04 13:02:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-02-24 11:40:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-02-24 11:40:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-02-24 11:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

@@ -25,6 +25,53 @@
   "artist_names": [
     "Syniphas"
   ],
+  "votes": [
+    {
+      "user": "Syniphas",
+      "vote": 5,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2013-08-26 19:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-14 06:36:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-05 11:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

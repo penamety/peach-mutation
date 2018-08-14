@@ -21,6 +21,83 @@
   "artist_names": [
     "D Fast"
   ],
+  "votes": [
+    {
+      "user": "Daedalus",
+      "vote": 2,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Machforr",
+      "vote": 1,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "micksam7",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-04 02:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-05 11:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-06-04 09:11:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-06-04 09:17:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-06-18 17:50:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-09-13 21:27:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-09-13 21:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

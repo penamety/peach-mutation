@@ -24,6 +24,58 @@
   "artist_names": [
     "Treks"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "krusty",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-28 01:27:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-12-05 21:15:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2018-04-28 20:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

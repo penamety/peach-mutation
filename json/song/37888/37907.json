@@ -25,6 +25,83 @@
   "artist_names": [
     "SCS"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "jinx",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-05-30 15:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-30 15:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-23 01:11:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-09-23 01:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-12 07:40:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-06-26"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-10-12 17:03:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-05-07 14:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

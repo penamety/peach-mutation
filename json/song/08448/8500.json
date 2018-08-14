@@ -22,5 +22,27 @@
   "artist_names": [
     "Dubmood"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Helioth",
+      "vote": 1,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 1,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2017-06-22 22:37:00"
+    }
+  ],
   "requests": []
 }

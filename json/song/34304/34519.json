@@ -23,6 +23,53 @@
   "artist_names": [
     "lemonade"
   ],
+  "votes": [
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-22 19:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-22 19:16:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-10-19 23:50:00"
+    },
+    {
+      "user": "xerion567",
+      "vote": 2,
+      "when": "2014-03-08 05:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

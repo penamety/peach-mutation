@@ -24,6 +24,48 @@
   "artist_names": [
     "Yelm"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-05-10 14:47:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-09-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-31 15:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

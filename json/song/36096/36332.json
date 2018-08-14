@@ -26,6 +26,103 @@
   "artist_names": [
     "Psilodump"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-07-14"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "onc",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Gismo",
+      "vote": 1,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-07-08 19:54:00"
+    },
+    {
+      "user": "honorabili",
+      "vote": 2,
+      "when": "2013-07-08 19:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-17 00:59:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-01-23 16:55:00"
+    },
+    {
+      "user": "Erk",
+      "vote": 3,
+      "when": "2014-01-23 16:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Starchaser",

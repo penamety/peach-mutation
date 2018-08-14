@@ -22,6 +22,68 @@
   "artist_names": [
     "KeyG"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-27 10:10:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2014-03-27 10:11:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 2,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-10-21 21:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-10-21 21:09:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2018-04-01 12:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -24,6 +24,93 @@
   "artist_names": [
     "Basehead"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-07-15 11:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-15 11:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-15 11:49:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-15 11:49:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-12-18 05:55:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-08-29 17:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-08-29 17:35:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-08-29 17:37:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-01-22 14:02:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-01-01 00:53:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2018-01-01 00:54:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-01-01 00:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

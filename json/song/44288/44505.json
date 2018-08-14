@@ -28,6 +28,53 @@
   "artist_names": [
     "lft"
   ],
+  "votes": [
+    {
+      "user": "MyO",
+      "vote": 5,
+      "when": "2017-12-06 22:11:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2017-12-07 14:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-12-07 14:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-12-07 14:49:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 4,
+      "when": "2017-12-07 14:50:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-25 10:34:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-01-30 07:18:00"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2018-03-22 17:55:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2018-03-22 17:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "zoner",

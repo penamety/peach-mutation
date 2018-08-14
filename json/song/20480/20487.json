@@ -22,6 +22,63 @@
   "artist_names": [
     "Leinad"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-08-23 14:17:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-08-23 14:18:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-08-23 14:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-23 23:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-27 19:50:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-12-06 11:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

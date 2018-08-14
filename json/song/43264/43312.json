@@ -26,6 +26,58 @@
   "artist_names": [
     "Rock"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-08-17"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-10-25 10:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-25 10:15:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-11-21 12:38:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-11-21 12:39:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-21 12:39:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-04-14 11:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

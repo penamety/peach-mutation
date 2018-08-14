@@ -25,6 +25,68 @@
   "artist_names": [
     "Dane"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-06-20 16:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-19 04:36:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-11-20 20:24:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-01-13 11:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-06 17:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

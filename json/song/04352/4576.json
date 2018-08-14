@@ -19,6 +19,68 @@
   "artist_names": [
     "Martyn"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-30 06:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-30 06:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-16 18:30:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-04-16 18:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

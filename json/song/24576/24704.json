@@ -19,6 +19,53 @@
   "artist_names": [
     "Soundmaster"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-13 02:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-26 20:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-05 21:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "jetpropulsion",

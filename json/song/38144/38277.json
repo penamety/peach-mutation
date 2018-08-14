@@ -26,6 +26,48 @@
   "artist_names": [
     "Acheron"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-01-17 20:46:00"
+    },
+    {
+      "user": "sdjm",
+      "vote": 2,
+      "when": "2016-05-19"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

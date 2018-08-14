@@ -19,6 +19,73 @@
   "artist_names": [
     "Jakim"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "TheSLASH",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-10 08:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-05 22:38:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-06-04 19:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "Erk",

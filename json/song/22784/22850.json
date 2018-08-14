@@ -19,6 +19,63 @@
   "artist_names": [
     "Platon42"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-20 01:55:00"
+    },
+    {
+      "user": "alecs",
+      "vote": 2,
+      "when": "2014-02-06 19:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-06 19:58:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-02-06 19:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-02-06 20:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

@@ -19,6 +19,53 @@
   "artist_names": [
     "Dr Dreyer"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 2,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-05-04 21:04:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-05-25"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2018-04-03 08:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

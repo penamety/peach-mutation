@@ -22,6 +22,33 @@
   "artist_names": [
     "Stamen"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-03 20:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

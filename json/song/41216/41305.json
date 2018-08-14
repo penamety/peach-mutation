@@ -25,6 +25,78 @@
   "artist_names": [
     "Buzzer"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-12-13 00:29:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 4,
+      "when": "2014-12-13 00:48:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2014-12-13 00:49:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2014-12-13 00:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-12-22 10:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-07 11:02:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-01-07 11:03:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2015-02-20 14:43:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "tohe",
+      "vote": 4,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "Fredu",
+      "vote": 4,
+      "when": "2016-12-15 12:22:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2016-12-15 12:22:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2016-12-15 12:23:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2016-12-15 12:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "CanisCanine",

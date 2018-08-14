@@ -23,6 +23,58 @@
   "artist_names": [
     "rockmonitor"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-08 06:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-01-03 22:10:00"
+    },
+    {
+      "user": "silok",
+      "vote": 1,
+      "when": "2015-01-03 22:12:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-12-28"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2016-04-23 00:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

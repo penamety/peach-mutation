@@ -23,6 +23,63 @@
   "artist_names": [
     "Nemesis"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "turbine5",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Colidace",
+      "vote": 1,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-28 01:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-28 01:32:00"
+    },
+    {
+      "user": "besh",
+      "vote": 3,
+      "when": "2014-07-31 16:13:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-06-06 00:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Dimouse",

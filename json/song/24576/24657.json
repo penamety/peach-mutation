@@ -19,6 +19,48 @@
   "artist_names": [
     "Sonox"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-27 22:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-05-27 22:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-12 22:06:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-07-12 22:07:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2014-07-12 22:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

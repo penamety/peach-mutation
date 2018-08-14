@@ -25,6 +25,88 @@
   "artist_names": [
     "Lizardking"
   ],
+  "votes": [
+    {
+      "user": "hiltunen",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "potomac",
+      "vote": 5,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-15 13:42:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2013-09-13 13:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-13 13:04:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-09-13 13:04:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2013-09-13 13:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-13 13:07:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-10-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-10-05"
+    }
+  ],
   "requests": [
     {
       "user": "zoner",

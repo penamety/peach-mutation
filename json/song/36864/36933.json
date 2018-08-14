@@ -26,6 +26,53 @@
   "artist_names": [
     "Izard"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 2,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "communicator",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "malmen",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-07 06:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-31"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-04-19 15:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

@@ -25,6 +25,58 @@
   "artist_names": [
     "Drj"
   ],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-26 21:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-09 16:20:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2014-08-16"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-05-24 20:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

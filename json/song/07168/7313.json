@@ -23,6 +23,53 @@
   "artist_names": [
     "Noodles"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "muffinsdotexe",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-28 16:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-12-03 16:19:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-03 16:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-03-21 20:25:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-03-21 20:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

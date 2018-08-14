@@ -22,6 +22,63 @@
   "artist_names": [
     "Sleipner"
   ],
+  "votes": [
+    {
+      "user": "alecs",
+      "vote": 3,
+      "when": "2014-01-31 18:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-27 12:37:00"
+    },
+    {
+      "user": "jzp",
+      "vote": 3,
+      "when": "2014-02-27 12:37:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-27 12:38:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-27 12:38:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-02-27 12:39:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-10-15 21:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-15 21:58:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2014-12-18 12:40:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-31 14:10:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-01-31 14:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "minus",

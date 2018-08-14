@@ -22,6 +22,43 @@
   "artist_names": [
     "Malmen"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-12-16 00:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-12-16 03:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2018-01-08 09:51:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-01-26 11:29:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-01-26 11:30:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-01-26 11:31:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2018-02-15 13:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

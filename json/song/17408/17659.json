@@ -19,6 +19,73 @@
   "artist_names": [
     "Dynamic Harmony"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "neutron",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "SampL",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-10 05:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-10 05:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-03 06:28:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-31 14:20:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2017-05-22 01:09:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2017-06-19 02:16:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-05-24 07:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "tanatos",

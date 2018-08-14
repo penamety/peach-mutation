@@ -19,6 +19,63 @@
   "artist_names": [
     "Starbuck"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-02-01"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "lilelk",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-29 18:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-02 21:16:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-05-31 23:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

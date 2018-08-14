@@ -19,6 +19,48 @@
   "artist_names": [
     "Platon42"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-01 22:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-06-09"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

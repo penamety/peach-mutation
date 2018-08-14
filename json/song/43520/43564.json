@@ -26,6 +26,78 @@
   "artist_names": [
     "Bassline"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-11-08 08:02:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2016-11-08 08:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-11-08 08:26:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-11-21 09:37:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-11-21 09:40:00"
+    },
+    {
+      "user": "psyd3r",
+      "vote": 2,
+      "when": "2016-12-15 13:33:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-12-15 13:34:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 2,
+      "when": "2016-12-15 13:34:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-22 08:50:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2017-03-06 17:42:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2017-04-17 20:31:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-04-17 20:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-02-24 02:46:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-02-24 02:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

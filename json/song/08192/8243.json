@@ -16,5 +16,92 @@
   "last_scraped": "2018-05-22 22:05:49",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Helioth",
+      "vote": 4,
+      "when": "2009-01-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Longbow",
+      "vote": 5,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "robert",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "unfy",
+      "vote": 5,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "shino",
+      "vote": 5,
+      "when": "2009-06-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Chapelier",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "GreyVile",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "matsim",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "dasepsilon",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Bonstra",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Daedalus",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "mu6k",
+      "vote": 5,
+      "when": "2009-12-02"
+    }
+  ],
   "requests": []
 }

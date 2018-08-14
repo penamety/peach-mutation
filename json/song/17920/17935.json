@@ -19,6 +19,48 @@
   "artist_names": [
     "Essential Sound"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "drybrain",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-31 04:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-27"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-01-05"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

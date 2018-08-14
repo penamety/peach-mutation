@@ -20,6 +20,68 @@
   "artist_names": [
     "Ramone"
   ],
+  "votes": [
+    {
+      "user": "Bonstra",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "oryx",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-05-30 19:48:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-05-30 19:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-05-30 19:53:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-03-30 09:55:00"
+    },
+    {
+      "user": "the_Deviant",
+      "vote": 4,
+      "when": "2018-03-30 09:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Chakotay",

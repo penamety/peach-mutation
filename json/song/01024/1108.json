@@ -25,6 +25,118 @@
   "artist_names": [
     "Chromag"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "zoner",
+      "vote": 5,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-07-31"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-10-24"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2013-02-09"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-02-09"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-01 19:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-12-14 00:54:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-08-24 19:10:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2016-08-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-11-30 17:27:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-12-30 13:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "dang",

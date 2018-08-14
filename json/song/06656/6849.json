@@ -19,6 +19,58 @@
   "artist_names": [
     "Td"
   ],
+  "votes": [
+    {
+      "user": "turbine5",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Machforr",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-21 13:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-21 13:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

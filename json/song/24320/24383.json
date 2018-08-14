@@ -20,6 +20,73 @@
   "artist_names": [
     "Simon Speight"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-07-13 23:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-27 14:51:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-02-27 14:52:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2014-02-27 14:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-03 09:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

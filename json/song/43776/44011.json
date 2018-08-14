@@ -22,6 +22,48 @@
   "artist_names": [
     "Zauron"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-05 14:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-05-05 14:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-05 14:18:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-05-27 22:48:00"
+    },
+    {
+      "user": "aricz",
+      "vote": 5,
+      "when": "2017-05-27 22:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-05-27 22:49:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-08-30 14:37:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-11-14 13:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

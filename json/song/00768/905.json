@@ -20,6 +20,58 @@
   "artist_names": [
     "Cemik"
   ],
+  "votes": [
+    {
+      "user": "FishGuy876",
+      "vote": 5,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-04-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-11 18:41:00"
+    },
+    {
+      "user": "Latis",
+      "vote": 5,
+      "when": "2015-01-18 23:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-12"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

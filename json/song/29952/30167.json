@@ -22,6 +22,108 @@
   "artist_names": [
     "Jerry"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Flatline",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "wiseman",
+      "vote": 5,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-08-19 11:36:00"
+    },
+    {
+      "user": "joes",
+      "vote": 3,
+      "when": "2015-06-14 12:12:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-06-17 19:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

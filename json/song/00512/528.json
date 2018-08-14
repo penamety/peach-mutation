@@ -20,6 +20,108 @@
   "artist_names": [
     "Banana"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Dakota",
+      "vote": 2,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "jimee",
+      "vote": 1,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-10 11:47:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-10 11:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-12-03 03:14:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2014-03-26 14:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-05-24 12:42:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-05-24 12:43:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-05-24 12:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-08-21"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2015-10-10"
+    },
+    {
+      "user": "Rage",
+      "vote": 4,
+      "when": "2015-10-10"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2015-10-10"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-04-17 18:58:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-04-17 18:59:00"
+    },
+    {
+      "user": "FF7Cayn",
+      "vote": 1,
+      "when": "2017-01-24 23:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "SPACE",

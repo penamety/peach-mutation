@@ -21,6 +21,38 @@
   "artist_names": [
     "elblanco"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-03-02 09:36:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-09 12:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-06-09 12:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-03-26 15:23:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-05-14 10:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

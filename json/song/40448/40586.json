@@ -25,6 +25,48 @@
   "artist_names": [
     "Kribust"
   ],
+  "votes": [
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-04 10:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-07-01 21:00:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2017-06-22 03:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-06-22 03:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2017-08-01 12:31:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-08-11 15:27:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-10-27 09:28:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-10-27 09:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

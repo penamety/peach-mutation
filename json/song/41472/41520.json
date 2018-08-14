@@ -26,6 +26,88 @@
   "artist_names": [
     "Amadeus Voxon"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-01-14 14:04:00"
+    },
+    {
+      "user": "EvanR",
+      "vote": 5,
+      "when": "2015-01-25 00:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-01-25 00:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-25 00:10:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-02-10 07:56:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 5,
+      "when": "2015-02-10 07:57:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-04-17 06:04:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "Ishma",
+      "vote": 5,
+      "when": "2016-09-04"
+    },
+    {
+      "user": "essential",
+      "vote": 4,
+      "when": "2016-10-13 02:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-11-25 21:29:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-11-25 21:29:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-11-25 21:30:00"
+    },
+    {
+      "user": "ssirkriss",
+      "vote": 4,
+      "when": "2018-03-14 17:45:00"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 3,
+      "when": "2018-04-19 22:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-05-22 20:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

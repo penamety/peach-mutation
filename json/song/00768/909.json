@@ -19,6 +19,53 @@
   "artist_names": [
     "Ceniq"
   ],
+  "votes": [
+    {
+      "user": "deathy",
+      "vote": 1,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-09-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-31 23:32:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2014-07-11 01:05:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-07-11 01:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

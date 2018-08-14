@@ -22,6 +22,73 @@
   "artist_names": [
     "Paokala"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-07-13 16:21:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-07-13 16:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-11-27 12:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-05 08:21:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2014-07-06 12:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

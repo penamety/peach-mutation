@@ -20,6 +20,83 @@
   "artist_names": [
     "Genosha"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "chkdsk",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "neutron",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 1,
+      "when": "2014-08-23 23:40:00"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 1,
+      "when": "2015-06-08 17:04:00"
+    },
+    {
+      "user": "mjwise",
+      "vote": 2,
+      "when": "2015-06-08 17:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-10-19"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2015-10-19"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-04-27 16:17:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2017-09-28 07:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

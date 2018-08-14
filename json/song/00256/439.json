@@ -20,6 +20,78 @@
   "artist_names": [
     "Awesome"
   ],
+  "votes": [
+    {
+      "user": "Melo",
+      "vote": 4,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Nikem",
+      "vote": 5,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Prizm",
+      "vote": 5,
+      "when": "2012-07-24"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-11-03 10:30:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-12-23 07:09:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-14 06:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-11-03 17:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-11-03 18:38:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-12-17"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2018-02-13 01:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

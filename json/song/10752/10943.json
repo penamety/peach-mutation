@@ -24,6 +24,63 @@
   "artist_names": [
     "G-Knight"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-20 08:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-20 08:41:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-02-14 06:52:00"
+    },
+    {
+      "user": "thelawnmoverman",
+      "vote": 2,
+      "when": "2015-05-12 10:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-10-29"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

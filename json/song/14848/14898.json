@@ -25,6 +25,58 @@
   "artist_names": [
     "Bird"
   ],
+  "votes": [
+    {
+      "user": "Axioplase",
+      "vote": 3,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Eshy",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-10-08"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-07-03 22:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-04-21 11:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-04-21 12:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-09-25 20:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

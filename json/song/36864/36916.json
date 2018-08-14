@@ -24,6 +24,83 @@
   "artist_names": [
     "Bernard Sumner"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "matsim",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-04 18:13:00"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 2,
+      "when": "2014-01-13 15:15:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-06-07"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

@@ -21,6 +21,58 @@
   "artist_names": [
     "Dilvish"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 2,
+      "when": "2014-06-22 13:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-06-22 15:03:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-14 11:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2016-11-14 11:05:00"
+    },
+    {
+      "user": "blippyJon",
+      "vote": 5,
+      "when": "2016-11-14 11:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

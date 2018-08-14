@@ -20,6 +20,158 @@
   "artist_names": [
     "Tao"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "morow",
+      "vote": 2,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "zerkman",
+      "vote": 5,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "dasepsilon",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "bk237",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "possatboi",
+      "vote": 5,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Analyzer",
+      "vote": 5,
+      "when": "2013-06-01 15:00:00"
+    },
+    {
+      "user": "Sketch",
+      "vote": 5,
+      "when": "2013-06-01 15:00:00"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2013-06-01 15:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-04-24 19:54:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-04-24 19:54:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-09-22"
+    },
+    {
+      "user": "PhotonStorm",
+      "vote": 5,
+      "when": "2016-02-21 04:20:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-11-26 23:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

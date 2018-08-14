@@ -23,6 +23,53 @@
   "artist_names": [
     "Absys"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-08-25 21:37:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-08-25 21:58:00"
+    },
+    {
+      "user": "Fredisland",
+      "vote": 5,
+      "when": "2017-08-25 23:36:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-08-31 11:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-08-31 12:14:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-09-14 12:17:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-09-28 09:02:00"
+    },
+    {
+      "user": "robert",
+      "vote": 2,
+      "when": "2017-09-28 09:05:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-12-27 08:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

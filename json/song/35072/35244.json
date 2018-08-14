@@ -24,6 +24,58 @@
   "artist_names": [
     "Manwe"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "r043v",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 5,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-27 19:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-05-27 19:00:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-08-29"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

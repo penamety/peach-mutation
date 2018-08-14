@@ -24,6 +24,48 @@
   "artist_names": [
     "Kmuland"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "selmi",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-05 23:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

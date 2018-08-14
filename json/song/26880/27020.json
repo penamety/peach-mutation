@@ -25,6 +25,58 @@
   "artist_names": [
     "Kanonmat"
   ],
+  "votes": [
+    {
+      "user": "acidline",
+      "vote": 3,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "jass0",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Qumran",
+      "vote": 1,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-28 22:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-28 22:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-28 22:20:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-12-23 14:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "Qumran",

@@ -28,6 +28,88 @@
   "artist_names": [
     "Velo"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2015-04-07 16:33:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-04-07 16:45:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-05-05 08:09:00"
+    },
+    {
+      "user": "jass0",
+      "vote": 4,
+      "when": "2015-05-05 08:13:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-05-05 08:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-06-02 00:37:00"
+    },
+    {
+      "user": "Gismo",
+      "vote": 4,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2015-10-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-04-18 20:04:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2016-04-18 20:04:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-04-18 20:07:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-10-12 13:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-10-12 13:00:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2017-02-11 21:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

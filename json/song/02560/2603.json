@@ -20,6 +20,108 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "zerkman",
+      "vote": 4,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "dodge",
+      "vote": 5,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 5,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Promotos",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Triton",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2012-06-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-09-09"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-09-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "eefi",
+      "vote": 4,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "tomi",
+      "vote": 4,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-02-24 21:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "bakho",

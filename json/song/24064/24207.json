@@ -19,6 +19,78 @@
   "artist_names": [
     "Sheepset"
   ],
+  "votes": [
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "OCCASVS",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-16 22:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-16 22:24:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-01-22 11:12:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-01-22 11:12:00"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 3,
+      "when": "2014-01-22 11:14:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-01-22 11:14:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-01-22 11:15:00"
+    },
+    {
+      "user": "G_o_D",
+      "vote": 4,
+      "when": "2017-02-14 14:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

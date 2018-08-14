@@ -24,6 +24,53 @@
   "artist_names": [
     "Time Traveller"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-03-31 12:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-31 12:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-03-31 12:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -22,6 +22,83 @@
   "artist_names": [
     "Mellow-D"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-10-16 20:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-02-26 11:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-06-30 02:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-11-17 09:00:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 1,
+      "when": "2017-01-15 03:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

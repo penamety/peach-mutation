@@ -26,6 +26,83 @@
   "artist_names": [
     "akaobi"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-03-08 09:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2016-03-08 09:50:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-03-08 10:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2016-03-09"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-03-19 21:55:00"
+    },
+    {
+      "user": "trenki",
+      "vote": 5,
+      "when": "2016-03-19 21:57:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-03-19 22:00:00"
+    },
+    {
+      "user": "zilog",
+      "vote": 2,
+      "when": "2016-04-29 12:06:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2016-08-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-10-17 10:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-10-17 10:21:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2016-10-17 10:23:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2017-03-03 22:40:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2017-03-03 22:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

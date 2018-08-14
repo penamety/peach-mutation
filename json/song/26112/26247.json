@@ -22,6 +22,88 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "Swb",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-25 06:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-19 22:17:00"
+    },
+    {
+      "user": "oryx",
+      "vote": 3,
+      "when": "2014-02-19 22:21:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-06-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-06-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-17"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

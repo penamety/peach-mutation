@@ -19,6 +19,58 @@
   "artist_names": [
     "Stv"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-25 20:11:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-03-08 09:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-03-08 09:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

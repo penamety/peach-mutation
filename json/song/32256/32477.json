@@ -21,6 +21,58 @@
   "artist_names": [
     "Nula"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2013-09-09 14:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-09 14:17:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-08-04 13:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "SJD",

@@ -19,6 +19,58 @@
   "artist_names": [
     "K93"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-04-02 00:16:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-02-06 16:30:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-06 16:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

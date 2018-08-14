@@ -19,6 +19,58 @@
   "artist_names": [
     "Hexa"
   ],
+  "votes": [
+    {
+      "user": "deathy",
+      "vote": 1,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "rubik",
+      "vote": 4,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-05-31"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-31"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-05-31"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-05-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-31"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-05-31"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-05-31"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-21 01:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

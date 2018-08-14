@@ -23,6 +23,108 @@
   "artist_names": [
     "Carlos"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "tas",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Hasse",
+      "vote": 1,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "Sixx",
+      "vote": 1,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "juky",
+      "vote": 1,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "pave64",
+      "vote": 1,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-05-28 09:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-28 09:00:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2013-05-28 11:00:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 1,
+      "when": "2013-06-03"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2014-02-17 20:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-02-17 20:58:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 1,
+      "when": "2016-03-22 16:55:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-03-22 16:59:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-11-04 12:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-11-04 12:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

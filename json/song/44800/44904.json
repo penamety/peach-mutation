@@ -26,6 +26,38 @@
   "artist_names": [
     "Mike (Sinners)"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-06-09 14:24:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-05-08 13:50:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-05-08 13:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2018-06-09 14:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2018-05-08 22:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-05-08 13:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

@@ -25,6 +25,68 @@
   "artist_names": [
     "Fallout"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-22 05:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-02 22:16:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-03-02 22:16:00"
+    },
+    {
+      "user": "peach",
+      "vote": 4,
+      "when": "2014-03-02 22:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-04-18 06:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-12-19"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

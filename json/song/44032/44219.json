@@ -24,6 +24,48 @@
   "artist_names": [
     "Deetsay"
   ],
+  "votes": [
+    {
+      "user": "foster",
+      "vote": 3,
+      "when": "2017-08-07 06:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-08-07 06:09:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-08-09 13:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-08-09 13:23:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2017-08-15 12:11:00"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2017-08-30 14:41:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2017-09-19 18:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-09-27 18:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "foster",

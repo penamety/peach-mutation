@@ -22,6 +22,73 @@
   "artist_names": [
     "Nagz"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "rv6502",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Alain",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-07-02 06:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-02 06:36:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-15 09:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-25 10:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-25 09:07:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2017-04-25 09:11:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-04-25 09:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

@@ -20,6 +20,113 @@
   "artist_names": [
     "Slumgud"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "korkut",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Gluttony",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Arktos",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Sirocco",
+      "vote": 5,
+      "when": "2013-06-07 20:19:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-06-07 20:19:00"
+    },
+    {
+      "user": "juky",
+      "vote": 1,
+      "when": "2013-06-07 20:19:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-07 20:19:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-08-14 18:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-14 18:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-02 13:48:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-03-19 11:46:00"
+    },
+    {
+      "user": "sprocket",
+      "vote": 5,
+      "when": "2014-03-19 11:46:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-03-03 21:02:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-03-03 21:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

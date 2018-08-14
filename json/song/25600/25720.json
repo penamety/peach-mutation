@@ -22,6 +22,178 @@
   "artist_names": [
     "Tito"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "SampL",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "qbit",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "yeep",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "alebu",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "mu6k",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "BitArts",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "xameg",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Colidace",
+      "vote": 3,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2013-05-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-10 15:49:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 3,
+      "when": "2013-09-10 15:50:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-10-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-03-09 15:56:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2018-06-08 14:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

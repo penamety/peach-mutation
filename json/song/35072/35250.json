@@ -25,6 +25,73 @@
   "artist_names": [
     "Killer Fish"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-08-04 11:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-12-21 13:04:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-04 04:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

@@ -19,6 +19,53 @@
   "artist_names": [
     "Nintendude"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Skyrunner",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-14 21:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-14 21:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-09-14 21:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-22 18:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

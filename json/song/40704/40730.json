@@ -27,6 +27,73 @@
   "artist_names": [
     "Nick Roll"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-08-04 01:38:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-08-04 08:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-08-04 08:33:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-08-18 01:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-09-04 04:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-09-04 04:42:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-09-04 04:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-09-23 21:40:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-09-23 21:41:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2014-11-05 18:55:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2014-11-05 18:56:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-05-03 16:31:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-01-28 21:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

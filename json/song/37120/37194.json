@@ -25,6 +25,58 @@
   "artist_names": [
     "Void"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-09-27"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-15 03:11:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-02-28 09:15:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2014-02-28 09:15:00"
+    },
+    {
+      "user": "olligobber",
+      "vote": 4,
+      "when": "2015-01-20 07:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "franz_koopa",

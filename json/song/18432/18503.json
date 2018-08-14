@@ -23,6 +23,73 @@
   "artist_names": [
     "Gasman"
   ],
+  "votes": [
+    {
+      "user": "Cstain",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-18 18:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-18 18:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "dukzcry",

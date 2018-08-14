@@ -26,6 +26,63 @@
   "artist_names": [
     "AnaMark"
   ],
+  "votes": [
+    {
+      "user": "matsim",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "CaptCookie",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "crt",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2017-10-19 00:58:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2018-04-02 13:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

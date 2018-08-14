@@ -25,6 +25,88 @@
   "artist_names": [
     "DJ Joge"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "brm_",
+      "vote": 4,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-10-02"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2015-10-02"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "Kleingeist",
+      "vote": 4,
+      "when": "2017-03-15 07:39:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-05-15 11:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-03-15 11:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

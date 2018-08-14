@@ -20,6 +20,48 @@
   "artist_names": [
     "TDK"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Machforr",
+      "vote": 1,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-25"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

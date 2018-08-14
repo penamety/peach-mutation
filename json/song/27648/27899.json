@@ -22,6 +22,113 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "aaai",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "matsim",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Chewrafa",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-06-17 15:41:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-17 15:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-17 15:42:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "Gismo",
+      "vote": 4,
+      "when": "2015-08-25"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-08-20"
+    },
+    {
+      "user": "HideawayStudio",
+      "vote": 5,
+      "when": "2017-01-06 21:51:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-01-06 21:52:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2018-01-01 15:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "matsim",

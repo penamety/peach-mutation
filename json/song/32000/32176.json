@@ -25,6 +25,73 @@
   "artist_names": [
     "Pikzel"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-01 20:44:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-09-01 20:44:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-09-01 20:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-01 20:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-01 20:55:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-02-26 05:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

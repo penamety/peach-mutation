@@ -22,6 +22,103 @@
   "artist_names": [
     "Dane"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-01-26 12:46:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-10-15 15:06:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2014-10-15 15:06:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2018-03-28 13:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

@@ -25,6 +25,53 @@
   "artist_names": [
     "Sir Rolf"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-31 10:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-31 10:02:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-25 08:39:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2014-02-25 08:39:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-02-25 08:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-08-17"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2014-08-17"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-08-17"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-10-01"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

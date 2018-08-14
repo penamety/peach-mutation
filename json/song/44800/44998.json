@@ -27,6 +27,28 @@
   "artist_names": [
     "Zac"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-06-08 18:43:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2018-06-08 18:52:00"
+    },
+    {
+      "user": "communicator",
+      "vote": 4,
+      "when": "2018-06-08 18:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-06-08 18:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

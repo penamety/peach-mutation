@@ -26,6 +26,58 @@
   "artist_names": [
     "Toodeloo"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-02-25 07:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-12 16:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-03-12 20:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-02-26"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-04-17 13:04:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2016-02-25 07:55:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2016-03-29 21:34:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-04"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

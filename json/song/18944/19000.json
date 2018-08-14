@@ -20,6 +20,28 @@
   "artist_names": [
     "Hannes Seifert"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-18"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

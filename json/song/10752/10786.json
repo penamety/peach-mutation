@@ -24,6 +24,68 @@
   "artist_names": [
     "Chuck Biscuits"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 1,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-08-31 18:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-31 18:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-04-24 14:21:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-08-22 21:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -25,6 +25,53 @@
   "artist_names": [
     "Lars Hoff"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "RaGE_Newgen",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Machforr",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-15 01:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "Galancy",

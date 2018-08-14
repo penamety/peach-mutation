@@ -19,6 +19,48 @@
   "artist_names": [
     "Piezo"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "ZTube",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "neutron",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-23 15:13:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-08-23 15:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

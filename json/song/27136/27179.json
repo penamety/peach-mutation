@@ -23,6 +23,83 @@
   "artist_names": [
     "Algar"
   ],
+  "votes": [
+    {
+      "user": "cxw",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "kvachu",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-22 18:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-10-05 15:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-17 18:16:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-02-01"
+    },
+    {
+      "user": "Zaius",
+      "vote": 5,
+      "when": "2016-02-01"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "Shinsakuto",
+      "vote": 5,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2017-11-08 08:53:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-11-08 08:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

@@ -20,6 +20,53 @@
   "artist_names": [
     "Scavenger"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-06-02 16:50:00"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-06-02 16:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-28 01:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-28 01:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

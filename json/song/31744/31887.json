@@ -23,6 +23,133 @@
   "artist_names": [
     "Visa Röster"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "shino",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Sonox",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "omilian",
+      "vote": 5,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Sketch",
+      "vote": 4,
+      "when": "2013-06-29 14:04:00"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-06-29 14:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-29 14:05:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2013-11-19 21:45:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-03-29 22:57:00"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2014-03-29 22:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-03-29 22:57:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2014-09-18 17:39:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2015-04-02 12:05:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2015-09-20"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-10-29 07:09:00"
+    },
+    {
+      "user": "H3LL4Sphoros",
+      "vote": 4,
+      "when": "2017-08-25 14:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "LittleWhite",

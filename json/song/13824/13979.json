@@ -19,6 +19,78 @@
   "artist_names": [
     "Alwant"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-09 20:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-09 20:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-30 05:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-11-14 10:08:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2014-11-14 10:09:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2014-11-14 10:09:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2014-11-14 10:11:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2014-11-14 10:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-18 23:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

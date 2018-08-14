@@ -21,6 +21,68 @@
   "artist_names": [
     "Theo"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-25 14:58:00"
+    },
+    {
+      "user": "wizard",
+      "vote": 3,
+      "when": "2013-11-21 23:51:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-03-16 18:32:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-16 18:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

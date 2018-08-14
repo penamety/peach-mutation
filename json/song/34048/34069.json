@@ -24,6 +24,98 @@
   "artist_names": [
     "KoM'AH"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-10 06:51:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-10 06:52:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-10-19 23:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-19 23:29:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-10-19 23:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-12 15:48:00"
+    },
+    {
+      "user": "eefi",
+      "vote": 1,
+      "when": "2015-03-03 16:04:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-03 16:05:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 1,
+      "when": "2015-03-03 16:05:00"
+    },
+    {
+      "user": "Riphur",
+      "vote": 1,
+      "when": "2015-05-24 00:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-02-12 08:11:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-07 14:16:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2018-03-15 19:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

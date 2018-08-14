@@ -25,6 +25,83 @@
   "artist_names": [
     "Dr J"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-12 11:04:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2013-06-12 21:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-06-12 21:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-12 21:00:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-08-21 16:55:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2013-08-21 16:55:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-12-14"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2015-12-14"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2018-01-16 21:00:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2018-01-16 21:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

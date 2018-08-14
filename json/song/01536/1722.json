@@ -21,6 +21,58 @@
   "artist_names": [
     "Distance"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-17 08:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-06-07 00:38:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-02-25 20:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-07-07 09:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

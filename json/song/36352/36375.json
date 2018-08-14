@@ -26,6 +26,93 @@
   "artist_names": [
     "Jerry"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-01 14:49:00"
+    },
+    {
+      "user": "hypercane",
+      "vote": 5,
+      "when": "2013-07-01 14:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-26 17:06:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-05-29 11:25:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-03-16 19:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

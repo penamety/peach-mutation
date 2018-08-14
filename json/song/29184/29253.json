@@ -23,6 +23,53 @@
   "artist_names": [
     "Vincenzo"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-03-20 08:06:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-09-29 00:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

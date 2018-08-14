@@ -22,6 +22,53 @@
   "artist_names": [
     "Melomaniac"
   ],
+  "votes": [
+    {
+      "user": "nataku92",
+      "vote": 1,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-31 10:14:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2013-08-31 10:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-31 11:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

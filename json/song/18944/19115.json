@@ -19,6 +19,53 @@
   "artist_names": [
     "Hein Design"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-08 07:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-04 07:27:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-05-25 08:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

@@ -25,6 +25,73 @@
   "artist_names": [
     "Jade (William)"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "eefi",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "r043v",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-09-03 16:17:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-05 09:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-11-27 14:22:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-11-27 14:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

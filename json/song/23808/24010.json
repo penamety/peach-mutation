@@ -20,6 +20,88 @@
   "artist_names": [
     "Scavenger"
   ],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "crosbow",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-28 01:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-08-28 01:19:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-08-05 21:44:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2015-01-22 18:44:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-12-09 10:56:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-27 18:03:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2018-01-23 10:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "crosbow",

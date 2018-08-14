@@ -21,6 +21,63 @@
   "artist_names": [
     "Bosco"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-24 04:33:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-04-06 08:04:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-11-24 10:47:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-11-24 10:47:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-24 10:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

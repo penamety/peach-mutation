@@ -25,6 +25,93 @@
   "artist_names": [
     "Randall"
   ],
+  "votes": [
+    {
+      "user": "Embryo_The_Second",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-27 04:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-27 04:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-01-29 22:03:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-01-29 22:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-29 22:06:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-04-08 22:40:00"
+    },
+    {
+      "user": "oxx",
+      "vote": 1,
+      "when": "2016-04-08 22:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-10-30 10:42:00"
+    },
+    {
+      "user": "PasiAnssi",
+      "vote": 3,
+      "when": "2018-02-16 00:45:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-04-08 03:19:00"
+    },
+    {
+      "user": "Shui",
+      "vote": 3,
+      "when": "2018-05-29 13:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

@@ -20,5 +20,32 @@
   "artist_names": [
     "Blade Ohlsson"
   ],
+  "votes": [
+    {
+      "user": "MMX",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Swb",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Terrasque",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2010-06-01"
+    }
+  ],
   "requests": []
 }

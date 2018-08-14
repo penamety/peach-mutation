@@ -20,6 +20,53 @@
   "artist_names": [
     "Dreamfish"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "t4s0thcmdr",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2012-12-31"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-12-31"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-18 19:48:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-04-04 20:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-04 20:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

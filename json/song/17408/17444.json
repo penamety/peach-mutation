@@ -20,6 +20,93 @@
   "artist_names": [
     "Dombrovski"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "RoC",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "dang",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-07 03:37:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-07 03:38:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-07 03:39:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-03 21:27:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2013-11-03 21:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-03 21:28:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2014-01-27 07:40:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-12-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-19 14:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

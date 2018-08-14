@@ -24,6 +24,48 @@
   "artist_names": [
     "Nagz"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "essential",
+      "vote": 3,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-06-18"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

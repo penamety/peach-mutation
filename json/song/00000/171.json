@@ -19,6 +19,63 @@
   "artist_names": [
     "Airon"
   ],
+  "votes": [
+    {
+      "user": "Zitrax",
+      "vote": 3,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-07-01 09:18:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-07-01 09:18:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-10-06 11:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-10-06 11:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-11-17 08:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-05 03:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

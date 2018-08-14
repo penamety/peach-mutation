@@ -27,6 +27,53 @@
   "artist_names": [
     "Smartass"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Hasse",
+      "vote": 1,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "jkolb",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-26 03:23:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-01-20 22:37:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-05-18 11:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

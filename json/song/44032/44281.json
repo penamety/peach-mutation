@@ -26,6 +26,53 @@
   "artist_names": [
     "Vedder"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-08-26 23:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-08-29 10:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-09-03 22:49:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-09-10 16:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-09-26 12:21:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 5,
+      "when": "2017-10-13 14:56:00"
+    },
+    {
+      "user": "robert",
+      "vote": 2,
+      "when": "2017-10-13 14:56:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-10-13 14:57:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-12-29 23:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "voy",

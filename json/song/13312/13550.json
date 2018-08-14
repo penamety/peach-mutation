@@ -20,6 +20,78 @@
   "artist_names": [
     "Aaron Doucet"
   ],
+  "votes": [
+    {
+      "user": "Frumple",
+      "vote": 1,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "psyd3r",
+      "vote": 1,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-11 00:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-11 00:45:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-29 01:46:00"
+    },
+    {
+      "user": "Znurre",
+      "vote": 2,
+      "when": "2015-04-21 17:35:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2015-04-21 17:36:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-04-04 14:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2017-05-22 11:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

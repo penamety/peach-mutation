@@ -25,6 +25,53 @@
   "artist_names": [
     "Vim!"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-08-28"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-10-14 12:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-18 15:52:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-18 15:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -27,6 +27,68 @@
     "Dr. Awesome",
     "El Cubo"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-07 03:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-07 03:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-29 22:51:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2014-04-22 02:09:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-21 18:11:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-05-27"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

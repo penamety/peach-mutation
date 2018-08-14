@@ -19,6 +19,48 @@
   "artist_names": [
     "Sonox"
   ],
+  "votes": [
+    {
+      "user": "Genetic_Gemini",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-07 13:04:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 3,
+      "when": "2015-06-24 11:12:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-06-24 11:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

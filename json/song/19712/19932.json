@@ -19,6 +19,48 @@
   "artist_names": [
     "Kalmindo"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "psymleko",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-31 09:06:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-08 13:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-21"
+    }
+  ],
   "requests": [
     {
       "user": "psymleko",

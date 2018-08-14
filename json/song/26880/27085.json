@@ -21,6 +21,73 @@
   "artist_names": [
     "Phoenix [US]"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "scanjam",
+      "vote": 2,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Due",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "MyO",
+      "vote": 2,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-07-04 21:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-07-04 22:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-07-04 22:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-06-03 19:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-07 17:39:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2017-05-13 18:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

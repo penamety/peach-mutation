@@ -19,6 +19,48 @@
   "artist_names": [
     "Delta"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-06-09 01:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -21,6 +21,73 @@
   "artist_names": [
     "Breeze"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-17 14:18:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-02-17 14:18:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-17 14:20:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-05-12 11:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-05-12 11:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-13 20:41:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-08-13 20:43:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-21"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2017-01-25 14:54:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-01-25 14:54:00"
+    },
+    {
+      "user": "EZH",
+      "vote": 2,
+      "when": "2017-01-25 14:55:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-25 14:56:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-05-12 08:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

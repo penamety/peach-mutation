@@ -23,6 +23,58 @@
   "artist_names": [
     "Stargazer"
   ],
+  "votes": [
+    {
+      "user": "qbit",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-13 07:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-02 09:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-10-02 09:53:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-10-02 09:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

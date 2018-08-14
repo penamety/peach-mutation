@@ -20,6 +20,78 @@
   "artist_names": [
     "Mr Young"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "isvenger",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-04 12:58:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-09-26 21:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-26 21:53:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-11-30 15:41:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-11-26"
+    },
+    {
+      "user": "Ishma",
+      "vote": 4,
+      "when": "2015-11-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-11-26"
+    }
+  ],
   "requests": [
     {
       "user": "Twinsun",

@@ -25,6 +25,78 @@
   "artist_names": [
     "Pete"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-01 18:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-06-01 18:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-06-01 18:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-06-01 18:00:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2014-04-02 03:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-25 12:57:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-09-25 12:58:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-09-25 12:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

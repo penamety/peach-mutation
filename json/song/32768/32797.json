@@ -25,6 +25,58 @@
   "artist_names": [
     "Judge Brad"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "SJD",
+      "vote": 2,
+      "when": "2013-06-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-09-10 13:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-10 14:14:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-21 10:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-02-21 10:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "drybrain",

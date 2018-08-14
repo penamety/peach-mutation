@@ -26,6 +26,28 @@
   "artist_names": [
     "Kaiowa"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-10 17:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-03-10 21:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2018-05-11 12:47:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-05-11 12:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

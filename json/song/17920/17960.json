@@ -21,6 +21,78 @@
   "artist_names": [
     "Excellence in Art"
   ],
+  "votes": [
+    {
+      "user": "zinger",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Shrimp",
+      "vote": 5,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-09-08"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-11 00:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-11 01:02:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2014-04-15 03:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-10 23:11:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2015-05-23 07:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "Shrimp",

@@ -23,6 +23,63 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2010-01-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "Zac",
+      "vote": 5,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 5,
+      "when": "2010-11-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-13 09:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-13 09:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-11-14 18:25:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-07-20"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 3,
+      "when": "2017-02-08 22:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-02-08 22:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "rockmonitor",

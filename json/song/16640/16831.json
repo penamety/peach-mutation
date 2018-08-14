@@ -19,6 +19,83 @@
   "artist_names": [
     "Dark Helmet"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "Xeno",
+      "vote": 1,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2014-04-25 14:19:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2014-04-25 14:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-12-19"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2015-12-19"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2017-03-09 04:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

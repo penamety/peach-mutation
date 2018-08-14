@@ -20,6 +20,58 @@
   "artist_names": [
     "TwiTerror"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-22 03:49:00"
+    },
+    {
+      "user": "Melo",
+      "vote": 2,
+      "when": "2014-08-05 20:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-05 20:27:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-04 16:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

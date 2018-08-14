@@ -19,5 +19,87 @@
   "source": "Game",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "cederom",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "isvenger",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "shino",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "BenV",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 5,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "NickyOne",
+      "vote": 5,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "kristian",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "numerus",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Fabzirya",
+      "vote": 4,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Ishma",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "hojou",
+      "vote": 4,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2010-09-03"
+    }
+  ],
   "requests": []
 }

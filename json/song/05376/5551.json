@@ -23,6 +23,53 @@
   "artist_names": [
     "Peter Mörck"
   ],
+  "votes": [
+    {
+      "user": "Zac",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Duke",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-10-15 04:51:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-07-05 23:06:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-01-27 06:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

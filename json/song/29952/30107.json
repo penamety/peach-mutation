@@ -25,6 +25,48 @@
   "artist_names": [
     "Tecon"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "seppjo",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-17 19:53:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-10-17 19:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-20 20:47:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-09 15:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

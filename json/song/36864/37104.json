@@ -25,6 +25,73 @@
   "artist_names": [
     "Guy Shavitt"
   ],
+  "votes": [
+    {
+      "user": "Eshy",
+      "vote": 4,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "na85",
+      "vote": 5,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-06-09 21:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-17 03:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-25 12:10:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-02-25 12:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-09-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-09-30"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

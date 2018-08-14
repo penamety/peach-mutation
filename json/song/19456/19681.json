@@ -19,6 +19,53 @@
   "artist_names": [
     "Jinx"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "neutron",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "r043v",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 2,
+      "when": "2014-09-30 20:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-09-30 20:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -23,6 +23,88 @@
   "artist_names": [
     "Tim Wright"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "baabeli",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "AdvertisePlay",
+      "vote": 5,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-07 22:42:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-07-07 22:43:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-10-21 20:18:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-10-21 20:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-21 20:28:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 3,
+      "when": "2014-02-08 21:38:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-07 15:54:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-07 15:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

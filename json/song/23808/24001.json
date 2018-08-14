@@ -20,6 +20,58 @@
   "artist_names": [
     "Scavenger"
   ],
+  "votes": [
+    {
+      "user": "Smanux",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "SJD",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Arktos",
+      "vote": 4,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-06-26 05:15:00"
+    },
+    {
+      "user": "PhotonStorm",
+      "vote": 4,
+      "when": "2016-04-06 01:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-11-27 02:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

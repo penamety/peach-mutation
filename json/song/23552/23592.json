@@ -23,6 +23,78 @@
   "artist_names": [
     "Rhesus Minus"
   ],
+  "votes": [
+    {
+      "user": "RoC",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-07-24 19:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-24 19:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-01-13 11:56:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-01-19 13:05:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-19 13:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

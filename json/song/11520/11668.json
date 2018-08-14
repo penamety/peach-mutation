@@ -23,6 +23,108 @@
   "artist_names": [
     "Vinnie"
   ],
+  "votes": [
+    {
+      "user": "FishGuy876",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Danger",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "acidline",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "lilelk",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 5,
+      "when": "2013-06-15"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-29 23:32:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-21 00:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-07-07 09:35:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2016-08-23"
+    },
+    {
+      "user": "wig",
+      "vote": 4,
+      "when": "2016-11-04 18:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-11-29 18:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-11-16 01:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

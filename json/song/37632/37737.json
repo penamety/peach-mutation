@@ -23,6 +23,68 @@
   "artist_names": [
     "Everdune"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-31 05:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-31 05:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-09-10 19:21:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-11-11 14:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-06-09 07:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

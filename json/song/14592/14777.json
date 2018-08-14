@@ -19,6 +19,58 @@
   "artist_names": [
     "Ben Daglish"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-09-08 18:10:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-05 08:47:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 2,
+      "when": "2017-02-06 11:50:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-02-06 11:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "unfy",

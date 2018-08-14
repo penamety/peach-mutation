@@ -20,5 +20,77 @@
   "artist_names": [
     "Jess [fr]"
   ],
+  "votes": [
+    {
+      "user": "AlphaC",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Pushpabon",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Zeerios",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Rirsuhacker",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "gasg",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "chips",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "seppjo",
+      "vote": 5,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "dodge",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 1,
+      "when": "2010-06-01"
+    }
+  ],
   "requests": []
 }

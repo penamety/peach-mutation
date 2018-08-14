@@ -22,6 +22,63 @@
   "artist_names": [
     "Malfunction"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-06-11 20:45:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-11 20:45:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-06-11 20:45:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-09-28 01:45:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-04-18 16:32:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-04-18 16:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "Negrostrike",

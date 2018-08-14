@@ -25,6 +25,58 @@
   "artist_names": [
     "BAM"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-03-05 20:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-03-27"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 4,
+      "when": "2017-03-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-10 14:01:00"
+    },
+    {
+      "user": "FF7Cayn",
+      "vote": 1,
+      "when": "2017-06-08 09:01:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-06-08 09:02:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-08-22 11:51:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-11-19 18:35:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-11-19 18:35:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-03-17 14:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

@@ -25,6 +25,78 @@
   "artist_names": [
     "Drax"
   ],
+  "votes": [
+    {
+      "user": "Fireball",
+      "vote": 4,
+      "when": "2015-12-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2015-12-23"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-01-09"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2016-01-09"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2016-02-16 12:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-02-28 13:25:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2016-03-14 12:33:00"
+    },
+    {
+      "user": "kwandtum",
+      "vote": 5,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-01-25 11:45:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2017-01-25 11:45:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2017-03-28 13:33:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 4,
+      "when": "2017-07-11 23:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-07-11 23:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-07-11 23:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

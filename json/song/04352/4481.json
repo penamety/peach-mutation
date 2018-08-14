@@ -24,6 +24,83 @@
   "artist_names": [
     "Mantronix"
   ],
+  "votes": [
+    {
+      "user": "emoon",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "r043v",
+      "vote": 5,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-07-25 14:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-25 14:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-05-27"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-10-08 15:00:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2016-10-08 15:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-10-08 15:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

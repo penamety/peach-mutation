@@ -19,6 +19,63 @@
   "artist_names": [
     "Spectral"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2009-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Scope",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-02-19 07:21:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-10-27 09:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-27 09:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-27 10:08:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-06-11 17:42:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-06-11 17:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

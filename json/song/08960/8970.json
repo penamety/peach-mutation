@@ -28,6 +28,83 @@
   "artist_names": [
     "Ziutek"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "anerte",
+      "vote": 5,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "equinox",
+      "vote": 4,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-20 00:35:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-04-20 07:11:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-03-02 22:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-11-28 03:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

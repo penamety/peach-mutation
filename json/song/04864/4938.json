@@ -19,6 +19,53 @@
   "artist_names": [
     "MOT"
   ],
+  "votes": [
+    {
+      "user": "Mindless",
+      "vote": 1,
+      "when": "2009-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "perfectcode",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "turbine5",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-27 23:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "ZTube",

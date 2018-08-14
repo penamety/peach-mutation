@@ -26,6 +26,53 @@
   "artist_names": [
     "Curt Cool"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-16 15:16:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2017-04-16 15:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-04-16 15:26:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-04-30"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-04-30"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-07-01 21:11:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-07-01 21:13:00"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 2,
+      "when": "2018-02-08 23:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2018-02-08 23:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

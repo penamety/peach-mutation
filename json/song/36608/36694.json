@@ -22,6 +22,78 @@
   "artist_names": [
     "Theo"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-06-11 07:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-11 07:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-08-22 02:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-22 02:26:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-10-09 00:36:00"
+    },
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2016-06-24"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2016-06-24"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2017-07-03 18:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "MyO",

@@ -23,6 +23,43 @@
   "artist_names": [
     "Bunnymajs"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-06-25 09:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-06-22 14:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-06-25 09:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-06-22 14:34:00"
+    },
+    {
+      "user": "exocet",
+      "vote": 2,
+      "when": "2017-08-02 16:25:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2017-06-22 14:34:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-04-16 08:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

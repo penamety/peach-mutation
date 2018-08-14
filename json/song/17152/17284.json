@@ -19,6 +19,53 @@
   "artist_names": [
     "DjLizard"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "tomi",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-04-01 23:06:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2016-02-10"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2016-02-10"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

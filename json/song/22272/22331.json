@@ -19,6 +19,68 @@
   "artist_names": [
     "N-Trance"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "zmurf",
+      "vote": 3,
+      "when": "2014-02-18 10:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-18 10:43:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-08-02"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-20 11:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-04-20 11:23:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-04-20 11:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-04-20 11:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

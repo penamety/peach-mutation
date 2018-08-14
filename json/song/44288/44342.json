@@ -26,6 +26,68 @@
   "artist_names": [
     "Tempest"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-09-15 20:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-09-15 21:14:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-09-15 22:05:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-09-30 08:10:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-10-09 08:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-17 16:52:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 1,
+      "when": "2017-10-17 16:52:00"
+    },
+    {
+      "user": "Masa76",
+      "vote": 1,
+      "when": "2017-12-09 12:04:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-12-09 12:04:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2018-03-27 20:34:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2018-03-27 20:35:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2018-03-27 20:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

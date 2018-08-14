@@ -21,6 +21,113 @@
   "artist_names": [
     "Ciaran"
   ],
+  "votes": [
+    {
+      "user": "Starbreaker",
+      "vote": 5,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "rikbliz",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-06-04"
+    },
+    {
+      "user": "Machforr",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Nicknack",
+      "vote": 5,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "turbine5",
+      "vote": 5,
+      "when": "2013-07-14 17:22:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-11-10 09:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-01-28 12:06:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2014-01-28 12:08:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-01-28 12:09:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2015-08-11"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 4,
+      "when": "2015-08-11"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-05-25 12:54:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-05-25 12:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

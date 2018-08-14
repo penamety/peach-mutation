@@ -19,6 +19,73 @@
   "artist_names": [
     "Brother Mike"
   ],
+  "votes": [
+    {
+      "user": "Moses",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2011-11-09"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-23 00:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2017-05-06 22:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

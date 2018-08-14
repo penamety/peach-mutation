@@ -23,6 +23,53 @@
   "artist_names": [
     "Motion"
   ],
+  "votes": [
+    {
+      "user": "FlyveHest",
+      "vote": 5,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-03 18:21:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-03-19 11:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "FlyveHest",

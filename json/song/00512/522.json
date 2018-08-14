@@ -21,6 +21,78 @@
   "artist_names": [
     "Baggio"
   ],
+  "votes": [
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-30 04:52:00"
+    },
+    {
+      "user": "Blakbanshee",
+      "vote": 5,
+      "when": "2013-12-16 05:25:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-12-16 05:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-12-30 09:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-05-14 01:06:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-06-09 07:16:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-06-09 07:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-10-22 06:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

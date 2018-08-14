@@ -20,6 +20,83 @@
   "artist_names": [
     "Illegal"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "jwl",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "zipf",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Recycler",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "ZTube",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "big_bear",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "drybrain",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Colidace",
+      "vote": 1,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-07-22 04:55:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2017-03-06 10:44:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-03-06 10:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "drybrain",

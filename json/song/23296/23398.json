@@ -23,6 +23,68 @@
   "artist_names": [
     "Jason"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-09 17:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-30 05:06:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-03 09:14:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-04-03 09:14:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-01-22 14:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-07-30"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2015-07-30"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

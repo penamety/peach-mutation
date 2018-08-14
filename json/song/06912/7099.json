@@ -19,6 +19,88 @@
   "artist_names": [
     "PowerTrace"
   ],
+  "votes": [
+    {
+      "user": "arab",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Jimantha",
+      "vote": 1,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Nicknack",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-03-08 22:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-03-08 22:30:00"
+    },
+    {
+      "user": "plc",
+      "vote": 1,
+      "when": "2017-03-02 12:31:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-03-02 12:33:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2018-02-05 20:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -19,5 +19,27 @@
   "artist_names": [
     "Test"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Rirsuhacker",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-09-19 20:00:00"
+    }
+  ],
   "requests": []
 }

@@ -21,6 +21,68 @@
   "artist_names": [
     "M27"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sneh",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-04-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-06-27 04:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-02-09 20:18:00"
+    },
+    {
+      "user": "sarka",
+      "vote": 1,
+      "when": "2015-02-09 20:18:00"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 2,
+      "when": "2017-05-01 13:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-05-01 13:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

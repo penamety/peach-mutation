@@ -20,6 +20,93 @@
   "artist_names": [
     "DJ 3.14"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "deot",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "grimlock",
+      "vote": 1,
+      "when": "2013-07-19 07:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-05 08:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-01-05 09:22:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-23 05:00:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2015-07-13"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2016-05-25"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2016-09-01"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 2,
+      "when": "2018-01-10 02:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

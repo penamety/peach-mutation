@@ -25,6 +25,53 @@
   "artist_names": [
     "SofT MANiAC"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-09-30 20:15:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-09-30 20:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-30 20:15:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-10-13 11:16:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-10-13 11:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-11-14 18:43:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-12-20 09:08:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 3,
+      "when": "2014-12-20 09:10:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-09-30"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

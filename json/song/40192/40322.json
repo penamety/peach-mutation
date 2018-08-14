@@ -25,6 +25,63 @@
   "artist_names": [
     "PRI"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2014-04-06 17:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-14 21:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-04-14 21:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-04-14 21:32:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-29 10:05:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-04-29 10:05:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-06-03 17:50:00"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2014-11-08 14:23:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-27 18:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-04-27 18:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-11-26 14:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

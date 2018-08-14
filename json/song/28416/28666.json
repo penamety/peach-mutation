@@ -21,6 +21,83 @@
   "artist_names": [
     "Darkman007"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Dude_1980",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "numerus",
+      "vote": 2,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-18 14:14:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-07-18 14:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-18 14:15:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-03-17 19:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-07-06 01:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-22 00:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "MyO",

@@ -24,6 +24,73 @@
   "artist_names": [
     "Elijah"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2016-02-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-02-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-02-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-03-30 09:56:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-03-30 09:59:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-03-30 10:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Axel",
+      "vote": 1,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "theshep",
+      "vote": 4,
+      "when": "2016-11-16 18:34:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2016-11-16 18:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2016-11-16 18:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-11-16 18:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -20,6 +20,73 @@
   "artist_names": [
     "Sidewinder"
   ],
+  "votes": [
+    {
+      "user": "Genetic_Gemini",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "dodge",
+      "vote": 1,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-16 01:52:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-03-04 15:48:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-03-04 15:53:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2015-04-14 10:39:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-04-14 10:41:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-05-29 07:57:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2015-05-29 07:58:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-06-01 10:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "G_Signal",

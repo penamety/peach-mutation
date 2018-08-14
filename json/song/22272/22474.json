@@ -23,6 +23,73 @@
   "artist_names": [
     "Outzider"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-01 04:41:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-21 19:13:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-02-21 19:14:00"
+    },
+    {
+      "user": "Rauss",
+      "vote": 2,
+      "when": "2014-02-21 19:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-19 20:18:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2015-06-19 16:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

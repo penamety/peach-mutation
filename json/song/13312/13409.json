@@ -23,6 +23,78 @@
   "artist_names": [
     "Willbe"
   ],
+  "votes": [
+    {
+      "user": "Tomoya",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "aaai",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-01-09"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "kvachu",
+      "vote": 5,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-08 07:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-20 15:57:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-20 15:58:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-10-16 06:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-10-16 06:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

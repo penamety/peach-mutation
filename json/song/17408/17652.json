@@ -19,6 +19,98 @@
   "artist_names": [
     "Dustbin"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "jesper",
+      "vote": 1,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-12 02:42:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-12 02:43:00"
+    },
+    {
+      "user": "korkut",
+      "vote": 1,
+      "when": "2013-06-12 02:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-04 16:27:00"
+    },
+    {
+      "user": "SampL",
+      "vote": 3,
+      "when": "2013-09-04 16:28:00"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2013-09-04 16:28:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-09-04 16:28:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 2,
+      "when": "2013-09-04 16:28:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-09-04 16:29:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 2,
+      "when": "2017-06-23 16:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-06-23 16:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -26,6 +26,63 @@
   "artist_names": [
     "Neil Brennan"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-06-26 18:21:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 5,
+      "when": "2014-11-06 08:23:00"
+    },
+    {
+      "user": "H3LL4Sphoros",
+      "vote": 5,
+      "when": "2017-03-29"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-06-15 21:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-06-26 18:22:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2014-11-06 08:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-15 21:09:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-02 19:42:00"
+    },
+    {
+      "user": "modrobert",
+      "vote": 5,
+      "when": "2015-05-24 08:05:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2014-09-02 23:53:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-11-19 19:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

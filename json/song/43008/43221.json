@@ -26,6 +26,88 @@
   "artist_names": [
     "Linus"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-06-27"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2016-06-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-07-11"
+    },
+    {
+      "user": "Siegfried",
+      "vote": 4,
+      "when": "2016-07-11"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2016-07-20"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2016-08-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-09-10"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-10-11 18:00:00"
+    },
+    {
+      "user": "TIkonOR",
+      "vote": 5,
+      "when": "2016-10-11 18:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-11-25 22:10:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-01-20 12:49:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-03-09 12:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-04-28 20:55:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2017-11-10 07:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-03-03 00:59:00"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 4,
+      "when": "2018-04-13 13:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "silok",

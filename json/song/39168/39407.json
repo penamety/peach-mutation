@@ -25,6 +25,108 @@
   "artist_names": [
     "Cyborg Jeff"
   ],
+  "votes": [
+    {
+      "user": "Grit",
+      "vote": 4,
+      "when": "2013-10-03 22:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-10-03 22:39:00"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-10-03 22:40:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-12-07 20:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-12-07 20:52:00"
+    },
+    {
+      "user": "Gismo",
+      "vote": 4,
+      "when": "2014-01-10 14:54:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-01-10 14:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-10 14:56:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-01-10 14:56:00"
+    },
+    {
+      "user": "robert",
+      "vote": 4,
+      "when": "2014-01-10 14:56:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-01-10 14:58:00"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2014-03-09 17:20:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 4,
+      "when": "2017-04-07 12:34:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-04-07 12:34:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2017-04-07 12:35:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2017-08-29 07:03:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-08-29 07:05:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2018-01-19 13:22:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-06-15 14:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "Grit",

@@ -21,6 +21,73 @@
   "artist_names": [
     "Silize"
   ],
+  "votes": [
+    {
+      "user": "LeadFiner",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Zac",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "BeautyNerd",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-07-22 22:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-22 22:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-22 22:45:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-05-04 13:03:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-19 11:58:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-01-19 12:01:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-04-05 03:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

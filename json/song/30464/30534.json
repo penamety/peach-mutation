@@ -26,6 +26,73 @@
   "artist_names": [
     "The Loop"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-04 22:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-04 22:46:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-07-04 22:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-10-25 03:37:00"
+    },
+    {
+      "user": "EvanR",
+      "vote": 3,
+      "when": "2014-08-23 17:14:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-09-15 09:42:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 4,
+      "when": "2014-09-15 09:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-09-15 10:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

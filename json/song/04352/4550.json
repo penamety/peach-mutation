@@ -20,6 +20,98 @@
   "artist_names": [
     "Marillion"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "mike138",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-14 06:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-09-04 03:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-16 23:06:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-06-08 04:05:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-07-07 17:43:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2017-07-07 17:45:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 2,
+      "when": "2017-07-07 17:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-03-10 13:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

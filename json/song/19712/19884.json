@@ -20,6 +20,58 @@
   "artist_names": [
     "Jumping Jack Flash"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-23 18:50:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-12-19 12:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-12-19 12:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-19 12:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-01-26 13:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

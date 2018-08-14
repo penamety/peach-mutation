@@ -19,6 +19,68 @@
   "artist_names": [
     "Cara"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-08-01 10:07:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-11-17 07:00:00"
+    },
+    {
+      "user": "BBB",
+      "vote": 3,
+      "when": "2016-08-07"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2016-08-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-04-28 20:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-04-28 20:35:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2017-04-28 20:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

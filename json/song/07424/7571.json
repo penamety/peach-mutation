@@ -23,6 +23,68 @@
   "artist_names": [
     "DJ Nick"
   ],
+  "votes": [
+    {
+      "user": "Argolyn",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 2,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-13 06:53:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-10-22 11:18:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-10-22 11:19:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-10-22 11:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-22 11:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-10-22 11:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-22 11:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

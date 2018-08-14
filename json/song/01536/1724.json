@@ -20,6 +20,78 @@
   "artist_names": [
     "Distance"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "jinx",
+      "vote": 2,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-20 07:17:00"
+    },
+    {
+      "user": "Sketch",
+      "vote": 2,
+      "when": "2013-07-20 07:19:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-04-28 09:51:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-04-28 09:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-01 05:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

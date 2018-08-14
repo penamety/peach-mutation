@@ -20,6 +20,53 @@
   "artist_names": [
     "Cytron"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "thebleh",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-25 10:01:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2014-09-06 15:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-06 15:59:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-04-02 15:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

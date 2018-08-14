@@ -26,6 +26,83 @@
   "artist_names": [
     "Chosc"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Billx",
+      "vote": 5,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "armeS",
+      "vote": 2,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "seppjo",
+      "vote": 2,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 4,
+      "when": "2013-11-12 15:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-12 15:56:00"
+    },
+    {
+      "user": "Gracek",
+      "vote": 5,
+      "when": "2014-07-15 23:01:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-08-15"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-08-15"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-06-09 17:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

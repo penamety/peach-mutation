@@ -19,6 +19,83 @@
   "artist_names": [
     "Muffler"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 2,
+      "when": "2012-10-04"
+    },
+    {
+      "user": "cyberant",
+      "vote": 2,
+      "when": "2012-10-04"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2012-10-04"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-10-04"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2012-10-04"
+    },
+    {
+      "user": "mud",
+      "vote": 2,
+      "when": "2012-10-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-05 08:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-01-05 09:17:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2014-07-06 08:50:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-07-06 08:51:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2017-04-24 09:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-04-24 09:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

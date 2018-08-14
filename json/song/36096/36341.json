@@ -24,6 +24,83 @@
   "artist_names": [
     "Corector"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "korkut",
+      "vote": 1,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "yeep",
+      "vote": 1,
+      "when": "2013-09-06 20:33:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 1,
+      "when": "2014-02-21 21:06:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-02-21 21:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-10-29"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-05-20 10:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

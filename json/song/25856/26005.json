@@ -19,6 +19,68 @@
   "artist_names": [
     "Ultrafex"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-10-10"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2013-08-03 16:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-03 16:43:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-10-09 16:22:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-10-09 16:23:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-16 14:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-30 22:40:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2018-03-29 00:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "Ishaan",

@@ -23,5 +23,17 @@
   "artist_names": [
     "Con"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-05-03 20:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-09-16 13:00:00"
+    }
+  ],
   "requests": []
 }

@@ -23,6 +23,53 @@
   "artist_names": [
     "Silize"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-06-24 00:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -25,6 +25,83 @@
   "artist_names": [
     "O2"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-06-22 07:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-06-22 08:43:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2014-08-01 21:48:00"
+    },
+    {
+      "user": "EvanR",
+      "vote": 5,
+      "when": "2014-08-01 21:49:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-08-01 21:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-08-15"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2014-08-15"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-09-18 07:19:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2014-10-29 14:19:00"
+    },
+    {
+      "user": "jesper",
+      "vote": 4,
+      "when": "2014-10-29 14:20:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2015-01-07 09:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-01-07 09:00:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 5,
+      "when": "2017-01-13 00:04:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2017-05-11 22:09:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-05-11 22:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

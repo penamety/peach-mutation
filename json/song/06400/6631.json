@@ -21,6 +21,68 @@
   "artist_names": [
     "Sound Blaist"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2014-02-03 13:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-02-03 13:04:00"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2014-02-03 13:04:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-08 22:16:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2017-03-20"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-25 15:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

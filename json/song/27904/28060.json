@@ -23,6 +23,58 @@
   "artist_names": [
     "Floppi"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2014-12-16 02:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-09-10"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-11-02 16:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

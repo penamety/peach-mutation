@@ -23,6 +23,53 @@
   "artist_names": [
     "raina"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "gauri",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "pwrdwnsys",
+      "vote": 1,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-22 04:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-02-16 18:34:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 2,
+      "when": "2015-02-16 18:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-12-17 10:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

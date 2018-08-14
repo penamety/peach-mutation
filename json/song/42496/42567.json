@@ -25,6 +25,73 @@
   "artist_names": [
     "Space"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "Arne",
+      "vote": 1,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "Machforr",
+      "vote": 1,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "Creonix",
+      "vote": 1,
+      "when": "2016-03-10 23:36:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-03-10 23:38:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-05-21"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-05-21"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2016-11-16 09:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

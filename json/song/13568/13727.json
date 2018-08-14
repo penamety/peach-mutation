@@ -19,6 +19,18 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "velusip",
+      "vote": 2,
+      "when": "2011-05-04"
+    }
+  ],
   "requests": [
     {
       "user": "Ultrasyd",

@@ -20,6 +20,53 @@
   "artist_names": [
     "Chotaire"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ezal",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 4,
+      "when": "2013-06-10 11:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-10 11:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-10 11:45:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-13 06:44:00"
+    },
+    {
+      "user": "velusip",
+      "vote": 3,
+      "when": "2017-01-03 07:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

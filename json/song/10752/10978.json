@@ -22,6 +22,88 @@
   "artist_names": [
     "Oliwerko"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 1,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Sigatrev",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Skofo",
+      "vote": 5,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2014-08-02 15:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-09-17"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2018-04-15 07:55:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 2,
+      "when": "2018-04-15 07:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

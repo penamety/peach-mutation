@@ -23,6 +23,53 @@
   "artist_names": [
     "Jean9"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2016-04-08 19:07:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-04-08 19:09:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-04-08 19:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-04-09 00:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-05-13 04:12:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "The_Tubes",
+      "vote": 5,
+      "when": "2016-08-04"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 2,
+      "when": "2017-01-04 13:35:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2018-06-05 19:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "Creonix",

@@ -19,6 +19,53 @@
   "artist_names": [
     "Smirk"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-05-04 21:20:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2016-03-30 16:33:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-03-30 16:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -25,6 +25,48 @@
   "artist_names": [
     "Kry.exe"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-12-23"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2015-12-23"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-02-03"
+    },
+    {
+      "user": "Creonix",
+      "vote": 2,
+      "when": "2016-04-17 14:11:00"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 3,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2017-01-10 08:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

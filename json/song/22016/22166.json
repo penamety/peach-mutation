@@ -20,6 +20,93 @@
   "artist_names": [
     "Genosha"
   ],
+  "votes": [
+    {
+      "user": "aaai",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "turbine5",
+      "vote": 5,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "velusip",
+      "vote": 2,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-02-15 10:51:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-15 10:53:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-02-15 10:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-10-22"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-10-22"
+    },
+    {
+      "user": "essential",
+      "vote": 3,
+      "when": "2015-10-22"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-15 00:03:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-03-28 13:57:00"
+    },
+    {
+      "user": "vjetrovi",
+      "vote": 5,
+      "when": "2018-06-14 23:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

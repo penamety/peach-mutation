@@ -23,6 +23,53 @@
   "artist_names": [
     "Technix "
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-05 14:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-05 14:33:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2016-07-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-07-04"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

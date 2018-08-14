@@ -23,6 +23,38 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "zerkman",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "lilelk",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-12-21"
+    }
+  ],
   "requests": [
     {
       "user": "pochmurnik",

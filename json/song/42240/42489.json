@@ -26,6 +26,73 @@
   "artist_names": [
     "Advertise Play"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-11-16"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-11-16"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-11-16"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-01-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-01-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2016-01-25"
+    },
+    {
+      "user": "nikamota",
+      "vote": 3,
+      "when": "2016-03-20 04:17:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-03-20 04:21:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2016-11-12 15:36:00"
+    },
+    {
+      "user": "sp4zzz",
+      "vote": 2,
+      "when": "2016-11-12 15:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2016-11-12 15:40:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-11-12 15:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -24,6 +24,83 @@
   "artist_names": [
     "Gore"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-01-07 06:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-01-07 06:46:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-01-16 20:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-01-16 20:04:00"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2015-02-03 13:17:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-02-03 13:18:00"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2015-02-03 13:18:00"
+    },
+    {
+      "user": "sprocket",
+      "vote": 2,
+      "when": "2015-04-08 12:52:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2015-07-02 11:09:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2015-09-10"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2015-11-26"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 2,
+      "when": "2015-11-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2016-04-04 08:44:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-07 16:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-05-05 13:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

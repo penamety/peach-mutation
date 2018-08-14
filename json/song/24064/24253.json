@@ -19,6 +19,33 @@
   "artist_names": [
     "Kendo"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 1,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-07-04"
+    }
+  ],
   "requests": [
     {
       "user": "G_Signal",

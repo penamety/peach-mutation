@@ -24,5 +24,22 @@
   "artist_names": [
     "TDK"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Danger",
+      "vote": 5,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2010-04-03"
+    }
+  ],
   "requests": []
 }

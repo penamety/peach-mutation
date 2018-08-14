@@ -20,6 +20,68 @@
   "artist_names": [
     "E Hicks"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "nurf",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-06-08 00:59:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-10 04:08:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-11-27 13:10:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-12-05 18:46:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2016-12-05 18:46:00"
+    },
+    {
+      "user": "medinuxx",
+      "vote": 1,
+      "when": "2016-12-05 18:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-02-07 22:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

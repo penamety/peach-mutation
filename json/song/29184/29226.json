@@ -25,5 +25,32 @@
   "artist_names": [
     "Virt"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "antipod",
+      "vote": 5,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "caiwan",
+      "vote": 5,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-02-01 18:00:00"
+    }
+  ],
   "requests": []
 }

@@ -23,6 +23,83 @@
   "artist_names": [
     "Dave Rogers"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Colidace",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 5,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-28 01:38:00"
+    },
+    {
+      "user": "Rauss",
+      "vote": 4,
+      "when": "2014-01-09 16:28:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-01-09 16:29:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2014-08-15"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-08-15"
+    },
+    {
+      "user": "Ishma",
+      "vote": 5,
+      "when": "2014-08-15"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-08"
+    }
+  ],
   "requests": [
     {
       "user": "didel_pticelov",

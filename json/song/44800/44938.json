@@ -22,6 +22,33 @@
   "artist_names": [
     "Dusty (US)"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-05-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-26 21:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-05-26 21:02:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2018-05-26 21:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2018-05-26 21:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

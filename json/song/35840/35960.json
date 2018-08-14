@@ -21,6 +21,48 @@
   "artist_names": [
     "Carlos"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Riphur",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-25 18:10:00"
+    },
+    {
+      "user": "mjwise",
+      "vote": 2,
+      "when": "2016-01-03"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -26,6 +26,68 @@
   "artist_names": [
     "Svenzzon"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2014-08-09"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2014-08-09 13:46:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-08-09 13:48:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-08-19 16:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-09-11 14:07:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-09-11 14:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-24 14:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-12-02 00:18:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2014-12-02 00:18:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2014-12-02 00:19:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2014-12-26 13:54:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-08-08"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

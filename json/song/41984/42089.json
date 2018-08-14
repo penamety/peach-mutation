@@ -25,6 +25,23 @@
   "artist_names": [
     "Cyborg Jeff"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-06-09 22:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-06-09 22:02:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2015-06-09 22:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

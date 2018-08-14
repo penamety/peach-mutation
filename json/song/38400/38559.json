@@ -24,6 +24,63 @@
   "artist_names": [
     "Lloyd Rosen"
   ],
+  "votes": [
+    {
+      "user": "Kosmos",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-06-06 11:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-06-06 11:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-06 11:01:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-09-05 11:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-05 11:13:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-11-25 22:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-25 23:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-01-20 07:30:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2015-09-21"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

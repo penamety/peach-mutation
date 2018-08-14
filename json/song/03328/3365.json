@@ -19,6 +19,78 @@
   "artist_names": [
     "Jesper Kyd"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "chellomere",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-10-28 02:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-08-18"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2016-07-04"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-10-16 20:05:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-10-16 20:05:00"
+    },
+    {
+      "user": "shftd_",
+      "vote": 5,
+      "when": "2017-10-16 20:06:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2017-10-16 20:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

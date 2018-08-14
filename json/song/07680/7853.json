@@ -15,5 +15,27 @@
   "last_scraped": "2018-05-22 21:34:50",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-12-29 23:19:00"
+    }
+  ],
   "requests": []
 }

@@ -20,6 +20,128 @@
   "artist_names": [
     "Paniq"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "java311",
+      "vote": 5,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-20 04:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-10-20 00:33:00"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-10-20 00:35:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2013-10-20 00:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-27 00:24:00"
+    },
+    {
+      "user": "AtomicReindeer",
+      "vote": 3,
+      "when": "2014-06-16 03:30:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-08-07 11:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-08-07 11:51:00"
+    },
+    {
+      "user": "seppjo",
+      "vote": 2,
+      "when": "2015-07-06"
+    },
+    {
+      "user": "Perennially",
+      "vote": 5,
+      "when": "2015-11-22"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2016-04-07 05:33:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-04-22 12:51:00"
+    },
+    {
+      "user": "gravisrs",
+      "vote": 1,
+      "when": "2017-09-05 17:55:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-09-05 17:56:00"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2017-10-24 11:08:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-11-14 13:58:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2018-03-01 19:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

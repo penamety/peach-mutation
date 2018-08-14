@@ -23,6 +23,63 @@
   "artist_names": [
     "mu6k"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-07-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-14 16:56:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-10-11 10:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-28 13:24:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-18 15:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "franz_koopa",

@@ -19,6 +19,63 @@
   "artist_names": [
     "No Elder"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "dasepsilon",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "essential",
+      "vote": 1,
+      "when": "2014-07-02 14:52:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-10-12"
+    },
+    {
+      "user": "flash",
+      "vote": 5,
+      "when": "2015-10-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2015-10-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-06-18 11:04:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2017-06-18 11:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

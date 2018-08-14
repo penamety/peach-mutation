@@ -22,6 +22,78 @@
   "artist_names": [
     "Argh!"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 5,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-09-10 13:07:00"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 2,
+      "when": "2013-09-10 13:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-10 13:09:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-09-10 13:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-10 13:56:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-12 23:01:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-01 09:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

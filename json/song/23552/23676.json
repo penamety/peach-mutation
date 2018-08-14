@@ -20,6 +20,68 @@
   "artist_names": [
     "RM"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2013-11-27 21:18:00"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 2,
+      "when": "2013-11-27 21:19:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2013-11-27 21:19:00"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 3,
+      "when": "2014-10-19 15:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

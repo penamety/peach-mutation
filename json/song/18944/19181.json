@@ -19,6 +19,83 @@
   "artist_names": [
     "Honorabili"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "krusty",
+      "vote": 1,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "SJD",
+      "vote": 1,
+      "when": "2013-10-17"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-03-11 07:36:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-03-11 07:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-03-11 07:38:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-06-08 18:35:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2015-06-08 18:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-05-12 23:51:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2018-01-03 13:33:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2018-01-03 13:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

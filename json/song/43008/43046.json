@@ -25,6 +25,58 @@
   "artist_names": [
     "Ale"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-04-03 23:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-04-04 10:02:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-04-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-04-19"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-05-05 21:22:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-09-28"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2016-12-30 23:49:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-04-29 02:22:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2017-04-29 02:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

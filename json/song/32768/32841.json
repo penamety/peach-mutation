@@ -23,6 +23,83 @@
   "artist_names": [
     "Marcer"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-02 18:47:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-02-02 18:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-02-18 21:00:00"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2016-02-18 21:23:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-12-06 07:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

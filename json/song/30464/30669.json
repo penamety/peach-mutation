@@ -25,6 +25,93 @@
   "artist_names": [
     "Mister Beep"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Exelcia95",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "infinigon",
+      "vote": 5,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-12 06:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-02-20 16:32:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-02-20 16:33:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Zabchob",
+      "vote": 4,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-28"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

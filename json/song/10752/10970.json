@@ -25,6 +25,108 @@
   "artist_names": [
     "505"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "korkut",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "zerkman",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "krusty",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-08-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-31 08:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-10-24 23:09:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-12-14 00:52:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 5,
+      "when": "2013-12-14 00:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-12-14 00:54:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-06-26 06:15:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-06-26 06:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-12-25 05:49:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-03-17 15:44:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-29"
+    }
+  ],
   "requests": [
     {
       "user": "jantho",

@@ -20,6 +20,48 @@
   "source": "Musicdisk",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-05-04"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

@@ -24,6 +24,58 @@
   "artist_names": [
     "Case [it]"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-11-18 16:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-18 16:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-13 00:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-11-14 12:00:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-11-14 12:06:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-14 12:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

@@ -25,6 +25,58 @@
   "artist_names": [
     "Jakim"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "Erk",
+      "vote": 4,
+      "when": "2013-12-06 20:07:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2014-02-06 03:44:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-11-15 15:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "Erk",

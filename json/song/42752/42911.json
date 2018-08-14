@@ -26,6 +26,58 @@
   "artist_names": [
     "505"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-03-12 02:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-02-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-09 08:08:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2016-03-12 02:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-02-25 16:24:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-03-28 18:53:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2016-02-26"
+    },
+    {
+      "user": "medinuxx",
+      "vote": 4,
+      "when": "2017-12-07 01:50:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-03-28 18:52:00"
+    },
+    {
+      "user": "trenki",
+      "vote": 3,
+      "when": "2016-02-25 16:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

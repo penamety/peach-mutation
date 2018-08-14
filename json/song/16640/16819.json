@@ -19,6 +19,93 @@
   "artist_names": [
     "Darkhalo"
   ],
+  "votes": [
+    {
+      "user": "HED",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Shrimp",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "deepr",
+      "vote": 5,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "r043v",
+      "vote": 5,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-08-03 10:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-02-05 12:35:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-05 12:37:00"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2014-04-11 05:29:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-11 05:30:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-10-18 12:39:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-10-18 12:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-21 11:04:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-05-03 22:10:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-05-03 22:11:00"
+    },
+    {
+      "user": "Flatline",
+      "vote": 3,
+      "when": "2018-05-19 18:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

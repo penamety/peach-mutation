@@ -20,6 +20,103 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2010-07-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "magipp",
+      "vote": 1,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2012-07-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-24"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-07-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-07-24"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-07-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-01 09:38:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2013-09-01 09:40:00"
+    },
+    {
+      "user": "Zabchob",
+      "vote": 1,
+      "when": "2014-03-21 21:34:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-03-21 21:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-03-18 23:47:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-08-22 22:02:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2017-08-22 22:02:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2018-02-08 09:00:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2018-02-08 10:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

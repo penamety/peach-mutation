@@ -26,6 +26,93 @@
   "artist_names": [
     "Hithansen"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-09-06 09:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-06 09:50:00"
+    },
+    {
+      "user": "deot",
+      "vote": 4,
+      "when": "2013-09-06 09:50:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-06-11 12:46:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-06-11 12:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-24 13:00:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "freem",
+      "vote": 4,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-01-15"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

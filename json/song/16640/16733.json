@@ -19,6 +19,93 @@
   "artist_names": [
     "Dan"
   ],
+  "votes": [
+    {
+      "user": "Dimon3000",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Marlon",
+      "vote": 1,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "WTFcore",
+      "vote": 1,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2012-10-08"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2014-04-06 18:57:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-04-06 18:58:00"
+    },
+    {
+      "user": "etray",
+      "vote": 2,
+      "when": "2014-04-06 18:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2016-05-25"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-10-05 16:53:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-06-16 08:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

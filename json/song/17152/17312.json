@@ -20,6 +20,103 @@
   "artist_names": [
     "DJ Tobi"
   ],
+  "votes": [
+    {
+      "user": "Bonstra",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "velusip",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-03-10"
+    },
+    {
+      "user": "MyO",
+      "vote": 1,
+      "when": "2013-07-12 12:48:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-07-12 12:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-07-12 12:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-07-12 12:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-10 02:57:00"
+    },
+    {
+      "user": "flash",
+      "vote": 2,
+      "when": "2013-11-10 02:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-03-08 21:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-03-08 21:57:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2015-08-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-08-19"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-08-19"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-08-19"
+    },
+    {
+      "user": "antipod",
+      "vote": 1,
+      "when": "2015-08-19"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2016-07-02"
+    }
+  ],
   "requests": [
     {
       "user": "Yaroze",

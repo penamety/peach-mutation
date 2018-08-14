@@ -26,5 +26,22 @@
   "artist_names": [
     "Sputnik Booster"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 5,
+      "when": "2016-12-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2016-12-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-10-22 20:38:00"
+    }
+  ],
   "requests": []
 }

@@ -20,6 +20,83 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "zerkman",
+      "vote": 5,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "grave_digga",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "jesper",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-06-03 19:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-23 21:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-23 18:39:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2013-12-12 13:45:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-16 07:14:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2015-03-12 06:12:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-02-25 07:22:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-08-23 13:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

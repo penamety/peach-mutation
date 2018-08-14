@@ -19,6 +19,53 @@
   "artist_names": [
     "Alexel"
   ],
+  "votes": [
+    {
+      "user": "p2502",
+      "vote": 3,
+      "when": "2010-11-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-11"
+    },
+    {
+      "user": "funnyn8",
+      "vote": 2,
+      "when": "2013-03-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-15 00:33:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 3,
+      "when": "2018-03-16 11:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

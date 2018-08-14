@@ -21,6 +21,73 @@
   "artist_names": [
     "Mellow-D"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "pave64",
+      "vote": 1,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-07-06 19:18:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2013-07-06 19:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-11 01:11:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-06 07:38:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-06-02"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-03 10:27:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-02-21 17:42:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2018-02-21 17:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

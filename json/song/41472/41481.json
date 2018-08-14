@@ -25,6 +25,68 @@
   "artist_names": [
     "Falcon"
   ],
+  "votes": [
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2015-01-07 11:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-07 13:40:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-01-07 13:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-01-12 23:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-01-29 00:43:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-03-02 21:02:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-03-02 21:03:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2015-04-24 20:07:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-04-24 20:10:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-25 18:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-03 17:04:00"
+    },
+    {
+      "user": "HideawayStudio",
+      "vote": 5,
+      "when": "2018-05-04 17:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -25,6 +25,68 @@
   "artist_names": [
     "GTO"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "zerkman",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2013-11-26 11:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-26 11:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-10-20 23:40:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-02"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

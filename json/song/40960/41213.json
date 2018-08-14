@@ -24,6 +24,83 @@
   "artist_names": [
     "Vincent Voois"
   ],
+  "votes": [
+    {
+      "user": "Rapture",
+      "vote": 5,
+      "when": "2014-11-03 03:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-11-03 14:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-11-17 08:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-11-30 11:40:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-11-30 11:41:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-12 21:27:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-02-03 10:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-02-03 10:02:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-03-12 04:56:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-04-06 13:42:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-05-03 11:58:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-08-04 02:57:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-10-06 22:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "epso",

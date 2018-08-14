@@ -23,6 +23,18 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "RoC",
+      "vote": 4,
+      "when": "2011-03-04"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

@@ -24,6 +24,73 @@
   "artist_names": [
     "LPChip"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-31 08:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-10 13:14:00"
+    },
+    {
+      "user": "The_Tubes",
+      "vote": 5,
+      "when": "2014-03-10 13:21:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-04-21 11:06:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-04-21 11:06:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-09-27 19:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

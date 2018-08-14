@@ -25,6 +25,78 @@
   "artist_names": [
     "LoadError"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-09 03:33:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-10-09 03:33:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-12-15 21:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-05-04 22:34:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2017-01-11 12:36:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-11 12:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

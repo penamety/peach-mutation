@@ -19,6 +19,53 @@
   "artist_names": [
     "Nidman"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "r043v",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-03-08"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-25 14:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-25 14:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-07-28 07:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

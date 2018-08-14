@@ -20,6 +20,53 @@
   "artist_names": [
     "Kellersound"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-06-16 17:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-16 17:04:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-06-16 17:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-16 17:06:00"
+    },
+    {
+      "user": "etray",
+      "vote": 3,
+      "when": "2014-05-26 00:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -19,6 +19,78 @@
   "artist_names": [
     "Kalachnikov"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "vacheatuba",
+      "vote": 1,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "utx1379",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "funnyn8",
+      "vote": 1,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-07 23:49:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-02-07 23:52:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-09-24 11:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "korkut",

@@ -19,6 +19,53 @@
   "artist_names": [
     "CONS"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "Kattywampus",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-29 10:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-11 04:48:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-04-01 11:45:00"
+    },
+    {
+      "user": "joes",
+      "vote": 3,
+      "when": "2015-04-01 11:46:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-03-14 09:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

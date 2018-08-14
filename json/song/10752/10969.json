@@ -25,6 +25,88 @@
   "artist_names": [
     "505"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "perfectcode",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "zerkman",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "doggyfred",
+      "vote": 2,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-08-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-31 13:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-31 13:00:00"
+    },
+    {
+      "user": "Downhillracer",
+      "vote": 1,
+      "when": "2013-09-20 05:08:00"
+    },
+    {
+      "user": "clumdon",
+      "vote": 1,
+      "when": "2013-09-20 05:08:00"
+    },
+    {
+      "user": "HiJacker",
+      "vote": 1,
+      "when": "2013-09-20 05:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-20 05:39:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-12-22 05:14:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-02-24 11:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "jantho",

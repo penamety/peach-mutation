@@ -19,6 +19,78 @@
   "artist_names": [
     "Genosha"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-04-01 23:49:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-10-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-10-25"
+    },
+    {
+      "user": "essential",
+      "vote": 3,
+      "when": "2015-10-25"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-18 17:25:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-06-18 17:25:00"
+    },
+    {
+      "user": "velusip",
+      "vote": 3,
+      "when": "2017-10-27 04:03:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-10-27 04:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

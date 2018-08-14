@@ -20,6 +20,68 @@
   "artist_names": [
     "CONS"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-08-27 13:38:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-27 13:38:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-08-27 13:38:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-08-27 13:39:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-11-26 03:21:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-04-05 12:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

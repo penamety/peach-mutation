@@ -26,6 +26,83 @@
   "artist_names": [
     "Balboa"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-11-28 23:40:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-11-28 23:41:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2014-11-23 16:54:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2015-01-05 23:52:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-03-25 10:43:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2015-05-27 14:21:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-02-22 18:17:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-04 15:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

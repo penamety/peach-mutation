@@ -19,6 +19,93 @@
   "artist_names": [
     "Clawz"
   ],
+  "votes": [
+    {
+      "user": "TheNalex",
+      "vote": 1,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-01-06"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Turnips",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2012-11-23"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-11-23"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-11-10 09:46:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-12-11 11:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-04-16 10:22:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 1,
+      "when": "2014-04-16 10:22:00"
+    },
+    {
+      "user": "Fireball",
+      "vote": 1,
+      "when": "2015-10-17"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 1,
+      "when": "2018-03-26 03:14:00"
+    },
+    {
+      "user": "sharps030",
+      "vote": 1,
+      "when": "2018-03-26 03:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

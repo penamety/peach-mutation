@@ -19,6 +19,63 @@
   "artist_names": [
     "Double Trouble"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-26 22:32:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-16 01:49:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-03-22 19:13:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-03-22 19:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

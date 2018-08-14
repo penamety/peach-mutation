@@ -23,6 +23,78 @@
   "artist_names": [
     "Novus"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2012-10-13"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-13"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-10-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-10-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-10-13"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-10-13"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "jakov",
+      "vote": 4,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-25 01:19:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-05-14 04:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

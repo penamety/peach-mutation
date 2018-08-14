@@ -21,6 +21,58 @@
   "artist_names": [
     "Randall"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "cederom",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Sirocco",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-31 09:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-08 15:48:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-04-25 23:18:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-05-23 06:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "cederom",

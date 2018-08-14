@@ -25,6 +25,73 @@
   "artist_names": [
     "Jol005x"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-10 16:25:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2015-09-05"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-01-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-11-23 09:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-11-23 09:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-05 07:43:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-01-19 05:11:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-05-26 21:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

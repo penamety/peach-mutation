@@ -24,6 +24,58 @@
   "artist_names": [
     "David Whittaker"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-19 04:09:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-14 23:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

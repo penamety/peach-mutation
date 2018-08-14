@@ -20,6 +20,63 @@
   "artist_names": [
     "Agemixer"
   ],
+  "votes": [
+    {
+      "user": "HED",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-10 18:41:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-08-10 18:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-26 17:02:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2014-12-24 11:43:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-17 11:29:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-01-17 11:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

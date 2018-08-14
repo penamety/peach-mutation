@@ -24,6 +24,63 @@
   "artist_names": [
     "Twins"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "vacheatuba",
+      "vote": 1,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-26 01:56:00"
+    },
+    {
+      "user": "arab",
+      "vote": 1,
+      "when": "2013-07-26 01:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-26 01:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-06 00:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

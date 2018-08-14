@@ -25,6 +25,48 @@
   "artist_names": [
     "Chris Hülsbeck"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-02-01 16:56:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2015-07-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-05-29"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

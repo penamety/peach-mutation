@@ -21,6 +21,53 @@
     "MED",
     "Red Ribbon"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-04 04:28:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-13 21:17:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-02-13 21:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-05 20:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

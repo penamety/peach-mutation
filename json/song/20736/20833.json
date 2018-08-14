@@ -16,5 +16,17 @@
   "last_scraped": "2018-05-23 04:39:22",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Zac",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-12"
+    }
+  ],
   "requests": []
 }

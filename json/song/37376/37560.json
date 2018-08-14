@@ -22,6 +22,83 @@
   "artist_names": [
     "Impresion"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "eefi",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "tas",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "yeep",
+      "vote": 3,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "Susanna",
+      "vote": 1,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-15 15:00:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2014-06-15 15:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

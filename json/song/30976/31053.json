@@ -25,6 +25,63 @@
   "artist_names": [
     "Nutcase"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-06 21:54:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 2,
+      "when": "2014-09-16 14:20:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-20 21:45:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2015-03-20 21:45:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2015-03-20 21:46:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2017-01-22 08:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

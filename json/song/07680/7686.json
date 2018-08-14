@@ -19,6 +19,73 @@
   "artist_names": [
     "Evig"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-03-22 07:36:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 3,
+      "when": "2016-02-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-02-11"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2017-07-03 18:52:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2017-07-03 18:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-07-03 19:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

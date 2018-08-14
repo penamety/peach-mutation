@@ -22,6 +22,58 @@
   "artist_names": [
     "Martyn"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-08-23"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-09-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-09-23"
+    },
+    {
+      "user": "t3l",
+      "vote": 4,
+      "when": "2015-09-23"
+    },
+    {
+      "user": "Rage",
+      "vote": 1,
+      "when": "2016-10-07"
+    },
+    {
+      "user": "venttiili",
+      "vote": 4,
+      "when": "2016-10-07"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-10 09:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "Spiral",

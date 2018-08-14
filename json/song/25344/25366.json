@@ -19,6 +19,78 @@
   "artist_names": [
     "TDK"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Satto",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-10 23:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-10 23:43:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-09-10 23:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-11 00:43:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-21 09:19:00"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2014-02-21 09:20:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-04-27 18:59:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-04-27 19:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-04-27 19:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

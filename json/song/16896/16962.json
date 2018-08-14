@@ -19,6 +19,63 @@
   "artist_names": [
     "deathy"
   ],
+  "votes": [
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-25 08:42:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-07-25 08:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-06-12 20:06:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-10-14 14:48:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-10-14 14:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

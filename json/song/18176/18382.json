@@ -19,6 +19,58 @@
   "artist_names": [
     "Front 6"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2013-10-14 13:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-14 13:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-11-12"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-11-12"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-02-21 11:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

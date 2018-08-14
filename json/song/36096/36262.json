@@ -20,6 +20,78 @@
   "artist_names": [
     "CSM"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "BrandonWalsh",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "neet",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-11 00:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-11 00:41:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-12-11 00:06:00"
+    },
+    {
+      "user": "JosephCollins",
+      "vote": 4,
+      "when": "2014-04-06 18:27:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-04-06 18:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-04-06 18:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

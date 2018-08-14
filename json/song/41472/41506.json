@@ -26,6 +26,53 @@
   "artist_names": [
     "Optic"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-01-08 23:10:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-09 12:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-01-09 12:47:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-02-09 15:36:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2015-07-20"
+    },
+    {
+      "user": "t3l",
+      "vote": 3,
+      "when": "2015-10-03"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-17"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2016-07-21"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2018-05-18 10:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

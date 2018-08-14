@@ -25,6 +25,93 @@
   "artist_names": [
     "Dune"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-03-10 07:26:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-10 07:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-02-08"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-05-02 21:35:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-05-02 21:36:00"
+    },
+    {
+      "user": "Machforr",
+      "vote": 1,
+      "when": "2016-06-03"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-07-04"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 2,
+      "when": "2016-08-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-09-10"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2016-11-18 19:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

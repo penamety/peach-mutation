@@ -21,6 +21,73 @@
   "artist_names": [
     "CNCD"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2009-01-31"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2010-05-03"
+    },
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2010-05-03"
+    },
+    {
+      "user": "Flatline",
+      "vote": 2,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-15 06:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-11 00:06:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-06-02 11:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-10-27 08:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-17 01:15:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2017-11-17 01:15:00"
+    },
+    {
+      "user": "veeall",
+      "vote": 2,
+      "when": "2018-03-02 21:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

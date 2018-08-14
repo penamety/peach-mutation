@@ -25,6 +25,118 @@
   "artist_names": [
     "Axel"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2008-11-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2011-04-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "matsim",
+      "vote": 5,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-05-31"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2012-05-31"
+    },
+    {
+      "user": "tas",
+      "vote": 5,
+      "when": "2012-05-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-07-10"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-07-10"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-07-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-04 05:52:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-08-08 16:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-10-26 11:46:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-10 01:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-07-02 08:01:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-07-02 08:06:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2016-06-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-06-02"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-08-30 12:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

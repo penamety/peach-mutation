@@ -26,6 +26,48 @@
   "artist_names": [
     "Killer Fish"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-05-14"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "mjwise",
+      "vote": 1,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-08-05 07:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-06 20:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

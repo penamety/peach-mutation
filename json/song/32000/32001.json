@@ -26,6 +26,68 @@
   "artist_names": [
     "Stilgar"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-26 16:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-02-22 21:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-22 22:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-30 22:55:00"
+    },
+    {
+      "user": "Zen86",
+      "vote": 4,
+      "when": "2015-09-27"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2017-12-28 05:29:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-05-29 08:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

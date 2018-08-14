@@ -26,6 +26,88 @@
   "artist_names": [
     "The Judge"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-16 05:06:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2013-12-20 19:37:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2014-03-12 14:50:00"
+    },
+    {
+      "user": "sprocket",
+      "vote": 2,
+      "when": "2014-03-12 14:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-15 10:29:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-22 06:14:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-04-22 06:16:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-29 20:58:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-06-29 20:59:00"
+    },
+    {
+      "user": "pr000m",
+      "vote": 4,
+      "when": "2017-08-24 14:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

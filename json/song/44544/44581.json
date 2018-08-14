@@ -23,6 +23,38 @@
   "artist_names": [
     "WOTW"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2017-12-31 22:09:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-31 23:08:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 4,
+      "when": "2017-12-31 23:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-12-31 23:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-12-31 23:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-06-10 13:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

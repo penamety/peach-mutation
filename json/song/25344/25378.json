@@ -21,6 +21,73 @@
   "artist_names": [
     "TDK"
   ],
+  "votes": [
+    {
+      "user": "Longbow",
+      "vote": 1,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 1,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Melo",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-17 10:39:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-06-17 10:40:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-17 10:40:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-06-17 10:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-08 12:00:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2015-02-26 00:29:00"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 1,
+      "when": "2015-02-26 00:30:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-26 00:39:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-07-05 16:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

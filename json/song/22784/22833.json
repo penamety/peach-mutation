@@ -20,6 +20,63 @@
   "artist_names": [
     "Platon42"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Radar",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-26 12:43:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-06-26 12:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-06-26 12:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-11-14 05:03:00"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 2,
+      "when": "2014-01-22 08:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "anni",

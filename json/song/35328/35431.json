@@ -28,6 +28,113 @@
   "artist_names": [
     "Diablo"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Steel",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "BitArts",
+      "vote": 5,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-06-12 13:50:00"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2013-06-12 13:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-12 13:51:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-11-23 14:49:00"
+    },
+    {
+      "user": "DrFlay",
+      "vote": 4,
+      "when": "2014-02-04 13:18:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 5,
+      "when": "2015-09-12"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-09-12"
+    },
+    {
+      "user": "Zeether",
+      "vote": 4,
+      "when": "2015-09-12"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2015-10-15"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-05-10 19:23:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-08-15"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2017-01-20 14:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "silok",

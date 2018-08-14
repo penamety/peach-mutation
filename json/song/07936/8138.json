@@ -19,6 +19,83 @@
   "artist_names": [
     "Preston"
   ],
+  "votes": [
+    {
+      "user": "AlphaC",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-30 07:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-05-08 23:55:00"
+    },
+    {
+      "user": "AtomicReindeer",
+      "vote": 4,
+      "when": "2014-05-26 05:18:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-06-13 06:40:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-08-19 07:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-03-28 13:04:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-03-28 13:54:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-05-05 23:24:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-05-05 23:26:00"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2017-08-24 19:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "GreenBastad",

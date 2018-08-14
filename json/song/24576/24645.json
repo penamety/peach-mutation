@@ -20,6 +20,68 @@
   "artist_names": [
     "Soney"
   ],
+  "votes": [
+    {
+      "user": "5972",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "julz",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-30 03:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-24 00:45:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-07-11 05:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-06-29 07:04:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-06-29 07:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

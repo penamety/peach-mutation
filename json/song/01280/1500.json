@@ -20,6 +20,78 @@
   "artist_names": [
     "David Whittaker"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "Feuermurmel",
+      "vote": 2,
+      "when": "2010-04-02"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 3,
+      "when": "2010-04-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Skyrunner",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-08-14 04:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-20 09:17:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2014-05-27 09:30:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2014-11-04 13:10:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-25 13:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

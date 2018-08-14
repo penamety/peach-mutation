@@ -20,6 +20,68 @@
   "artist_names": [
     "Melwyn"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-24 16:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-19 15:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-05 06:00:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2015-03-16 16:46:00"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 3,
+      "when": "2015-08-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-02"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-11-02 21:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "atom32k",

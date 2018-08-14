@@ -20,6 +20,73 @@
   "artist_names": [
     "Fazw"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-03-08 22:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-03-08 22:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-05-29 02:05:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-04-20 15:52:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 1,
+      "when": "2018-04-20 15:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -22,6 +22,83 @@
   "artist_names": [
     "DeLorean"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-07-17"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-24 05:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-24 05:53:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-03 13:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-03 13:10:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2014-02-03 13:11:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 3,
+      "when": "2015-01-10 02:53:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-05-04 21:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

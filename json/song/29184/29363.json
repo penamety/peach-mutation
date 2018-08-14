@@ -22,6 +22,63 @@
   "artist_names": [
     "DrumR"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Machforr",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 2,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "grachev",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-18 06:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

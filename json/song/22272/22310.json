@@ -19,6 +19,48 @@
   "artist_names": [
     "Nobuyuki"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2013-03-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-09-25 12:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

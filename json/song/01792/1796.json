@@ -23,6 +23,83 @@
   "artist_names": [
     "Djamm"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2012-11-09"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-11-09"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 5,
+      "when": "2012-11-09"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-11-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-08 16:45:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-08 16:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-07 07:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-11 20:36:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-11 20:37:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2015-01-11 22:59:00"
+    },
+    {
+      "user": "qxdxpx",
+      "vote": 5,
+      "when": "2015-11-22"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-06-19"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

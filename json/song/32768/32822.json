@@ -25,5 +25,12 @@
   "artist_names": [
     "Awesome"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-04-25 22:00:00"
+    }
+  ],
   "requests": []
 }

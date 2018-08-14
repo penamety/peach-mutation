@@ -19,6 +19,93 @@
   "artist_names": [
     "Jörg Rosenstiel"
   ],
+  "votes": [
+    {
+      "user": "BeautyNerd",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "NaN",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "perfectcode",
+      "vote": 2,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-15 03:46:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-07-24 17:25:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 2,
+      "when": "2014-07-24 17:26:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2014-07-24 17:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-07-28"
+    }
+  ],
   "requests": [
     {
       "user": "TinGrill",

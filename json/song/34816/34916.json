@@ -24,6 +24,53 @@
   "artist_names": [
     "Warhawk"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Billx",
+      "vote": 5,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Machforr",
+      "vote": 1,
+      "when": "2016-01-15"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-04-04"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

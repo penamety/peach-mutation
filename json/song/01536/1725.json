@@ -23,6 +23,83 @@
   "artist_names": [
     "Distance"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 4,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "thelastV8",
+      "vote": 4,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-06-05 17:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-06-05 17:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-05 17:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-20 06:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-02-24 00:19:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-04-28 10:02:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-04-28 10:04:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2017-02-09 17:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

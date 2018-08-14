@@ -27,6 +27,53 @@
   "artist_names": [
     "iq (es)"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-03 14:40:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-03 14:40:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-19 16:06:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-09-21 11:39:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-09-21 11:39:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-10-25 12:49:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-10-20 12:18:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-11-11 14:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

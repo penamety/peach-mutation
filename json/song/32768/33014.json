@@ -25,6 +25,83 @@
   "artist_names": [
     "Drax"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-07 05:47:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-07 05:48:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-02-21 17:55:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2014-02-21 17:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-01-20 11:07:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-12-27 16:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

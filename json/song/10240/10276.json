@@ -22,6 +22,73 @@
   "artist_names": [
     "Praiser"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2013-06-13 22:16:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-06-13 22:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-13 22:18:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2016-05-13 10:41:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-05-13 10:41:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2017-04-24 17:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

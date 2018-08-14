@@ -28,6 +28,38 @@
   "artist_names": [
     "AceMan"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2018-01-18 17:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-01-18 17:01:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2018-02-20 08:51:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-03-25 10:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-05-03 11:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-06-06 13:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "arab",

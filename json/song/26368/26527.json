@@ -21,6 +21,73 @@
   "artist_names": [
     "Kjwise"
   ],
+  "votes": [
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-12 03:15:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2014-06-02 14:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-10-31 11:24:00"
+    },
+    {
+      "user": "SpecialDefect",
+      "vote": 3,
+      "when": "2014-10-31 11:24:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-10-31 11:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-10-31 11:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

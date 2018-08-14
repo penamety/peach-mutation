@@ -20,5 +20,27 @@
   "artist_names": [
     "SoDa7"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Oliwerko",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-06-02"
+    }
+  ],
   "requests": []
 }

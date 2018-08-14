@@ -24,6 +24,58 @@
   "artist_names": [
     "LioZ"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-05-02 07:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-02 07:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-05-24 07:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-24 07:49:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-06-04 14:37:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2017-06-04 14:39:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 3,
+      "when": "2017-10-14 16:37:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-10-14 16:39:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-02-09 07:00:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 2,
+      "when": "2018-03-27 20:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

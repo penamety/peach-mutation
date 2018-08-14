@@ -24,6 +24,118 @@
   "artist_names": [
     "Strobo"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "mud",
+      "vote": 5,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2013-07-02 18:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-07-03 00:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-04 18:58:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2013-08-28 15:00:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2013-10-17"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 4,
+      "when": "2013-11-20 05:27:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-04-04 13:35:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-31 10:34:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-09-24 06:29:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2015-06-02 04:12:00"
+    },
+    {
+      "user": "Zabchob",
+      "vote": 3,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "Zeether",
+      "vote": 5,
+      "when": "2015-12-23"
+    },
+    {
+      "user": "rombust",
+      "vote": 4,
+      "when": "2016-09-28"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2017-01-26 14:38:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-03-17"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

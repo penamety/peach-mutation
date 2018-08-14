@@ -23,6 +23,73 @@
   "artist_names": [
     "sLASH"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-07-05 21:46:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-07-05 21:47:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-07-05 21:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-01 02:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-09-01 02:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-01 02:32:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-24 17:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

@@ -27,6 +27,68 @@
   "artist_names": [
     "Rock"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2017-04-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-04-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-04-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-04-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-04-21 19:14:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-07-30 14:22:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-08-17 12:36:00"
+    },
+    {
+      "user": "trenki",
+      "vote": 3,
+      "when": "2017-08-17 12:37:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-11-04 11:57:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 3,
+      "when": "2017-11-04 11:58:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 5,
+      "when": "2018-01-13 23:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

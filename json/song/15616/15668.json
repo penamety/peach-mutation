@@ -21,6 +21,68 @@
   "artist_names": [
     "Chaser"
   ],
+  "votes": [
+    {
+      "user": "Fredu",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Ultrasyd",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-09-13 17:39:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-13 17:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-13 17:40:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-11-11 15:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-04-07 11:03:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-04-07 11:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "sqrmax",

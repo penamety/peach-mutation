@@ -26,6 +26,63 @@
   "artist_names": [
     "Blade"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-12 08:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-07-12 08:53:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2013-09-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-02-20 05:26:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 5,
+      "when": "2014-02-20 05:26:00"
+    },
+    {
+      "user": "bc2001",
+      "vote": 4,
+      "when": "2014-12-20 17:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "wiseman",

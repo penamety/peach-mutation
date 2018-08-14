@@ -25,6 +25,53 @@
   "artist_names": [
     "Vesuri"
   ],
+  "votes": [
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-09-22 18:54:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-09-22 18:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-09-22 19:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-09-25 14:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-09-25 14:04:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 3,
+      "when": "2017-10-23 08:29:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-10-23 08:30:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-15 08:20:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 3,
+      "when": "2018-03-18 18:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

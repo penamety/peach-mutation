@@ -19,6 +19,53 @@
   "artist_names": [
     "Deload"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "r2d2",
+      "vote": 5,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-07-22 08:42:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-22 08:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-03-24 08:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-24 08:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

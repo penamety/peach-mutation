@@ -25,6 +25,78 @@
   "artist_names": [
     "Arios"
   ],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "r043v",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-02 00:56:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-09 09:14:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-05-14 04:40:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-01-11 23:24:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-12-17"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 3,
+      "when": "2017-01-24 15:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-03-09 23:46:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2017-05-29 16:29:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-07-03 05:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "sqrmax",

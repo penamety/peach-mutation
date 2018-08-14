@@ -21,6 +21,113 @@
   "artist_names": [
     "Genosha"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-26 04:13:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2014-01-18 02:25:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-05-21 08:53:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-05-21 08:54:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-05-21 08:54:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 1,
+      "when": "2016-03-17 05:02:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-03-11 19:05:00"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 1,
+      "when": "2017-06-17 15:09:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-07-02 19:19:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-10-27 04:45:00"
+    },
+    {
+      "user": "velusip",
+      "vote": 2,
+      "when": "2017-10-27 04:47:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2018-01-17 10:09:00"
+    },
+    {
+      "user": "Cordwainer",
+      "vote": 5,
+      "when": "2018-02-14 17:22:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-06-10 14:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

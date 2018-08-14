@@ -26,6 +26,63 @@
   "artist_names": [
     "Daverd"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-01 15:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-28 15:45:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-10-28 15:45:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-12-21 12:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "hornpipe2",

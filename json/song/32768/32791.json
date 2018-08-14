@@ -25,6 +25,83 @@
   "artist_names": [
     "Judge Brad"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lewiS",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-26 04:55:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2014-09-09 15:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-09 16:30:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-12-21 15:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-17 22:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "drybrain",

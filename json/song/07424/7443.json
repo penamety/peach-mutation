@@ -19,6 +19,33 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "Danger",
+      "vote": 5,
+      "when": "2009-01-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Jerry",
+      "vote": 2,
+      "when": "2011-12-02"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

@@ -20,6 +20,53 @@
   "artist_names": [
     "Digit"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-19 08:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-05 23:36:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-08"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

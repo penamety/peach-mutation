@@ -24,6 +24,98 @@
   "artist_names": [
     "Hornpipe2"
   ],
+  "votes": [
+    {
+      "user": "Jerry",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2015-10-29"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-05-20 10:31:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2017-05-20 10:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2017-05-20 10:58:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2018-04-12 11:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

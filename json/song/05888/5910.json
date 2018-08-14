@@ -19,6 +19,53 @@
   "artist_names": [
     "Radiance"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-05 02:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-19 12:01:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-04-09 05:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

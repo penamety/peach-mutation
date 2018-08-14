@@ -25,6 +25,48 @@
   "artist_names": [
     "Vedder"
   ],
+  "votes": [
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-07-15 21:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-07-15 21:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-07-15 21:40:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-08-01 23:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-02 23:53:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 5,
+      "when": "2014-09-21 20:31:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2015-01-12 15:46:00"
+    },
+    {
+      "user": "wig",
+      "vote": 3,
+      "when": "2016-06-11"
+    }
+  ],
   "requests": [
     {
       "user": "BrittletheFly",

@@ -26,6 +26,73 @@
   "artist_names": [
     "Saga Musix"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-11-19 12:26:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-11-19 14:19:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-11-19 14:22:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 4,
+      "when": "2014-12-03 22:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-12-03 22:20:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 4,
+      "when": "2014-12-03 22:21:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-18 22:35:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 4,
+      "when": "2014-12-18 22:38:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-03-02 20:09:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-03-02 20:11:00"
+    },
+    {
+      "user": "kratom",
+      "vote": 3,
+      "when": "2015-07-17"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2015-07-17"
+    },
+    {
+      "user": "rombust",
+      "vote": 4,
+      "when": "2016-09-18"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

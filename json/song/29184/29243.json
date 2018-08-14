@@ -27,5 +27,12 @@
   "artist_names": [
     "Frog"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-03"
+    }
+  ],
   "requests": []
 }

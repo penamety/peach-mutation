@@ -23,6 +23,83 @@
   "artist_names": [
     "Infra"
   ],
+  "votes": [
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2011-02-05"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2014-03-03 13:40:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-03-03 13:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-03-30 08:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-09-04"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2015-09-04"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2015-09-04"
+    },
+    {
+      "user": "nyingen",
+      "vote": 2,
+      "when": "2018-04-23 10:47:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-04-23 10:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "Robot2037",

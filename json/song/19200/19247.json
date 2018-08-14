@@ -19,6 +19,68 @@
   "artist_names": [
     "Imagitec Design"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 5,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "SampL",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "SPACE",
+      "vote": 1,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-11-19 16:49:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-05-25"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2017-11-25 23:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

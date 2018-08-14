@@ -24,6 +24,58 @@
   "artist_names": [
     "Lord Performer"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "wiseman",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-12-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-10-10 14:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-10 14:54:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-09-21 18:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-28 21:28:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-10-24 21:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

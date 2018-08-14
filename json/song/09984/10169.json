@@ -25,6 +25,88 @@
   "artist_names": [
     "Fairlight"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Feuermurmel",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "cxw",
+      "vote": 4,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-08-12 07:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-12 07:20:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-05-09 22:22:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-08-10 20:54:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-06-29"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-29"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-29"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-08-09 23:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

@@ -25,6 +25,83 @@
   "artist_names": [
     "Dalezy"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Arktos",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-24 16:32:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-24 16:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-24 16:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-19 19:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-03 16:45:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 2,
+      "when": "2017-12-04 18:55:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-12-04 18:56:00"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 3,
+      "when": "2017-12-04 18:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

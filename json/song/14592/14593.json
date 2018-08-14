@@ -20,6 +20,108 @@
   "artist_names": [
     "Banana"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "ZTube",
+      "vote": 1,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "silok",
+      "vote": 1,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "jakov",
+      "vote": 1,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-12-12 09:46:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-12-12 09:50:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-22 09:16:00"
+    },
+    {
+      "user": "Basch",
+      "vote": 1,
+      "when": "2016-03-18 16:40:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-11-11 05:05:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-11-10 12:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

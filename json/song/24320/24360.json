@@ -20,6 +20,53 @@
   "artist_names": [
     "Silent Mode"
   ],
+  "votes": [
+    {
+      "user": "chellomere",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-04-30 15:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-10-28 12:32:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-11-08 12:24:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-08 12:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

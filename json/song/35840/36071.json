@@ -24,6 +24,63 @@
   "artist_names": [
     "Twilight"
   ],
+  "votes": [
+    {
+      "user": "Latis",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-24 03:17:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-04-12 19:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-12 19:16:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-05-22 01:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

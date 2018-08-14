@@ -22,6 +22,123 @@
   "artist_names": [
     "Tito"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "turbine5",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 5,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "thebleh",
+      "vote": 5,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 2,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-01-25 15:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-25 15:12:00"
+    },
+    {
+      "user": "etray",
+      "vote": 4,
+      "when": "2014-06-30 15:42:00"
+    },
+    {
+      "user": "Hasse",
+      "vote": 1,
+      "when": "2015-01-06 15:21:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-04-28 07:58:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 4,
+      "when": "2016-04-28 08:02:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-01-07 12:48:00"
+    },
+    {
+      "user": "krusty",
+      "vote": 3,
+      "when": "2017-02-26 10:17:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-02-26 10:18:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2018-03-12 10:45:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2018-03-12 10:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

@@ -27,6 +27,53 @@
   "artist_names": [
     "Oxide (ES)"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-11 03:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-13 10:26:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-03-11 13:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-19 19:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

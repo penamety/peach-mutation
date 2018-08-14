@@ -23,6 +23,98 @@
   "artist_names": [
     "Pink"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "shadowzero",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "potomac",
+      "vote": 5,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "armeS",
+      "vote": 4,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-01-15 09:00:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 2,
+      "when": "2014-05-05 19:46:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-05-05 19:47:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-05-05 19:47:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-03-26"
+    }
+  ],
   "requests": [
     {
       "user": "SJD",

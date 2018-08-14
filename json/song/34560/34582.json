@@ -27,6 +27,73 @@
   "artist_names": [
     "Slide"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ajwen",
+      "vote": 4,
+      "when": "2013-10-24 14:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-02-16 16:24:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2017-05-31 13:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

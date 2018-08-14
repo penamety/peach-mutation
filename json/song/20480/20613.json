@@ -20,6 +20,78 @@
   "artist_names": [
     "Lizard [se]"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "BeautyNerd",
+      "vote": 4,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "corewhore",
+      "vote": 5,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-06-21 09:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-03 15:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-22 18:33:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-12 02:14:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-05-25"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-12-12 19:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

@@ -22,6 +22,63 @@
   "artist_names": [
     "Oliwerko"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-06 22:55:00"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2015-10-17"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-10-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-10-17"
+    },
+    {
+      "user": "xTr1m",
+      "vote": 1,
+      "when": "2015-10-17"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2018-01-29 03:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

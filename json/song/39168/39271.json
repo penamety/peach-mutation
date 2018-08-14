@@ -26,6 +26,78 @@
   "artist_names": [
     "Bfox"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-09-03 03:00:00"
+    },
+    {
+      "user": "bender",
+      "vote": 2,
+      "when": "2013-10-11 16:31:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-11-18 12:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-18 12:07:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-18 12:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-09 00:25:00"
+    },
+    {
+      "user": "cxw",
+      "vote": 4,
+      "when": "2014-07-21 16:51:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2015-09-11"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2016-01-30"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-03-06 04:37:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-11-14 20:47:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 4,
+      "when": "2017-11-14 20:47:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-02-26 13:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

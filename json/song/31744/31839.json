@@ -24,6 +24,58 @@
   "artist_names": [
     "Moh"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-09 06:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-09 06:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-09 06:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-03-29 21:00:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2016-07-12"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

@@ -23,6 +23,73 @@
   "artist_names": [
     "Radek Szamrej"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Teo",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-09-04 02:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-04 02:11:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-12-20 20:52:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2016-12-20 20:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -24,6 +24,83 @@
   "artist_names": [
     "Uctumi"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-01-20 07:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-18 20:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-18 20:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-16 14:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-05-05 10:37:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-05-05 10:39:00"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2014-11-09 12:21:00"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 2,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2017-01-26 15:44:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-26 15:46:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-01-26 15:46:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-05-21 11:37:00"
+    },
+    {
+      "user": "Norty",
+      "vote": 2,
+      "when": "2017-05-21 11:39:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-05-21 11:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

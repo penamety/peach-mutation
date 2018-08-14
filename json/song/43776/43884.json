@@ -26,6 +26,68 @@
   "artist_names": [
     "cTrix"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-16 15:08:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 2,
+      "when": "2017-04-16 15:16:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-04-29 16:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-04-29 17:32:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2017-06-01 08:24:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-08-24 11:56:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-08-24 11:56:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-08-24 11:57:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-11-19 21:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-19 21:49:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-03-18 16:06:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2018-03-18 16:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

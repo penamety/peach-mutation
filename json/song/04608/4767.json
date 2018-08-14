@@ -20,6 +20,48 @@
   "artist_names": [
     "Mellow-D"
   ],
+  "votes": [
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-09 00:52:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2015-08-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-19"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

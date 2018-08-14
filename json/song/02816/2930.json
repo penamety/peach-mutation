@@ -20,6 +20,133 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "Daedalus",
+      "vote": 2,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "emoon",
+      "vote": 1,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "BitArts",
+      "vote": 1,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "codehead",
+      "vote": 2,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "tas",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2012-12-31"
+    },
+    {
+      "user": "MWK",
+      "vote": 2,
+      "when": "2012-12-31"
+    },
+    {
+      "user": "Herute",
+      "vote": 4,
+      "when": "2013-02-23"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-16 23:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-16 23:01:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-05-31 21:40:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2015-05-31 21:40:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2015-12-23"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

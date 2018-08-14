@@ -20,6 +20,48 @@
   "artist_names": [
     "Pyrex"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-26 21:04:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-22 12:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-22 12:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

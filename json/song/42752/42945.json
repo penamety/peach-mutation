@@ -23,6 +23,58 @@
   "artist_names": [
     "Elrinth"
   ],
+  "votes": [
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2016-03-08 16:36:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-03-08 16:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-03-08 16:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-03-08 17:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-03-19 22:24:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-05-10 09:17:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-05-10 09:17:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-05-10 09:17:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-08-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2016-08-04"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

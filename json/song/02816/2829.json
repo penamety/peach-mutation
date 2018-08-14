@@ -19,6 +19,53 @@
   "artist_names": [
     "Glitch"
   ],
+  "votes": [
+    {
+      "user": "AnaMark",
+      "vote": 3,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-15 01:34:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-01-18"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2016-01-18"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

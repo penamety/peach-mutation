@@ -28,6 +28,58 @@
   "artist_names": [
     "mborik"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-03-23 23:45:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-24 08:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-24 08:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-06 21:25:00"
+    },
+    {
+      "user": "EZH",
+      "vote": 4,
+      "when": "2014-04-23 14:21:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-04-23 14:21:00"
+    },
+    {
+      "user": "etray",
+      "vote": 4,
+      "when": "2014-06-03 21:51:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2018-04-21 19:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

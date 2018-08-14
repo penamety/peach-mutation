@@ -26,6 +26,88 @@
   "artist_names": [
     "franz_koopa"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2015-02-22 17:25:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-02-22 17:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-22 17:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-02-22 17:55:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2015-02-22 17:55:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-03-10 09:20:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2015-03-10 09:22:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 5,
+      "when": "2015-08-27"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2015-09-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-03-25 21:42:00"
+    },
+    {
+      "user": "Achtwerk",
+      "vote": 1,
+      "when": "2016-03-25 21:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-03-25 21:43:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-04-17 20:23:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 3,
+      "when": "2016-04-17 20:25:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 2,
+      "when": "2016-08-04"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

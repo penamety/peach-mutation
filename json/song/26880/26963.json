@@ -25,5 +25,22 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "hornpipe2",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-03-14"
+    }
+  ],
   "requests": []
 }

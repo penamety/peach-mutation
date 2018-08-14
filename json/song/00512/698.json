@@ -19,6 +19,33 @@
   "artist_names": [
     "Dr. Awesome"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "skall",
+      "vote": 1,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-04 23:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

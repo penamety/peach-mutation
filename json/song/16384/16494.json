@@ -20,6 +20,138 @@
   "artist_names": [
     "Cyborg Jeff"
   ],
+  "votes": [
+    {
+      "user": "Xeno",
+      "vote": 1,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Fabzirya",
+      "vote": 1,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 4,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Sketch",
+      "vote": 1,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "jakov",
+      "vote": 3,
+      "when": "2013-08-08 16:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-18 17:33:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-03-18 17:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-24 22:06:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 3,
+      "when": "2015-04-24 22:06:00"
+    },
+    {
+      "user": "Archmage",
+      "vote": 1,
+      "when": "2015-10-18"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-10-18"
+    },
+    {
+      "user": "essential",
+      "vote": 1,
+      "when": "2015-10-18"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2016-01-18"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 1,
+      "when": "2017-01-06 19:02:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2017-08-20 17:25:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-08-20 17:26:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-11-24 10:47:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-11-24 10:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

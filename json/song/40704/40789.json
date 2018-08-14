@@ -23,6 +23,48 @@
   "artist_names": [
     "Cooth"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-08-11 11:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-08-11 11:58:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-08-11 12:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-09-04 21:44:00"
+    },
+    {
+      "user": "scanjam",
+      "vote": 4,
+      "when": "2014-09-04 21:45:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-09-18 08:20:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-11-21 05:33:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-10-12 11:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

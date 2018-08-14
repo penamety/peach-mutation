@@ -20,6 +20,48 @@
   "artist_names": [
     "Front 6"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-17 19:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

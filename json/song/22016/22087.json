@@ -22,6 +22,113 @@
   "artist_names": [
     "Naruto"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "cxw",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 5,
+      "when": "2011-09-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "motherchip",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Hasse",
+      "vote": 4,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-12 10:02:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-07 01:49:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-10-29 17:56:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2014-10-29 17:56:00"
+    },
+    {
+      "user": "bmn",
+      "vote": 4,
+      "when": "2014-11-23 02:31:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-12-18 05:31:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2017-03-12 23:53:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-05-12 02:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "chellomere",

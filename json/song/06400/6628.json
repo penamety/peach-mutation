@@ -24,6 +24,68 @@
   "artist_names": [
     "Soul"
   ],
+  "votes": [
+    {
+      "user": "BeautyNerd",
+      "vote": 3,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-05-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "ThunderBird",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Neutral",
+      "vote": 4,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-12 01:14:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-12 01:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-22 05:23:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-10-31 00:54:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-03-30 18:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "ThunderBird",

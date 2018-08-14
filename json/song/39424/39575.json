@@ -24,6 +24,53 @@
   "artist_names": [
     "Floppi"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-11-15 22:39:00"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2013-11-17 16:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-17 16:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-17 16:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-20 22:55:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-08-17"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-09-15"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-04-22 09:25:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-02-07 04:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Shinobi",

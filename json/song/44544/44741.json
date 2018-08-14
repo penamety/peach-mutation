@@ -23,6 +23,33 @@
   "artist_names": [
     "DJ Zip "
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-04-10 06:44:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-05-14 09:52:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2018-05-14 09:51:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-03-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-04-09 22:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

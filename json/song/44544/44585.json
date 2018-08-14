@@ -22,6 +22,48 @@
   "artist_names": [
     "Terminal Storm"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-01-01 01:33:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-01-01 11:28:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-01-01 11:28:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-01-01 11:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-01-01 13:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2018-03-01 10:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2018-05-19 23:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2018-05-19 23:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

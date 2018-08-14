@@ -20,6 +20,68 @@
   "artist_names": [
     "Gazus Snake"
   ],
+  "votes": [
+    {
+      "user": "emmalina",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "selmi",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-28 10:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-11-20 07:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

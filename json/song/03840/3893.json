@@ -20,6 +20,48 @@
   "artist_names": [
     "Lackluster"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-10-14 13:34:00"
+    },
+    {
+      "user": "Cyan",
+      "vote": 1,
+      "when": "2015-06-19 21:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-06-19 21:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

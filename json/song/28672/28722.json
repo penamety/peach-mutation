@@ -23,6 +23,73 @@
   "artist_names": [
     "Skope"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Smu",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "yeep",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-28 12:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-30 18:58:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-11-11"
+    },
+    {
+      "user": "exocet",
+      "vote": 3,
+      "when": "2015-11-11"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2017-06-25 17:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-06-25 17:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

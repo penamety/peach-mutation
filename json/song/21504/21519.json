@@ -19,6 +19,73 @@
   "artist_names": [
     "Mempheria"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-06-07 22:31:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-06-07 22:31:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2013-06-07 22:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-06-07 22:32:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-06-07 22:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-11-13 00:31:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-27 13:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

@@ -25,6 +25,63 @@
   "artist_names": [
     "Richard Munns"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "SJD",
+      "vote": 1,
+      "when": "2013-10-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-10-29 23:13:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-10-29 23:15:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-30"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

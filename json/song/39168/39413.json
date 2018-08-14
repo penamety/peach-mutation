@@ -26,6 +26,48 @@
   "artist_names": [
     "Space"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-10-11 21:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-12-22 15:05:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-12-22 15:07:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-03-14 13:03:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2014-03-14 13:03:00"
+    },
+    {
+      "user": "Susanna",
+      "vote": 1,
+      "when": "2014-03-14 13:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-06-09 04:47:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2016-09-11"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

@@ -19,6 +19,53 @@
   "artist_names": [
     "Beacon"
   ],
+  "votes": [
+    {
+      "user": "GeekShadow",
+      "vote": 4,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-31 23:50:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-12-02 06:51:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-05-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-08-02"
+    }
+  ],
   "requests": [
     {
       "user": "iTowah68k",

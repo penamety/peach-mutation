@@ -19,6 +19,53 @@
   "artist_names": [
     "Kellersound"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-06-25 12:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-06-25 12:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-04-12 10:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

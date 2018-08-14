@@ -26,6 +26,58 @@
   "artist_names": [
     "Seablue"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-06-08 17:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-06-09 03:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-06-25 13:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-07-12 20:16:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-08-02 16:46:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-08-25 16:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-11-14 17:40:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2016-05-16 18:52:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-05-16 18:53:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-08-24 10:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

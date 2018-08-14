@@ -19,5 +19,17 @@
   "artist_names": [
     "Alkama"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-04-24 14:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-04-09 21:00:00"
+    }
+  ],
   "requests": []
 }

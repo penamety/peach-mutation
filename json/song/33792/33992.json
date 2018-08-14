@@ -26,6 +26,78 @@
   "artist_names": [
     "Raiden"
   ],
+  "votes": [
+    {
+      "user": "Jakim",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "baton",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-24 18:48:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-07-24 18:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-10-20 13:29:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-10-20 13:31:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-10-20 13:31:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-10-20 13:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

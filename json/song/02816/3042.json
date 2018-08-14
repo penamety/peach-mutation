@@ -21,6 +21,88 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "Nicknack",
+      "vote": 2,
+      "when": "2010-08-01"
+    },
+    {
+      "user": "Axel",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-06-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2013-08-28"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-05-22 13:35:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2014-05-22 13:35:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-05-22 13:47:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-09-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-09-25"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-08-22 21:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

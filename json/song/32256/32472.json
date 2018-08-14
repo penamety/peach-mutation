@@ -21,6 +21,78 @@
   "artist_names": [
     "Laxity [MON]"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "speedsterharry",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Melo",
+      "vote": 4,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-11-10 18:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-10 18:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-10 18:20:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2014-02-10 02:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-09-18"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

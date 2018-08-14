@@ -22,6 +22,88 @@
   "artist_names": [
     "Little Elk"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "G_o_D",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "tas",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-09 06:04:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-04-07 10:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

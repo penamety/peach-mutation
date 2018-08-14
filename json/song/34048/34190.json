@@ -22,6 +22,48 @@
   "artist_names": [
     "Mark Gyro"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-07-01 20:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-01 20:07:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-12-20 21:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

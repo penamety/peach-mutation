@@ -25,6 +25,53 @@
   "artist_names": [
     "Dawn"
   ],
+  "votes": [
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-02 10:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-07-12 20:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-07-12 20:09:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-08-26 11:00:00"
+    },
+    {
+      "user": "beavis77",
+      "vote": 3,
+      "when": "2014-08-26 11:00:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-09-28 18:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-09-28 18:14:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-10-01"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-05-08 16:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

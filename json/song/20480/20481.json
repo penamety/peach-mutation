@@ -19,5 +19,12 @@
   "artist_names": [
     "Jork"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2010-04-04"
+    }
+  ],
   "requests": []
 }

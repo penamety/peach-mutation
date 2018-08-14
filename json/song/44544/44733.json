@@ -23,6 +23,28 @@
     "Beek",
     "Pfister"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-03-19 01:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-03-19 23:07:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-03-20 14:56:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-05-28 14:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

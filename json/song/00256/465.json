@@ -24,6 +24,73 @@
   "artist_names": [
     "Axel"
   ],
+  "votes": [
+    {
+      "user": "deathy",
+      "vote": 3,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-10"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-08-10"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-14 01:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-14 01:12:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-12-23 07:17:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-12-23 07:17:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-02-27 05:50:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-08-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-08-02"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

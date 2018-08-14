@@ -19,6 +19,53 @@
   "artist_names": [
     "Oxbow"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "skall",
+      "vote": 2,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "sLASH",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-01-27 15:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-27 15:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

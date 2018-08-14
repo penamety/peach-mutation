@@ -19,6 +19,43 @@
   "artist_names": [
     "Sonic the hedgehog"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Feuermurmel",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Machforr",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "fosfer",
+      "vote": 4,
+      "when": "2011-05-05"
+    }
+  ],
   "requests": [
     {
       "user": "jellybubble",

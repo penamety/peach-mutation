@@ -19,6 +19,128 @@
   "artist_names": [
     "Paniq"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "kittka",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "q3k",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "seizki",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "kvachu",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "stokescomp",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-16 05:59:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-28 11:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-28 11:23:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-11-28 11:23:00"
+    },
+    {
+      "user": "Cyborg",
+      "vote": 4,
+      "when": "2013-11-28 11:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-08 00:16:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-02-08 00:17:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 5,
+      "when": "2014-04-01 04:00:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-10-06 07:03:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-07-06"
+    },
+    {
+      "user": "epso",
+      "vote": 4,
+      "when": "2016-06-16"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-08-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-01-26 09:13:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 4,
+      "when": "2017-05-31 12:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "Erk",

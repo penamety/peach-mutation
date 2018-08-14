@@ -20,6 +20,83 @@
   "artist_names": [
     "Badsnail"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-07-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-29 00:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-29 00:22:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2017-06-27 14:54:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-10-20 11:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-10-20 11:52:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2017-10-20 11:53:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 1,
+      "when": "2018-04-06 09:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -23,6 +23,83 @@
   "artist_names": [
     "Pixel"
   ],
+  "votes": [
+    {
+      "user": "Onaka",
+      "vote": 5,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "0x7e7e",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "turbine5",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Hasse",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-09-13 00:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-13 00:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-08 00:48:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-03-02 21:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-02 21:16:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-03-02 21:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "eefi",

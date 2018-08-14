@@ -22,6 +22,83 @@
   "artist_names": [
     "Excellence in Art"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "zinger",
+      "vote": 1,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "tyco",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "BitArts",
+      "vote": 2,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-06-16 22:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-16 22:46:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-06-16 22:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-16 22:47:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-04-06 18:39:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2014-04-06 18:40:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2015-04-21 12:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "tyco",

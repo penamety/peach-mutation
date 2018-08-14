@@ -26,6 +26,103 @@
   "artist_names": [
     "lemonade"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Ultrasyd",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "r043v",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-22 03:32:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 4,
+      "when": "2014-02-09 05:41:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-06-22 03:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-06-22 03:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

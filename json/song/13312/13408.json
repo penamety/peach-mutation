@@ -19,5 +19,17 @@
   "artist_names": [
     "1454"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-25 16:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-12-17"
+    }
+  ],
   "requests": []
 }

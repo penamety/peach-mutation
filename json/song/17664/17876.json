@@ -23,6 +23,63 @@
   "artist_names": [
     "Eric Berge"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 2,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-13 15:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-13 15:41:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2015-03-22 19:21:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-24 06:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

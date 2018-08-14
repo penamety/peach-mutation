@@ -20,6 +20,73 @@
   "artist_names": [
     "Oddjob"
   ],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "novel",
+      "vote": 2,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-15 07:31:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-15 07:32:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-02-24 11:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-02-24 11:05:00"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 3,
+      "when": "2015-10-14"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-02-27 14:30:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2017-02-27 14:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

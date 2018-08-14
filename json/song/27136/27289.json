@@ -25,6 +25,63 @@
   "artist_names": [
     "Earth Dweller"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "esher",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-11-16 21:59:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-16 16:29:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2017-01-16 16:30:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2017-01-16 16:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

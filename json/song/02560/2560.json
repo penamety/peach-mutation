@@ -23,6 +23,83 @@
   "artist_names": [
     "Doh"
   ],
+  "votes": [
+    {
+      "user": "qbit",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "premium",
+      "vote": 4,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "Sixx",
+      "vote": 3,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-08-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-10"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-08-10"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-07-23 13:01:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-23 13:02:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-07-23 13:02:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-07-23 13:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-23 13:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-16 20:40:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-11-16 20:42:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2017-01-11 11:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

@@ -19,6 +19,68 @@
   "artist_names": [
     "Codasm"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-23 14:51:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-11-07 08:25:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-07 08:25:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2013-11-07 08:26:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-15 01:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-12-25 19:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "tyco",

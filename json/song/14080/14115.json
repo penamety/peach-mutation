@@ -22,6 +22,58 @@
   "artist_names": [
     "Antichrist"
   ],
+  "votes": [
+    {
+      "user": "robert",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "uridium",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-06-14 00:02:00"
+    },
+    {
+      "user": "Melo",
+      "vote": 2,
+      "when": "2014-12-08 18:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-04-06 18:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Marcer",

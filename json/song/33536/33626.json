@@ -23,6 +23,83 @@
   "artist_names": [
     "Dualtrax"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-12-05"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-12-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-15 08:11:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-15 08:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-22 03:17:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-08 05:08:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-10-04 09:39:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2015-11-28"
+    },
+    {
+      "user": "bmn",
+      "vote": 3,
+      "when": "2017-08-26 01:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-08-26 01:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

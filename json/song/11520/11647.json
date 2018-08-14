@@ -24,5 +24,17 @@
   "artist_names": [
     "Bruno"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2010-04-03"
+    }
+  ],
   "requests": []
 }

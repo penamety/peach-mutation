@@ -23,6 +23,53 @@
   "artist_names": [
     "Revisq"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-18 19:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

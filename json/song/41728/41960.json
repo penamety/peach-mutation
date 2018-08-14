@@ -24,6 +24,58 @@
   "artist_names": [
     "Algar"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-04-18 06:26:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-05-02 10:08:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-05-19 09:08:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2015-05-19 09:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-05-19 09:10:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-06-03 23:05:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 3,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-07-03 18:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

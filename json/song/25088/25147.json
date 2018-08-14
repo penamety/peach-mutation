@@ -23,6 +23,78 @@
   "artist_names": [
     "TAR"
   ],
+  "votes": [
+    {
+      "user": "Moses",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "mu6k",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-10-10"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "jesper",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-09-27 19:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-04-25 20:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-04-25 20:29:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-03 18:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

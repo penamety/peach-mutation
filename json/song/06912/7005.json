@@ -20,6 +20,128 @@
   "artist_names": [
     "Tito"
   ],
+  "votes": [
+    {
+      "user": "keen",
+      "vote": 1,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-12-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-06-11 05:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-11 05:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-31 08:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-25 17:03:00"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 2,
+      "when": "2014-06-21 22:33:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2014-06-21 22:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-04 21:04:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 1,
+      "when": "2014-09-04 21:04:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2014-11-07 20:31:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 4,
+      "when": "2014-11-07 20:31:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-11-07 20:31:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-11-27"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2015-11-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-10-17 12:12:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-10-17 12:12:00"
+    },
+    {
+      "user": "vjetrovi",
+      "vote": 5,
+      "when": "2017-12-29 19:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

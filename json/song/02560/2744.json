@@ -20,6 +20,78 @@
   "artist_names": [
     "FTC"
   ],
+  "votes": [
+    {
+      "user": "BlackDot",
+      "vote": 1,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-09-10 14:52:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-10 14:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-10 14:53:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-09-10 14:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-18 13:06:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-20 10:51:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-20 10:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-01-20 10:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

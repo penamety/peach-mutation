@@ -27,6 +27,53 @@
   "artist_names": [
     "Triace"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-10 08:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-04-07 12:22:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-04-07 12:23:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-04-23 23:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-10 21:52:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-08-15"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-15"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2016-10-24 01:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

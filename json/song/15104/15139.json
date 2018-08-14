@@ -26,6 +26,78 @@
     "Braintumour",
     "Heywood"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-22 03:45:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-10-28 12:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-09-18"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-11-02 23:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-31 15:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

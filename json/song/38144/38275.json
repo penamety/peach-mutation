@@ -25,6 +25,78 @@
   "artist_names": [
     "Acheron"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-04 18:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-06 15:37:00"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2013-09-06 15:37:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2013-09-06 15:38:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-11-28 16:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-01-25 14:17:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-11-16 18:16:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-11-16 18:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "Shinobi",

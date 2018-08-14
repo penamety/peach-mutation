@@ -21,6 +21,63 @@
   "artist_names": [
     "Mordicus"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-09-02 18:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-02 19:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-02 19:17:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-08-02 16:54:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-10-23 15:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -24,6 +24,108 @@
   "artist_names": [
     "Mister Beep"
   ],
+  "votes": [
+    {
+      "user": "EZH",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Locutus",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "johny8",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-01 09:00:00"
+    },
+    {
+      "user": "Sketch",
+      "vote": 2,
+      "when": "2013-06-01 09:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-28 13:46:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 2,
+      "when": "2013-08-28 13:47:00"
+    },
+    {
+      "user": "wiseman",
+      "vote": 2,
+      "when": "2013-08-28 13:47:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 1,
+      "when": "2014-03-12 15:44:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 1,
+      "when": "2014-11-28 10:51:00"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 4,
+      "when": "2014-11-28 10:52:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-11-28 10:53:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "boomer",
+      "vote": 1,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "makako",
+      "vote": 5,
+      "when": "2016-05-27"
+    },
+    {
+      "user": "tubo",
+      "vote": 1,
+      "when": "2018-02-27 01:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "anni",

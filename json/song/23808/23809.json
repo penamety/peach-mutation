@@ -24,6 +24,48 @@
   "artist_names": [
     "Roly"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-07 23:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-02 20:37:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-12-16"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

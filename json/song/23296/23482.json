@@ -23,6 +23,63 @@
   "artist_names": [
     "Reflex"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lilelk",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2013-10-05 20:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-22 15:57:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-10-24 14:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-02 20:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "tyco",

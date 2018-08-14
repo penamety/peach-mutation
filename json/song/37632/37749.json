@@ -21,6 +21,63 @@
   "artist_names": [
     "Stamen"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-12-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-12"
+    },
+    {
+      "user": "funnyn8",
+      "vote": 4,
+      "when": "2013-02-12"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-10-06 00:18:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2013-10-06 00:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-09 14:43:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2018-03-07 19:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

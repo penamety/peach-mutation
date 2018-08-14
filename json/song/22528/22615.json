@@ -21,6 +21,103 @@
   "artist_names": [
     "Payne"
   ],
+  "votes": [
+    {
+      "user": "Longbow",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "cxw",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Cyborg",
+      "vote": 5,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-27 18:23:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-10-08 11:12:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-28 06:06:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2014-03-28 06:07:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-03-28 06:07:00"
+    },
+    {
+      "user": "AtomicReindeer",
+      "vote": 4,
+      "when": "2014-04-14 00:53:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-05-11 14:16:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-04-30 19:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

@@ -25,6 +25,53 @@
   "artist_names": [
     "NecroPolo"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-09-10 13:31:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-09-10 13:58:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 2,
+      "when": "2017-09-10 14:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-09-10 18:22:00"
+    },
+    {
+      "user": "Terwiz",
+      "vote": 4,
+      "when": "2017-09-14 09:10:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-10-02 09:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-02 23:48:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2017-12-25 18:58:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-03-31 12:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

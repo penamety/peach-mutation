@@ -25,6 +25,108 @@
   "artist_names": [
     "Deejay"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "baabeli",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "jass0",
+      "vote": 5,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-13 12:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-06-13 12:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-13 12:12:00"
+    },
+    {
+      "user": "Machforr",
+      "vote": 4,
+      "when": "2013-11-28 00:23:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 4,
+      "when": "2013-11-28 00:24:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2014-11-10 20:36:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-11-10 20:36:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-11-08"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-05-05 16:32:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-10-02"
+    },
+    {
+      "user": "beansmyname",
+      "vote": 4,
+      "when": "2017-04-17 06:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

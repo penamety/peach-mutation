@@ -26,6 +26,28 @@
   "artist_names": [
     "Silok"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-03-30 21:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-05-28 10:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-28 10:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2018-03-30 21:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

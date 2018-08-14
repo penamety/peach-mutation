@@ -21,6 +21,78 @@
   "artist_names": [
     "Jase"
   ],
+  "votes": [
+    {
+      "user": "Thexder",
+      "vote": 4,
+      "when": "2014-08-28 22:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-28 22:02:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2014-08-28 22:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-08-28 22:04:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-08-28 22:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-09-06 23:20:00"
+    },
+    {
+      "user": "parejkoj",
+      "vote": 4,
+      "when": "2014-10-01 05:54:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-11-20 18:34:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 4,
+      "when": "2016-06-28"
+    },
+    {
+      "user": "wig",
+      "vote": 2,
+      "when": "2016-11-03 12:40:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-11-03 12:44:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-02-18 17:03:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-02-18 17:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "BrittletheFly",

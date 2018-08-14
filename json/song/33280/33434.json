@@ -24,6 +24,63 @@
   "artist_names": [
     "Preston"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-24 23:18:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-04-04 12:15:00"
+    },
+    {
+      "user": "Dadu207",
+      "vote": 5,
+      "when": "2014-04-04 12:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-08 08:27:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-24 06:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

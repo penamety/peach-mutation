@@ -26,6 +26,73 @@
   "artist_names": [
     "Corwin"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-19 02:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-19 02:19:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-09-23 17:41:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-20 17:14:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2016-12-20 17:14:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-01-30 20:42:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-01-30 20:42:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-01-30 20:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

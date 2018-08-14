@@ -24,6 +24,73 @@
   "artist_names": [
     "Saga Musix"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "michu",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-28 01:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-28 01:20:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2013-06-28 01:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-21 18:31:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-03-21 18:31:00"
+    },
+    {
+      "user": "joes",
+      "vote": 2,
+      "when": "2014-03-21 18:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

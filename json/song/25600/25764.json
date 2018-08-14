@@ -21,6 +21,53 @@
   "artist_names": [
     "Tonic"
   ],
+  "votes": [
+    {
+      "user": "directive0",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-10-24"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

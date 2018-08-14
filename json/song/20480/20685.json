@@ -20,6 +20,108 @@
   "artist_names": [
     "Loke"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 1,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "altemark",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 1,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "magipp",
+      "vote": 1,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-08-10 01:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-08-10 01:34:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 1,
+      "when": "2013-08-10 01:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-10 01:36:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2013-08-10 01:36:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2014-10-02 18:23:00"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 3,
+      "when": "2014-10-02 18:24:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-05-01 10:57:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2018-04-09 14:59:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 3,
+      "when": "2018-04-09 15:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

@@ -22,6 +22,58 @@
   "artist_names": [
     "Neophyle"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-30 05:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-02 09:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "AnonymousCoward",

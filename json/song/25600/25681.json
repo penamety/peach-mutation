@@ -20,6 +20,58 @@
   "artist_names": [
     "Tim Wright"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Sketch",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2014-02-09 08:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-09 08:41:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2016-02-18 09:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

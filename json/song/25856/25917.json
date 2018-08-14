@@ -19,6 +19,88 @@
   "artist_names": [
     "Turing Machine"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "colonel_mustard",
+      "vote": 1,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Manax",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-06-13 10:18:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-06-13 10:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-13 10:19:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-06-13 10:19:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2013-06-13 10:19:00"
+    },
+    {
+      "user": "Sketch",
+      "vote": 1,
+      "when": "2013-06-13 10:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-03-11 00:07:00"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 2,
+      "when": "2017-09-30 12:55:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-09-30 12:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

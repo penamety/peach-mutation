@@ -26,6 +26,73 @@
   "artist_names": [
     "MmcM"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-08-28 02:41:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-08-28 09:46:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-08-28 09:51:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-08-28 09:52:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-10-06 15:57:00"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-10-06 15:57:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-10-06 15:57:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2013-10-06 15:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-01-09 00:29:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-03-24 11:50:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2014-05-25 11:20:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2017-11-18 07:20:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-12-14 09:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

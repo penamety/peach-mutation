@@ -22,6 +22,68 @@
   "artist_names": [
     "He Man"
   ],
+  "votes": [
+    {
+      "user": "dukzcry",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "matsim",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-10-17 19:39:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2013-10-17 19:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-09 23:56:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-04-09 23:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-09-25"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2015-09-25"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

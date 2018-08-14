@@ -26,6 +26,83 @@
   "artist_names": [
     "Bfox"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-03-20 01:45:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-03-20 09:41:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2014-03-20 09:42:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-29 10:29:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-29 10:29:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-04-29 10:29:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-04-29 10:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-05-20 00:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-06-15 20:38:00"
+    },
+    {
+      "user": "Abrahaz",
+      "vote": 5,
+      "when": "2015-01-09 20:28:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2015-06-30 03:00:00"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2016-04-13 22:43:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2016-04-13 22:43:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-10-13 01:00:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2017-12-23 22:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

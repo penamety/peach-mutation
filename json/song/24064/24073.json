@@ -23,6 +23,58 @@
   "artist_names": [
     "Scorpik"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-31 06:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-10-19 12:30:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2014-10-19 12:30:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-27 17:20:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2017-01-27 17:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

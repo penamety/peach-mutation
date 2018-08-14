@@ -19,6 +19,78 @@
   "artist_names": [
     "Rock"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-08-07 12:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-08 23:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-08 23:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-08-16"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-10-27"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-10-27"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -25,6 +25,83 @@
   "artist_names": [
     "Nuke"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "PrimeAmsterdam",
+      "vote": 4,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2013-06-06 12:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-06 12:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-31 19:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-10-31 19:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-04-16 19:03:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-16 19:04:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 5,
+      "when": "2014-12-19 00:25:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2015-11-05"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

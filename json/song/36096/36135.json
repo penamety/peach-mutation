@@ -23,6 +23,78 @@
   "artist_names": [
     "WOTW"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-07 01:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-07 01:46:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2014-01-12 20:30:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-01-12 20:30:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-01-12 20:31:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-29 11:08:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-22 05:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-06-22 06:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

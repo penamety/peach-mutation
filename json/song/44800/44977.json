@@ -26,6 +26,33 @@
   "artist_names": [
     "Paokala"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2018-05-21 12:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-05-21 12:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-05-22"
+    },
+    {
+      "user": "luminous",
+      "vote": 3,
+      "when": "2018-05-21 12:09:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-05-21 12:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "plc",

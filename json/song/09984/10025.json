@@ -25,6 +25,108 @@
   "artist_names": [
     "David Whittaker"
   ],
+  "votes": [
+    {
+      "user": "vega3",
+      "vote": 1,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "Herute",
+      "vote": 2,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "jakov",
+      "vote": 3,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "svenzzon",
+      "vote": 2,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2013-07-18 17:33:00"
+    },
+    {
+      "user": "Feuermurmel",
+      "vote": 1,
+      "when": "2013-07-18 17:35:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-07-18 17:35:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2015-03-05 18:15:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-03-05 18:15:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 2,
+      "when": "2015-08-22"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-22"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-06-12 13:48:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-06-12 13:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

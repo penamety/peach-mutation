@@ -20,6 +20,53 @@
   "artist_names": [
     "Posdnuos"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-14 02:38:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-02-01 22:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

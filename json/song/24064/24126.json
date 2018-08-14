@@ -19,6 +19,68 @@
   "artist_names": [
     "Seabrush"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "qbit",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-06-30 23:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-30 23:46:00"
+    },
+    {
+      "user": "etray",
+      "vote": 2,
+      "when": "2014-05-29 07:30:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-12-05 16:50:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2014-12-05 16:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-12-05 17:03:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-08-26"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

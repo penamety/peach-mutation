@@ -16,5 +16,22 @@
   "last_scraped": "2018-05-23 06:37:06",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Terrasque",
+      "vote": 2,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "turbine5",
+      "vote": 3,
+      "when": "2010-04-04"
+    }
+  ],
   "requests": []
 }

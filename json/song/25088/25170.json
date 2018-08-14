@@ -22,6 +22,63 @@
   "artist_names": [
     "TAR"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Hasse",
+      "vote": 2,
+      "when": "2013-10-20 13:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-15 10:09:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-05-15 10:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

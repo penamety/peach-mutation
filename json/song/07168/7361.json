@@ -19,6 +19,103 @@
   "artist_names": [
     "Van Der Phunck"
   ],
+  "votes": [
+    {
+      "user": "doh",
+      "vote": 5,
+      "when": "2008-12-02"
+    },
+    {
+      "user": "Xeno",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Demonted",
+      "vote": 1,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "neutron",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "t4s0thcmdr",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-31 06:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-23 06:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-02-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-01-10 06:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "doh",

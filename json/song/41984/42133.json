@@ -23,6 +23,48 @@
   "artist_names": [
     "Alex"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-06-07 23:43:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-06-08 11:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-06-08 11:07:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2015-09-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-11-17"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-09-30"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

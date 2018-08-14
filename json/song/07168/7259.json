@@ -23,6 +23,58 @@
   "artist_names": [
     "Unison (fr)"
   ],
+  "votes": [
+    {
+      "user": "Entropia",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-21 04:09:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-05-07 10:47:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2018-06-07 17:34:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2018-06-07 17:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

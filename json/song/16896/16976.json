@@ -21,6 +21,73 @@
   "artist_names": [
     "Decker"
   ],
+  "votes": [
+    {
+      "user": "atom32k",
+      "vote": 1,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 1,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "liquidstupid",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "tomi",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2013-04-09"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-06-04 03:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-04 03:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2017-06-09 23:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "crrr",

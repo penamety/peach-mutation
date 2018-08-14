@@ -26,6 +26,113 @@
   "artist_names": [
     "Knoeki"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Kattywampus",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "caiwan",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-11-13 11:17:00"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2013-11-13 11:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-12 16:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-12 16:38:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-01-12 16:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-12-26 10:06:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2014-12-26 10:08:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2014-12-26 10:08:00"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 4,
+      "when": "2015-06-14 23:04:00"
+    },
+    {
+      "user": "Erk",
+      "vote": 3,
+      "when": "2015-06-14 23:05:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-02-20 13:35:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-02-20 13:36:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-02-20 13:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

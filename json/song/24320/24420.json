@@ -16,5 +16,32 @@
   "last_scraped": "2018-05-23 11:30:05",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Daedalus",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Chapelier",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Riphur",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Steve86",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2010-03-05"
+    }
+  ],
   "requests": []
 }

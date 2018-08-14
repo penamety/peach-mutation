@@ -24,6 +24,28 @@
   "artist_names": [
     "T.o.B"
   ],
+  "votes": [
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "Rage",
+      "vote": 1,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2016-06-04"
+    }
+  ],
   "requests": [
     {
       "user": "franz_koopa",

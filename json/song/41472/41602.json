@@ -23,6 +23,53 @@
   "artist_names": [
     "Wacek"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-02-06 10:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-02-06 10:49:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-02-06 12:12:00"
+    },
+    {
+      "user": "dfast",
+      "vote": 3,
+      "when": "2015-02-06 12:12:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-02-21 18:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-14 03:18:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2015-09-16"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2015-09-16"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-09-16"
+    }
+  ],
   "requests": [
     {
       "user": "prowler",

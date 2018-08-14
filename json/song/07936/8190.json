@@ -20,6 +20,63 @@
   "artist_names": [
     "Rizoma"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-07-08 10:45:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-01-24 09:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-01-24 09:10:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2016-01-28"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-07-02 14:48:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2018-02-01 05:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

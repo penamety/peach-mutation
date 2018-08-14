@@ -19,6 +19,118 @@
   "artist_names": [
     "Kurtz"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Venty",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "moechofe",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Darkseed",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-28 04:56:00"
+    },
+    {
+      "user": "LTyrosine",
+      "vote": 5,
+      "when": "2015-12-28"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2016-07-25"
+    },
+    {
+      "user": "Erk",
+      "vote": 3,
+      "when": "2017-02-28 21:41:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-04-25 13:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

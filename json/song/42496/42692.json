@@ -26,6 +26,78 @@
   "artist_names": [
     "Yzi"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-01-02"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2016-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-01-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-01-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-09-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2016-10-29 12:55:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-10-27 06:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-12-24 19:05:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-12-24 19:05:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-12-24 19:05:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 4,
+      "when": "2018-04-20 20:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

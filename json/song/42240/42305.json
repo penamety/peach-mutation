@@ -23,6 +23,78 @@
   "artist_names": [
     "Martyn"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "codehead",
+      "vote": 3,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-08-23"
+    },
+    {
+      "user": "Ishma",
+      "vote": 3,
+      "when": "2015-10-09"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-10-09"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2015-10-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2017-03-14 09:07:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-04-14 12:59:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-04-14 13:00:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 1,
+      "when": "2018-06-02 13:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "Fireball",

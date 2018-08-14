@@ -20,6 +20,48 @@
   "artist_names": [
     "Airworx"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "thorntonpete",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-12 10:48:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-10-21 17:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-10-21 17:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

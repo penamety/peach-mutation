@@ -25,6 +25,33 @@
   "artist_names": [
     "xtrium"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-04-01 21:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-04-01 21:34:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2018-04-01 21:37:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2018-04-04 14:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-04-01 21:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

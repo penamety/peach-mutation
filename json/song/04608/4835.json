@@ -19,6 +19,68 @@
   "artist_names": [
     "Mezcal"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-06-24 01:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-24 02:35:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-12-05"
+    },
+    {
+      "user": "Vampire",
+      "vote": 4,
+      "when": "2016-04-20 11:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

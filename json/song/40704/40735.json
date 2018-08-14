@@ -26,6 +26,68 @@
   "artist_names": [
     "Factor6"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-08-04 08:03:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-08-04 11:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-08-04 11:58:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2014-08-04 11:59:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-08-04 12:02:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-08-17"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-08-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-09-24 08:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-11-06 14:42:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-10 22:12:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 3,
+      "when": "2017-03-31"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 5,
+      "when": "2017-09-12 03:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

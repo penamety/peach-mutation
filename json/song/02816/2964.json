@@ -23,6 +23,58 @@
     "Heatbeat",
     "Prime Premium"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-02-06 01:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-24 18:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-03-27 07:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

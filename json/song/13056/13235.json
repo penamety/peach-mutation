@@ -24,6 +24,88 @@
   "artist_names": [
     "rockmonitor"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Ultrasyd",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "bitl",
+      "vote": 3,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "AnaMark",
+      "vote": 1,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2013-10-08 22:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-10-08 22:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-08 22:15:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-10-08 22:17:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-20 14:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

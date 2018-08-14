@@ -21,6 +21,48 @@
   "artist_names": [
     "Xeron"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-08-11 09:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-19 22:29:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-08-26"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

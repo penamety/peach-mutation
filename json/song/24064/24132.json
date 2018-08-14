@@ -19,6 +19,68 @@
   "artist_names": [
     "Sebuko"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "qbit",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-22 05:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-14 21:21:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2014-12-05 12:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-12-05 13:18:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-07-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-07-03"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

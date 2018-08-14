@@ -26,6 +26,78 @@
   "artist_names": [
     "Stein Pedersen"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Teo",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-18 19:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-18 19:46:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2013-06-18 19:47:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-25 19:36:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-03-25 19:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-25 19:37:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-03-25 19:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-10-04"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

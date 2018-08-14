@@ -19,6 +19,58 @@
   "artist_names": [
     "Greg [PL]"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "svenzzon",
+      "vote": 1,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-31 16:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-08-02 09:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-10-04"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

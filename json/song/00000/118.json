@@ -20,6 +20,48 @@
   "artist_names": [
     "911"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-30 06:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-05-31"
+    }
+  ],
   "requests": [
     {
       "user": "dv",

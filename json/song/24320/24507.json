@@ -19,6 +19,53 @@
   "artist_names": [
     "Slash [ru]"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-10-10"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-09-23 11:33:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-09-23 11:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-07 20:37:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2017-08-13 04:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "hornpipe2",

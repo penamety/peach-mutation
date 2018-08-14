@@ -19,6 +19,58 @@
   "artist_names": [
     "Strobeau"
   ],
+  "votes": [
+    {
+      "user": "Nicknack",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "magipp",
+      "vote": 1,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "SJD",
+      "vote": 2,
+      "when": "2013-06-02"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-04-10 21:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

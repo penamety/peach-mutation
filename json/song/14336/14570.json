@@ -19,6 +19,68 @@
   "artist_names": [
     "Baka Sai"
   ],
+  "votes": [
+    {
+      "user": "Flatline",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-09-09 19:17:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-09-09 19:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-09 19:20:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-12-16 06:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-03-15 22:18:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2017-09-30 16:38:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-09-30 16:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

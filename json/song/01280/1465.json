@@ -19,6 +19,58 @@
   "artist_names": [
     "Danalog"
   ],
+  "votes": [
+    {
+      "user": "Bonstra",
+      "vote": 2,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-24"
+    },
+    {
+      "user": "flash",
+      "vote": 3,
+      "when": "2012-06-24"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-07-22 15:04:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-07-22 15:06:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-05-19"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-01-24 20:33:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-01-24 20:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

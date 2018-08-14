@@ -26,5 +26,47 @@
   "artist_names": [
     "serpent"
   ],
+  "votes": [
+    {
+      "user": "Jeminami",
+      "vote": 1,
+      "when": "2015-08-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2014-01-25 23:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2014-01-25 23:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2016-06-15"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-05-27"
+    },
+    {
+      "user": "etray",
+      "vote": 5,
+      "when": "2014-05-25 23:00:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2014-12-13 18:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2014-01-25 23:00:00"
+    }
+  ],
   "requests": []
 }

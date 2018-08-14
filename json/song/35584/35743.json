@@ -24,6 +24,78 @@
   "artist_names": [
     "Banana"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "thelastV8",
+      "vote": 5,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-04-15 19:29:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-04-15 19:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

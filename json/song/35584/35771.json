@@ -24,6 +24,33 @@
   "artist_names": [
     "Patrick Nevian"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cyborg",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ZTube",
+      "vote": 1,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-01-02"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

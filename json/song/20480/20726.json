@@ -19,6 +19,53 @@
   "artist_names": [
     "Losch Midland"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-10 10:00:00"
+    },
+    {
+      "user": "essential",
+      "vote": 3,
+      "when": "2015-10-21"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-10-21"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-18 18:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

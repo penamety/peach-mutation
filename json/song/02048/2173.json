@@ -19,6 +19,78 @@
   "artist_names": [
     "Dune"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2008-11-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 1,
+      "when": "2011-01-31"
+    },
+    {
+      "user": "Machforr",
+      "vote": 1,
+      "when": "2011-01-31"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2011-01-31"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-01-31"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2013-09-13 11:23:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-09-13 11:23:00"
+    },
+    {
+      "user": "spekki",
+      "vote": 1,
+      "when": "2013-09-13 11:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-13 11:26:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-03-12 07:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-03-12 07:02:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-12 01:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2017-07-10 22:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "franz_koopa",

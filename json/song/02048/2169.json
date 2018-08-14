@@ -20,5 +20,22 @@
   "artist_names": [
     "Dune"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-06 09:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-07-08 23:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-06-30 02:00:00"
+    }
+  ],
   "requests": []
 }

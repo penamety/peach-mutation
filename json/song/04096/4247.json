@@ -22,6 +22,63 @@
   "artist_names": [
     "Louszy"
   ],
+  "votes": [
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "kwokkie",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-01 02:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-01 02:10:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-07-30 19:42:00"
+    },
+    {
+      "user": "flash",
+      "vote": 2,
+      "when": "2014-07-30 19:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

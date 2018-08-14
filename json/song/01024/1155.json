@@ -24,6 +24,93 @@
   "artist_names": [
     "Chrylian"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "zerkman",
+      "vote": 4,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-11 02:28:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-11 09:27:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-11-11 09:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-11 09:32:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-03-19 20:14:00"
+    },
+    {
+      "user": "PhotonStorm",
+      "vote": 1,
+      "when": "2016-01-28"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-01-28"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-01-28"
+    }
+  ],
   "requests": [
     {
       "user": "SJD",

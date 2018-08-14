@@ -23,6 +23,113 @@
   "artist_names": [
     "Romeo Knight"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "SampL",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "r043v",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "sneh",
+      "vote": 4,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-06-11 13:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-11 13:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-11 13:37:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-06-11 13:38:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-06-11 13:42:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2013-08-14 12:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-14 12:14:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 3,
+      "when": "2013-12-19 02:35:00"
+    },
+    {
+      "user": "mainhoon",
+      "vote": 5,
+      "when": "2013-12-19 02:36:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2014-01-21"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-11"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-04-12 17:22:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-05-26 12:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

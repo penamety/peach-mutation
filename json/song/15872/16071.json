@@ -19,6 +19,48 @@
   "artist_names": [
     "Colonel Korn"
   ],
+  "votes": [
+    {
+      "user": "Frumple",
+      "vote": 1,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "H0lySh1t",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "MyO",
+      "vote": 1,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2016-08-21"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

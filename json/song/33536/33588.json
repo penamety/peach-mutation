@@ -27,6 +27,113 @@
   "artist_names": [
     "Phobium"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-11 10:54:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2013-06-11 10:56:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-06-11 10:57:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2013-12-14 10:44:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-02-17 18:21:00"
+    },
+    {
+      "user": "Erk",
+      "vote": 5,
+      "when": "2014-02-17 18:21:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2014-02-17 18:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-17 18:23:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 5,
+      "when": "2014-04-10 14:32:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2014-04-10 14:34:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-05-02 21:51:00"
+    },
+    {
+      "user": "drobangelo",
+      "vote": 4,
+      "when": "2015-05-02 21:55:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-02-11"
+    },
+    {
+      "user": "atom32k",
+      "vote": 4,
+      "when": "2017-04-15 11:17:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-03-20 14:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

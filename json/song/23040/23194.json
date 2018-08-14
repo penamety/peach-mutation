@@ -19,6 +19,78 @@
   "artist_names": [
     "Raiden"
   ],
+  "votes": [
+    {
+      "user": "AvAxx",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-06 18:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-06 18:49:00"
+    },
+    {
+      "user": "bledking",
+      "vote": 4,
+      "when": "2014-02-18 16:53:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-12-03 10:47:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-12-03 10:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-12-03 10:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

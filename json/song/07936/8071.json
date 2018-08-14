@@ -20,6 +20,68 @@
   "artist_names": [
     "Nintendude"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Hasse",
+      "vote": 5,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-07-30 04:52:00"
+    },
+    {
+      "user": "Melo",
+      "vote": 2,
+      "when": "2013-07-30 04:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-30 04:58:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2018-02-23 21:59:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2018-02-23 21:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-02-23 22:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

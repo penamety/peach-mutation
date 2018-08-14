@@ -27,6 +27,53 @@
   "artist_names": [
     "Wasp"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-06-02 23:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-12 06:13:00"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 3,
+      "when": "2015-03-08 12:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

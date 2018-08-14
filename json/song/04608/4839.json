@@ -23,6 +23,73 @@
   "artist_names": [
     "Michael"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-01 21:47:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-16 20:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

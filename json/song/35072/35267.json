@@ -22,6 +22,58 @@
   "artist_names": [
     "Eau"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "liquidstupid",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-11 03:45:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-06-11 03:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -23,6 +23,78 @@
   "artist_names": [
     "Virt"
   ],
+  "votes": [
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2016-04-11 18:36:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-04-11 18:36:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-04-22 12:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-04-22 12:14:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 5,
+      "when": "2016-05-07 21:41:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-05-07 21:42:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2016-05-07 21:42:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-05-21"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-11-06 00:11:00"
+    },
+    {
+      "user": "MrsBeanbag",
+      "vote": 5,
+      "when": "2016-11-06 00:12:00"
+    },
+    {
+      "user": "wig",
+      "vote": 4,
+      "when": "2016-11-06 00:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-02-10 19:23:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 5,
+      "when": "2018-01-14 00:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Triton",

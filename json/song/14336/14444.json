@@ -19,6 +19,58 @@
   "artist_names": [
     "Bacter"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "lilelk",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-23 23:02:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-14 07:57:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-10-21 08:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

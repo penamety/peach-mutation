@@ -24,6 +24,48 @@
   "artist_names": [
     "PaleDeth"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-18 19:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-18 19:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-06 13:51:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-03 15:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

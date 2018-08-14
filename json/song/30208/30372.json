@@ -26,6 +26,53 @@
   "artist_names": [
     "Corwin"
   ],
+  "votes": [
+    {
+      "user": "SoDa7",
+      "vote": 3,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "liquidstupid",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-10-21 05:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

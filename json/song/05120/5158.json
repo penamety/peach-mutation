@@ -19,6 +19,73 @@
   "artist_names": [
     "Nagz"
   ],
+  "votes": [
+    {
+      "user": "elfan",
+      "vote": 4,
+      "when": "2008-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "micksam7",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "perfectcode",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-20 05:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-21 13:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-05 22:34:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-09 22:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "zati",

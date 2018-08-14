@@ -21,6 +21,108 @@
   "artist_names": [
     "Quasian"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "HED",
+      "vote": 5,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Shriggar",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Darkseed",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-19 21:40:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-03-17 12:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-04-05 16:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

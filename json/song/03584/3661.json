@@ -21,6 +21,63 @@
     "Kaktus",
     "Mahoney"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-12-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-02-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-24 17:49:00"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-08-24 17:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-24 17:52:00"
+    },
+    {
+      "user": "LoveMetal",
+      "vote": 3,
+      "when": "2013-12-01 21:01:00"
+    },
+    {
+      "user": "selmi",
+      "vote": 1,
+      "when": "2013-12-01 21:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-21 23:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

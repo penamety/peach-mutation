@@ -23,6 +23,78 @@
   "artist_names": [
     "Iceman"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Lizard",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "doggyfred",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-07-04"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-01 10:58:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-04-01 10:58:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-04-01 11:00:00"
+    },
+    {
+      "user": "joes",
+      "vote": 3,
+      "when": "2015-04-01 11:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

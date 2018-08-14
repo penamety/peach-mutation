@@ -20,6 +20,73 @@
   "artist_names": [
     "Fndr"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-01-19 12:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-11-01 14:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2015-01-05 12:04:00"
+    },
+    {
+      "user": "Infovorr",
+      "vote": 1,
+      "when": "2016-01-04"
+    }
+  ],
   "requests": [
     {
       "user": "AnonymousCoward",

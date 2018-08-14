@@ -19,6 +19,58 @@
   "artist_names": [
     "Joy"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-19 01:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-15 13:52:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-04-15 13:54:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-06-02 09:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

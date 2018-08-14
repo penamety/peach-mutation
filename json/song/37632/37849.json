@@ -25,6 +25,63 @@
   "artist_names": [
     "cp"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-23 13:18:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2014-05-23 13:20:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-05-23 13:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-05-23 13:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

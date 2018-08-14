@@ -28,6 +28,63 @@
   "artist_names": [
     "DJ Bass"
   ],
+  "votes": [
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2015-05-22 20:38:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-05-30 11:50:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2015-06-01 17:53:00"
+    },
+    {
+      "user": "thelawnmoverman",
+      "vote": 3,
+      "when": "2015-06-01 17:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-06-01 17:54:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-06-01 17:54:00"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-04-02 16:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

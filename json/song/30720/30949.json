@@ -25,6 +25,73 @@
   "artist_names": [
     "Salkinitzor"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "na85",
+      "vote": 5,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "zensonic",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "sinatra",
+      "vote": 4,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-06-27 21:51:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-02-02 20:29:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2015-02-02 20:30:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-05-20 01:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

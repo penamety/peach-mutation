@@ -22,6 +22,68 @@
   "artist_names": [
     "Jakim"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Skofo",
+      "vote": 5,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-09-02 12:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-02 12:59:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2014-01-31 07:19:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2016-05-24"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2016-05-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-05-24"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

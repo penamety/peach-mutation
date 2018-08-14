@@ -19,6 +19,58 @@
   "artist_names": [
     "Alkama"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 3,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "flash",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-30 07:35:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-04-24 20:41:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-04-24 20:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

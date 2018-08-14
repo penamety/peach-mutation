@@ -20,6 +20,93 @@
   "artist_names": [
     "Gem Two"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "jakov",
+      "vote": 5,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "xerion567",
+      "vote": 1,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-10-27"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2016-03-04 15:36:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2016-03-04 15:36:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2016-03-04 15:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-07-10 06:51:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2017-07-10 06:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

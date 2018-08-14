@@ -27,6 +27,88 @@
   "artist_names": [
     "Amigo"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "Rage",
+      "vote": 4,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-11-23"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-11-23"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-11-23"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-11-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-11-23"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2015-11-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-13 09:29:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-11-13 09:30:00"
+    },
+    {
+      "user": "sp4zzz",
+      "vote": 4,
+      "when": "2016-11-13 09:31:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2018-01-18 16:36:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-04-07 15:55:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-06-09 16:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

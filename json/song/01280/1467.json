@@ -19,6 +19,48 @@
   "artist_names": [
     "Danalog"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-08-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-08-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-05-10 23:34:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-05-10 23:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-05-10 23:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

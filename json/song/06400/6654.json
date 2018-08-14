@@ -20,6 +20,103 @@
   "artist_names": [
     "Spock"
   ],
+  "votes": [
+    {
+      "user": "deathy",
+      "vote": 2,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "funnyn8",
+      "vote": 1,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2013-07-29 17:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-29 17:08:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-07-29 17:08:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-07-29 17:10:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-20 21:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-02-20 21:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-10-04 20:07:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-10-04 20:08:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-02 17:49:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-03-02 17:54:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-11-06"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-11-06"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-11-06"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

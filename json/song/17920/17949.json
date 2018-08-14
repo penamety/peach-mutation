@@ -20,6 +20,73 @@
   "artist_names": [
     "Evil"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-06 09:19:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2014-02-06 09:20:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2018-03-08 18:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

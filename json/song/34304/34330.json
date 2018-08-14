@@ -24,6 +24,53 @@
   "artist_names": [
     "Zeerios"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-27"
+    },
+    {
+      "user": "selmi",
+      "vote": 1,
+      "when": "2013-05-27"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 3,
+      "when": "2013-11-12 18:06:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-15 23:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

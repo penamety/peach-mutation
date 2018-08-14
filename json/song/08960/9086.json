@@ -24,6 +24,73 @@
   "artist_names": [
     "Mark Cooksey"
   ],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "big_bear",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "SageBF",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "jolic",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-19 20:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-19 20:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-14 23:31:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-01-18 19:56:00"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 4,
+      "when": "2015-04-16 21:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-16 21:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "seppjo",

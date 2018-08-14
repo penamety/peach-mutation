@@ -19,6 +19,53 @@
   "artist_names": [
     "Bubrak"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Gismo",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "t3l",
+      "vote": 3,
+      "when": "2015-06-07 17:26:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-10 14:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-12-14 00:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

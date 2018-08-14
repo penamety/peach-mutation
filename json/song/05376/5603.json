@@ -19,6 +19,68 @@
   "artist_names": [
     "Pink"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-18 17:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-18 17:11:00"
+    },
+    {
+      "user": "DexterAYS",
+      "vote": 5,
+      "when": "2014-02-05 11:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-05 11:35:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-02-05 11:36:00"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 5,
+      "when": "2014-10-18 00:31:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-10-18 00:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "mucophagy",

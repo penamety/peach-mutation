@@ -24,6 +24,58 @@
   "artist_names": [
     "Timer"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "el_infame",
+      "vote": 4,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2016-09-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-10-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-10-24 15:32:00"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2016-10-24 15:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-04-11 08:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

@@ -25,6 +25,48 @@
   "artist_names": [
     "d vibe"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-12-05 19:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-12-05 21:20:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-12-05 21:20:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-23 12:42:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-12-23 12:42:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2018-01-30 22:24:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 2,
+      "when": "2018-01-30 22:25:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2018-05-21 13:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

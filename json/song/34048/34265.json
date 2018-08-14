@@ -25,6 +25,53 @@
   "artist_names": [
     "Kanonmat"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-03-20 14:46:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-10-13"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2016-07-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-16 01:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Zeerios",

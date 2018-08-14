@@ -19,6 +19,48 @@
   "artist_names": [
     "Brouil"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-18 09:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

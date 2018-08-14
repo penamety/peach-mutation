@@ -20,5 +20,12 @@
   "artist_names": [
     "Mario"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-16 22:00:00"
+    }
+  ],
   "requests": []
 }

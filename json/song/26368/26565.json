@@ -24,6 +24,63 @@
   "artist_names": [
     "Laín Coubert"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "sprk120",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "zerkman",
+      "vote": 1,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-31 03:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-31 03:19:00"
+    },
+    {
+      "user": "bmn",
+      "vote": 4,
+      "when": "2014-12-06 00:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "Noir04",

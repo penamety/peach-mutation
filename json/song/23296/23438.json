@@ -19,5 +19,12 @@
   "artist_names": [
     "Reed"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-02 22:00:00"
+    }
+  ],
   "requests": []
 }

@@ -19,6 +19,73 @@
   "artist_names": [
     "Klf"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "vvvvvv",
+      "vote": 2,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-10 17:06:00"
+    },
+    {
+      "user": "Chapelier",
+      "vote": 4,
+      "when": "2013-08-10 17:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-08 23:24:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-12-08 23:24:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-12-08 23:26:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-08-04 04:50:00"
+    },
+    {
+      "user": "zeograd",
+      "vote": 4,
+      "when": "2017-09-19 23:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-06-11 08:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

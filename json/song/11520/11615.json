@@ -21,6 +21,138 @@
   "artist_names": [
     "Little Bitchard"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Zac",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "cederom",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "perfectcode",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Kerus",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "motorola",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "seppjo",
+      "vote": 2,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Korguiq",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "turbine5",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "gauri",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "spekki",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-30 01:22:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-29 14:30:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-09-17 19:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-17 20:09:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-10-31 13:04:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-03-16 10:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

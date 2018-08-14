@@ -23,6 +23,53 @@
   "artist_names": [
     "Jerry"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "rams",
+      "vote": 4,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-11-27 12:35:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-27 12:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-03-23 20:33:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2017-02-14 15:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

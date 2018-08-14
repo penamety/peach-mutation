@@ -23,6 +23,88 @@
   "artist_names": [
     "Fab"
   ],
+  "votes": [
+    {
+      "user": "Rirsuhacker",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Lundager",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "asbjornu",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "mortengh",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-29 03:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-29 03:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-02-23 16:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-23 16:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

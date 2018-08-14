@@ -23,6 +23,103 @@
   "artist_names": [
     "Theo"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-06 01:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-03 20:32:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-04-03 20:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-11-13 03:47:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-03-02 15:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

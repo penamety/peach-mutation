@@ -21,6 +21,98 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "hojou",
+      "vote": 4,
+      "when": "2010-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2011-01-31"
+    },
+    {
+      "user": "sLASH",
+      "vote": 4,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-10"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-08-10"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2012-11-23"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-11 01:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-11 01:48:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2013-08-11 01:48:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2013-08-28 11:00:00"
+    },
+    {
+      "user": "mjwise",
+      "vote": 2,
+      "when": "2013-12-15 04:35:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-02-14 10:27:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-14 10:27:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-10-25"
+    }
+  ],
   "requests": [
     {
       "user": "sLASH",

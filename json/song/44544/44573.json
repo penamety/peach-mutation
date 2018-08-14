@@ -22,6 +22,38 @@
   "artist_names": [
     "Vogue"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2017-12-31 05:19:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-31 21:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-12-31 21:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-12-31 22:10:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2018-02-06 12:56:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-02-06 12:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

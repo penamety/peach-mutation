@@ -25,6 +25,158 @@
   "artist_names": [
     "Walkman"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "guru64",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "SampL",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "baabeli",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "doggyfred",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 3,
+      "when": "2013-06-10 02:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-08-10 05:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-10 05:56:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-11-16 19:55:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-01-14 07:23:00"
+    },
+    {
+      "user": "U4iaF8",
+      "vote": 5,
+      "when": "2016-01-25"
+    },
+    {
+      "user": "Accidental",
+      "vote": 5,
+      "when": "2016-09-21"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-05-04 09:46:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-06-13 14:03:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2018-02-23 03:00:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 5,
+      "when": "2018-02-23 03:01:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 3,
+      "when": "2018-04-29 14:09:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-04-29 14:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

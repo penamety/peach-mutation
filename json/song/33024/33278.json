@@ -25,6 +25,83 @@
   "artist_names": [
     "CeDeROM"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Ishma",
+      "vote": 1,
+      "when": "2013-09-10 16:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-09-10 16:22:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-09-10 16:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-10 16:23:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-02-22 16:24:00"
+    },
+    {
+      "user": "trenki",
+      "vote": 2,
+      "when": "2016-04-30 23:38:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2016-04-30 23:39:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2016-04-30 23:39:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 2,
+      "when": "2016-04-30 23:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "rams",

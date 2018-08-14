@@ -24,6 +24,78 @@
   "artist_names": [
     "BeWu"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-06-21 19:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2017-06-21 19:53:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-06-21 19:53:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 4,
+      "when": "2017-06-21 19:53:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-06-21 19:54:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-06-21 19:54:00"
+    },
+    {
+      "user": "voy",
+      "vote": 5,
+      "when": "2017-06-21 19:54:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-07-09 15:13:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2017-07-09 15:13:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 5,
+      "when": "2017-07-16 20:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-07-16 20:57:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2017-08-18 12:38:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2017-08-18 12:40:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-09-27 07:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

@@ -20,6 +20,73 @@
   "artist_names": [
     "Fash"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-07-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-07 18:15:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-04 03:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-27 09:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-02-27 09:02:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-06-13 06:45:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2018-03-12 11:45:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-05-02 10:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -26,6 +26,98 @@
   "artist_names": [
     "Corwin"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Latis",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "liquidstupid",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-14 17:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-05 09:57:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2015-03-03 15:35:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-03-03 15:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2017-05-16 18:34:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2018-05-23 19:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

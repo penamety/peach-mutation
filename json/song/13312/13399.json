@@ -20,6 +20,103 @@
   "artist_names": [
     "Willbe"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "StanZ",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "infinigon",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-28 07:30:00"
+    },
+    {
+      "user": "Cyborg",
+      "vote": 4,
+      "when": "2013-10-16 23:00:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2013-10-18"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2014-06-23 11:04:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-06-23 11:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-23 11:08:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-06-23 11:09:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-06-23 11:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-09-26 21:29:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2015-01-14 07:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-01-14 07:46:00"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 5,
+      "when": "2017-01-21 08:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

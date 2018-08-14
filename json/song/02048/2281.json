@@ -20,6 +20,98 @@
   "artist_names": [
     "Ec Rider"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "peach",
+      "vote": 1,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-01-23"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-06-07 12:22:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-01 16:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-08-07 10:47:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-10-12 16:57:00"
+    },
+    {
+      "user": "silok",
+      "vote": 1,
+      "when": "2015-02-22 09:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-09-25"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2017-01-02 18:37:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-01-02 18:37:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 3,
+      "when": "2018-02-12 04:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2018-03-24 22:49:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2018-03-24 22:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

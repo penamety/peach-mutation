@@ -19,6 +19,73 @@
   "artist_names": [
     "Jobe"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "darkh",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2013-08-27 12:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-27 12:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-08-27 12:52:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-08-27 12:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "Scope",

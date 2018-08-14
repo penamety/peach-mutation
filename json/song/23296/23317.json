@@ -20,6 +20,53 @@
   "artist_names": [
     "Ranger Rick"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-01-02 12:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-02 12:28:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-01-02 12:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-09 21:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

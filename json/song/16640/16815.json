@@ -22,6 +22,58 @@
   "artist_names": [
     "Dark Angel"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-06-23 09:22:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-23 09:25:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-23 09:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-28 05:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

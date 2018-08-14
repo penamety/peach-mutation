@@ -24,6 +24,83 @@
   "artist_names": [
     "505"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "oryx",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-06-12 00:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-09 04:32:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-12-05 12:39:00"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 5,
+      "when": "2013-12-05 12:39:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-05 12:39:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-02-13 14:13:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-12-15 05:21:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-01-06 14:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "crosbow",

@@ -21,6 +21,128 @@
   "artist_names": [
     "Falcon"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Bachelor",
+      "vote": 5,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2010-01-01"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-05"
+    },
+    {
+      "user": "juky",
+      "vote": 5,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "clumdon",
+      "vote": 5,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-10"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-10"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-06-10"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-08-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-29 01:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-29 01:00:00"
+    },
+    {
+      "user": "error_spirit",
+      "vote": 3,
+      "when": "2013-05-29 01:00:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-07-04 13:46:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-11-20 11:36:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-28 23:56:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-02-15 18:43:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 2,
+      "when": "2017-09-27 09:06:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-11-15 18:12:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-05-09 11:34:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2018-05-09 11:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "juky",

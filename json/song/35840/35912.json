@@ -26,6 +26,23 @@
   "artist_names": [
     "Elrinth"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "lzs",
+      "vote": 4,
+      "when": "2012-06-01"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

@@ -21,6 +21,83 @@
   "artist_names": [
     "General Fuzz"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Rage",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "xerion567",
+      "vote": 2,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-09-08 13:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-08 13:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-08 14:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-03-12 08:54:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-03-12 08:54:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-12 08:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

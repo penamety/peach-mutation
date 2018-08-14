@@ -20,6 +20,63 @@
   "artist_names": [
     "Brainbug"
   ],
+  "votes": [
+    {
+      "user": "G_o_D",
+      "vote": 4,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-25 02:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-25 02:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-25 02:09:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-24 08:11:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2015-11-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-11-24"
+    }
+  ],
   "requests": [
     {
       "user": "Tuxality",

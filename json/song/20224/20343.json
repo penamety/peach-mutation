@@ -19,6 +19,53 @@
   "artist_names": [
     "Kurtz"
   ],
+  "votes": [
+    {
+      "user": "doggyfred",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-17 23:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-07-26 07:17:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-04-11 14:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

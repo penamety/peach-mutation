@@ -19,6 +19,68 @@
   "artist_names": [
     "Roberts"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-05 15:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-05 15:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-05 15:13:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-02-17 06:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-08 21:53:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-04 19:04:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-05-04 19:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

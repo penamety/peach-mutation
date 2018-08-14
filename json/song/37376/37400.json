@@ -25,6 +25,58 @@
   "artist_names": [
     "Alexander Chereshnev "
   ],
+  "votes": [
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Nodepond",
+      "vote": 5,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-07-05 01:21:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-05 01:22:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-05 01:22:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-05 01:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-05 01:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

@@ -20,6 +20,73 @@
   "artist_names": [
     "Dan"
   ],
+  "votes": [
+    {
+      "user": "Axioplase",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "bledking",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 5,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "ajwen",
+      "vote": 5,
+      "when": "2013-10-23 23:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-30 11:30:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-06 04:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

@@ -23,6 +23,73 @@
   "artist_names": [
     "Svenzzon"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Recycler",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-24 16:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-14 05:38:00"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2016-06-17"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2017-02-22 18:28:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-08-25 07:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "Recycler",

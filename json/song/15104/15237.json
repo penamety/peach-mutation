@@ -23,6 +23,73 @@
   "artist_names": [
     "BSC"
   ],
+  "votes": [
+    {
+      "user": "zneek",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-26 14:35:00"
+    },
+    {
+      "user": "spekki",
+      "vote": 3,
+      "when": "2013-08-26 14:35:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2013-08-26 14:36:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-08-26 14:36:00"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 3,
+      "when": "2013-08-26 14:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-10-17 19:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-11-05 06:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "Latis",

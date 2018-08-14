@@ -20,6 +20,83 @@
   "artist_names": [
     "Avatar"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-02 08:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-23 00:54:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-03-23 00:55:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-23 04:41:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-25 11:49:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-01-25 11:49:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-01-25 11:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

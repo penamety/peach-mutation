@@ -23,6 +23,48 @@
   "artist_names": [
     "Alpha [CR]"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-22 02:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-22 02:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-09-22 02:18:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-04-12 10:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

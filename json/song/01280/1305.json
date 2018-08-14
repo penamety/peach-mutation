@@ -19,6 +19,93 @@
   "artist_names": [
     "Coocane"
   ],
+  "votes": [
+    {
+      "user": "BeautyNerd",
+      "vote": 2,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "zerkman",
+      "vote": 4,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "codehead",
+      "vote": 2,
+      "when": "2013-07-11 10:42:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-11 10:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-11 11:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-02 07:02:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-23 17:41:00"
+    },
+    {
+      "user": "Cybervince",
+      "vote": 4,
+      "when": "2014-02-23 17:44:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2014-02-23 17:45:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2016-06-02"
+    },
+    {
+      "user": "Rage",
+      "vote": 1,
+      "when": "2016-06-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-06-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2017-10-08 17:31:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-03-11 09:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

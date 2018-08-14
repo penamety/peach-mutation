@@ -17,6 +17,53 @@
   "last_scraped": "2018-05-23 11:02:10",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Arktos",
+      "vote": 5,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 5,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2013-02-01"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

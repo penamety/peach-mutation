@@ -19,6 +19,53 @@
   "artist_names": [
     "The Plough"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-15 03:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-08-24 19:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-14 20:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

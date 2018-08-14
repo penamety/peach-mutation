@@ -23,6 +23,68 @@
   "artist_names": [
     "Baroque"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Sc0r",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-18 07:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-12-10 23:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-11-02 13:22:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-04-12 19:24:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2015-04-12 19:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-05-26 07:11:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-05-26 07:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "velusip",

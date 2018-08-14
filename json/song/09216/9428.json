@@ -23,6 +23,58 @@
   "artist_names": [
     "Xaser"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "alienNeWbeat",
+      "vote": 2,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-10 19:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-02 08:32:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-08-19 21:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

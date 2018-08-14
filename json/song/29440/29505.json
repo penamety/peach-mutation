@@ -20,6 +20,73 @@
   "artist_names": [
     "Touchboy"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Psydrow",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "ldc",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-24 11:57:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-06-24 12:03:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-01-09"
+    },
+    {
+      "user": "EZH",
+      "vote": 4,
+      "when": "2017-01-11 14:44:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-11 14:45:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2017-01-11 14:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-06-23 15:33:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2017-06-23 15:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "nvictor",

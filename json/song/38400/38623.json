@@ -25,6 +25,58 @@
   "artist_names": [
     "Bitbear"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-12 17:04:00"
+    },
+    {
+      "user": "SampL",
+      "vote": 3,
+      "when": "2013-07-12 17:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-12-23 21:21:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-02 07:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

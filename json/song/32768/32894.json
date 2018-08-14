@@ -20,6 +20,78 @@
   "artist_names": [
     "Alkor"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "korkut",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-01 09:09:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2013-07-01 09:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-10 10:19:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-20 19:06:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-10-14"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-09-16 15:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

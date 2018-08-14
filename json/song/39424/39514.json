@@ -23,6 +23,53 @@
   "artist_names": [
     "Dan"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-10-29 10:13:00"
+    },
+    {
+      "user": "ajwen",
+      "vote": 5,
+      "when": "2013-10-29 11:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-22 13:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-22 13:06:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-01-09 10:43:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-01-09 10:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-04-18 22:47:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "AtomicReindeer",
+      "vote": 3,
+      "when": "2017-09-23 04:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "killerspoon",

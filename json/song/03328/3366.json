@@ -20,6 +20,78 @@
   "artist_names": [
     "Jesper Kyd"
   ],
+  "votes": [
+    {
+      "user": "Shriggar",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "na85",
+      "vote": 5,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-15 21:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-16 08:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-12-22 23:30:00"
+    },
+    {
+      "user": "silok",
+      "vote": 1,
+      "when": "2013-12-22 23:35:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2014-04-30 21:32:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-04-30 21:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -22,5 +22,22 @@
   "artist_names": [
     "Count Zero"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "sebonpsp",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-01-31"
+    }
+  ],
   "requests": []
 }

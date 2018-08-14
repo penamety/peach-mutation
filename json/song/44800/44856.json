@@ -22,6 +22,18 @@
   "artist_names": [
     "C.C. Catch"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-05-24 06:01:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2018-04-18 09:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "zoner",

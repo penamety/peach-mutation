@@ -25,6 +25,163 @@
   "artist_names": [
     "Darkman007"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Ized",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "blindpilot",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "bitl",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "nvictor",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "clumdon",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "PrimeAmsterdam",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ubbabar",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-08-12 02:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-10-04 13:47:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-24 19:44:00"
+    },
+    {
+      "user": "MyO",
+      "vote": 5,
+      "when": "2014-12-07 08:03:00"
+    },
+    {
+      "user": "satan",
+      "vote": 2,
+      "when": "2015-09-13"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-01-20"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2017-03-14 21:05:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-25 13:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "MyO",

@@ -20,6 +20,58 @@
   "artist_names": [
     "Andromeda"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "atom32k",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-05 00:43:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-05-07 10:46:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-11-09 15:25:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-09 15:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-11-09 15:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

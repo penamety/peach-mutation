@@ -21,6 +21,78 @@
   "artist_names": [
     "Twice"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-19 22:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-10-23 00:05:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-11-20 18:21:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2017-11-17 11:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-11-17 11:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

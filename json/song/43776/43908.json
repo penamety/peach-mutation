@@ -26,6 +26,63 @@
   "artist_names": [
     "Triace"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-17 14:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-04-17 14:56:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-04-17 14:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-04-30"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-05-04 21:43:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2017-05-26 16:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-26 16:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-07-29 21:40:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2018-02-11 11:17:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-02-11 11:17:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-03-28 06:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

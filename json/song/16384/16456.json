@@ -25,6 +25,78 @@
   "artist_names": [
     "Cyborg Jeff"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 2,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "lilelk",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-16 01:49:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-02-15 18:50:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-18 14:37:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2017-12-01 01:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

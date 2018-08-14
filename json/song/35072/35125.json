@@ -26,5 +26,52 @@
   "artist_names": [
     "Zipf"
   ],
+  "votes": [
+    {
+      "user": "rams",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Turnips",
+      "vote": 5,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-10-28 02:26:00"
+    },
+    {
+      "user": "korikisulda",
+      "vote": 4,
+      "when": "2014-01-19 15:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-10-13 21:00:00"
+    },
+    {
+      "user": "mruczek",
+      "vote": 5,
+      "when": "2014-11-08 16:28:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-01-01 14:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-11-05"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2015-11-22"
+    }
+  ],
   "requests": []
 }

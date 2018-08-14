@@ -19,5 +19,22 @@
   "artist_names": [
     "Mellow-D"
   ],
+  "votes": [
+    {
+      "user": "unfy",
+      "vote": 4,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2014-03-29 04:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-06-02"
+    }
+  ],
   "requests": []
 }

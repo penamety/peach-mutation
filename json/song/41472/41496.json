@@ -28,6 +28,23 @@
   "artist_names": [
     "IMP"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-01-07 20:55:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-07 21:48:00"
+    },
+    {
+      "user": "Abrahaz",
+      "vote": 5,
+      "when": "2015-01-07 21:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

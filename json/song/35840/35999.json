@@ -27,6 +27,63 @@
   "artist_names": [
     "d vibe"
   ],
+  "votes": [
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "kwokkie",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-12 15:02:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-10-12 15:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-25 18:01:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-07-28"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-05-04 13:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

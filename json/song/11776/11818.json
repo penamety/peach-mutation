@@ -25,5 +25,17 @@
   "artist_names": [
     "Dma-Sc"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-06-15 22:28:00"
+    }
+  ],
   "requests": []
 }

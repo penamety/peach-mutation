@@ -23,6 +23,53 @@
   "artist_names": [
     "Bethoven"
   ],
+  "votes": [
+    {
+      "user": "Rage",
+      "vote": 4,
+      "when": "2015-06-06 15:02:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-06-06 15:02:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-06-06 15:02:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-06-17 11:52:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2015-06-17 11:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-07-07 11:20:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-07-07 11:22:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-08-28"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-11-25 17:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "Rage",

@@ -20,6 +20,73 @@
   "artist_names": [
     "Don Diavolo"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-07-01 09:04:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-01 09:05:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-01 09:07:00"
+    },
+    {
+      "user": "etray",
+      "vote": 3,
+      "when": "2014-06-02 18:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-06-02 18:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-02 18:28:00"
+    },
+    {
+      "user": "Scribblette",
+      "vote": 3,
+      "when": "2018-05-23 15:18:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-05-23 15:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

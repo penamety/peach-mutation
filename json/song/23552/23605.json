@@ -19,6 +19,48 @@
   "artist_names": [
     "Rhino"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-08 22:43:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-01-22"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

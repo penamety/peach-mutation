@@ -19,5 +19,17 @@
   "artist_names": [
     "Richard Joseph"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-01-24 18:00:00"
+    }
+  ],
   "requests": []
 }

@@ -26,6 +26,68 @@
   "artist_names": [
     "Veeroos"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-24 03:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-23 20:30:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-09-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-09-12"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-27 05:27:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-09-27 18:57:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2017-09-27 18:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

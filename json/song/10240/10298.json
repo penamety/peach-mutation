@@ -24,6 +24,98 @@
   "artist_names": [
     "Xerxes"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 2,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "bitl",
+      "vote": 2,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Cybervince",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "sneh",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-30 02:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-30 02:00:00"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 4,
+      "when": "2013-05-30 02:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-10-21 08:49:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-10-21 08:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-10-21 08:51:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-12-20 03:09:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-01-25 02:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

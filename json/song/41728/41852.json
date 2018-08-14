@@ -25,6 +25,83 @@
   "artist_names": [
     "Corrosion"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-04-05 06:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-04-20 09:18:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-05-30 22:48:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2015-08-20"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2015-09-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-09-17"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2015-11-26"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2015-11-26"
+    },
+    {
+      "user": "Creonix",
+      "vote": 1,
+      "when": "2016-03-29 15:53:00"
+    },
+    {
+      "user": "PhotonStorm",
+      "vote": 1,
+      "when": "2016-03-29 15:53:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-01-24 21:44:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 1,
+      "when": "2017-01-24 21:45:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 1,
+      "when": "2017-04-12 15:00:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2018-03-28 21:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

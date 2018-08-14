@@ -21,6 +21,78 @@
   "artist_names": [
     "Kjwise"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "SyneRyder",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-09-09 15:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-09 15:37:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 1,
+      "when": "2013-09-09 15:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-03-13 22:41:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-06-10"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-06-10"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2016-11-12 12:55:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2017-11-29 17:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

@@ -26,6 +26,48 @@
   "artist_names": [
     "Notorious "
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2018-03-07 14:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2018-03-07 21:44:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-03-08 07:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-04-08 11:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2018-05-11 13:58:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-06-12 15:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-06-12 15:39:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2018-06-12 15:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

@@ -21,6 +21,53 @@
   "artist_names": [
     "Phx"
   ],
+  "votes": [
+    {
+      "user": "neriakX",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-07 12:11:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-03 11:32:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-10-23 18:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-23 20:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

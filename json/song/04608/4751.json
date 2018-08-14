@@ -22,6 +22,73 @@
   "artist_names": [
     "Mellow-D"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "MrKomlev",
+      "vote": 3,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-01 01:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-01 01:12:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-27 07:32:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-05-12 14:18:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-05-12 14:18:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-05-12 14:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

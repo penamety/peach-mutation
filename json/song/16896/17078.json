@@ -21,6 +21,58 @@
   "artist_names": [
     "DHG"
   ],
+  "votes": [
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-20 05:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-09 23:27:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-09-09 23:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-10 00:23:00"
+    },
+    {
+      "user": "alecs",
+      "vote": 5,
+      "when": "2014-01-24 22:09:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2015-06-17 19:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "Riphur",

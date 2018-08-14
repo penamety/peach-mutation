@@ -19,6 +19,73 @@
   "artist_names": [
     "Phaser"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-10-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-30 04:24:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-30 04:25:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-10-30 16:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-10-30 16:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-10-30 16:27:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-10-30 16:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-25 09:31:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-11-28 19:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

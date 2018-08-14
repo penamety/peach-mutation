@@ -24,6 +24,93 @@
   "artist_names": [
     "Romeo Knight"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-06-03"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Rapidkirby3k",
+      "vote": 5,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "sneh",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-14 16:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-19 12:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-19 12:12:00"
+    },
+    {
+      "user": "joes",
+      "vote": 2,
+      "when": "2015-06-14 14:34:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-03-09 09:49:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 2,
+      "when": "2016-04-18 06:26:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-09-21"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2016-09-21"
+    }
+  ],
   "requests": [
     {
       "user": "franz_koopa",

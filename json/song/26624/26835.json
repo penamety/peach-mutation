@@ -24,6 +24,48 @@
   "artist_names": [
     "Radek Szamrej"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-29 14:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-19 12:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

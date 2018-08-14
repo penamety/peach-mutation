@@ -19,6 +19,98 @@
   "artist_names": [
     "CONS"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-25 16:40:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-06 04:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-02-14 17:41:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 4,
+      "when": "2015-02-14 17:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-14 18:46:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-06-24 11:40:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-06-24 11:44:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-29"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2015-10-05"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2016-07-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-04 12:50:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-02-04 12:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -25,6 +25,78 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-06-12 07:54:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-12 07:54:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-12 07:54:00"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 4,
+      "when": "2014-07-03 06:55:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-04-14 10:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-02-08 22:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "Bonstra",

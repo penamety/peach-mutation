@@ -25,6 +25,68 @@
   "artist_names": [
     "Alien"
   ],
+  "votes": [
+    {
+      "user": "emoon",
+      "vote": 3,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "korkut",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Fireball",
+      "vote": 2,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "_wally",
+      "vote": 4,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-21 09:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-04-09 21:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

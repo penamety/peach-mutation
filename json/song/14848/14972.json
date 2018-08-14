@@ -24,6 +24,68 @@
   "artist_names": [
     "Blair Zuppicich"
   ],
+  "votes": [
+    {
+      "user": "anthony62490",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-06 03:25:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-07-06 03:25:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-11-26 07:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-03 12:26:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2014-03-03 12:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-06-14 21:09:00"
+    },
+    {
+      "user": "joes",
+      "vote": 2,
+      "when": "2015-06-14 21:10:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-02-19"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

@@ -21,6 +21,73 @@
   "artist_names": [
     "Scy"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-30 21:15:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-30 21:15:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-06-30 21:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-30 21:17:00"
+    },
+    {
+      "user": "etray",
+      "vote": 3,
+      "when": "2014-05-29 07:37:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2014-12-06 21:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-12-06 21:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-12-06 21:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "silok",

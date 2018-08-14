@@ -23,6 +23,43 @@
   "artist_names": [
     "Dusty (US)"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-06-10 13:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2018-05-09 12:33:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-05-09 12:34:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-05-05 03:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-09 12:34:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2018-06-10 13:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-05-09 12:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

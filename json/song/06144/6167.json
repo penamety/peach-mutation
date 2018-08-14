@@ -19,6 +19,58 @@
   "artist_names": [
     "Red Ribbon"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-06-26 12:59:00"
+    },
+    {
+      "user": "DiGiT",
+      "vote": 2,
+      "when": "2015-06-26 12:59:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-05 05:33:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-05-28 13:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

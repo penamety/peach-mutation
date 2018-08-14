@@ -20,6 +20,73 @@
   "artist_names": [
     "Ferrara"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2011-01-31"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-01-31"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-14 01:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-20 00:19:00"
+    },
+    {
+      "user": "CanisCanine",
+      "vote": 5,
+      "when": "2014-07-15 17:43:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-06-08 01:38:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-03-02 05:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-06-10"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-10-07 20:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

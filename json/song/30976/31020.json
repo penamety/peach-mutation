@@ -25,6 +25,68 @@
   "artist_names": [
     "Narfy"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "The_Tubes",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "liquidstupid",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-09 05:41:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-01-27 20:49:00"
+    },
+    {
+      "user": "alecs",
+      "vote": 3,
+      "when": "2014-01-27 20:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-27 20:52:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-11-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-11-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-03-12 23:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

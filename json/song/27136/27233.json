@@ -21,6 +21,83 @@
   "artist_names": [
     "Silize"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lilelk",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-23 15:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-23 15:10:00"
+    },
+    {
+      "user": "EZH",
+      "vote": 3,
+      "when": "2013-10-08 02:46:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-06-14 11:06:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-06-14 11:06:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 5,
+      "when": "2017-05-31 09:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

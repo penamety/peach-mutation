@@ -19,6 +19,58 @@
   "artist_names": [
     "DJArtz"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "omilian",
+      "vote": 4,
+      "when": "2012-06-10"
+    },
+    {
+      "user": "armeS",
+      "vote": 4,
+      "when": "2013-02-23"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-23"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-12 06:23:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-12 06:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-21 20:49:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-02-21 20:51:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2015-02-21 20:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-12-11 03:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

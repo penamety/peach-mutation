@@ -26,6 +26,88 @@
   "artist_names": [
     "Tappy Hopping"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "paulburt",
+      "vote": 4,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-06-07 13:00:00"
+    },
+    {
+      "user": "Sketch",
+      "vote": 5,
+      "when": "2013-06-07 13:00:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-06-07 13:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-04 15:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-28 01:21:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2015-06-17 20:52:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-06-03 01:01:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2018-05-12 23:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

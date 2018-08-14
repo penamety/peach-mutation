@@ -24,6 +24,53 @@
   "artist_names": [
     "Stage 7"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Radar",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-03 04:38:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-22 11:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-10-03 21:49:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-06-06 00:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "psymleko",

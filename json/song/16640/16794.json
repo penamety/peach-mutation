@@ -20,6 +20,73 @@
   "artist_names": [
     "Dan"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Sc0r",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "tomi",
+      "vote": 1,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-12 23:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-12 23:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-13 00:09:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-10-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2016-10-01"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2016-10-01"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

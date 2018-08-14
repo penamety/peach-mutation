@@ -20,6 +20,68 @@
   "artist_names": [
     "Teddie"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Neobyte",
+      "vote": 5,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "AdvertisePlay",
+      "vote": 5,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2013-06-21 00:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-21 00:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-21 00:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-21 00:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-04-04 07:56:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-01 08:02:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-04-29 01:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

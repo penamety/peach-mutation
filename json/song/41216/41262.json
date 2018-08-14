@@ -21,6 +21,68 @@
   "artist_names": [
     "Bell"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-11-24 13:28:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-11-24 13:29:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-11-24 13:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-11-24 13:30:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2014-11-24 13:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-11-24 13:31:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-11-02 16:06:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-02-26 15:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-04-01 22:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "Robot2037",

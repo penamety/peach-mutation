@@ -19,6 +19,73 @@
   "artist_names": [
     "Tao"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-06-03 15:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-03 15:44:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-03 15:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-03 15:50:00"
+    },
+    {
+      "user": "caminante",
+      "vote": 4,
+      "when": "2013-09-29 14:16:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-17"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2016-12-27 14:49:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-12-27 14:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "silok",

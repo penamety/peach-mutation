@@ -19,6 +19,73 @@
   "artist_names": [
     "Jade"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-15 03:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-19 12:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-26 10:29:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-10-26 10:29:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-06-10 02:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

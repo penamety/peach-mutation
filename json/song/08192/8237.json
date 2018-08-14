@@ -21,6 +21,33 @@
   "artist_names": [
     "Sidabitball"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-06-01"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

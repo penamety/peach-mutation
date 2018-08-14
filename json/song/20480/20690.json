@@ -21,6 +21,68 @@
   "artist_names": [
     "Lomaxx"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-02-08"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2013-10-25 16:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-25 16:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-25 16:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-09-24 16:00:00"
+    },
+    {
+      "user": "Melo",
+      "vote": 4,
+      "when": "2014-09-24 16:02:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-09-24 16:03:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-02-21 07:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

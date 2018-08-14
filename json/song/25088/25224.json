@@ -19,6 +19,73 @@
   "artist_names": [
     "Tbob"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Colidace",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2013-08-31 14:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-31 14:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-12-19 00:55:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2017-02-11 20:15:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2017-02-11 20:17:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 1,
+      "when": "2017-07-21 23:45:00"
+    },
+    {
+      "user": "veeall",
+      "vote": 1,
+      "when": "2017-07-21 23:46:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 2,
+      "when": "2018-05-27 01:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

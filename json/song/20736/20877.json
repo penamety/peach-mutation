@@ -23,6 +23,98 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "sebonpsp",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "ldc",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-08 04:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-08 04:52:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-08 04:53:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-09-24 17:23:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-11 03:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-12-21 15:18:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-06-01 12:19:00"
+    },
+    {
+      "user": "BitArts",
+      "vote": 2,
+      "when": "2015-06-01 12:20:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-06-01 12:21:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-06-26"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2016-06-26"
+    },
+    {
+      "user": "olivierh59",
+      "vote": 5,
+      "when": "2017-01-11 10:41:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-11 10:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "edlinfan",

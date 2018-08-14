@@ -26,6 +26,103 @@
   "artist_names": [
     "Walkman"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "XaNtoR",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2013-07-24 15:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-07-24 15:01:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-11-27 22:41:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-03-12 20:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-07-02 21:04:00"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 4,
+      "when": "2014-07-02 21:04:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2016-04-18 05:30:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-01-27 23:43:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-04-17 19:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "BeautyNerd",

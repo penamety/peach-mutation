@@ -20,6 +20,33 @@
   "artist_names": [
     "TDK"
   ],
+  "votes": [
+    {
+      "user": "Longbow",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "miggyb",
+      "vote": 1,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Colidace",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-02-10"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

@@ -25,6 +25,63 @@
   "artist_names": [
     "Virek"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-20 21:41:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 4,
+      "when": "2015-02-20 22:46:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-02-20 22:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-03-07 13:19:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-03-22 12:38:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-04-08 11:48:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 4,
+      "when": "2015-04-08 11:51:00"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2017-01-11 19:03:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-01-11 19:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-04-06 15:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "malodorous101",

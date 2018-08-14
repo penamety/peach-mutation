@@ -21,6 +21,73 @@
   "artist_names": [
     "Ranger Rick"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "LittleWhite",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "infinigon",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2013-06-10 23:19:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-06-10 23:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-11 23:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-09-11 23:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-11 23:02:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-09-11 23:05:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 2,
+      "when": "2014-12-24 00:33:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-06-07 05:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

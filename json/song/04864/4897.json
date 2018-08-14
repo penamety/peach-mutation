@@ -23,6 +23,83 @@
   "artist_names": [
     "Moby"
   ],
+  "votes": [
+    {
+      "user": "malodorous101",
+      "vote": 2,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-11 15:16:00"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-08-11 15:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-11 15:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-01-22 09:58:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-22 09:58:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2015-01-22 09:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-01-22 10:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-01-22 10:00:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2017-01-09 08:35:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2017-07-23 17:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "mryoung",

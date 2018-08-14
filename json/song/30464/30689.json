@@ -25,6 +25,103 @@
   "artist_names": [
     "Taxman"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "krakozhia",
+      "vote": 5,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Analyzer",
+      "vote": 5,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "mud",
+      "vote": 5,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-01 07:42:00"
+    },
+    {
+      "user": "Dadu207",
+      "vote": 3,
+      "when": "2013-10-27 14:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-02-24 12:23:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2014-04-09 01:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-03-19 13:06:00"
+    },
+    {
+      "user": "epso",
+      "vote": 4,
+      "when": "2015-03-19 13:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-05 16:47:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2016-11-10 00:08:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-09 20:07:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-04-09 20:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

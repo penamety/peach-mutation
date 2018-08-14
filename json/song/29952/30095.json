@@ -25,6 +25,93 @@
   "artist_names": [
     "KML"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "BitArts",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "gnrp",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Herute",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-09-02 20:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-02 20:04:00"
+    },
+    {
+      "user": "zero_one_",
+      "vote": 1,
+      "when": "2013-12-14 07:58:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-12 13:04:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-05-12 13:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2015-01-26 03:55:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-26 03:55:00"
+    },
+    {
+      "user": "Sada",
+      "vote": 1,
+      "when": "2015-01-26 03:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

@@ -25,6 +25,53 @@
   "artist_names": [
     "Wacek"
   ],
+  "votes": [
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-02-10 17:03:00"
+    },
+    {
+      "user": "arab",
+      "vote": 5,
+      "when": "2017-02-10 17:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-02-10 19:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-03-22 08:15:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2017-03-22 08:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-08-29 13:21:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-10-25 10:07:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2018-01-12 18:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-18 18:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "arab",

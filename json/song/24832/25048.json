@@ -19,6 +19,78 @@
   "artist_names": [
     "Superted"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-05-29 17:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-29 17:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-29 17:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-05-29 17:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-05-29 17:00:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2014-03-21"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

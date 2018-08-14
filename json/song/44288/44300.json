@@ -26,6 +26,63 @@
   "artist_names": [
     "MmcM"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-09-06 21:12:00"
+    },
+    {
+      "user": "mortengh",
+      "vote": 2,
+      "when": "2017-09-07 14:06:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-09-07 14:06:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-09-07 14:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2017-09-13 14:40:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-09-13 14:41:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2017-09-22 22:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-11-11 13:29:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2018-03-24 05:31:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2018-04-30 03:25:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 4,
+      "when": "2018-06-04 14:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

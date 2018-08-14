@@ -25,6 +25,68 @@
   "artist_names": [
     "Dane"
   ],
+  "votes": [
+    {
+      "user": "Stinsen",
+      "vote": 5,
+      "when": "2016-08-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-08-10"
+    },
+    {
+      "user": "blippyJon",
+      "vote": 5,
+      "when": "2016-08-10"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-09-17"
+    },
+    {
+      "user": "jakov",
+      "vote": 4,
+      "when": "2016-10-24 11:30:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2016-11-09 14:19:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-09 14:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-11-09 14:21:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2016-12-20 19:07:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-20 19:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Stinsen",

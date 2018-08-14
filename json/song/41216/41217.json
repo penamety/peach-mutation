@@ -22,6 +22,63 @@
   "artist_names": [
     "Oona"
   ],
+  "votes": [
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2014-11-04 18:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-11-14 08:16:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2014-11-14 08:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-11-29 18:38:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-12-18 22:53:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-01-30 22:25:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-09-16"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "oryx",
+      "vote": 3,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-23 17:42:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2018-03-31 18:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

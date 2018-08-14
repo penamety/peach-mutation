@@ -21,6 +21,33 @@
   "artist_names": [
     "Beek"
   ],
+  "votes": [
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-03-19 02:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-03-19 23:17:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2018-03-20 14:00:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-03-20 14:42:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 2,
+      "when": "2018-06-06 10:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

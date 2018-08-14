@@ -20,6 +20,83 @@
   "artist_names": [
     "Dubmood"
   ],
+  "votes": [
+    {
+      "user": "Zitrax",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "WTFcore",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "C64",
+      "vote": 5,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-30 06:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-04-16 07:42:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2015-11-21"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-10-23 12:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "chkdsk",

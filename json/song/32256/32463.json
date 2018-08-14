@@ -21,6 +21,108 @@
   "artist_names": [
     "Aymes"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "zerkman",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-06-05 16:03:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-06-05 16:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-30 02:57:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 5,
+      "when": "2014-05-08"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-09-03 05:00:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 5,
+      "when": "2014-09-03 05:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2014-12-28 09:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-04-01 09:26:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-04-01 09:27:00"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 5,
+      "when": "2015-07-20"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-09-11"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-12-30 04:02:00"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2018-04-17 00:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

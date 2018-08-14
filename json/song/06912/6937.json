@@ -20,6 +20,53 @@
   "artist_names": [
     "Timelord"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 3,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-11 00:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-12 01:18:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-28"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

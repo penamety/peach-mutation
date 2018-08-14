@@ -19,6 +19,63 @@
   "artist_names": [
     "Shyz"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Skofo",
+      "vote": 4,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "opfer15",
+      "vote": 3,
+      "when": "2015-01-19 17:24:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2015-01-19 17:24:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-05-05 13:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

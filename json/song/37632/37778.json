@@ -17,5 +17,17 @@
   "last_scraped": "2018-05-23 10:10:13",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Paranoid",
+      "vote": 5,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-12-26"
+    }
+  ],
   "requests": []
 }

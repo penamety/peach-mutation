@@ -20,5 +20,17 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-07-18 19:07:00"
+    }
+  ],
   "requests": []
 }

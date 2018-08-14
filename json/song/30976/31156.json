@@ -23,6 +23,73 @@
   "artist_names": [
     "Rayko"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-15 00:42:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-02-14 11:49:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-14 11:50:00"
+    },
+    {
+      "user": "AtomicReindeer",
+      "vote": 3,
+      "when": "2015-11-03"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

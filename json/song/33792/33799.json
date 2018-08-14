@@ -25,6 +25,58 @@
   "artist_names": [
     "Timmy [NO]"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-25 23:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-25 23:17:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-01-25 23:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

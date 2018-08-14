@@ -19,6 +19,68 @@
   "artist_names": [
     "Torone"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-06-07"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-01 07:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-01 07:09:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-12-01 12:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-01 12:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-08-17"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2016-08-04"
+    }
+  ],
   "requests": [
     {
       "user": "cykocator",

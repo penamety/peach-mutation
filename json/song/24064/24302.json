@@ -24,6 +24,108 @@
   "artist_names": [
     "Kendo"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "rams",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Paranoid",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Skofo",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "peach",
+      "vote": 5,
+      "when": "2014-03-02 21:18:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-10-05 21:31:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "OmaOhneBH",
+      "vote": 3,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2018-01-27 13:28:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-01-27 13:29:00"
+    },
+    {
+      "user": "Kelly_R",
+      "vote": 5,
+      "when": "2018-03-24 00:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

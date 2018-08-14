@@ -19,6 +19,48 @@
   "artist_names": [
     "Flamingo"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-04-10 06:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-02-28 21:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

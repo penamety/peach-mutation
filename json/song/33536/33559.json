@@ -24,6 +24,83 @@
   "artist_names": [
     "SLiVeR"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Rapidkirby3k",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "MrKomlev",
+      "vote": 4,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-06 20:11:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-09-06 20:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-27 03:34:00"
+    },
+    {
+      "user": "evanval1",
+      "vote": 5,
+      "when": "2014-05-27 03:35:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-09-10 05:07:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-05-21 14:14:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-09 19:41:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2017-05-09 19:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-05-25 07:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

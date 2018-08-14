@@ -25,6 +25,48 @@
   "artist_names": [
     "u4ia"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-01-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-01-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-11"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-03-15 13:05:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-05-12 11:54:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 2,
+      "when": "2016-09-11"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

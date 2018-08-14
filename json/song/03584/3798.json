@@ -19,6 +19,63 @@
   "artist_names": [
     "Keio"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-29 12:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-10-27 10:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-27 10:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "SPACE",

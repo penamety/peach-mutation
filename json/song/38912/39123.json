@@ -25,6 +25,78 @@
   "artist_names": [
     "King Thrill"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-04 23:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-08-04 23:58:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-08-05 09:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-08-29 08:47:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-08-29 08:47:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-11-26 12:24:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-11-26 12:24:00"
+    },
+    {
+      "user": "tas",
+      "vote": 3,
+      "when": "2013-11-26 12:25:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-04-02 21:06:00"
+    },
+    {
+      "user": "asbjornu",
+      "vote": 2,
+      "when": "2016-03-17 15:41:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2016-03-17 15:42:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2016-04-09 13:27:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-05-06 13:35:00"
+    },
+    {
+      "user": "Tethys",
+      "vote": 4,
+      "when": "2016-05-06 13:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

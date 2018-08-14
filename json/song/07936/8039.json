@@ -19,6 +19,78 @@
   "artist_names": [
     "New Millennium"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-19 23:51:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 5,
+      "when": "2015-12-07"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-12-07"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-03-11 18:55:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2016-03-11 18:55:00"
+    },
+    {
+      "user": "BBB",
+      "vote": 4,
+      "when": "2017-01-10 17:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-01-01 03:03:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2018-02-14 04:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

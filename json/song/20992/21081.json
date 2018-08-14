@@ -24,6 +24,138 @@
   "artist_names": [
     "Mallard"
   ],
+  "votes": [
+    {
+      "user": "Brm",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Norty",
+      "vote": 2,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "LittleWhite",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "aaai",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "asbjornu",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Neutral",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-02 02:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-12-02 02:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-02 02:07:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-05-10 21:24:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 5,
+      "when": "2016-04-16 14:44:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-11-04 19:26:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-01-12 18:52:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-05-21 12:20:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-05-21 12:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "LittleWhite",

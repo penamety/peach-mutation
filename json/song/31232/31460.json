@@ -25,6 +25,98 @@
   "artist_names": [
     "Takomo"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "AlphaC",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-02-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-16 18:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-02 13:35:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-10-16 13:05:00"
+    },
+    {
+      "user": "brm_",
+      "vote": 4,
+      "when": "2014-10-16 13:06:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-10-16 13:07:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2015-09-20"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-09-20"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2017-04-03"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

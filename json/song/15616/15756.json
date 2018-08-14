@@ -19,6 +19,73 @@
   "artist_names": [
     "Chris Hülsbeck"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "BamigaSectorOne",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-26 15:54:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-13 03:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-13 03:05:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-11-13 03:07:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2014-03-19 05:07:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-05-03 07:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

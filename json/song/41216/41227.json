@@ -21,6 +21,53 @@
   "artist_names": [
     "Melwyn"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-11-06 10:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-11-06 10:40:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2014-11-06 10:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-11-06 11:44:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2014-11-18 15:35:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-12-11 18:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-17 00:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-09-09"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-03-25 10:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

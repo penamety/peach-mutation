@@ -19,6 +19,68 @@
   "artist_names": [
     "Jinx"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Sketch",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-11-12 22:01:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-11-12 22:01:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-02-02 14:27:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 2,
+      "when": "2017-02-02 14:27:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-02 14:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "dv",

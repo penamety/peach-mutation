@@ -24,6 +24,93 @@
   "artist_names": [
     "Kork"
   ],
+  "votes": [
+    {
+      "user": "Pokemoz",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-07-01 21:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-01 21:41:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-07-01 21:43:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-02-02 07:03:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-02-02 07:04:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2017-02-02 07:04:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-07-10 13:14:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-07-10 13:16:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-07-10 13:16:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-05-27 00:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

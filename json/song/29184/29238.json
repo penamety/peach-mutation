@@ -22,6 +22,48 @@
   "artist_names": [
     "Evrimsson"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "eVRIMSSON",
+      "vote": 5,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "kvachu",
+      "vote": 3,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2013-10-19 09:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-03-24 16:10:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-11-25 05:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

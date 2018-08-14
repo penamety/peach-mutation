@@ -24,6 +24,83 @@
   "artist_names": [
     "Doh"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-11 06:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-23 20:10:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-24 09:11:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-02-24 09:11:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-24 09:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-25 22:11:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-10-25 22:11:00"
+    },
+    {
+      "user": "dang",
+      "vote": 2,
+      "when": "2017-10-25 22:11:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 3,
+      "when": "2017-10-25 22:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "Erk",

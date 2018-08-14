@@ -25,6 +25,88 @@
   "artist_names": [
     "Cyborg Jeff"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-07-20 19:54:00"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2013-07-20 19:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-20 19:57:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-10-30 04:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-02 20:55:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-04-02 20:56:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2014-12-11 01:31:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2014-12-11 01:33:00"
+    },
+    {
+      "user": "AtomicReindeer",
+      "vote": 3,
+      "when": "2015-11-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-03-19 11:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-03-18"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

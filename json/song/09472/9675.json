@@ -23,6 +23,83 @@
   "artist_names": [
     "Pixel"
   ],
+  "votes": [
+    {
+      "user": "funnyn8",
+      "vote": 2,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-25 01:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-25 01:50:00"
+    },
+    {
+      "user": "spacemoose",
+      "vote": 2,
+      "when": "2014-07-03 23:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-07-04 00:33:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-06-11 20:13:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2017-06-11 20:13:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2017-06-11 20:13:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-01-14 11:34:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2018-01-14 11:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -16,6 +16,18 @@
   "last_scraped": "2018-05-23 07:31:15",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "ksrm",
+      "vote": 5,
+      "when": "2011-04-04"
+    }
+  ],
   "requests": [
     {
       "user": "ksrm",

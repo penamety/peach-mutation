@@ -26,6 +26,113 @@
   "artist_names": [
     "Talin"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "rv6502",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Jimantha",
+      "vote": 4,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Artefact2",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "malmen",
+      "vote": 4,
+      "when": "2013-07-14 05:19:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-04 07:57:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-06-03 10:00:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2014-08-07 05:09:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2015-01-14 04:21:00"
+    },
+    {
+      "user": "EvanR",
+      "vote": 5,
+      "when": "2015-08-11"
+    },
+    {
+      "user": "drislands",
+      "vote": 4,
+      "when": "2015-09-04"
+    },
+    {
+      "user": "t3l",
+      "vote": 3,
+      "when": "2016-02-17 06:00:00"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 4,
+      "when": "2016-07-14"
+    }
+  ],
   "requests": [
     {
       "user": "bowie",

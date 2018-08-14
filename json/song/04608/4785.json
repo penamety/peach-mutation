@@ -17,6 +17,48 @@
   "last_scraped": "2018-05-23 01:03:40",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "hptt",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-09-01"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

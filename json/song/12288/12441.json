@@ -25,6 +25,63 @@
   "artist_names": [
     "Evil"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Gismo",
+      "vote": 2,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-30 07:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-30 07:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-30 07:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-06 10:26:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-08-23"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

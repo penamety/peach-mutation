@@ -16,6 +16,48 @@
   "last_scraped": "2018-05-23 02:27:54",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "korkut",
+      "vote": 1,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "turbine5",
+      "vote": 1,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Speeder",
+      "vote": 1,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "morbuz",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "velusip",
+      "vote": 1,
+      "when": "2011-05-05"
+    }
+  ],
   "requests": [
     {
       "user": "pipe",

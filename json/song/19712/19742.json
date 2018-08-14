@@ -19,6 +19,68 @@
   "artist_names": [
     "Jozz"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-10-05 18:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-03-12 10:56:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2014-03-12 10:56:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-03-12 11:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-29"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

@@ -20,6 +20,78 @@
   "artist_names": [
     "Roberts"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "wiseman",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-19 09:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-02-19 09:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-08 22:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-08-08"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2017-06-10 14:06:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2017-06-10 14:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

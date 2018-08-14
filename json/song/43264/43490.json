@@ -22,6 +22,48 @@
   "artist_names": [
     "TWN"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-10-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-10-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2016-10-19 01:07:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-11-11 13:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2016-12-06 15:12:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2018-02-15 12:21:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2018-04-05 15:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

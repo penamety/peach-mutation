@@ -24,6 +24,43 @@
   "artist_names": [
     "Sir_NutS"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2016-06-18"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

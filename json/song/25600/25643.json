@@ -21,6 +21,68 @@
   "artist_names": [
     "Timer"
   ],
+  "votes": [
+    {
+      "user": "venttiili",
+      "vote": 2,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "SJD",
+      "vote": 2,
+      "when": "2013-06-03"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 2,
+      "when": "2014-01-22 08:15:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-03-09 15:49:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-03-09 15:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "Robot2037",

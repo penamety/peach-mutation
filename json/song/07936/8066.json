@@ -19,6 +19,48 @@
   "artist_names": [
     "Nino"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-29 16:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-29 16:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-05-29 16:00:00"
+    },
+    {
+      "user": "skall",
+      "vote": 2,
+      "when": "2016-08-04"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

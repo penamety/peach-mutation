@@ -23,6 +23,68 @@
   "artist_names": [
     "Oliver"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Danger",
+      "vote": 5,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-06-10 20:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-06-10 20:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-10 20:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-10-13 17:55:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-10-13 17:55:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-03-10 04:26:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2015-09-15"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

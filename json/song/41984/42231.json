@@ -22,6 +22,83 @@
   "artist_names": [
     "Mark Sheeky"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-07-17"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 1,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "Rage",
+      "vote": 5,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 2,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 2,
+      "when": "2015-09-09"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-10-16"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-01-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-03-20 18:15:00"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2016-05-13 18:41:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-11-20 13:50:00"
+    },
+    {
+      "user": "PasiAnssi",
+      "vote": 1,
+      "when": "2016-11-20 13:51:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-11-29 14:24:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 2,
+      "when": "2017-11-29 14:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

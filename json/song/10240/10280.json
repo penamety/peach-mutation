@@ -23,6 +23,83 @@
   "artist_names": [
     "Praiser"
   ],
+  "votes": [
+    {
+      "user": "cannonfodder",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-12 01:33:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2013-10-09"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-10-13 17:09:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-05 00:53:00"
+    },
+    {
+      "user": "HaasiD",
+      "vote": 5,
+      "when": "2014-08-09 06:37:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2017-06-09 09:50:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-10-17 10:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-10-17 10:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-10-17 10:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

@@ -23,6 +23,128 @@
   "artist_names": [
     "Doh"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 5,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "lilelk",
+      "vote": 5,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-27 23:15:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-14 15:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-08-14 15:45:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-08-14 15:47:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-03-18 18:49:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-18 18:50:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2014-06-30 00:08:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-04-08 12:17:00"
+    },
+    {
+      "user": "chiefsucker",
+      "vote": 5,
+      "when": "2016-04-08 12:17:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-04-08 12:19:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-04-08 12:20:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 5,
+      "when": "2017-10-15 15:11:00"
+    },
+    {
+      "user": "jimee",
+      "vote": 4,
+      "when": "2017-10-15 15:12:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-10-15 15:13:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-05-07 11:29:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-05-07 11:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "Ishaan",

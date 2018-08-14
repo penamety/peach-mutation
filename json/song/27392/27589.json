@@ -25,6 +25,68 @@
   "artist_names": [
     "Linus"
   ],
+  "votes": [
+    {
+      "user": "BSC",
+      "vote": 1,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-17 04:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-28 13:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-03-28 14:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Bornheim",

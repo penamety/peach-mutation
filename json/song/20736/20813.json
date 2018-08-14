@@ -19,6 +19,53 @@
   "artist_names": [
     "Lurios"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 1,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2014-01-30 10:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-30 10:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-24 18:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

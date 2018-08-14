@@ -25,6 +25,98 @@
   "artist_names": [
     "Nutman"
   ],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 3,
+      "when": "2013-06-14 00:40:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-06-14 00:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-14 00:41:00"
+    },
+    {
+      "user": "juky",
+      "vote": 4,
+      "when": "2013-06-14 00:41:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-01-27 14:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-27 14:45:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-01-27 14:45:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2014-01-27 14:48:00"
+    },
+    {
+      "user": "parejkoj",
+      "vote": 4,
+      "when": "2014-06-24 21:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2017-03-13 04:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

@@ -19,5 +19,17 @@
   "artist_names": [
     "Spirit Of 93"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "mu6k",
+      "vote": 1,
+      "when": "2010-02-01"
+    }
+  ],
   "requests": []
 }

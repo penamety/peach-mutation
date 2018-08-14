@@ -23,6 +23,18 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "RoC",
+      "vote": 5,
+      "when": "2011-04-03"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

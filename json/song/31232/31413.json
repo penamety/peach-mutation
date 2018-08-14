@@ -23,6 +23,78 @@
   "artist_names": [
     "Delirion"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-11 14:05:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-12-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-12-27"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-05-21 13:34:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-05-21 13:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-21 13:38:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-05-07 09:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

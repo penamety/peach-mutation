@@ -21,6 +21,58 @@
   "artist_names": [
     "Willbe"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-12-11 13:00:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2013-12-11 13:40:00"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 2,
+      "when": "2013-12-11 13:41:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-12-11 13:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-11 13:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

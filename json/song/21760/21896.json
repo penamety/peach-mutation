@@ -20,6 +20,68 @@
   "artist_names": [
     "Mortimer Twang"
   ],
+  "votes": [
+    {
+      "user": "Fireball",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Manax",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-19 14:16:00"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2013-07-19 14:17:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-19 14:18:00"
+    },
+    {
+      "user": "tas",
+      "vote": 3,
+      "when": "2013-07-19 14:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-19 14:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-07 23:25:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-21 06:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

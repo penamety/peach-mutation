@@ -25,6 +25,53 @@
   "artist_names": [
     "STS-136"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-26 22:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-27 10:18:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-05-19 15:14:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-06-27 20:31:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-06-27 20:31:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2015-07-18"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2015-12-27"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-01-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-19"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

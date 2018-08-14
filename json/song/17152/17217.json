@@ -20,6 +20,73 @@
   "artist_names": [
     "DJ 3.14"
   ],
+  "votes": [
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "zerkman",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "SPACE",
+      "vote": 5,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-16 04:37:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-10-15 21:25:00"
+    },
+    {
+      "user": "GeekShadow",
+      "vote": 4,
+      "when": "2013-12-04 06:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-04 09:21:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-04 09:22:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2014-04-04 09:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-11-03 17:43:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-07 04:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

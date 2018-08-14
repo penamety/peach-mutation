@@ -26,6 +26,58 @@
   "artist_names": [
     "Vegard"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-09-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Sketch",
+      "vote": 4,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-09-07"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-09-07"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-09-07"
+    },
+    {
+      "user": "atom32k",
+      "vote": 4,
+      "when": "2017-06-21 10:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

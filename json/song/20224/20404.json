@@ -21,6 +21,53 @@
   "artist_names": [
     "Lakeee"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "jass0",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-12 07:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-06-20 21:15:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-03-14 21:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -21,6 +21,73 @@
   "artist_names": [
     "Traymuss"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "wig",
+      "vote": 3,
+      "when": "2013-08-29 16:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-29 17:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-03 07:19:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2014-02-03 07:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-12 18:06:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-04-12 18:06:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-04-12 18:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "SJD",

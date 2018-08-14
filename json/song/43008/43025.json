@@ -25,6 +25,53 @@
   "artist_names": [
     "radiantx"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-03-29 02:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-03-29 08:08:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2016-04-13 13:04:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-04-13 13:07:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-04-29 12:02:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-10-12 14:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2017-01-27 16:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "Creonix",

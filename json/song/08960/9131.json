@@ -23,6 +23,43 @@
   "artist_names": [
     "Aragorn"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-01 16:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -24,6 +24,58 @@
   "artist_names": [
     "Nuke"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "novel",
+      "vote": 4,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2014-02-04 05:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-04-19 18:52:00"
+    },
+    {
+      "user": "Dr_Awesome",
+      "vote": 1,
+      "when": "2015-09-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-09-12"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -25,6 +25,48 @@
   "artist_names": [
     "Gorfy"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-18 17:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-18 17:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

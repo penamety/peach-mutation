@@ -25,6 +25,78 @@
   "artist_names": [
     "Mixer"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "matsim",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Galancy",
+      "vote": 5,
+      "when": "2013-06-21 00:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-21 00:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

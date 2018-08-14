@@ -26,6 +26,43 @@
   "artist_names": [
     "Aardvark"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2018-03-10 10:54:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-10 11:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2018-03-10 11:08:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-03-10 11:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2018-04-04 13:40:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2018-04-04 13:40:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-05-16 06:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "VodkaBot",

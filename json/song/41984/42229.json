@@ -25,6 +25,58 @@
   "artist_names": [
     "Den"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-07-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-08-23"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 4,
+      "when": "2015-09-09"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-09-09"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-03-03 12:37:00"
+    },
+    {
+      "user": "t3l",
+      "vote": 3,
+      "when": "2016-03-03 12:37:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-01-14 09:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

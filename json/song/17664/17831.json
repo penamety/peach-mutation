@@ -22,6 +22,58 @@
   "artist_names": [
     "Emax [de]"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-08-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-06 07:00:00"
+    },
+    {
+      "user": "dang",
+      "vote": 4,
+      "when": "2014-11-22 01:48:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2016-04-01 15:22:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 2,
+      "when": "2016-04-01 15:23:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-04-01 15:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

@@ -26,5 +26,17 @@
   "artist_names": [
     "Hagar"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2015-04-23 23:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-24 12:36:00"
+    }
+  ],
   "requests": []
 }

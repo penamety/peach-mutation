@@ -23,6 +23,53 @@
   "artist_names": [
     "SML"
   ],
+  "votes": [
+    {
+      "user": "BSC",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "yeep",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-16 14:52:00"
+    },
+    {
+      "user": "etray",
+      "vote": 2,
+      "when": "2014-05-25 22:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-10-13 09:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-10-13 10:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "hornpipe2",

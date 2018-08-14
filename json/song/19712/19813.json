@@ -20,6 +20,83 @@
   "artist_names": [
     "Jorge"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "selmi",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "frohikey",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-18 03:29:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2015-07-28"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-07-28"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-28"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-06-09 16:23:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2017-06-09 16:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

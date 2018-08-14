@@ -19,6 +19,78 @@
   "artist_names": [
     "Shrift"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "selmi",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-24 18:15:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-09-24 18:17:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-09-08 19:37:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-02-17 11:34:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-02-17 11:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -21,6 +21,233 @@
   "artist_names": [
     "Mosaik"
   ],
+  "votes": [
+    {
+      "user": "LimeProselyte",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-06-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Hattmannen",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "dv",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "DH",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Machforr",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Darkseed",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "tyco",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Colidace",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "cyberant",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "shift",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "lilelk",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "sneh",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-14 21:48:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2013-12-31 03:36:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 4,
+      "when": "2014-05-05 04:20:00"
+    },
+    {
+      "user": "sprocket",
+      "vote": 2,
+      "when": "2014-07-02 09:46:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2014-07-02 09:49:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-08-30 01:36:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2015-03-01 00:07:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-12-06"
+    },
+    {
+      "user": "EXJ",
+      "vote": 4,
+      "when": "2016-04-19 19:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-04-19 19:40:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2016-12-08 15:28:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-04-17 21:06:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2018-03-18 08:19:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-06-14 11:47:00"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 3,
+      "when": "2018-06-14 11:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

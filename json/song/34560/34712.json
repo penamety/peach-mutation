@@ -23,6 +23,83 @@
   "artist_names": [
     "Buzz"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-03-14"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-03-10 09:53:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-10 09:53:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2014-03-10 09:54:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-03-10 09:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-03-10 09:56:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-01-28 22:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

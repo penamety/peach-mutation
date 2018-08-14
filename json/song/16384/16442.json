@@ -21,6 +21,78 @@
   "artist_names": [
     "Cyborg Jeff"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 2,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "Grit",
+      "vote": 3,
+      "when": "2017-02-17 14:37:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 1,
+      "when": "2017-02-17 14:37:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-17 14:37:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2018-02-13 15:00:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-02-13 15:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2018-02-13 15:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

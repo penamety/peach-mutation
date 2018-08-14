@@ -21,6 +21,53 @@
   "artist_names": [
     "MC JayPhey (SPAM)"
   ],
+  "votes": [
+    {
+      "user": "mcjayphey",
+      "vote": 5,
+      "when": "2014-07-01 15:06:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2014-07-01 15:33:00"
+    },
+    {
+      "user": "turbine5",
+      "vote": 2,
+      "when": "2014-07-01 15:33:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 1,
+      "when": "2014-07-01 15:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-07-01 15:34:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2014-07-01 15:34:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2014-07-01 15:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-09 23:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2017-05-16 18:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

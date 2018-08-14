@@ -25,6 +25,63 @@
   "artist_names": [
     "Rhino"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "AnaMark",
+      "vote": 4,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-27 05:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-01-08"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-08"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2017-10-22 23:37:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-01-06 14:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "atom32k",

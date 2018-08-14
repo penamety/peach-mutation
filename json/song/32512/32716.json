@@ -24,6 +24,78 @@
   "artist_names": [
     "Prototype"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "abaddon",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Rapture",
+      "vote": 5,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-10 07:13:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 3,
+      "when": "2013-10-19 04:48:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-10-19 04:49:00"
+    },
+    {
+      "user": "CanisCanine",
+      "vote": 3,
+      "when": "2015-10-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-18"
+    }
+  ],
   "requests": [
     {
       "user": "abaddon",

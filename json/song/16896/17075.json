@@ -20,6 +20,83 @@
   "artist_names": [
     "Dharma"
   ],
+  "votes": [
+    {
+      "user": "aaai",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-07-18 07:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-16 10:08:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2014-01-16 10:09:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 3,
+      "when": "2018-03-21 09:31:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-03-21 09:33:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 2,
+      "when": "2018-03-21 09:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-05-12 18:53:00"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 1,
+      "when": "2018-05-12 18:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

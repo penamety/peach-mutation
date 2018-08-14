@@ -21,5 +21,17 @@
   "artist_names": [
     "Haggeman"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-10-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-10-27 01:00:00"
+    }
+  ],
   "requests": []
 }

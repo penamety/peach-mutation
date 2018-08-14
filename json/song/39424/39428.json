@@ -25,6 +25,78 @@
   "artist_names": [
     "Jugi"
   ],
+  "votes": [
+    {
+      "user": "TinGrill",
+      "vote": 3,
+      "when": "2013-10-20"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-10-20"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-10-20 20:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-12-05 21:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-09 10:13:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2014-03-23 01:32:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-03-23 01:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2014-03-23 01:33:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-09 08:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-04-09 08:44:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-04-27 16:23:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-10-08"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-09-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-09-25"
+    }
+  ],
   "requests": [
     {
       "user": "TinGrill",

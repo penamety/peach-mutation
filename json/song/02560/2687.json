@@ -22,6 +22,93 @@
   "artist_names": [
     "Fleshbrain"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2009-02-03"
+    },
+    {
+      "user": "Dakkus",
+      "vote": 4,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "SampL",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-04 12:34:00"
+    },
+    {
+      "user": "nschnabel",
+      "vote": 5,
+      "when": "2013-10-04 12:37:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-11-26 13:38:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-11-26 13:39:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-11-26 13:39:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 4,
+      "when": "2013-11-26 13:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-02-02 10:27:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-06-09 12:32:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-03-24 09:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-02-14 22:23:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

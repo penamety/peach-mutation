@@ -22,6 +22,73 @@
   "artist_names": [
     "xpress"
   ],
+  "votes": [
+    {
+      "user": "OSH",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "robert",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "velusip",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Skofo",
+      "vote": 5,
+      "when": "2013-07-26 00:14:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-26 00:18:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-11-16 18:50:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2016-11-16 18:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

@@ -25,6 +25,78 @@
   "artist_names": [
     "Judge Brad"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arab",
+      "vote": 1,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "mucophagy",
+      "vote": 1,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-15 00:19:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-02-02 12:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-04-05 21:01:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 1,
+      "when": "2015-04-05 21:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -25,6 +25,73 @@
   "artist_names": [
     "Hattrick"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Super_Hans",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "_Aeko_",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-16 03:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-24 23:23:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-02-24 23:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-15 07:14:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2016-03-03 12:54:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-03-03 12:55:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-03-29"
+    }
+  ],
   "requests": [
     {
       "user": "Super_Hans",

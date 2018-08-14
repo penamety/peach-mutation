@@ -20,6 +20,93 @@
   "artist_names": [
     "Red Ribbon"
   ],
+  "votes": [
+    {
+      "user": "Zac",
+      "vote": 1,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-07-06 03:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-06 03:44:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-12-18 10:55:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2014-10-28 10:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-28 11:02:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-18 11:50:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-03-18 11:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-03-18 11:53:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-05-21 00:09:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2018-04-20 03:34:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-06-09 13:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

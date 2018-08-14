@@ -21,6 +21,58 @@
   "artist_names": [
     "Rico"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "H0lySh1t",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 5,
+      "when": "2012-11-16"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-16"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-31 17:57:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-31 17:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

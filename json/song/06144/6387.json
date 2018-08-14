@@ -16,6 +16,33 @@
   "last_scraped": "2018-05-22 21:00:43",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-10-02"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

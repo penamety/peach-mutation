@@ -23,6 +23,93 @@
   "artist_names": [
     "Nighthawk"
   ],
+  "votes": [
+    {
+      "user": "Zitrax",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "korkut",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "K",
+      "vote": 5,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-05 01:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-08-05 01:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-01-18 21:27:00"
+    },
+    {
+      "user": "dang",
+      "vote": 4,
+      "when": "2014-11-23 02:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-09 04:58:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2017-07-30 09:45:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 5,
+      "when": "2018-02-24 16:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Gnurou",

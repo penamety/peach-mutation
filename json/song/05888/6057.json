@@ -23,6 +23,93 @@
   "artist_names": [
     "Rage"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-23 07:43:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-05-22 04:58:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-27 01:03:00"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "bmn",
+      "vote": 4,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-05-05 18:23:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2016-11-20 20:36:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-04-28 12:52:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2017-04-28 12:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

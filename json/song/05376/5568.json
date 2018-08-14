@@ -20,6 +20,93 @@
   "artist_names": [
     "Phase"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Latis",
+      "vote": 1,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 1,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "eefi",
+      "vote": 1,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-10 23:00:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2014-02-10 23:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-08 19:00:00"
+    },
+    {
+      "user": "drobangelo",
+      "vote": 1,
+      "when": "2016-09-04"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 2,
+      "when": "2017-11-10 19:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

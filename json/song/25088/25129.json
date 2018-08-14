@@ -19,5 +19,27 @@
   "artist_names": [
     "Tarantula"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "kwokkie",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-08-10 23:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 5,
+      "when": "2017-12-22 00:54:00"
+    }
+  ],
   "requests": []
 }

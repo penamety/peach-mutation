@@ -22,6 +22,48 @@
   "artist_names": [
     "Danko"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-02 02:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-02 20:15:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-08-01"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

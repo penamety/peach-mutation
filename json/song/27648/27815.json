@@ -25,6 +25,53 @@
   "artist_names": [
     "Stereoman"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-03 18:06:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-19 04:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-01 00:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

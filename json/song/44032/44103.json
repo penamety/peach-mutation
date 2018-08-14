@@ -22,6 +22,43 @@
   "artist_names": [
     "Pseudolukian"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-06-12 19:56:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-06-12 20:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-06-12 20:45:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-06-27 09:53:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-07-31 10:23:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-08-25 09:02:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-05-29 10:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

@@ -20,6 +20,58 @@
   "artist_names": [
     "Traxx"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Archmage",
+      "vote": 1,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-03 01:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-03 01:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-03 01:55:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-03 01:55:00"
+    },
+    {
+      "user": "etray",
+      "vote": 3,
+      "when": "2014-05-27 23:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

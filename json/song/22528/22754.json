@@ -20,6 +20,78 @@
   "artist_names": [
     "Picklehammer"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-11-05 13:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-11-05 13:00:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2014-04-07 00:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-04-07 00:46:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2015-03-07 14:07:00"
+    },
+    {
+      "user": "Triton",
+      "vote": 3,
+      "when": "2015-03-07 14:08:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-07 14:09:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-05-13 16:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-13 16:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

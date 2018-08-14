@@ -23,6 +23,38 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 2,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "PrimeAmsterdam",
+      "vote": 5,
+      "when": "2010-04-03"
+    }
+  ],
   "requests": [
     {
       "user": "anni",

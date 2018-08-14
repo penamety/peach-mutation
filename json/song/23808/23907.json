@@ -24,6 +24,63 @@
   "artist_names": [
     "Rudolf Stember"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Sketch",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-02-09 08:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-20 18:55:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-12 16:11:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-01-10 06:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

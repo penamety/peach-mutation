@@ -19,6 +19,78 @@
   "artist_names": [
     "Sebuko"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-02-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-23 02:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-23 02:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-14 09:35:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-01-14 09:38:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-01-14 09:39:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "OmaOhneBH",
+      "vote": 3,
+      "when": "2016-09-30"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2017-11-19 15:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

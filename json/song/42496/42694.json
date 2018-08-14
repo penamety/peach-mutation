@@ -26,6 +26,58 @@
   "artist_names": [
     "sLASH"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-01-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-02-08"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-02-08"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-02-08"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "freem",
+      "vote": 2,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2018-05-07 18:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-05-07 18:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

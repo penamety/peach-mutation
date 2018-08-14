@@ -23,6 +23,123 @@
   "artist_names": [
     "Gasman"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "eefi",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "morgant",
+      "vote": 5,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "liquidstupid",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2013-09-11 15:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-11 15:51:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-09-11 15:51:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 2,
+      "when": "2013-09-11 15:53:00"
+    },
+    {
+      "user": "Moses",
+      "vote": 3,
+      "when": "2013-09-30 08:09:00"
+    },
+    {
+      "user": "Rapidkirby3k",
+      "vote": 5,
+      "when": "2013-09-30 08:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-02 23:41:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-07-03 18:37:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-07-03 18:38:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-08-22 06:05:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-08-22 06:05:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2017-12-30 07:01:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 1,
+      "when": "2018-02-10 15:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

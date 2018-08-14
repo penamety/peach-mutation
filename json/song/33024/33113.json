@@ -23,6 +23,48 @@
   "artist_names": [
     "Marvin"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 5,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-12 13:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-11 23:58:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-03-03 13:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

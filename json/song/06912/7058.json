@@ -16,6 +16,33 @@
   "last_scraped": "2018-05-23 06:31:34",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-02-17"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

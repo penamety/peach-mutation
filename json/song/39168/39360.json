@@ -24,6 +24,58 @@
   "artist_names": [
     "Ripguy"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-09-19 21:28:00"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-09-19 21:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-19 21:32:00"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2013-09-19 22:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-11-29 11:44:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-29 11:45:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-09 23:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-09 23:34:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2014-06-05 20:33:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-01-11"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

@@ -20,6 +20,63 @@
   "artist_names": [
     "Falcon"
   ],
+  "votes": [
+    {
+      "user": "Latis",
+      "vote": 2,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "GL1zdA",
+      "vote": 2,
+      "when": "2010-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-29 04:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-29 04:00:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2016-11-05 03:26:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2018-04-09 20:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

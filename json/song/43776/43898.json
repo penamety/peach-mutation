@@ -25,6 +25,53 @@
   "artist_names": [
     "Romeo Knight"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-04-16 19:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-04-16 19:31:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-16 19:48:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2017-04-16 19:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-05-03 20:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-05-26 09:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-05-26 09:36:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2017-05-26 09:36:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2017-06-22 18:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

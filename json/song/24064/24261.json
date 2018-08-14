@@ -23,6 +23,73 @@
   "artist_names": [
     "Kendo"
   ],
+  "votes": [
+    {
+      "user": "velusip",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-26 19:30:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-07-26 19:30:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-26 19:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-07-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-07-17"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2015-07-17"
+    },
+    {
+      "user": "Rage",
+      "vote": 4,
+      "when": "2016-10-15 12:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Bonstra",

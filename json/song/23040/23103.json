@@ -19,6 +19,83 @@
   "artist_names": [
     "Putzi"
   ],
+  "votes": [
+    {
+      "user": "RoC",
+      "vote": 3,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Demonted",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-05 04:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-05 05:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-14 21:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-22 18:20:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2015-02-22 18:20:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-02-22 18:21:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2015-02-22 18:24:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-05-10 06:48:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-11-15"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2015-11-15"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -20,6 +20,53 @@
   "artist_names": [
     "NoName and Opad"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-22 02:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-17 00:28:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-05-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-19"
+    }
+  ],
   "requests": [
     {
       "user": "DrCain",

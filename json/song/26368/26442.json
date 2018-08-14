@@ -19,6 +19,53 @@
   "artist_names": [
     "Narfy"
   ],
+  "votes": [
+    {
+      "user": "Xeno",
+      "vote": 2,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Longbow",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ezal",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-23 13:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-24 20:20:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-03-24 20:21:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2017-03-24 01:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

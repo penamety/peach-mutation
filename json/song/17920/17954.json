@@ -20,6 +20,23 @@
   "artist_names": [
     "EvolutionOfVision128"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-07-18"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

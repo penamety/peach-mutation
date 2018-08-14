@@ -21,6 +21,48 @@
   "artist_names": [
     "Mystical"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-07-14"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

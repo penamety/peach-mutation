@@ -24,6 +24,63 @@
   "artist_names": [
     "Corector"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-08-01 21:38:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2014-02-20 05:53:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2014-12-14 23:29:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-02 08:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

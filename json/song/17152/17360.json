@@ -22,6 +22,108 @@
   "artist_names": [
     "Doh"
   ],
+  "votes": [
+    {
+      "user": "HED",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "eefi",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-10 01:47:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-11-02 00:49:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-05-25 11:21:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 4,
+      "when": "2014-12-20 18:55:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-12-20 18:56:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2016-07-02"
+    }
+  ],
   "requests": [
     {
       "user": "Erk",

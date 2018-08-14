@@ -22,6 +22,63 @@
   "artist_names": [
     "Wiklund"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "BeautyNerd",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-20 00:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-20 00:59:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2016-10-24 04:20:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-05-18 06:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Ishaan",

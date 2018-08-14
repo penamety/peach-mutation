@@ -19,6 +19,58 @@
   "artist_names": [
     "Evil"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "tcn",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-28 00:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-28 00:31:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-28 00:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

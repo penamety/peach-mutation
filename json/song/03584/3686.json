@@ -24,6 +24,53 @@
   "artist_names": [
     "Mahoney"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Zac",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-04-01 22:25:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2016-01-04"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2017-03-02 15:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -20,6 +20,48 @@
   "artist_names": [
     "SAMPLE2"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-07-07"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-18"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-08-18"
+    },
+    {
+      "user": "Rage",
+      "vote": 3,
+      "when": "2016-07-10"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

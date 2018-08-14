@@ -19,6 +19,73 @@
   "artist_names": [
     "Dreamfish"
   ],
+  "votes": [
+    {
+      "user": "Octoate",
+      "vote": 2,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-30 08:21:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-30 08:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-12-04 19:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-23 17:58:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2016-12-20 22:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-12-20 22:24:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-12-18 09:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

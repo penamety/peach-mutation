@@ -20,6 +20,53 @@
   "artist_names": [
     "Crazyq"
   ],
+  "votes": [
+    {
+      "user": "H0lySh1t",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-10-29 07:55:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-08 02:59:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-07-26"
+    },
+    {
+      "user": "Triace",
+      "vote": 4,
+      "when": "2015-07-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-04-24 19:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

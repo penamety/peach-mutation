@@ -25,6 +25,63 @@
   "artist_names": [
     "Infamous"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-22 15:14:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-07-03 09:04:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-07-17 11:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-07-17 11:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-08-02 17:57:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-26 14:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-09-08"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-09-08"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-02-11 20:12:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-04-02 13:04:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-04-02 13:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

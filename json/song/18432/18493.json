@@ -19,6 +19,63 @@
   "artist_names": [
     "Gargoyle"
   ],
+  "votes": [
+    {
+      "user": "Zac",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "origpumu",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-11 03:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-11 03:00:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2015-02-01 07:37:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2015-11-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-11-26"
+    }
+  ],
   "requests": [
     {
       "user": "velusip",

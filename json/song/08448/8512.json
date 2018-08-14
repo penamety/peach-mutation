@@ -19,5 +19,22 @@
   "source": "Remix",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-04-03"
+    }
+  ],
   "requests": []
 }

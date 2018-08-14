@@ -25,6 +25,83 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "vgo",
+      "vote": 1,
+      "when": "2009-01-31"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-07-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-06-29 08:26:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-08 13:11:00"
+    },
+    {
+      "user": "DrFlay",
+      "vote": 3,
+      "when": "2014-03-08 13:12:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-04-23 11:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-04-23 11:10:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-12-11"
+    },
+    {
+      "user": "Rapture",
+      "vote": 2,
+      "when": "2016-03-15 05:39:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2016-06-20"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-02-18 17:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

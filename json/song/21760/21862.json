@@ -20,6 +20,73 @@
   "artist_names": [
     "Mordicus"
   ],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Daealis",
+      "vote": 5,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "CanisCanine",
+      "vote": 1,
+      "when": "2014-10-19 01:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-28 12:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-03-28 12:01:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2015-03-28 12:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

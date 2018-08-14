@@ -19,6 +19,48 @@
   "artist_names": [
     "Ultrafex"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-13 20:49:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-12-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2016-04-16 11:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "Ultrasyd",

@@ -26,6 +26,58 @@
   "artist_names": [
     "WOTW"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-06-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-06-27"
+    },
+    {
+      "user": "elef1972",
+      "vote": 5,
+      "when": "2016-06-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-27"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2016-07-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-07-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-07-11"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-07-27"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-09-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-16 08:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

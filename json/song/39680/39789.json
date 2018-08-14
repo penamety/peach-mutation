@@ -23,6 +23,58 @@
   "artist_names": [
     "Vocal"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-19 09:29:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-12-19 09:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-03 16:11:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-05 19:23:00"
+    },
+    {
+      "user": "joes",
+      "vote": 5,
+      "when": "2014-05-20 12:15:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-05-20 12:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-15 12:56:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-13 03:59:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2017-02-22 15:07:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2017-02-22 15:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

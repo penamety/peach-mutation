@@ -20,6 +20,63 @@
   "artist_names": [
     "911"
   ],
+  "votes": [
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2011-11-28"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-27 07:00:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-08-02 17:47:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-12-22 06:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

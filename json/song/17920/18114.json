@@ -21,6 +21,138 @@
   "artist_names": [
     "Falcon"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Kalroth",
+      "vote": 1,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "vacheatuba",
+      "vote": 1,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "SampL",
+      "vote": 3,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "phx23",
+      "vote": 5,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "skall",
+      "vote": 3,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-10-22 15:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-10-22 15:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-22 15:35:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 1,
+      "when": "2013-10-22 15:35:00"
+    },
+    {
+      "user": "traidmill",
+      "vote": 1,
+      "when": "2013-10-22 15:37:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-29 00:08:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-07-13"
+    },
+    {
+      "user": "MyO",
+      "vote": 3,
+      "when": "2016-07-09"
+    },
+    {
+      "user": "_wally",
+      "vote": 3,
+      "when": "2017-10-17 14:25:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-10-17 14:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -22,6 +22,103 @@
   "artist_names": [
     "Superted"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 1,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-06"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2013-05-28 17:00:00"
+    },
+    {
+      "user": "BrandonWalsh",
+      "vote": 1,
+      "when": "2013-05-28 17:00:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-05-28 17:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-28 17:00:00"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 1,
+      "when": "2013-05-28 17:00:00"
+    },
+    {
+      "user": "silok",
+      "vote": 1,
+      "when": "2013-05-28 17:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-09-05 09:04:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2017-02-20 11:44:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-02-20 11:44:00"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2018-04-10 00:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

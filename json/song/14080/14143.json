@@ -22,6 +22,53 @@
   "artist_names": [
     "Ascender"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Jones",
+      "vote": 5,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-05-17 19:56:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2015-08-17"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-08-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-06-16 07:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

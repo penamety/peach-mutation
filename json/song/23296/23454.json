@@ -16,5 +16,27 @@
   "last_scraped": "2018-05-23 04:46:14",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Renderwahn",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "faraday",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "GeraldJerome",
+      "vote": 5,
+      "when": "2012-08-05"
+    }
+  ],
   "requests": []
 }

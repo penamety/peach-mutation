@@ -24,6 +24,33 @@
   "artist_names": [
     "Future Freak"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-02-23 19:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-02-23 19:59:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2018-02-23 22:57:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-02-23 23:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-05-03 08:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

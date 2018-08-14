@@ -21,6 +21,88 @@
   "artist_names": [
     "Soundy"
   ],
+  "votes": [
+    {
+      "user": "aaai",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 2,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "ubbabar",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-16 07:14:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-16 07:17:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-10-08 12:33:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-10-08 12:34:00"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2013-10-08 12:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-18 22:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-01-18 22:19:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 3,
+      "when": "2014-01-18 22:20:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-17"
+    },
+    {
+      "user": "sdjm",
+      "vote": 1,
+      "when": "2016-05-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-02 05:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

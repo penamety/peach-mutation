@@ -19,6 +19,63 @@
   "artist_names": [
     "Hemo"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crt",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-11 15:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-11 15:01:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2017-01-16 17:07:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-03-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-03-30"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

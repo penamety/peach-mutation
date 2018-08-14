@@ -24,6 +24,53 @@
   "artist_names": [
     "rockmonitor"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-02-12"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "zmurf",
+      "vote": 2,
+      "when": "2016-11-02 14:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-12-05 16:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -26,6 +26,163 @@
   "artist_names": [
     "T_S"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-02-25 08:28:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-25 08:28:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 2,
+      "when": "2015-02-25 08:30:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-02-25 08:31:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-02-25 08:31:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 1,
+      "when": "2015-03-06 14:07:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 1,
+      "when": "2015-03-06 14:07:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2015-03-06 14:08:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-03-06 14:08:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 1,
+      "when": "2015-03-06 14:10:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2015-03-06 14:10:00"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2015-03-06 14:12:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2015-04-23 20:45:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2015-04-23 20:49:00"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2015-04-23 20:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-04-23 21:00:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2015-08-17"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 1,
+      "when": "2015-10-27"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-10-27"
+    },
+    {
+      "user": "epso",
+      "vote": 5,
+      "when": "2015-10-27"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-03-08 12:11:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 1,
+      "when": "2016-12-11 15:39:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 3,
+      "when": "2018-02-12 18:02:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2018-02-12 18:02:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-02-12 18:03:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2018-02-12 18:03:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2018-02-12 18:05:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2018-02-12 18:05:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2018-06-09 22:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-06-09 22:58:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2018-06-09 22:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -25,6 +25,58 @@
   "artist_names": [
     "Gin"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-02-07"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 4,
+      "when": "2016-02-07"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2016-02-07"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Shinsakuto",
+      "vote": 4,
+      "when": "2016-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-11-08 23:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

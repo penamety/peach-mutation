@@ -24,6 +24,78 @@
   "artist_names": [
     "Wode"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-12-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-25 16:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-25 17:01:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-25 17:03:00"
+    },
+    {
+      "user": "sprocket",
+      "vote": 2,
+      "when": "2014-03-17 15:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-06-22 20:51:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-09-26 11:58:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2018-01-15 02:16:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-03-29 08:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "hornpipe2",

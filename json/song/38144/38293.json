@@ -25,5 +25,17 @@
   "artist_names": [
     "Corwin"
   ],
+  "votes": [
+    {
+      "user": "liquidstupid",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 1,
+      "when": "2017-05-16 18:32:00"
+    }
+  ],
   "requests": []
 }

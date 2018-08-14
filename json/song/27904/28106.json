@@ -26,6 +26,113 @@
   "artist_names": [
     "Lemmus"
   ],
+  "votes": [
+    {
+      "user": "MyO",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "big_bear",
+      "vote": 2,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "sLASH",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Sixx",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-21 04:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-21 04:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-10-13 20:45:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-02-09 16:01:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-03-18 09:03:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 3,
+      "when": "2015-03-18 09:03:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-03-18 09:04:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-03-18 09:05:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-18 09:05:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 3,
+      "when": "2018-04-01 06:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "sLASH",

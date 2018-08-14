@@ -21,6 +21,73 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "vvvvvv",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-06-10 21:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-10 21:29:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-15 01:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-06-17 11:26:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2014-11-07 18:03:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-17 17:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-12-17 18:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

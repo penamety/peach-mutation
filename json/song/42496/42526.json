@@ -26,6 +26,53 @@
   "artist_names": [
     "Amigo"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2015-11-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-03-22 20:33:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2016-03-22 20:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

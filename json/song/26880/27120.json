@@ -23,6 +23,68 @@
   "artist_names": [
     "Fortunato"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-12 14:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-12 13:03:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2014-02-12 13:04:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-10-24 14:50:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-10-24 14:50:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-04-26 08:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

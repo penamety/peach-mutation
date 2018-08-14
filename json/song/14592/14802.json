@@ -19,6 +19,53 @@
   "artist_names": [
     "benJam"
   ],
+  "votes": [
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-01 22:23:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-01 22:27:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-10 11:25:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-10 11:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

@@ -24,6 +24,68 @@
   "artist_names": [
     "Busy Brain"
   ],
+  "votes": [
+    {
+      "user": "LoveMetal",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "jesper",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-10 10:58:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-01-18 20:47:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-18 20:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

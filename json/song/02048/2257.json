@@ -23,6 +23,153 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "FishGuy876",
+      "vote": 5,
+      "when": "2008-11-01"
+    },
+    {
+      "user": "BarZoule",
+      "vote": 5,
+      "when": "2008-12-01"
+    },
+    {
+      "user": "Danger",
+      "vote": 5,
+      "when": "2008-12-01"
+    },
+    {
+      "user": "codehead",
+      "vote": 1,
+      "when": "2009-01-01"
+    },
+    {
+      "user": "MiguelAtWork",
+      "vote": 2,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "Rolemaster",
+      "vote": 3,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "Gluttony",
+      "vote": 3,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "arab",
+      "vote": 2,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 2,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-13 06:23:00"
+    },
+    {
+      "user": "impishrazor",
+      "vote": 5,
+      "when": "2013-06-13 06:27:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-09-18 15:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-18 15:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-18 15:20:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2014-10-22 12:26:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2014-10-22 12:27:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-10-22 12:27:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2014-10-22 12:29:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-06-08 02:44:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 3,
+      "when": "2016-09-10"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-01-06 00:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "Stormdragonblue",

@@ -24,6 +24,78 @@
   "artist_names": [
     "Blair Zuppicich"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-02-07"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-10 22:01:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2013-07-10 22:01:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-09-18 20:59:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-09-18 20:59:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-09-18 21:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-09-18 21:32:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-22 12:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-11-22 12:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2017-02-19"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

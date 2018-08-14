@@ -19,6 +19,53 @@
   "artist_names": [
     "DJ 3.14"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 5,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Artefact2",
+      "vote": 2,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-12-13 12:44:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-07-06 13:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

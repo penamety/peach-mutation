@@ -19,6 +19,68 @@
   "artist_names": [
     "Error303"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-10-25 07:51:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-10-25 07:51:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 4,
+      "when": "2016-01-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-01-05"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-01-22 07:48:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2017-09-27 00:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-09-27 00:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

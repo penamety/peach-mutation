@@ -26,6 +26,43 @@
   "artist_names": [
     "CeDeROM"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "p2502",
+      "vote": 1,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "ldc",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2012-02-12"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-06-26"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

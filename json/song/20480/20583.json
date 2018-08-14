@@ -20,6 +20,58 @@
   "artist_names": [
     "Little Bitchard"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-06-24 11:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-03-09 12:53:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-03-09 12:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-06-22 02:57:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2017-06-22 02:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-06-24 11:36:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-06-24 11:35:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-06-24 11:34:00"
+    },
+    {
+      "user": "exocet",
+      "vote": 5,
+      "when": "2018-03-09 12:53:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-06-24 11:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

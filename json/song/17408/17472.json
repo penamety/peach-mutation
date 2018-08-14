@@ -20,6 +20,53 @@
   "artist_names": [
     "Dor X"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 1,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-05-16"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-09-12 12:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-12 12:29:00"
+    },
+    {
+      "user": "adrenalinetooth",
+      "vote": 3,
+      "when": "2015-05-10 05:52:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-04-11 09:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

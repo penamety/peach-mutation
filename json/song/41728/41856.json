@@ -24,6 +24,58 @@
   "artist_names": [
     "Corrosion"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-04-04 22:24:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2015-04-21 10:18:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-05-30 17:24:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-06-27 21:26:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-27"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2015-10-10"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2015-12-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-12-27"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-05-25 00:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

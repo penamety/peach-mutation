@@ -20,6 +20,63 @@
   "artist_names": [
     "Maelcum"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "ldc",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-05-28 15:00:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-05-28 15:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-28 15:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-04-19 21:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-03-02 12:24:00"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 3,
+      "when": "2017-03-08 12:56:00"
+    },
+    {
+      "user": "plc",
+      "vote": 1,
+      "when": "2017-03-08 12:56:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-09-24 17:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

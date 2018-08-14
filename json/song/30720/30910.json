@@ -24,6 +24,93 @@
   "artist_names": [
     "Siren"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "AvAxx",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Rapido",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "scanjam",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "t4s0thcmdr",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "prismate",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-06-06 18:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-06-06 18:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-06-06 18:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-10-20 18:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-20 18:55:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-10-20 18:55:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2017-07-16 10:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "darkh",

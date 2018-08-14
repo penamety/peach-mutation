@@ -20,6 +20,78 @@
   "artist_names": [
     "Tren"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-16 18:14:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-02-11 10:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-11 12:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-08-11 12:02:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-08-11 12:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

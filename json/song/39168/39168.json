@@ -26,6 +26,58 @@
   "artist_names": [
     "Leopart"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-15 14:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-08-15 14:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-08 07:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-09-08 23:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-12-12 12:17:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-08 02:57:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2014-09-03 02:51:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-01-31 16:45:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2018-01-31 16:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

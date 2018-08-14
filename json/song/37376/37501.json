@@ -26,6 +26,93 @@
   "artist_names": [
     "Peacemaker"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-06-01 19:00:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 5,
+      "when": "2014-04-23 18:26:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-04-23 18:30:00"
+    },
+    {
+      "user": "eefi",
+      "vote": 3,
+      "when": "2014-04-23 18:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-19 16:07:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 3,
+      "when": "2015-03-19 16:08:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-09-01"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

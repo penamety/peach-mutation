@@ -23,6 +23,78 @@
   "artist_names": [
     "Maelcum"
   ],
+  "votes": [
+    {
+      "user": "Melo",
+      "vote": 3,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-03-09"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "tomi",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2013-07-21 21:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-21 21:55:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-07-21 21:55:00"
+    },
+    {
+      "user": "Dadu207",
+      "vote": 1,
+      "when": "2014-04-06 12:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-04-06 12:46:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 2,
+      "when": "2018-02-11 02:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "steveatnip",

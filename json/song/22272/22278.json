@@ -21,6 +21,73 @@
   "artist_names": [
     "Nobuyuki"
   ],
+  "votes": [
+    {
+      "user": "MyO",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-18 17:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-18 17:17:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 4,
+      "when": "2015-03-11 03:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-12 19:03:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-05-26 13:57:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-05-26 13:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

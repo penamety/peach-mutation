@@ -21,6 +21,73 @@
   "artist_names": [
     "Axel"
   ],
+  "votes": [
+    {
+      "user": "Manwe",
+      "vote": 3,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-10-25 07:13:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-10-25 07:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-18 09:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-18 09:19:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-11-18 11:30:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-18 11:31:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-11-18 11:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-11-19 06:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

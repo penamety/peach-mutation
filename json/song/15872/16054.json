@@ -19,6 +19,68 @@
   "artist_names": [
     "CoLD SToRAGE"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-06 04:00:00"
+    },
+    {
+      "user": "wizard",
+      "vote": 1,
+      "when": "2013-11-06 04:00:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2017-05-03 18:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

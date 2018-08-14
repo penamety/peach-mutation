@@ -25,6 +25,73 @@
   "artist_names": [
     "Andrew Kolesnik"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-01-13 14:52:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2015-01-13 14:56:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-22 09:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-01-22 09:28:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-01-22 09:29:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-13 17:12:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-02-13 17:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-02-13 18:16:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-05-21"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-05-21"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-09-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-06 23:26:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2018-01-15 01:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

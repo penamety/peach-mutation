@@ -24,6 +24,68 @@
   "artist_names": [
     "Pink"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-31 01:05:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2013-08-31 01:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-31 01:28:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-05-03 22:26:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-05-08 09:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

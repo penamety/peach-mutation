@@ -21,6 +21,103 @@
   "artist_names": [
     "Dubmood"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Zac",
+      "vote": 5,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "oryx",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-29 07:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "Ishaan",

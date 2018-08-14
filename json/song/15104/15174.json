@@ -21,6 +21,93 @@
   "artist_names": [
     "Brm"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "psyd3r",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "WTFcore",
+      "vote": 1,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2013-07-18 17:48:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-07-18 17:48:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-07-18 17:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-18 17:51:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-04-22 12:23:00"
+    },
+    {
+      "user": "tohe",
+      "vote": 4,
+      "when": "2015-06-20 13:06:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2015-06-20 13:14:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-07-31"
+    }
+  ],
   "requests": [
     {
       "user": "eclectro",

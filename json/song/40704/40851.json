@@ -24,6 +24,58 @@
   "artist_names": [
     "Kane wood"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-08-19 13:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-08-19 13:00:00"
+    },
+    {
+      "user": "exocet",
+      "vote": 3,
+      "when": "2014-08-19 13:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-08-19 13:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-08-30 19:22:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-09-26 20:12:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-09-26 20:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-11-02 22:01:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-10-08"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-10-08"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

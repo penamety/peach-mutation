@@ -16,6 +16,28 @@
   "last_scraped": "2018-05-22 21:38:00",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2011-11-07"
+    },
+    {
+      "user": "Szrachnor",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Moses",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2012-02-01"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

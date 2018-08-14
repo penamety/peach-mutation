@@ -19,6 +19,68 @@
   "artist_names": [
     "Adept"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 3,
+      "when": "2010-04-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-10-24"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-07-20 18:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-20 18:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-20 18:30:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-05-17 22:16:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-05-01 03:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

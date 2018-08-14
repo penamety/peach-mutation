@@ -25,6 +25,58 @@
   "artist_names": [
     "Beek"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-12-21"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-10-07 07:21:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-03-19 01:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

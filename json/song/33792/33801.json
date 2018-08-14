@@ -21,6 +21,118 @@
   "artist_names": [
     "Marcer"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "vanward",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 2,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "jakov",
+      "vote": 3,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-10-26 09:07:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2015-02-20 22:23:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 1,
+      "when": "2015-02-20 22:23:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2017-05-12 21:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-12 21:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "vanward",

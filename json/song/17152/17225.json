@@ -20,6 +20,73 @@
   "artist_names": [
     "DJ 3.14"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-06-30 19:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-17 03:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-22 08:50:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-01-22 08:50:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 1,
+      "when": "2014-11-28 17:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-23 04:58:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2018-03-31 08:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

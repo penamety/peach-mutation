@@ -19,6 +19,53 @@
   "artist_names": [
     "Kenshi"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "MyO",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-05-28 15:00:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-05-28 15:00:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-28 15:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-28 15:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-28 15:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -22,6 +22,158 @@
   "artist_names": [
     "Boz"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2008-12-01"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2009-01-31"
+    },
+    {
+      "user": "Tungsten",
+      "vote": 5,
+      "when": "2009-01-31"
+    },
+    {
+      "user": "Longbow",
+      "vote": 3,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "Rirsuhacker",
+      "vote": 4,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 4,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 4,
+      "when": "2010-01-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-01-31"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-01-31"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "Octoate",
+      "vote": 3,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "SampL",
+      "vote": 4,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Lancastersilk",
+      "vote": 4,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-07-29 13:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-29 13:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-12-02 13:26:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-03-17 21:34:00"
+    },
+    {
+      "user": "JosephCollins",
+      "vote": 4,
+      "when": "2014-03-17 21:35:00"
+    },
+    {
+      "user": "HaasiD",
+      "vote": 5,
+      "when": "2014-06-22 22:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-09-25 19:53:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-09-25 19:54:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2015-12-03"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2015-12-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-01-24"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-02-28 12:46:00"
+    },
+    {
+      "user": "Mindiell",
+      "vote": 3,
+      "when": "2017-07-07 15:46:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-02-28 08:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "Starchaser",

@@ -24,6 +24,73 @@
   "artist_names": [
     "Axel"
   ],
+  "votes": [
+    {
+      "user": "deathy",
+      "vote": 2,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "H0lySh1t",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-02-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "zmurf",
+      "vote": 4,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-12 00:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-12 00:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-12 00:40:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-12-23 06:50:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-05-12 10:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-05-12 10:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

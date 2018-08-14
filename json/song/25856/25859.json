@@ -19,6 +19,73 @@
   "artist_names": [
     "Tren"
   ],
+  "votes": [
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "Feuermurmel",
+      "vote": 1,
+      "when": "2013-11-27 17:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-11-27 17:03:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-10-19 18:45:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-03-23 23:29:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-03-23 23:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

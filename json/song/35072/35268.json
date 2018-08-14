@@ -22,6 +22,138 @@
   "artist_names": [
     "Touldie"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-06-03 10:57:00"
+    },
+    {
+      "user": "Sketch",
+      "vote": 4,
+      "when": "2013-06-03 10:59:00"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2013-06-03 11:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-08-29 19:56:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2013-10-27 23:10:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 5,
+      "when": "2013-10-27 23:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-21 22:43:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 4,
+      "when": "2014-03-21 22:24:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-10-15 14:52:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 4,
+      "when": "2014-12-19 21:01:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-12-19 21:01:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-03-23"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-08-13 11:21:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-08-13 11:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

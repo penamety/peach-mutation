@@ -23,6 +23,78 @@
   "artist_names": [
     "Matths"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "miggyb",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "OSH",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "enzo",
+      "vote": 2,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Axioplase",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-07-23 12:05:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-23 12:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-23 12:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-25 21:26:00"
+    },
+    {
+      "user": "blindpilot",
+      "vote": 4,
+      "when": "2014-03-25 21:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

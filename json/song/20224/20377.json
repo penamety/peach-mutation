@@ -19,6 +19,68 @@
   "artist_names": [
     "Kxmode"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-18 09:50:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-01-18 09:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-06-30 22:26:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2015-09-28"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-04-04"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

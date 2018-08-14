@@ -25,6 +25,48 @@
   "artist_names": [
     "Zone"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-12-30 16:56:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-12-30 17:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-01 12:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-26 22:43:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-04-26 22:44:00"
+    },
+    {
+      "user": "OSH",
+      "vote": 5,
+      "when": "2014-07-16 18:20:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-06-10 14:41:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2015-06-10 14:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

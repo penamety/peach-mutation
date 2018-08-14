@@ -19,6 +19,63 @@
   "artist_names": [
     "Phil Bak"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "hyde",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-12-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "x3lis",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-07-09 14:48:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-07-09 14:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-12 02:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

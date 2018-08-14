@@ -23,6 +23,98 @@
   "artist_names": [
     "Agemixer"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 5,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Recycler",
+      "vote": 3,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 5,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "jakov",
+      "vote": 5,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 5,
+      "when": "2013-02-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-08-09 17:09:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2013-09-30 21:56:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-09-30 21:56:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-11-12 00:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-11-12 00:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-12 00:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-04-24 07:21:00"
+    },
+    {
+      "user": "cube",
+      "vote": 5,
+      "when": "2016-07-01"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-06-15 10:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

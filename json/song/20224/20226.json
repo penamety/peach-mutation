@@ -16,6 +16,48 @@
   "last_scraped": "2018-05-23 07:19:05",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Axioplase",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "bledking",
+      "vote": 4,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 4,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "jkolb",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-11-03"
+    }
+  ],
   "requests": [
     {
       "user": "t4s0thcmdr",

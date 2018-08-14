@@ -26,6 +26,68 @@
   "artist_names": [
     "Judge Brad"
   ],
+  "votes": [
+    {
+      "user": "Latis",
+      "vote": 5,
+      "when": "2014-12-30 13:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-12-30 13:48:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 5,
+      "when": "2014-12-30 13:49:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-12-30 13:51:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-12-30 13:51:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-01-07 22:00:00"
+    },
+    {
+      "user": "jass0",
+      "vote": 4,
+      "when": "2015-01-09 14:21:00"
+    },
+    {
+      "user": "Desirsar",
+      "vote": 3,
+      "when": "2015-03-21 03:17:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2015-03-21 03:20:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-04-25 08:13:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-05-23 04:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

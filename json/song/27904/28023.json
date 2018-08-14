@@ -20,6 +20,78 @@
   "artist_names": [
     "Teque"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Colidace",
+      "vote": 3,
+      "when": "2013-07-05 13:26:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-05 13:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-05 13:29:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-14 10:32:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2014-02-14 10:33:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-02-14 10:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-20 10:44:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-09-20 10:45:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-09-20 10:48:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

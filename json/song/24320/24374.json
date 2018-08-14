@@ -19,6 +19,58 @@
   "artist_names": [
     "Simen"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-09-27 14:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-27 14:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-29 22:41:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-12-22 10:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-12-14 01:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

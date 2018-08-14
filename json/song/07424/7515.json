@@ -25,6 +25,73 @@
   "artist_names": [
     "CPT"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-07-29 20:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-29 20:26:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2014-01-02 21:51:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2015-01-11 20:26:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-01-11 20:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-01-11 20:27:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-01-11 20:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-04-24 14:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

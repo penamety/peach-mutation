@@ -22,6 +22,113 @@
   "artist_names": [
     "Dr. Awesome"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-24"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-08-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-26 23:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-26 23:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-06-29 20:12:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 4,
+      "when": "2015-07-21"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-09-20"
+    },
+    {
+      "user": "Rage",
+      "vote": 5,
+      "when": "2015-09-20"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-09-20"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2016-02-29 19:47:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-02-29 19:47:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-03-25 11:03:00"
+    },
+    {
+      "user": "eefi",
+      "vote": 3,
+      "when": "2016-03-25 11:07:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-04-19 20:04:00"
+    },
+    {
+      "user": "EXJ",
+      "vote": 4,
+      "when": "2016-04-19 20:05:00"
+    },
+    {
+      "user": "Colidace",
+      "vote": 3,
+      "when": "2016-05-14 11:08:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2016-08-09"
+    },
+    {
+      "user": "wig",
+      "vote": 3,
+      "when": "2016-11-05 19:52:00"
+    },
+    {
+      "user": "Rahta",
+      "vote": 5,
+      "when": "2017-04-15 16:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

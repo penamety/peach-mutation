@@ -18,6 +18,73 @@
   "last_scraped": "2018-05-23 01:18:04",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "NaN",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "matsim",
+      "vote": 3,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "revenant",
+      "vote": 4,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "cxw",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "ThunderBird",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-08-02"
+    }
+  ],
   "requests": [
     {
       "user": "LittleWhite",

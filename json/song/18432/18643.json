@@ -20,6 +20,93 @@
   "artist_names": [
     "Genosha"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Manax",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Strongground",
+      "vote": 5,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-09-13 12:24:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-17 18:57:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2014-02-17 19:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-02-17 19:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "essential",
+      "vote": 3,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2017-05-05 22:03:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2017-05-05 22:04:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2017-05-05 22:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

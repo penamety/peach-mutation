@@ -21,6 +21,93 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Sirocco",
+      "vote": 1,
+      "when": "2013-06-24 06:03:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-11-07 02:30:00"
+    },
+    {
+      "user": "Sixx",
+      "vote": 1,
+      "when": "2015-08-31"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-08-31"
+    },
+    {
+      "user": "Thexder",
+      "vote": 1,
+      "when": "2015-10-31"
+    },
+    {
+      "user": "silok",
+      "vote": 1,
+      "when": "2015-10-31"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2017-02-16 10:14:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 1,
+      "when": "2017-02-16 10:16:00"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 1,
+      "when": "2018-02-19 09:32:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2018-02-19 09:32:00"
+    },
+    {
+      "user": "atom32k",
+      "vote": 1,
+      "when": "2018-04-20 10:48:00"
+    },
+    {
+      "user": "Kelly_R",
+      "vote": 2,
+      "when": "2018-04-20 10:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

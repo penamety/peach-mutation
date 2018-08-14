@@ -23,6 +23,238 @@
   "artist_names": [
     "Scorpion"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "tunah",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "apocalyptiq",
+      "vote": 5,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "funnyn8",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "deathy",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "KoCaine",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Smanux",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Zac",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "antipod",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "korkut",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Speeder",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Genetic_Gemini",
+      "vote": 3,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 4,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "AlphaC",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "medic",
+      "vote": 5,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Machforr",
+      "vote": 3,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-28 01:21:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-10-28 08:09:00"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 4,
+      "when": "2013-12-12 17:47:00"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 4,
+      "when": "2013-12-12 17:50:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-04-15 14:03:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 4,
+      "when": "2014-08-21 19:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "DH",

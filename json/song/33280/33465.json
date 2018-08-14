@@ -22,5 +22,22 @@
   "artist_names": [
     "Nutcase"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "grachev",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-20 22:00:00"
+    }
+  ],
   "requests": []
 }

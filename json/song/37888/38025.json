@@ -25,6 +25,88 @@
   "artist_names": [
     "Noname"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2014-01-18 00:29:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-04-30 19:25:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-30 19:26:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-30 19:27:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-29 12:34:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2017-04-29 12:34:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 3,
+      "when": "2017-04-29 12:35:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-04-29 12:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -26,6 +26,58 @@
   "artist_names": [
     "pOWL "
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-07-24 14:29:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-24 14:32:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-26 17:00:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2015-08-29"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-17 12:49:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-04-17 12:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

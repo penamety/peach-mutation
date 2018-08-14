@@ -24,6 +24,63 @@
   "artist_names": [
     "Ripguy"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "armeS",
+      "vote": 5,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-25 15:15:00"
+    },
+    {
+      "user": "adrenalinetooth",
+      "vote": 4,
+      "when": "2015-05-15 03:52:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 4,
+      "when": "2015-08-29"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2016-09-05"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-07-03 02:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "crrr",

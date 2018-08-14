@@ -25,6 +25,103 @@
   "artist_names": [
     "Randall"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2013-07-20 16:57:00"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-07-20 16:59:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-20 16:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-21 21:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-02-12 21:12:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2015-02-12 21:12:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 2,
+      "when": "2015-02-12 21:14:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2017-06-28 19:32:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-06-28 19:36:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 2,
+      "when": "2018-05-29 16:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

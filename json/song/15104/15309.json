@@ -23,6 +23,118 @@
   "artist_names": [
     "Buzzer"
   ],
+  "votes": [
+    {
+      "user": "Flatline",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 5,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2013-06-12 07:46:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-12 07:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-12 07:47:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-12 07:48:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-05-01 13:53:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 4,
+      "when": "2014-05-01 13:54:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-05-01 13:58:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-12-31 15:36:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 4,
+      "when": "2014-12-31 16:13:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-27 13:13:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-08-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-02-09"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 4,
+      "when": "2017-04-02"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-01-01 00:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

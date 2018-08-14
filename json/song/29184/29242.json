@@ -23,6 +23,53 @@
   "artist_names": [
     "Evrimsson"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-07-01 09:24:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-01 09:25:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-01 09:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-02 18:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-06-02 18:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

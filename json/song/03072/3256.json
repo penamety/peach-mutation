@@ -19,6 +19,63 @@
   "artist_names": [
     "Jam and Spoon"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "seizki",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2011-12-07"
+    },
+    {
+      "user": "warhawk",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 5,
+      "when": "2014-04-01 02:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-08-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2017-02-06 14:15:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-02-06 14:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "Erk",

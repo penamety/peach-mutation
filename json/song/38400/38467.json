@@ -25,6 +25,58 @@
   "artist_names": [
     "X-Jammer"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "hedning",
+      "vote": 5,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-05 16:30:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-02-15 12:59:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2017-02-15 13:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "sLASH",

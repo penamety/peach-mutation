@@ -22,6 +22,88 @@
   "artist_names": [
     "Nagz"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "micksam7",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "perfectcode",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Rirsuhacker",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "miggyb",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "LimeProselyte",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 2,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "The_Tubes",
+      "vote": 5,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-08 09:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-08 09:21:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-07-08 09:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-10-07 00:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-25 13:00:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2015-03-25 13:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-10"
+    }
+  ],
   "requests": [
     {
       "user": "DH",

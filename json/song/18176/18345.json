@@ -24,6 +24,83 @@
   "artist_names": [
     "Fred"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Susanna",
+      "vote": 2,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-09-13 20:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-13 20:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-13 20:53:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2013-09-13 20:53:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-01-26"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2018-01-26 20:41:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-01-26 20:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "DennyGSXR",

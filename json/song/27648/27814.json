@@ -23,6 +23,78 @@
   "artist_names": [
     "Hocus-Pocus"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Frumple",
+      "vote": 1,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-17 16:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-17 16:59:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2017-01-19 18:01:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-03-07 07:36:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-04-21 17:28:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2018-04-21 17:29:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-04-21 17:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

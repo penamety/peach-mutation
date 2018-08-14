@@ -20,6 +20,73 @@
   "artist_names": [
     "Distance"
   ],
+  "votes": [
+    {
+      "user": "syntetic_man",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-16 06:23:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-08-03"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-09-12"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2016-09-12"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-06-14 19:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-06-14 19:12:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-06-14 19:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-06-14 20:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "syntetic_man",

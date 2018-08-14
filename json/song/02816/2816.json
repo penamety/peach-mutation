@@ -22,6 +22,83 @@
   "artist_names": [
     "Gladiator"
   ],
+  "votes": [
+    {
+      "user": "qbit",
+      "vote": 3,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "tas",
+      "vote": 3,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-10-11 13:36:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-10-11 13:36:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-27 08:53:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-27 08:55:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-10-18"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2016-12-21 23:23:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2017-04-22 20:52:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2018-04-29 19:26:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2018-04-29 19:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

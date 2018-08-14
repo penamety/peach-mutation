@@ -26,6 +26,88 @@
   "artist_names": [
     "Croon"
   ],
+  "votes": [
+    {
+      "user": "BeautyNerd",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "rombust",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "tas",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-19 14:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-12-04 12:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-02-11 05:59:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-07-22"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-07-22"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-11-11 22:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

@@ -22,6 +22,103 @@
   "artist_names": [
     "Wire"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "tomi",
+      "vote": 4,
+      "when": "2013-06-19 23:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-19 23:56:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2013-06-19 23:59:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2013-09-27 17:05:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-09-27 17:07:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-11-14 07:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-14 07:44:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-02-27 17:15:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-05-27 20:42:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2015-05-17 19:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

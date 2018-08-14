@@ -21,6 +21,33 @@
   "artist_names": [
     "Carlos"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-03-05 08:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-03-05 08:10:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-30 08:09:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2018-03-30 08:10:00"
+    },
+    {
+      "user": "SampL",
+      "vote": 3,
+      "when": "2018-06-12 08:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -20,6 +20,93 @@
   "artist_names": [
     "Tito"
   ],
+  "votes": [
+    {
+      "user": "gauri",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "selmi",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-01-07"
+    },
+    {
+      "user": "ldc",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-07-11 02:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-07-11 02:29:00"
+    },
+    {
+      "user": "FroggyMe",
+      "vote": 5,
+      "when": "2013-07-11 02:30:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-11 02:32:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-19 22:08:00"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-10-19 22:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-19 22:12:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-10-19 22:16:00"
+    },
+    {
+      "user": "fred532",
+      "vote": 1,
+      "when": "2015-09-06"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-09-06"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-05-07 21:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

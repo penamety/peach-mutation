@@ -17,5 +17,17 @@
   "last_scraped": "2018-05-23 00:35:40",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 5,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2010-08-03"
+    }
+  ],
   "requests": []
 }

@@ -23,6 +23,58 @@
   "artist_names": [
     "Praiser"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-02-17 15:06:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-03 15:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-05 08:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

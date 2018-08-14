@@ -19,6 +19,83 @@
   "artist_names": [
     "Oxbow"
   ],
+  "votes": [
+    {
+      "user": "infinigon",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-28 22:53:00"
+    },
+    {
+      "user": "honorabili",
+      "vote": 5,
+      "when": "2013-06-28 22:53:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-28 22:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-28 22:56:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-28 22:56:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-28 23:09:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-09 09:56:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-04-25 19:55:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-04-25 19:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

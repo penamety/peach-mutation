@@ -19,6 +19,48 @@
   "artist_names": [
     "Superted"
   ],
+  "votes": [
+    {
+      "user": "miggyb",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-17 19:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-07-26 07:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "miggyb",

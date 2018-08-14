@@ -27,6 +27,73 @@
   "artist_names": [
     "NightRadio"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-05 00:08:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-05 00:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-05 00:11:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2013-10-13 21:49:00"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-10-13 21:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-03-22 20:40:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 2,
+      "when": "2015-03-22 20:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

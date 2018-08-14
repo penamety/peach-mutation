@@ -21,6 +21,68 @@
   "artist_names": [
     "Revel Craft"
   ],
+  "votes": [
+    {
+      "user": "Octoate",
+      "vote": 2,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-09-07 21:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-07 21:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-14 21:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-02-01 22:16:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2017-01-13 11:57:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-06-02 13:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

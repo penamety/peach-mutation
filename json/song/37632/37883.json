@@ -26,6 +26,88 @@
   "artist_names": [
     "Kevod"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "yeep",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "BitArts",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-01-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Fireball",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-17 13:00:00"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 2,
+      "when": "2013-11-02 21:13:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-13 12:43:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-03-13 12:44:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-06-09"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

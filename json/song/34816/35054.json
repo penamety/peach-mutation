@@ -23,6 +23,68 @@
   "artist_names": [
     "Surgeon"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-02-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "flash",
+      "vote": 5,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "lenny",
+      "vote": 3,
+      "when": "2013-12-14 21:23:00"
+    },
+    {
+      "user": "bmn",
+      "vote": 5,
+      "when": "2014-09-24 21:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-09-24 21:10:00"
+    },
+    {
+      "user": "scanjam",
+      "vote": 3,
+      "when": "2014-09-24 21:10:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-11-12"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-06-05 15:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -19,6 +19,58 @@
   "artist_names": [
     "Sir Psycho"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-03-08"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-03 16:06:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-05-30 14:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

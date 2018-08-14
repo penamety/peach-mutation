@@ -26,6 +26,93 @@
   "artist_names": [
     "Triton"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-03-01 10:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-01 10:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-01 10:48:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-03-31 17:27:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-04-15 09:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-15 09:51:00"
+    },
+    {
+      "user": "MageOnline",
+      "vote": 5,
+      "when": "2014-04-15 09:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-04-15 09:52:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-30 20:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-04-30 20:09:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-08 14:36:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2015-12-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2015-12-15"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2016-02-13"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2016-02-13"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2017-08-17 17:20:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-08-17 17:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

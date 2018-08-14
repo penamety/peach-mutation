@@ -25,6 +25,58 @@
   "artist_names": [
     "DeeS"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Machforr",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-22 08:38:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-07-22 08:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-05 20:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-06-23"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-09-03 06:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arktos",

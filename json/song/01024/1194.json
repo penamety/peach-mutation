@@ -19,6 +19,58 @@
   "artist_names": [
     "CJ Imperium"
   ],
+  "votes": [
+    {
+      "user": "RoC",
+      "vote": 1,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "Sirocco",
+      "vote": 1,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 1,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-17 01:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-17 01:54:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2017-02-28 14:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

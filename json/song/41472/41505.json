@@ -25,6 +25,68 @@
   "artist_names": [
     "Suha"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-01-08 20:42:00"
+    },
+    {
+      "user": "Abrahaz",
+      "vote": 5,
+      "when": "2015-01-09 12:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-01-09 12:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-01-09 12:23:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-01-09 12:24:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-04 15:34:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-03-04 15:37:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-04-23 12:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-14 03:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-02-08 13:00:00"
+    },
+    {
+      "user": "G_o_D",
+      "vote": 3,
+      "when": "2017-02-08 13:27:00"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 3,
+      "when": "2017-02-08 13:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

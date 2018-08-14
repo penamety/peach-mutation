@@ -19,6 +19,68 @@
   "artist_names": [
     "Kalachnikov"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-09 17:05:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-07-09 17:06:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-09 17:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-09 17:07:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-07-09 17:07:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-03-02 23:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

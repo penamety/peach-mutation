@@ -20,5 +20,27 @@
   "artist_names": [
     "DHS"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2008-12-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "ubbabar",
+      "vote": 2,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-05 12:00:00"
+    }
+  ],
   "requests": []
 }

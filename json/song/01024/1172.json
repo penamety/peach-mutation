@@ -21,6 +21,108 @@
   "artist_names": [
     "Rico"
   ],
+  "votes": [
+    {
+      "user": "chazu",
+      "vote": 3,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-05 00:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-05 00:04:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-05 00:07:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-10-20 02:42:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2013-10-20 02:45:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-23 17:46:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-01-24 13:58:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2015-01-24 13:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-01-24 14:33:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-04-30 20:08:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 5,
+      "when": "2015-08-27"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-02-15"
+    },
+    {
+      "user": "bmn",
+      "vote": 4,
+      "when": "2017-04-14 01:35:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2018-03-12 20:08:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-03-12 20:12:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-03-12 20:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "Chakotay",

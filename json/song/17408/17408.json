@@ -19,6 +19,98 @@
   "artist_names": [
     "Codasm"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Bonstra",
+      "vote": 2,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-11-06 07:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-12-18 18:15:00"
+    },
+    {
+      "user": "Melo",
+      "vote": 1,
+      "when": "2014-12-18 18:16:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2014-12-18 18:16:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 2,
+      "when": "2014-12-18 18:16:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2014-12-18 18:17:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2015-06-01 16:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-09-12"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

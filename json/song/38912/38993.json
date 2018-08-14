@@ -24,6 +24,108 @@
   "artist_names": [
     "Darwin"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-07-05 15:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-05 15:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-07-29 16:31:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-07-29 16:32:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-07-29 16:32:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 2,
+      "when": "2013-07-29 16:32:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-07-29 16:32:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-07-29 16:33:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-07-29 16:33:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 1,
+      "when": "2013-09-19 12:16:00"
+    },
+    {
+      "user": "deot",
+      "vote": 2,
+      "when": "2013-09-19 12:17:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2013-09-19 12:18:00"
+    },
+    {
+      "user": "antipod",
+      "vote": 1,
+      "when": "2013-09-19 12:18:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2015-02-23 11:26:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 1,
+      "when": "2015-02-23 11:26:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2015-02-23 11:27:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-02-23 11:27:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-06-02 10:49:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2015-06-02 10:49:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 2,
+      "when": "2015-06-02 10:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "killerspoon",

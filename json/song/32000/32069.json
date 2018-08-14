@@ -22,6 +22,68 @@
   "artist_names": [
     "PaleDeth"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-08 04:47:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-10-21 09:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-01-21 06:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-03-19 17:18:00"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2015-03-19 17:19:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-04-21 16:51:00"
+    },
+    {
+      "user": "satan",
+      "vote": 2,
+      "when": "2015-09-13"
+    }
+  ],
   "requests": [
     {
       "user": "LittleWhite",

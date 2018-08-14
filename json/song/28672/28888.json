@@ -26,6 +26,103 @@
   "artist_names": [
     "Neil Brennan"
   ],
+  "votes": [
+    {
+      "user": "guru64",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2014-01-01 02:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-06-15 20:00:00"
+    },
+    {
+      "user": "etray",
+      "vote": 3,
+      "when": "2014-06-15 20:00:00"
+    },
+    {
+      "user": "joes",
+      "vote": 4,
+      "when": "2014-06-15 20:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-06-15 20:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-07-15 00:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-08-08 12:10:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2014-08-08 12:10:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 5,
+      "when": "2014-11-18 15:05:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 5,
+      "when": "2015-03-01 12:23:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 4,
+      "when": "2015-03-01 12:24:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2015-12-10"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2015-12-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 5,
+      "when": "2016-11-17 12:01:00"
+    },
+    {
+      "user": "bucky",
+      "vote": 5,
+      "when": "2016-11-17 12:01:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-11-17 12:02:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-11-17 12:03:00"
+    },
+    {
+      "user": "H3LL4Sphoros",
+      "vote": 5,
+      "when": "2017-03-29"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

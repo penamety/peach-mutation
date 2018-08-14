@@ -24,6 +24,23 @@
   "artist_names": [
     "Elrinth"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2010-09-02"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

@@ -21,6 +21,53 @@
   "artist_names": [
     "Marcer"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-24 23:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-11-01 13:35:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-11-01 13:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

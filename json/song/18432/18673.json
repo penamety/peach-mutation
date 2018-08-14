@@ -20,6 +20,63 @@
   "artist_names": [
     "George II"
   ],
+  "votes": [
+    {
+      "user": "sys2074",
+      "vote": 5,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-02-08"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-31 09:09:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-20 00:23:00"
+    },
+    {
+      "user": "etray",
+      "vote": 2,
+      "when": "2014-05-13 00:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-18 18:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "psymleko",

@@ -20,6 +20,58 @@
   "artist_names": [
     "Badsnail"
   ],
+  "votes": [
+    {
+      "user": "Speeder",
+      "vote": 5,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "deot",
+      "vote": 3,
+      "when": "2013-11-14 12:07:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-14 12:07:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-05-15 19:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-15 19:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

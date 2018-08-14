@@ -23,6 +23,88 @@
   "artist_names": [
     "Metal"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Tuxality",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "motherchip",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "FroggyMe",
+      "vote": 5,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2013-08-22 05:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-22 05:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-04-03 10:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

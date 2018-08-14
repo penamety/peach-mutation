@@ -25,6 +25,68 @@
   "artist_names": [
     "Memblers"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-09-12"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-22"
+    },
+    {
+      "user": "deot",
+      "vote": 2,
+      "when": "2013-11-15 16:53:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-05-16 07:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2018-05-16 07:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

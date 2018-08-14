@@ -25,6 +25,58 @@
   "artist_names": [
     "Zenon"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2016-01-03"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-09-18"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-09-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-11-07 08:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "Zenon",

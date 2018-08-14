@@ -25,6 +25,83 @@
   "artist_names": [
     "Ruuvari"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "liquidstupid",
+      "vote": 4,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2013-10-11"
+    },
+    {
+      "user": "RockOfFIG",
+      "vote": 4,
+      "when": "2015-04-21 01:09:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-07-12 11:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-02-16 22:00:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 5,
+      "when": "2018-02-16 22:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

@@ -22,6 +22,88 @@
   "artist_names": [
     "Swallow"
   ],
+  "votes": [
+    {
+      "user": "Zac",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 5,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 5,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-06-07"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-01 20:49:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-09-17 21:53:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-09-17 21:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-17 22:11:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-04-02 04:12:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-05-04 07:11:00"
+    },
+    {
+      "user": "na85",
+      "vote": 1,
+      "when": "2015-01-27 00:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-27"
+    },
+    {
+      "user": "arab",
+      "vote": 3,
+      "when": "2017-11-16 14:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

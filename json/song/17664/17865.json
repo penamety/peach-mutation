@@ -22,6 +22,53 @@
   "artist_names": [
     "Epi"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Manax",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-31 03:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-04 14:20:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-04-16 21:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-16 21:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-04-16 21:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

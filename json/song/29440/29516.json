@@ -22,6 +22,63 @@
   "artist_names": [
     "Kosmonaut"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-15 00:50:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-15 00:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-02-16 06:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -19,6 +19,98 @@
   "artist_names": [
     "Hithansen"
   ],
+  "votes": [
+    {
+      "user": "Daedalus",
+      "vote": 1,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "Chapelier",
+      "vote": 1,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-10"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 1,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2013-07-11 12:29:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-07-11 12:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-11 12:31:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-23 16:24:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-01-23 16:24:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2014-01-23 16:25:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 1,
+      "when": "2015-02-20 12:07:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 1,
+      "when": "2015-11-25"
+    },
+    {
+      "user": "codehead",
+      "vote": 1,
+      "when": "2015-11-25"
+    },
+    {
+      "user": "exocet",
+      "vote": 1,
+      "when": "2015-11-25"
+    },
+    {
+      "user": "pearer",
+      "vote": 1,
+      "when": "2015-11-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-11-25"
+    },
+    {
+      "user": "wig",
+      "vote": 2,
+      "when": "2016-07-11"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

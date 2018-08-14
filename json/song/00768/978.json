@@ -20,6 +20,103 @@
   "artist_names": [
     "Chotaire"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2013-01-09"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-01-09"
+    },
+    {
+      "user": "cromain",
+      "vote": 4,
+      "when": "2013-01-09"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-11"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-13 06:26:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-01-01 17:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-24 11:54:00"
+    },
+    {
+      "user": "Archmage",
+      "vote": 1,
+      "when": "2015-10-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-10-24"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2015-10-24"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-05-13 21:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-13 21:27:00"
+    },
+    {
+      "user": "aricz",
+      "vote": 4,
+      "when": "2017-05-13 21:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

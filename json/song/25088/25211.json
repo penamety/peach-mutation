@@ -19,6 +19,78 @@
   "artist_names": [
     "Tbob"
   ],
+  "votes": [
+    {
+      "user": "Fireball",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "Znurre",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-10-14 16:42:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-10-14 16:42:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-10-14 16:44:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-01-09 10:07:00"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 3,
+      "when": "2014-01-09 10:08:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-03-04 14:53:00"
+    },
+    {
+      "user": "zeograd",
+      "vote": 1,
+      "when": "2016-03-04 14:53:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 1,
+      "when": "2016-03-04 14:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-07-10 07:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

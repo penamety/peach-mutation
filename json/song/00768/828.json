@@ -20,6 +20,63 @@
   "artist_names": [
     "Bugboy"
   ],
+  "votes": [
+    {
+      "user": "OSH",
+      "vote": 5,
+      "when": "2010-05-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2010-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-23 00:18:00"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 5,
+      "when": "2014-03-17 22:40:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-06-16 17:39:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-07-10"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

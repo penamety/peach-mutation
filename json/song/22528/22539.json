@@ -20,6 +20,63 @@
   "artist_names": [
     "Parmesan"
   ],
+  "votes": [
+    {
+      "user": "Neobyte",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-24 17:02:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-11 00:09:00"
+    },
+    {
+      "user": "ddoodm",
+      "vote": 4,
+      "when": "2014-03-11 00:09:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2017-11-23 07:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-11-23 07:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

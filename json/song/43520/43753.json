@@ -26,6 +26,83 @@
   "artist_names": [
     "Stinsen"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-14 09:00:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2017-02-14 09:14:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2017-02-14 09:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-02-14 10:16:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2017-02-27 13:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2017-02-27 13:35:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2017-03-22 07:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-03-22 07:54:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 5,
+      "when": "2017-05-07 07:53:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2017-05-07 07:54:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2017-07-23 18:50:00"
+    },
+    {
+      "user": "ALPAidUS",
+      "vote": 5,
+      "when": "2017-11-06 08:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-11-06 08:41:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-12-31 21:20:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 4,
+      "when": "2018-03-16 17:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

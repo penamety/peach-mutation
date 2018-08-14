@@ -20,6 +20,78 @@
   "artist_names": [
     "Loonie"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2009-01-02"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-06-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-02-20 16:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-20 16:34:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-02-20 16:38:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-08-21"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-03-08 16:38:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-03-08 17:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-04-05 17:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "Spiral",

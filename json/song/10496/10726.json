@@ -25,6 +25,98 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "FishGuy876",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "dang",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "aaai",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-31 07:00:00"
+    },
+    {
+      "user": "omilian",
+      "vote": 5,
+      "when": "2014-01-22 05:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-10-05"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 2,
+      "when": "2016-10-05"
+    },
+    {
+      "user": "spacemoose",
+      "vote": 2,
+      "when": "2016-10-05"
+    }
+  ],
   "requests": [
     {
       "user": "dang",

@@ -22,6 +22,83 @@
   "artist_names": [
     "Aymes"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "PypeBros",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "zoner",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-04 18:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-04 18:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2014-03-11 01:54:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-21"
+    },
+    {
+      "user": "GeraldJerome",
+      "vote": 5,
+      "when": "2017-11-07 03:40:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-04-30 16:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

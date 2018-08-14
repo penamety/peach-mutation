@@ -24,6 +24,53 @@
   "artist_names": [
     "Jozz"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "colonel_mustard",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-09"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-01-19 16:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-28"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-04-20 13:40:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-04-23 11:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

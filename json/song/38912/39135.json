@@ -25,6 +25,58 @@
   "artist_names": [
     "Svenzzon"
   ],
+  "votes": [
+    {
+      "user": "Rapture",
+      "vote": 5,
+      "when": "2013-08-05 10:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-12 00:43:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2013-09-18 14:30:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-09-18 14:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-18 14:31:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-12-04 09:30:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-25 05:48:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 4,
+      "when": "2014-11-19 22:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-14 19:07:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2016-10-26 05:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

@@ -25,6 +25,58 @@
   "artist_names": [
     "Darkstar"
   ],
+  "votes": [
+    {
+      "user": "Brane",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-01 04:26:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-08-01 04:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-22 01:57:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-11-22 01:58:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-20 00:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "franz_koopa",

@@ -19,6 +19,88 @@
   "artist_names": [
     "Phenixir"
   ],
+  "votes": [
+    {
+      "user": "paulip",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "mud",
+      "vote": 1,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-06 01:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-06 01:32:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-03-16 19:13:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2018-03-16 19:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

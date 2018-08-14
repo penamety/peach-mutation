@@ -22,6 +22,78 @@
   "artist_names": [
     "SMT"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lilelk",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-25 15:58:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-25 15:58:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-07-08 15:52:00"
+    },
+    {
+      "user": "HaasiD",
+      "vote": 1,
+      "when": "2014-07-08 15:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-12 20:38:00"
+    },
+    {
+      "user": "blippyJon",
+      "vote": 5,
+      "when": "2016-04-21 10:00:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2016-04-21 10:00:00"
+    },
+    {
+      "user": "wig",
+      "vote": 2,
+      "when": "2016-06-11"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

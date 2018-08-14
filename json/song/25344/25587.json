@@ -19,6 +19,53 @@
   "artist_names": [
     "The Weevil"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-06-03 06:07:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2017-02-16 14:05:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-02-16 14:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -24,6 +24,73 @@
   "artist_names": [
     "Basehead"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-09 10:09:00"
+    },
+    {
+      "user": "deot",
+      "vote": 2,
+      "when": "2013-09-09 10:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-09 11:04:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-12-10 07:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-15 22:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-08-30 14:08:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-08-30 14:09:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2014-08-30 14:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "edlinfan",

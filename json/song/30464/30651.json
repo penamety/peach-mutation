@@ -24,6 +24,58 @@
   "artist_names": [
     "Chaos"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "jinx",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "lilelk",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-28 14:16:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2013-07-28 14:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-01-25 05:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

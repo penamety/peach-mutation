@@ -20,6 +20,68 @@
   "artist_names": [
     "Dj jurg"
   ],
+  "votes": [
+    {
+      "user": "bittin",
+      "vote": 4,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "jolic",
+      "vote": 4,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-14 06:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-05 21:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-08-03 07:46:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-08-03 07:46:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-04 21:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

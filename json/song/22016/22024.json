@@ -20,6 +20,103 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "cxw",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-03-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-10-12 17:25:00"
+    },
+    {
+      "user": "seppjo",
+      "vote": 1,
+      "when": "2013-10-12 17:25:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-03-19 10:59:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-05-30 14:32:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2015-05-30 14:32:00"
+    },
+    {
+      "user": "Blubber",
+      "vote": 3,
+      "when": "2015-11-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-11-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-11-12"
+    },
+    {
+      "user": "yzi",
+      "vote": 2,
+      "when": "2015-11-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-12-12"
+    },
+    {
+      "user": "alienNeWbeat",
+      "vote": 1,
+      "when": "2016-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-11-01 17:27:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-11-01 17:28:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 2,
+      "when": "2018-03-26 06:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

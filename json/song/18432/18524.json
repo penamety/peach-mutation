@@ -20,6 +20,48 @@
   "artist_names": [
     "The Gravedigger"
   ],
+  "votes": [
+    {
+      "user": "Moses",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-01-10"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "funnyn8",
+      "vote": 2,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-07 12:33:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-16 17:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

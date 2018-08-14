@@ -24,6 +24,68 @@
   "artist_names": [
     "Future Freak"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Rudee",
+      "vote": 3,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-12-01"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-14"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-10-05 21:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-10-06 10:57:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-10-06 10:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

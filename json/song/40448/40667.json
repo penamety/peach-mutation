@@ -22,6 +22,78 @@
   "artist_names": [
     "Jogeir"
   ],
+  "votes": [
+    {
+      "user": "CanisCanine",
+      "vote": 5,
+      "when": "2014-07-17 01:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-07-21"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-08-02 21:40:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-08-02 21:40:00"
+    },
+    {
+      "user": "OSH",
+      "vote": 5,
+      "when": "2014-09-01 19:35:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-09-01 19:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-09-01 19:39:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-11-19 11:22:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-06 23:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-04-11 10:01:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-10-01"
+    },
+    {
+      "user": "satan",
+      "vote": 1,
+      "when": "2015-10-22"
+    },
+    {
+      "user": "freem",
+      "vote": 4,
+      "when": "2016-05-06 20:59:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-21 14:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "CanisCanine",

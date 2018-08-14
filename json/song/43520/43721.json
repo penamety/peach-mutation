@@ -26,6 +26,53 @@
   "artist_names": [
     "Groove"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-02-06 14:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-02-06 14:55:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-06 14:56:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-02-06 14:56:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2017-02-06 14:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-02-06 14:57:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-08-30 13:40:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-11-14 11:24:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-01-03 12:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

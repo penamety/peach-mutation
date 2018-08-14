@@ -20,6 +20,78 @@
   "artist_names": [
     "Mikki"
   ],
+  "votes": [
+    {
+      "user": "Xeno",
+      "vote": 2,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "toms_rocket",
+      "vote": 1,
+      "when": "2014-01-17 15:56:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-01-17 15:57:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2014-10-21 08:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-10-21 08:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-03-31 22:28:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2015-06-18 10:29:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2016-08-10"
+    }
+  ],
   "requests": [
     {
       "user": "anni",

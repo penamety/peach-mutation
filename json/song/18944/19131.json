@@ -24,6 +24,78 @@
   "artist_names": [
     "Hi-Lite"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Skyrunner",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "wiseman",
+      "vote": 4,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "Demonted",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-09 04:50:00"
+    },
+    {
+      "user": "Karpow",
+      "vote": 4,
+      "when": "2014-04-13 00:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-09-13"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-10-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2017-01-11 14:25:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-01-24 12:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "Skyrunner",

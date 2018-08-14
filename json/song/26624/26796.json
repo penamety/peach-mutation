@@ -24,6 +24,38 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Oliwerko",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Ultrasyd",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Locutus",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "hiltunen",
+      "vote": 4,
+      "when": "2011-06-01"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

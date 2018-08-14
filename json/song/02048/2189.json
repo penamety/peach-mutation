@@ -24,6 +24,68 @@
   "artist_names": [
     "Dynamic"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "lilelk",
+      "vote": 3,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-11 05:18:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-11 05:18:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-03-27 11:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-27 11:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-25"
+    },
+    {
+      "user": "drislands",
+      "vote": 4,
+      "when": "2015-08-25"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2018-06-05 19:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

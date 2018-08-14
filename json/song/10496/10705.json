@@ -23,6 +23,63 @@
   "artist_names": [
     "Akbar"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-01 03:09:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-19 19:25:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-02-08 23:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-06-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-04-21 07:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

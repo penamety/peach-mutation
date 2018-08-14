@@ -25,6 +25,123 @@
   "artist_names": [
     "Markus Schneider"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Machforr",
+      "vote": 3,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2013-06-05 07:22:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-05 07:26:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-07-23 13:47:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-11-08 21:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-04-21 17:20:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 5,
+      "when": "2016-02-17"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-05-08 21:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "Galancy",

@@ -23,6 +23,98 @@
   "artist_names": [
     "Dreamer"
   ],
+  "votes": [
+    {
+      "user": "Speeder",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Venty",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "q3k",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "zuo",
+      "vote": 5,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-30 07:07:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-30 07:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-02 04:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-26 18:58:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-17"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2016-02-17"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-02-17"
+    },
+    {
+      "user": "t3l",
+      "vote": 3,
+      "when": "2016-02-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-03-06 23:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-07-05 14:57:00"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 3,
+      "when": "2017-07-05 14:59:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2018-01-10 18:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "zuo",

@@ -27,6 +27,48 @@
   "artist_names": [
     "Triace"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-02-18 19:10:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-02-18 19:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-02-18 20:13:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2017-04-03 08:21:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-04-03 08:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-04-03 08:23:00"
+    },
+    {
+      "user": "VideoGameVirtuoso",
+      "vote": 2,
+      "when": "2017-04-03 08:24:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-12-25 11:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

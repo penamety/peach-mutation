@@ -20,6 +20,58 @@
   "artist_names": [
     "Elvinbender"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "wiseman",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-03-17 10:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-03-17 10:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-03-17 11:01:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-17 17:07:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 2,
+      "when": "2018-06-11 21:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

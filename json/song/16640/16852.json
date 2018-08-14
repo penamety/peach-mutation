@@ -15,6 +15,23 @@
   "last_scraped": "2018-05-23 02:30:40",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-03-03"
+    }
+  ],
   "requests": [
     {
       "user": "blindpilot",

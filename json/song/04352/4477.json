@@ -19,5 +19,22 @@
   "artist_names": [
     "Mantronix"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-01-02"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 5,
+      "when": "2014-04-01 02:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-04-17 21:00:00"
+    }
+  ],
   "requests": []
 }

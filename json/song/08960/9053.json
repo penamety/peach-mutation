@@ -23,6 +23,33 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Longbow",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Zac",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "tesla",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "hiltunen",
+      "vote": 4,
+      "when": "2011-06-02"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

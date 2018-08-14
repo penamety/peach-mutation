@@ -19,5 +19,32 @@
   "artist_names": [
     "Alchemy"
   ],
+  "votes": [
+    {
+      "user": "AlphaC",
+      "vote": 2,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "matsim",
+      "vote": 2,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Fredu",
+      "vote": 5,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-03-01"
+    }
+  ],
   "requests": []
 }

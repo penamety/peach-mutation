@@ -20,6 +20,48 @@
   "artist_names": [
     "Matthias Steinwachs"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-24 05:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-07 19:58:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-09-14"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

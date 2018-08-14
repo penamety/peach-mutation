@@ -19,6 +19,73 @@
   "artist_names": [
     "Statler"
   ],
+  "votes": [
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "clumdon",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-01-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-20"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-09-07 19:04:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-08-03 15:22:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-08-03 15:22:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-10-24 00:21:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2016-01-23"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

@@ -25,6 +25,48 @@
   "artist_names": [
     "Nuke"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-08-11 08:38:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-04-19 10:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -19,6 +19,83 @@
   "artist_names": [
     "Laviopra13"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "WTFcore",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-30 20:25:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-30 20:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-30 20:26:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-07-30 20:26:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2016-11-21 16:31:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-21 16:31:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2016-11-21 16:31:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-02 18:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

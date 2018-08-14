@@ -23,6 +23,68 @@
   "artist_names": [
     "Mortimer Twang"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Hasse",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-19 01:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-19 01:46:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-07-19"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-07-19"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-05-08 09:55:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2018-05-08 09:56:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2018-05-08 09:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

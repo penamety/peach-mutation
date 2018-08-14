@@ -20,6 +20,63 @@
   "artist_names": [
     "K93"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-06-30 10:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-09 18:56:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 2,
+      "when": "2014-12-17 14:19:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-15 15:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-21"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-01-05 03:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

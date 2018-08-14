@@ -25,6 +25,53 @@
   "artist_names": [
     "daZe"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-10-31 16:06:00"
+    },
+    {
+      "user": "fkey",
+      "vote": 3,
+      "when": "2014-05-16 16:49:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2014-08-05 15:03:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-10 10:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

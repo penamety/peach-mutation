@@ -22,5 +22,17 @@
   "artist_names": [
     "Moby"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-07 15:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-03-07 15:00:00"
+    }
+  ],
   "requests": []
 }

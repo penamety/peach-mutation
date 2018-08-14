@@ -25,6 +25,78 @@
   "artist_names": [
     "Theo"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "MyO",
+      "vote": 5,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-05 01:10:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-05-09 23:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-05-09 23:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "MyO",

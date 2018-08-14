@@ -19,6 +19,63 @@
   "artist_names": [
     "Friction"
   ],
+  "votes": [
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-12-31"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-15"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-28 07:29:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-08-28 07:31:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-04-13 18:55:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-04-13 18:55:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-13 19:55:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-05-28 02:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -25,6 +25,63 @@
   "artist_names": [
     "Judge Brad"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-26 17:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-02-27 08:46:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2015-02-27 08:47:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-02-27 08:48:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-05-28 17:33:00"
+    },
+    {
+      "user": "evilchen",
+      "vote": 5,
+      "when": "2015-06-12 19:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-06-12 19:34:00"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2015-12-23"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-03-29 21:34:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-05-23 04:38:00"
+    },
+    {
+      "user": "nyingen",
+      "vote": 4,
+      "when": "2018-03-25 05:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

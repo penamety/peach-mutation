@@ -22,6 +22,58 @@
   "artist_names": [
     "Revisq"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-30 04:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-03 21:12:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2015-01-03 21:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-01-03 21:28:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-05-27 13:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

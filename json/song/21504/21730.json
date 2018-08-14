@@ -26,6 +26,73 @@
     "Dane",
     "Mitch"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-09-25"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 5,
+      "when": "2014-11-20 21:02:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2015-02-12 00:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-05-24 15:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "HED",

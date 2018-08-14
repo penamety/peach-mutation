@@ -19,6 +19,58 @@
   "artist_names": [
     "ArchAngel"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Znurre",
+      "vote": 3,
+      "when": "2012-07-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-09-14 20:30:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-09-14 20:30:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-07-12 00:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

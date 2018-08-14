@@ -22,6 +22,153 @@
   "artist_names": [
     "Tao"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Smanux",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "wiseman",
+      "vote": 5,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "MMX",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "yzi",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-03 16:10:00"
+    },
+    {
+      "user": "mud",
+      "vote": 5,
+      "when": "2013-06-03 16:10:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2013-06-03 16:11:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-08-15 22:23:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-08-15 22:24:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-06-19 21:38:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-11-19 09:56:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-08-16"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-03-28"
+    }
+  ],
   "requests": [
     {
       "user": "MMX",

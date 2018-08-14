@@ -21,6 +21,103 @@
   "artist_names": [
     "Crazy Q"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 5,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "selmi",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-11-10"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-12-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-25 19:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-04-04 06:56:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-05-26 08:42:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-05-26 08:43:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 4,
+      "when": "2015-02-20 16:32:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2016-02-24 07:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

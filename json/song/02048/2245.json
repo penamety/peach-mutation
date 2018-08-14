@@ -24,6 +24,138 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "Speeder",
+      "vote": 1,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "FishGuy876",
+      "vote": 5,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 5,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Tomchi",
+      "vote": 1,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "Frumple",
+      "vote": 1,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "Mindless",
+      "vote": 2,
+      "when": "2010-08-01"
+    },
+    {
+      "user": "onc",
+      "vote": 3,
+      "when": "2010-08-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 1,
+      "when": "2010-08-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2010-12-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-06-14 10:14:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-06-14 10:14:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-06-14 10:15:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-14 10:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-14 10:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-15 21:41:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-11-14 11:19:00"
+    },
+    {
+      "user": "robert",
+      "vote": 1,
+      "when": "2016-11-14 11:19:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2016-11-14 11:19:00"
+    },
+    {
+      "user": "DexterAYS",
+      "vote": 2,
+      "when": "2016-11-14 11:21:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-11-14 11:22:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 5,
+      "when": "2018-05-05 18:59:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-05-05 19:01:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2018-05-05 19:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

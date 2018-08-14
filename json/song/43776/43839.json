@@ -26,6 +26,68 @@
   "artist_names": [
     "obbe"
   ],
+  "votes": [
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-03-06 10:26:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2017-03-06 10:28:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-03-06 10:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-03-06 23:00:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-05-28 15:36:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-28 15:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-05-28 15:37:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-05-28 15:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-06-03 08:25:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2017-06-13 13:42:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 5,
+      "when": "2017-08-12 23:12:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-10-06 07:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

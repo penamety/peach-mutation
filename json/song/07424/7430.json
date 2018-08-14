@@ -20,6 +20,118 @@
   "artist_names": [
     "Andromeda"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2009-01-31"
+    },
+    {
+      "user": "alabanzai",
+      "vote": 3,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Shriggar",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "WTFcore",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 5,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-07-21 16:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-21 16:01:00"
+    },
+    {
+      "user": "kalgan",
+      "vote": 5,
+      "when": "2014-03-27 23:44:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 2,
+      "when": "2014-03-27 23:57:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2015-11-06"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-12-06"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-03-08 21:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "Shriggar",

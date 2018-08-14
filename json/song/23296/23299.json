@@ -19,6 +19,83 @@
   "artist_names": [
     "Jajaja"
   ],
+  "votes": [
+    {
+      "user": "korkut",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-01 01:43:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-06-18 18:34:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-06-18 18:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

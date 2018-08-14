@@ -19,6 +19,48 @@
   "artist_names": [
     "Rasmussen"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-01 16:46:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2014-09-29 15:32:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-01-05"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

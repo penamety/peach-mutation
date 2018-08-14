@@ -20,6 +20,88 @@
   "artist_names": [
     "Phaser"
   ],
+  "votes": [
+    {
+      "user": "SampL",
+      "vote": 5,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 5,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-31 14:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-18 14:39:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2013-12-09 23:24:00"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2013-12-09 23:24:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-07-13 08:13:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2016-02-02"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-05-30 07:20:00"
+    },
+    {
+      "user": "luminous",
+      "vote": 5,
+      "when": "2018-05-30 07:20:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

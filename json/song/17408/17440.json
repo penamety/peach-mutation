@@ -20,6 +20,53 @@
   "artist_names": [
     "Dombrovski"
   ],
+  "votes": [
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2010-12-09"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-08 05:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-08 05:03:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-05-29 19:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-10-05"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

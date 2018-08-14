@@ -22,6 +22,63 @@
   "artist_names": [
     "Tommy [se]"
   ],
+  "votes": [
+    {
+      "user": "MyO",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-08-24 01:48:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2014-04-30 17:34:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-18 18:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

@@ -25,6 +25,88 @@
   "artist_names": [
     "Hardsequenzer"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2015-08-23"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-09-09"
+    },
+    {
+      "user": "Thexder",
+      "vote": 3,
+      "when": "2015-09-09"
+    },
+    {
+      "user": "DexterAYS",
+      "vote": 1,
+      "when": "2015-09-23"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 4,
+      "when": "2015-09-23"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2015-10-23"
+    },
+    {
+      "user": "exocet",
+      "vote": 3,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "trenki",
+      "vote": 1,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "atom32k",
+      "vote": 1,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-11-06 13:28:00"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 2,
+      "when": "2017-03-26"
+    },
+    {
+      "user": "ssirkriss",
+      "vote": 1,
+      "when": "2018-02-25 22:07:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-02-25 22:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "SPACE",

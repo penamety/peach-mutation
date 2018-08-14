@@ -21,6 +21,53 @@
   "artist_names": [
     "Don Cato"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-01-16"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-08 06:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-09-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-10-06 14:00:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2017-01-28 05:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

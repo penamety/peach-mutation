@@ -24,6 +24,138 @@
   "artist_names": [
     "Timmy [NO]"
   ],
+  "votes": [
+    {
+      "user": "dax_dexter",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "neutron",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Locutus",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "baabeli",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Zitrax",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2013-05-30 11:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-30 11:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-05-30 11:00:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2013-05-30 11:00:00"
+    },
+    {
+      "user": "l0rd_canti",
+      "vote": 5,
+      "when": "2013-11-01 11:55:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2013-11-01 11:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-01 11:57:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 5,
+      "when": "2014-03-03 10:20:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-04-25 20:23:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2018-01-13 01:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

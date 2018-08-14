@@ -19,6 +19,88 @@
   "artist_names": [
     "Soundburst"
   ],
+  "votes": [
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "aaai",
+      "vote": 4,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "cce",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "infinigon",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "tomi",
+      "vote": 4,
+      "when": "2013-07-27 21:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-27 21:57:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-10-24 23:43:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-03-11 10:55:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-11 10:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-10-06 21:33:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-10-06 21:37:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2015-03-20 19:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-02-02"
+    }
+  ],
   "requests": [
     {
       "user": "MyO",

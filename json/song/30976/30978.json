@@ -22,6 +22,103 @@
   "artist_names": [
     "Carlos"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Bonstra",
+      "vote": 3,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2013-11-18 04:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2013-11-18 04:01:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-06-06 09:35:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 4,
+      "when": "2014-06-27 06:46:00"
+    },
+    {
+      "user": "ddoodm",
+      "vote": 3,
+      "when": "2014-06-27 06:46:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2014-06-27 06:47:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-08-25 06:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-10-23 08:16:00"
+    },
+    {
+      "user": "SpecialDefect",
+      "vote": 4,
+      "when": "2014-11-30 02:56:00"
+    },
+    {
+      "user": "debarrb",
+      "vote": 4,
+      "when": "2014-12-04 06:00:00"
+    },
+    {
+      "user": "PhotonStorm",
+      "vote": 1,
+      "when": "2016-05-04 02:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-08-05 08:48:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-08-05 08:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "SJD",

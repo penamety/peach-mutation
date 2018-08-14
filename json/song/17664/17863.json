@@ -21,5 +21,17 @@
   "artist_names": [
     "Epi"
   ],
+  "votes": [
+    {
+      "user": "wiseman",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-05-04 21:00:00"
+    }
+  ],
   "requests": []
 }

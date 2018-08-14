@@ -19,6 +19,68 @@
   "artist_names": [
     "Snap"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "darkh",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-03-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-03 04:19:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-07 11:53:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-02-07 11:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-10-12 20:26:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-07-21"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

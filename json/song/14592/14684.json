@@ -24,6 +24,78 @@
   "artist_names": [
     "Bass"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "infinigon",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "tyc314159",
+      "vote": 3,
+      "when": "2013-11-13 00:15:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-13 00:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-12-23 23:55:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-07-08"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-07-08"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2017-10-18 18:09:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-10-18 18:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

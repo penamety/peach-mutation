@@ -22,6 +22,73 @@
   "artist_names": [
     "Badsnail"
   ],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 2,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-17"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-10-08"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 2,
+      "when": "2013-06-24 17:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-24 17:54:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-12-18 03:12:00"
+    },
+    {
+      "user": "br4inlock",
+      "vote": 1,
+      "when": "2014-10-24 22:22:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-10-24 22:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-10-24 22:23:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-16 10:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-05-14 19:32:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-14 19:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -20,6 +20,103 @@
   "artist_names": [
     "Alkama"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "velusip",
+      "vote": 3,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 2,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "qbit",
+      "vote": 1,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "storm",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2013-06-27 20:22:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-06-27 20:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-27 20:29:00"
+    },
+    {
+      "user": "Manimu",
+      "vote": 1,
+      "when": "2014-01-16 02:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-18"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2015-07-18"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-10-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2017-04-11 22:49:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2017-11-30 09:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

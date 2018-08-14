@@ -22,6 +22,53 @@
   "artist_names": [
     "Dr. Awesome"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-18"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-02-07 15:25:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2017-02-07 15:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "SampL",

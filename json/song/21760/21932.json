@@ -19,5 +19,12 @@
   "artist_names": [
     "Mr Man"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2016-09-30"
+    }
+  ],
   "requests": []
 }

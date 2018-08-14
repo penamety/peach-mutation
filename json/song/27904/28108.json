@@ -24,6 +24,53 @@
   "artist_names": [
     "WAVE"
   ],
+  "votes": [
+    {
+      "user": "anderaiso",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "bitl",
+      "vote": 1,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "isvenger",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-29"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

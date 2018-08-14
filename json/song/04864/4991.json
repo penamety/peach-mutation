@@ -20,6 +20,78 @@
   "artist_names": [
     "Mr Man"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Shriggar",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "thelastV8",
+      "vote": 3,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 4,
+      "when": "2013-10-05 20:56:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-05 20:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-07 20:29:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-11-29 22:57:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-11-29 22:58:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-11-29 22:59:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-06-03 08:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

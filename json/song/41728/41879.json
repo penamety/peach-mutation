@@ -26,6 +26,103 @@
   "artist_names": [
     "Esau"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2015-04-07 08:58:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-04-07 09:19:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-04-07 09:41:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2015-04-07 09:41:00"
+    },
+    {
+      "user": "Virgill",
+      "vote": 5,
+      "when": "2015-04-13 16:15:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-04-22 08:06:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-04-22 08:08:00"
+    },
+    {
+      "user": "Jakim",
+      "vote": 5,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-08-26"
+    },
+    {
+      "user": "WTFcore",
+      "vote": 4,
+      "when": "2015-08-26"
+    },
+    {
+      "user": "Axioplase",
+      "vote": 4,
+      "when": "2015-09-23"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-05-12 11:23:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-05-12 11:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-05-12 11:24:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 5,
+      "when": "2016-08-09"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-05-11 21:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-06-17 02:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "Buzzer",

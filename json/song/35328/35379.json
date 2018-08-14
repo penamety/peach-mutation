@@ -17,6 +17,28 @@
   "last_scraped": "2018-05-23 11:26:09",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-10-12"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

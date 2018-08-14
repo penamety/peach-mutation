@@ -20,6 +20,48 @@
   "artist_names": [
     "Drumstick"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-10-04"
+    },
+    {
+      "user": "mud",
+      "vote": 2,
+      "when": "2012-10-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-15 08:51:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-04-21"
+    }
+  ],
   "requests": [
     {
       "user": "iTowah68k",

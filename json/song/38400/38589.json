@@ -25,6 +25,63 @@
   "artist_names": [
     "Deetroy"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 2,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-08"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-02 02:13:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-11-08 14:48:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-11-08 14:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-01-02 07:31:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-11-30 15:42:00"
+    },
+    {
+      "user": "Rapidkirby3k",
+      "vote": 5,
+      "when": "2017-11-30 15:43:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-02-27 00:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

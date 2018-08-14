@@ -19,6 +19,53 @@
   "artist_names": [
     "Sidewinder"
   ],
+  "votes": [
+    {
+      "user": "OSH",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Genetic_Gemini",
+      "vote": 1,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "jxx",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-08 17:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-08 17:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-16 01:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "G_Signal",

@@ -19,6 +19,53 @@
   "artist_names": [
     "Blufrogu"
   ],
+  "votes": [
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-09 09:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-09 10:31:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-15 22:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

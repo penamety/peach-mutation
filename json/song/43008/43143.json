@@ -25,6 +25,93 @@
   "artist_names": [
     "Beathawk"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-05-21"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-05-21"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-08-21"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-08-21"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2016-09-18"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2016-09-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-10-06"
+    },
+    {
+      "user": "MrsBeanbag",
+      "vote": 4,
+      "when": "2016-10-29 17:57:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-01-24 12:57:00"
+    },
+    {
+      "user": "Rahta",
+      "vote": 5,
+      "when": "2017-09-29 18:48:00"
+    },
+    {
+      "user": "malmen",
+      "vote": 3,
+      "when": "2018-02-10 16:37:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2018-02-10 16:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

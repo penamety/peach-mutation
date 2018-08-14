@@ -20,6 +20,88 @@
   "artist_names": [
     "Fab"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "hptt",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-29 06:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-29 06:00:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2014-05-11 08:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-01-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-01-26"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

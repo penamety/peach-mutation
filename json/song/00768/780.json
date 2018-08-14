@@ -22,6 +22,88 @@
   "artist_names": [
     "Brainbug"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2010-03-03"
+    },
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2010-03-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2010-08-01"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-08-29 14:01:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2014-02-13 04:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-02-13 04:01:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-08-05 05:26:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-10-20 18:23:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-10-20 18:23:00"
+    },
+    {
+      "user": "BBB",
+      "vote": 4,
+      "when": "2016-08-09"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

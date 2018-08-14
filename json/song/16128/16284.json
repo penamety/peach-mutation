@@ -24,6 +24,58 @@
   "artist_names": [
     "Cutcreator"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "ZTube",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "gnrp",
+      "vote": 2,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-06-10 21:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-06-10 21:44:00"
+    },
+    {
+      "user": "etray",
+      "vote": 2,
+      "when": "2014-06-10 21:44:00"
+    },
+    {
+      "user": "BitArts",
+      "vote": 4,
+      "when": "2014-06-10 21:45:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-06-10 21:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

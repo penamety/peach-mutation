@@ -19,6 +19,113 @@
   "artist_names": [
     "Distance"
   ],
+  "votes": [
+    {
+      "user": "oryx",
+      "vote": 5,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Rirsuhacker",
+      "vote": 5,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "perfectcode",
+      "vote": 5,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-01-31"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-07-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-06-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-03"
+    },
+    {
+      "user": "codehead",
+      "vote": 3,
+      "when": "2012-06-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-04-01 10:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-04-01 10:20:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-07 00:40:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-07-03"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-12-13 18:13:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-11-12 12:48:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-11-12 12:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "vercarnist",

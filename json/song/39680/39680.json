@@ -25,6 +25,48 @@
   "artist_names": [
     "Maf"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-11-29 10:24:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-29 10:24:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-12-23 10:04:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-01-09 10:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-09 00:42:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 5,
+      "when": "2014-06-10 14:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-09-08"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-09-29"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

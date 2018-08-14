@@ -24,6 +24,68 @@
   "artist_names": [
     "Pulse"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-01-22 21:23:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2015-01-23 10:56:00"
+    },
+    {
+      "user": "RobGBA",
+      "vote": 4,
+      "when": "2015-01-23 10:56:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-01-23 10:56:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-02-04 15:33:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-02-04 15:36:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2015-02-18 18:14:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2015-02-18 18:16:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-02-18 18:17:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2015-04-15 12:04:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2015-04-15 12:05:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-11-02 16:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

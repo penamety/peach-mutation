@@ -21,6 +21,73 @@
   "artist_names": [
     "Fab"
   ],
+  "votes": [
+    {
+      "user": "Axioplase",
+      "vote": 2,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "bledking",
+      "vote": 2,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-31 18:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-02 22:41:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-12-03 18:45:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2016-12-03 18:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2016-12-03 18:46:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 1,
+      "when": "2018-04-04 17:45:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-06-01 10:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

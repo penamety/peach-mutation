@@ -22,6 +22,63 @@
   "artist_names": [
     "FBY"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "infinigon",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-04-24 04:46:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-01-29 19:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-01-29 19:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

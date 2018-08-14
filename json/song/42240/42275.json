@@ -25,6 +25,58 @@
   "artist_names": [
     "Reg"
   ],
+  "votes": [
+    {
+      "user": "Rapture",
+      "vote": 5,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-08-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-08-09"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2015-10-09"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2015-10-09"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-02-22 12:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-02-08 07:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

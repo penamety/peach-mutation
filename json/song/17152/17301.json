@@ -19,6 +19,53 @@
   "artist_names": [
     "DJ Speedstar"
   ],
+  "votes": [
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-03 04:10:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-02-16"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-07 04:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "sqrmax",

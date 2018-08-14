@@ -19,6 +19,63 @@
   "artist_names": [
     "Teajay"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-01-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-09-06 21:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-06 21:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-09-06 21:55:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-08-06 20:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-06 20:31:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-04-05 01:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

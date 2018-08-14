@@ -23,6 +23,53 @@
   "artist_names": [
     "Tommy [de]"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-02-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2014-02-09 08:33:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2016-11-21 13:09:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-11-21 13:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

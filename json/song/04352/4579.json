@@ -20,6 +20,113 @@
   "artist_names": [
     "Martyn"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-17"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-02-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-19 03:02:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-07 13:27:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2014-03-07 13:32:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-03-07 13:32:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-03-07 13:32:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 1,
+      "when": "2014-11-28 17:00:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2015-09-19"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2016-06-27"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2016-10-14 12:26:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2016-10-14 12:28:00"
+    },
+    {
+      "user": "cube",
+      "vote": 2,
+      "when": "2016-10-14 12:31:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-10-14 12:31:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-10-14 12:33:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-15 20:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

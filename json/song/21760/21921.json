@@ -19,6 +19,78 @@
   "artist_names": [
     "Mr Future"
   ],
+  "votes": [
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "wiseman",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "mud",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "tomi",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-09-03 16:04:00"
+    },
+    {
+      "user": "spekki",
+      "vote": 2,
+      "when": "2013-09-03 16:04:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-09-03 16:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-27 20:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

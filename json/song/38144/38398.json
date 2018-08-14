@@ -24,6 +24,73 @@
   "artist_names": [
     "Bod"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2013-05-10"
+    },
+    {
+      "user": "chellomere",
+      "vote": 2,
+      "when": "2013-09-19 10:19:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-01-14 17:45:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-11-12 10:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-11-12 10:05:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-06-04"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-11-26 12:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

@@ -20,6 +20,138 @@
   "artist_names": [
     "Tim Forsyth"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Syniphas",
+      "vote": 5,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "dv",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "isvenger",
+      "vote": 4,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "RoC",
+      "vote": 4,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 4,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Moses",
+      "vote": 5,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "rombust",
+      "vote": 4,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-09 20:26:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-09-06"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-11-11 15:50:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2018-05-23 10:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "dv",

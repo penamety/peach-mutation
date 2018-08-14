@@ -20,6 +20,63 @@
   "artist_names": [
     "Arachno"
   ],
+  "votes": [
+    {
+      "user": "Cyker",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-06-03 11:32:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-03 11:32:00"
+    },
+    {
+      "user": "Sketch",
+      "vote": 4,
+      "when": "2013-06-03 11:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-03 11:33:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-06-03 11:38:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-03-16 07:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

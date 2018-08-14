@@ -19,6 +19,48 @@
   "artist_names": [
     "Melcom"
   ],
+  "votes": [
+    {
+      "user": "Longbow",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "dang",
+      "vote": 2,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-10"
+    },
+    {
+      "user": "bc2001",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-28 04:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-07 22:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

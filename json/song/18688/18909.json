@@ -24,6 +24,93 @@
   "artist_names": [
     "Grim"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-10-23 02:23:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-03-17 14:15:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-10-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2017-06-05 12:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-06-05 12:38:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-23 12:23:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-03-23 12:24:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-03-23 12:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

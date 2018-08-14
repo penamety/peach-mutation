@@ -23,6 +23,38 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Longbow",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Smanux",
+      "vote": 4,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-10-02"
+    },
+    {
+      "user": "DH",
+      "vote": 4,
+      "when": "2010-11-02"
+    }
+  ],
   "requests": [
     {
       "user": "DH",

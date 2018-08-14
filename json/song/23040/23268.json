@@ -24,6 +24,73 @@
   "artist_names": [
     "Randall"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-28 00:44:00"
+    },
+    {
+      "user": "Shui",
+      "vote": 4,
+      "when": "2013-06-28 00:44:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 4,
+      "when": "2014-05-28 22:53:00"
+    },
+    {
+      "user": "Rumpel",
+      "vote": 2,
+      "when": "2014-05-28 22:54:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2018-04-08 17:20:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2018-04-08 17:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

@@ -23,6 +23,78 @@
   "artist_names": [
     "Stygg Sylt"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-09 13:59:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2013-07-09 14:00:00"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2013-12-06 16:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-12-06 16:57:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-09-29 12:22:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-09-29 12:23:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-29 12:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-08-11"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

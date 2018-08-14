@@ -20,6 +20,73 @@
   "artist_names": [
     "Maf"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-17 14:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-11 00:28:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-01-26 12:33:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-11-28 14:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

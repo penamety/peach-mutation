@@ -23,6 +23,103 @@
   "artist_names": [
     "Dizzy"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 3,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-01 01:12:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2014-08-02 12:28:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2014-08-02 12:30:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2015-08-19"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-23 07:50:00"
+    },
+    {
+      "user": "MrsBeanbag",
+      "vote": 3,
+      "when": "2018-03-18 20:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

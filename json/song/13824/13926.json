@@ -19,6 +19,53 @@
   "artist_names": [
     "Allman"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-16 22:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-16 23:58:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-01-14 04:23:00"
+    },
+    {
+      "user": "parejkoj",
+      "vote": 3,
+      "when": "2015-04-03 22:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

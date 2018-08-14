@@ -24,6 +24,53 @@
   "artist_names": [
     "Twister"
   ],
+  "votes": [
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-07-08 19:09:00"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-07-08 19:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-08 19:12:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-19 17:27:00"
+    },
+    {
+      "user": "Melo",
+      "vote": 2,
+      "when": "2015-12-31"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-06-22 06:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

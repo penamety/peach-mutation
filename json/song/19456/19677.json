@@ -20,6 +20,68 @@
   "artist_names": [
     "Jhavna"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "BeautyNerd",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-15 16:27:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-15 16:30:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-02-15 13:57:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-15 13:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

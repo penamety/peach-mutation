@@ -19,6 +19,78 @@
   "artist_names": [
     "Conceptor"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2009-12-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-31 07:37:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-12-23 08:02:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-12-23 08:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-11 18:17:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2014-02-11 18:18:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-12 16:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-03 20:24:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 2,
+      "when": "2017-05-03 20:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

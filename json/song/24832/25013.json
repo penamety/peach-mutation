@@ -23,6 +23,68 @@
   "artist_names": [
     "Superted"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "crt",
+      "vote": 1,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-16 02:07:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-06-07 13:26:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 1,
+      "when": "2016-12-07 17:17:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2016-12-07 17:17:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-12-07 17:18:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-02-26 00:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

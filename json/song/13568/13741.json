@@ -20,6 +20,78 @@
   "artist_names": [
     "Acid Vision"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2010-05-04"
+    },
+    {
+      "user": "juky",
+      "vote": 2,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 3,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Dartus",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-13 02:43:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-04-08 08:58:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-08 08:58:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-04-08 08:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-09 20:03:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2017-12-04 09:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-04-21 08:02:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-04-21 08:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "Elrinth",

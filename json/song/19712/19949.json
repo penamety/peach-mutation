@@ -19,6 +19,18 @@
   "artist_names": [
     "Kaneel"
   ],
+  "votes": [
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2011-04-04"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

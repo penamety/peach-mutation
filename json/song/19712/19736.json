@@ -20,6 +20,93 @@
   "artist_names": [
     "Jogeir"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "yeep",
+      "vote": 4,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-30 08:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-30 08:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-06-11 12:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-06-11 12:50:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-09-25 07:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-09-25 07:12:00"
+    },
+    {
+      "user": "drobangelo",
+      "vote": 4,
+      "when": "2015-04-30 03:53:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 1,
+      "when": "2016-01-26"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2016-04-03 17:07:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-11-15 05:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -19,6 +19,78 @@
   "artist_names": [
     "Dan"
   ],
+  "votes": [
+    {
+      "user": "Scribblette",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-08-18 05:46:00"
+    },
+    {
+      "user": "silencer",
+      "vote": 2,
+      "when": "2015-06-22 18:34:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 1,
+      "when": "2015-06-22 18:35:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2015-06-22 18:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-06-22 19:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-06-04 11:19:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-06-04 11:20:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-06-04 11:20:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2017-07-01 14:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -24,6 +24,63 @@
   "artist_names": [
     "Stargazer"
   ],
+  "votes": [
+    {
+      "user": "Ultrasyd",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "chellomere",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-10-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-12 09:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-02 16:48:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-10-02 16:48:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2014-04-02 02:15:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-03-28 09:38:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2016-12-26 18:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

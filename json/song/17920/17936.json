@@ -22,6 +22,93 @@
   "artist_names": [
     "Cutcreator"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "chellomere",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "zneek",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "The_Tubes",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-02 00:14:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-10-28 05:09:00"
+    },
+    {
+      "user": "MikuroK",
+      "vote": 2,
+      "when": "2013-10-28 05:11:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-09-27 13:37:00"
+    },
+    {
+      "user": "alienNeWbeat",
+      "vote": 3,
+      "when": "2016-01-26"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2016-03-08 10:19:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-03-08 10:20:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2017-07-11 13:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

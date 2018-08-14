@@ -20,6 +20,58 @@
   "artist_names": [
     "Estrayk"
   ],
+  "votes": [
+    {
+      "user": "Ultrasyd",
+      "vote": 5,
+      "when": "2009-10-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-10-17"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-03 08:13:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-14 07:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-09-21"
+    }
+  ],
   "requests": [
     {
       "user": "hornpipe2",

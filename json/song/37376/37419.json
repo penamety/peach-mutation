@@ -26,6 +26,78 @@
   "artist_names": [
     "Tama"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "eefi",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-18 13:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-18 13:19:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2013-11-21 18:49:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2014-03-24 09:53:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-05-01 10:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

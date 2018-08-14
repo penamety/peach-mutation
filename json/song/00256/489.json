@@ -25,6 +25,73 @@
   "artist_names": [
     "Azazel"
   ],
+  "votes": [
+    {
+      "user": "Rirsuhacker",
+      "vote": 5,
+      "when": "2009-11-01"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "Colidace",
+      "vote": 3,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-31"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-24 23:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-25 00:07:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-12-21 03:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-30 14:32:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-05-18 22:45:00"
+    },
+    {
+      "user": "velusip",
+      "vote": 4,
+      "when": "2017-12-04 06:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-12-04 06:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

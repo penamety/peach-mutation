@@ -24,6 +24,68 @@
   "artist_names": [
     "Sgt Slayer"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-05 01:42:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-08-05 01:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-05 01:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-12-13 12:16:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-01-18 12:43:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-01-18 12:45:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-01-18 12:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

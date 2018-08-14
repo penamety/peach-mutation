@@ -19,6 +19,53 @@
   "artist_names": [
     "Sir henry"
   ],
+  "votes": [
+    {
+      "user": "Pwcca",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "mrpixel",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-04 03:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-10-21 22:13:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2016-06-16"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-06-16"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

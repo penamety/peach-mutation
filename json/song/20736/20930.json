@@ -22,6 +22,123 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "wiseman",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "zerkman",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Colidace",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "caiwan",
+      "vote": 4,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "mud",
+      "vote": 5,
+      "when": "2012-09-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Kathup",
+      "vote": 4,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-06 18:14:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2015-09-04"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-04-28"
+    }
+  ],
   "requests": [
     {
       "user": "Spiral",

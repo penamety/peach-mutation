@@ -25,6 +25,88 @@
   "artist_names": [
     "Janis Push"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-09-07"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-26 08:34:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-08-26 08:34:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-03-13 07:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-10 00:12:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-06-30 08:52:00"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2016-01-04"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-01-04"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-11-06 05:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "Radar",

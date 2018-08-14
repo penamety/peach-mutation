@@ -22,5 +22,17 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "anthony62490",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-03-04"
+    }
+  ],
   "requests": []
 }

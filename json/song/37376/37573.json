@@ -26,6 +26,78 @@
   "artist_names": [
     "Virgill"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "TinGrill",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "eefi",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-01-26 10:26:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-16 21:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

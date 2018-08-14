@@ -20,6 +20,78 @@
   "artist_names": [
     "Cyclone"
   ],
+  "votes": [
+    {
+      "user": "chips",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 3,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Fireball",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-15 16:35:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-07-15 16:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-01 03:23:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-27 05:31:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-27 05:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-06-05"
+    }
+  ],
   "requests": [
     {
       "user": "Fireball",

@@ -23,6 +23,63 @@
   "artist_names": [
     "Rez"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-07-14"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2013-06-05 00:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-05 00:40:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-11-08 05:02:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 1,
+      "when": "2014-01-18 19:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-30 23:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

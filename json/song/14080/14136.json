@@ -19,6 +19,58 @@
   "artist_names": [
     "Apsicol"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "storm",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-08-17 22:25:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-10-29 14:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-10-29 14:47:00"
+    },
+    {
+      "user": "jesper",
+      "vote": 1,
+      "when": "2014-10-29 14:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

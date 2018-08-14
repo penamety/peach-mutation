@@ -17,5 +17,62 @@
   "last_scraped": "2018-05-23 02:02:36",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 1,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "dang",
+      "vote": 2,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Coco",
+      "vote": 5,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "morbuz",
+      "vote": 1,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "oryx",
+      "vote": 2,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "rakzom",
+      "vote": 1,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 1,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "kristian",
+      "vote": 2,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2017-02-13 23:00:00"
+    }
+  ],
   "requests": []
 }

@@ -20,5 +20,37 @@
   "artist_names": [
     "Maf"
   ],
+  "votes": [
+    {
+      "user": "Nicknack",
+      "vote": 4,
+      "when": "2009-03-04"
+    },
+    {
+      "user": "Rirsuhacker",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "perfectcode",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Starbreaker",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-11-11"
+    }
+  ],
   "requests": []
 }

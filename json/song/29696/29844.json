@@ -25,6 +25,48 @@
   "artist_names": [
     "mu6k"
   ],
+  "votes": [
+    {
+      "user": "mu6k",
+      "vote": 1,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-10-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-04-01 12:35:00"
+    },
+    {
+      "user": "codehead",
+      "vote": 3,
+      "when": "2015-08-26"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-11-26 02:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "hornpipe2",

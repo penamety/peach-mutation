@@ -19,6 +19,48 @@
   "artist_names": [
     "Soul D"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "kwandtum",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-01-15 15:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-08 08:24:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-10-08 08:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

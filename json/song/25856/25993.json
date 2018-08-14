@@ -23,6 +23,73 @@
   "artist_names": [
     "Ukulele"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "EXJ",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Kosmos",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-08-11 09:26:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-04-03 09:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-05 21:52:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-07"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-03-11 08:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

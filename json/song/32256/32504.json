@@ -26,6 +26,58 @@
   "artist_names": [
     "Mozy"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "mandylion",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-11 12:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-11 12:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-11 12:38:00"
+    },
+    {
+      "user": "joes",
+      "vote": 3,
+      "when": "2014-05-18 13:12:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-05-21 10:37:00"
+    }
+  ],
   "requests": [
     {
       "user": "drybrain",

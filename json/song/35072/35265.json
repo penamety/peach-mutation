@@ -22,6 +22,83 @@
   "artist_names": [
     "Eau"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Vampire",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-10 05:54:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-10 05:54:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-10-14 12:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-01 07:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-02-07 22:54:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-01-10 04:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

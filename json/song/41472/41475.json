@@ -25,6 +25,73 @@
   "artist_names": [
     "Dascon"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-01-07 06:17:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2015-01-16 18:14:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-01-16 18:57:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-01-31 21:53:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-01-31 21:53:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2015-01-31 21:57:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "spacemoose",
+      "vote": 4,
+      "when": "2016-10-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2016-10-26 04:49:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 5,
+      "when": "2016-12-31 13:11:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2017-04-30 10:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-04-30 10:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

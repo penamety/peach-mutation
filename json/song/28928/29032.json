@@ -22,6 +22,98 @@
   "artist_names": [
     "Optic"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "aaai",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Winterfell",
+      "vote": 2,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "korkut",
+      "vote": 5,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-28 18:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-28 18:00:00"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2013-05-28 18:00:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2013-10-25"
+    },
+    {
+      "user": "Khaos",
+      "vote": 4,
+      "when": "2013-10-29 00:43:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2014-01-31 07:57:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-03-12 18:58:00"
+    },
+    {
+      "user": "fosfer",
+      "vote": 4,
+      "when": "2014-03-12 18:59:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-10-16 07:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-14 04:54:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-05-17 11:49:00"
+    },
+    {
+      "user": "AtomicReindeer",
+      "vote": 4,
+      "when": "2016-12-26 02:43:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-04-09 03:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "LittleWhite",

@@ -26,6 +26,103 @@
   "artist_names": [
     "Jerry"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-12-19 09:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-12-19 09:51:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2014-12-19 09:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-12-19 09:51:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 4,
+      "when": "2014-12-19 09:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-12-31 12:34:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 5,
+      "when": "2014-12-31 12:36:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2015-02-10 05:34:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2015-10-09"
+    },
+    {
+      "user": "lroy",
+      "vote": 5,
+      "when": "2016-02-29 21:00:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-02-29 21:01:00"
+    },
+    {
+      "user": "jesper",
+      "vote": 4,
+      "when": "2016-02-29 21:03:00"
+    },
+    {
+      "user": "DexterAYS",
+      "vote": 5,
+      "when": "2016-10-27 19:29:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-10-27 19:29:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2017-03-10 22:53:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2017-03-10 22:55:00"
+    },
+    {
+      "user": "Triton",
+      "vote": 4,
+      "when": "2017-03-10 22:56:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-29 12:46:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-04-29 12:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

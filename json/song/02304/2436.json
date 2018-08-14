@@ -21,6 +21,93 @@
   "artist_names": [
     "Estrayk"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "neutron",
+      "vote": 5,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 5,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-07 05:30:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-07 05:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-07-18 16:22:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-18 16:23:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2014-04-15 03:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-09-21"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-06-16 11:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "neutron",

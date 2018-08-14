@@ -26,6 +26,48 @@
   "artist_names": [
     "Bethoven"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-06-03 21:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-06-18 07:07:00"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2015-08-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2015-09-10"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-09-26"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-12-17"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2016-02-29 12:51:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-10 14:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

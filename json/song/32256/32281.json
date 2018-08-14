@@ -23,6 +23,108 @@
   "artist_names": [
     "Gopher (UK)"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Vampire",
+      "vote": 5,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "infinigon",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "jass0",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-12 02:20:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-10-25 09:03:00"
+    },
+    {
+      "user": "jolic",
+      "vote": 4,
+      "when": "2014-01-28 21:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-28 21:13:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-04-06 21:30:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2018-03-26 20:46:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2018-03-26 20:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

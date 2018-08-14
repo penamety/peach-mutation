@@ -25,6 +25,78 @@
   "artist_names": [
     "snyp"
   ],
+  "votes": [
+    {
+      "user": "Manax",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "tas",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-04-10 20:54:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2015-12-22"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-12-22"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-05-25 03:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-06-11 07:36:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2018-06-11 07:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

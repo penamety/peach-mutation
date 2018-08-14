@@ -27,6 +27,93 @@
   "artist_names": [
     "Scratcher"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-12 19:00:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2013-10-30 10:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-14 23:22:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-11-07 12:44:00"
+    },
+    {
+      "user": "bucky",
+      "vote": 4,
+      "when": "2015-10-04"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2015-10-04"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-11-20"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-11-20"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-03-02 22:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

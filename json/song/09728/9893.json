@@ -23,6 +23,103 @@
   "artist_names": [
     "Baz"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-06-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "matsim",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "ldc",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "BeautyNerd",
+      "vote": 5,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "skall",
+      "vote": 4,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "tomi",
+      "vote": 4,
+      "when": "2013-04-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-13 23:23:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-26 02:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

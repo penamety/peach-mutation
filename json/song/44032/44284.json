@@ -23,6 +23,48 @@
   "artist_names": [
     "Gladiator"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-08-30 18:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-08-30 20:14:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-09-02 09:38:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-09-10 17:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-09-26 12:42:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-09-26 12:43:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2018-03-05 12:08:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-04-13 09:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

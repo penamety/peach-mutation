@@ -24,6 +24,93 @@
   "artist_names": [
     "codehead"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-11-12"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Luna",
+      "vote": 1,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "funnyn8",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2014-01-31 23:10:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2016-04-05 23:51:00"
+    },
+    {
+      "user": "Axel",
+      "vote": 1,
+      "when": "2017-07-31 16:33:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2018-05-01 09:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

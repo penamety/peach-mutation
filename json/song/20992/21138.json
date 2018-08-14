@@ -19,5 +19,22 @@
   "artist_names": [
     "Marko Heisig"
   ],
+  "votes": [
+    {
+      "user": "CreatureXL",
+      "vote": 2,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-02"
+    }
+  ],
   "requests": []
 }

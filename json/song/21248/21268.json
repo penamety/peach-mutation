@@ -21,6 +21,73 @@
   "artist_names": [
     "Max Levin"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "zerkman",
+      "vote": 1,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "tyco",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2013-01-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-11 14:32:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-07-11 14:32:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-07-11 14:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-07-11 14:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-08 12:56:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-08 12:58:00"
+    },
+    {
+      "user": "DrFlay",
+      "vote": 2,
+      "when": "2014-03-08 12:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

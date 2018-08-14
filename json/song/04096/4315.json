@@ -19,6 +19,53 @@
   "artist_names": [
     "Mad God"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-20 22:47:00"
+    },
+    {
+      "user": "plc",
+      "vote": 1,
+      "when": "2017-03-08 12:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

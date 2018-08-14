@@ -20,6 +20,63 @@
   "artist_names": [
     "Gojita"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "tcn",
+      "vote": 1,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "vanward",
+      "vote": 2,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-01-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-01-05 09:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-05 09:23:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-06-16 12:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

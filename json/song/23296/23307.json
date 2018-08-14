@@ -21,6 +21,68 @@
   "artist_names": [
     "Ranger Rick"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-06-11 07:15:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-11 07:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-11-21 23:37:00"
+    },
+    {
+      "user": "Blaspheme",
+      "vote": 3,
+      "when": "2014-01-29 11:23:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-01-29 11:23:00"
+    },
+    {
+      "user": "Tezar",
+      "vote": 2,
+      "when": "2014-01-29 11:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "Chakotay",

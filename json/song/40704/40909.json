@@ -25,6 +25,33 @@
   "artist_names": [
     "Julius"
   ],
+  "votes": [
+    {
+      "user": "Thexder",
+      "vote": 5,
+      "when": "2014-08-28 18:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-08-28 20:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-08-28 22:41:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 5,
+      "when": "2014-08-28 22:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-08-28 22:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

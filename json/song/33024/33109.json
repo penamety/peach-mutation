@@ -25,5 +25,12 @@
   "artist_names": [
     "Bruce"
   ],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 5,
+      "when": "2011-06-01"
+    }
+  ],
   "requests": []
 }

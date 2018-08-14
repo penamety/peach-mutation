@@ -25,6 +25,58 @@
   "artist_names": [
     "gwEm"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-02-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-02-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-02-13"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-02-27 10:33:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2016-05-03 17:19:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 3,
+      "when": "2016-05-03 17:19:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "epso",
+      "vote": 4,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2017-02-08 15:54:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-02-08 15:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

@@ -22,6 +22,68 @@
   "artist_names": [
     "Front 6"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "jantho",
+      "vote": 4,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 5,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-16 01:45:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2013-08-16 01:45:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-01-14 10:56:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2018-01-14 10:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

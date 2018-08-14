@@ -25,6 +25,103 @@
   "artist_names": [
     "Jobe"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "scanjam",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "tyco",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-07-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-08-30 13:50:00"
+    },
+    {
+      "user": "spekki",
+      "vote": 1,
+      "when": "2013-08-30 13:50:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-12 15:45:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-01-12 15:46:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-01-12 15:46:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-05-13 15:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-11-01 14:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

@@ -24,6 +24,73 @@
   "artist_names": [
     "Lloyd Rosen"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2013-06-08 22:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-08 22:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-01 16:10:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-08-01 16:10:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-01 16:11:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-08-01 16:13:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2013-10-04"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2014-01-22 13:53:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-11-19 19:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

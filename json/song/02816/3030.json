@@ -20,6 +20,68 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2010-02-05"
+    },
+    {
+      "user": "all4n",
+      "vote": 2,
+      "when": "2010-04-02"
+    },
+    {
+      "user": "aaai",
+      "vote": 4,
+      "when": "2010-07-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-09-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2011-10-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-09-23"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-05-22 02:56:00"
+    },
+    {
+      "user": "OSH",
+      "vote": 5,
+      "when": "2014-06-19 11:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-19 11:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "Starchaser",

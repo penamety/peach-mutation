@@ -19,6 +19,58 @@
   "artist_names": [
     "Pothead Pixie"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Machforr",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-24 18:47:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-02-21 16:59:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-02-28 19:55:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-04-12 18:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

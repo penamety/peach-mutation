@@ -22,6 +22,53 @@
   "artist_names": [
     "Echo"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-01-30"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-12 06:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-05-16 21:04:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-05-16 21:07:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-24 15:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

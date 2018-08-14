@@ -25,6 +25,148 @@
   "artist_names": [
     "TBB"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "qbit",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "hptt",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-18 05:33:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-01-23 15:58:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-08-18 21:00:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2014-10-26 21:09:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-04-21 22:20:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-07-21"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-02-10"
+    }
+  ],
   "requests": [
     {
       "user": "pipe",

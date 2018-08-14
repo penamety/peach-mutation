@@ -26,6 +26,63 @@
   "artist_names": [
     "Advertise Play"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "LSA_Vinnie",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-17 02:39:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 3,
+      "when": "2014-07-26 19:28:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-07-26 20:09:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-02-07 11:13:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-07 11:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

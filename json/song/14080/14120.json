@@ -20,6 +20,68 @@
   "artist_names": [
     "Antti"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "ldc",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-06-07 23:28:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2013-06-07 23:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-22 19:06:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-01-05 03:16:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-01-05 03:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

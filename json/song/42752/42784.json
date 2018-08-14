@@ -23,6 +23,53 @@
   "artist_names": [
     "Andreas Viklund"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-01-28"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-01-28"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-01-28"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-02-15"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2016-02-15"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-02-15"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-02-15"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-07-19"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-01-26 11:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -20,6 +20,93 @@
   "artist_names": [
     "Bart Klepka"
   ],
+  "votes": [
+    {
+      "user": "RoC",
+      "vote": 1,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 1,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 1,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-12-31"
+    },
+    {
+      "user": "funnyn8",
+      "vote": 1,
+      "when": "2012-12-31"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-12-31"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-01-11 21:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-01-11 21:05:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2014-01-11 21:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-11 21:07:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-02-23 11:30:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2018-02-12 06:17:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 3,
+      "when": "2018-04-27 09:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

@@ -25,6 +25,73 @@
   "artist_names": [
     "Djamm"
   ],
+  "votes": [
+    {
+      "user": "freQvibez",
+      "vote": 3,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "rv6502",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-23"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2012-11-23"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-01-16 16:16:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2014-01-16 16:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-16 16:16:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-04-05 22:23:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-08-14"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-11-12 19:53:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-04-28 07:14:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2016-04-28 07:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

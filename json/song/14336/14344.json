@@ -20,6 +20,53 @@
   "artist_names": [
     "Axel"
   ],
+  "votes": [
+    {
+      "user": "Aetrin",
+      "vote": 5,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-27 07:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-06-27 12:54:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2016-03-30 12:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-03-30 12:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -24,6 +24,53 @@
   "artist_names": [
     "Gamma"
   ],
+  "votes": [
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-13"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-02 18:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-18 05:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

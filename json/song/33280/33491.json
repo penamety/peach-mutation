@@ -26,5 +26,17 @@
   "artist_names": [
     "Richard Joseph"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-01-24 18:38:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2018-03-30 20:11:00"
+    }
+  ],
   "requests": []
 }

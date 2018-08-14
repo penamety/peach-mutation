@@ -25,6 +25,98 @@
   "artist_names": [
     "Gloom"
   ],
+  "votes": [
+    {
+      "user": "micksam7",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "besh",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-25 02:06:00"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2013-11-25 02:06:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-02-03 12:23:00"
+    },
+    {
+      "user": "epso",
+      "vote": 4,
+      "when": "2014-02-03 12:23:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-02-03 12:24:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-02-03 12:24:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2014-12-19 11:24:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 2,
+      "when": "2014-12-19 11:24:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-05-03 11:22:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2018-05-03 11:22:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2018-05-03 11:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "besh",

@@ -26,6 +26,53 @@
   "artist_names": [
     "Blue Zone"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-31 18:13:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-01-31 18:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-01-31 19:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-02-16 12:29:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-02-16 12:32:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-05-31 21:03:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 3,
+      "when": "2017-08-21 13:33:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-08-21 13:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-05-19 20:50:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

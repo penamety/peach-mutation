@@ -28,6 +28,83 @@
   "artist_names": [
     "Sauron"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "darkh",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "dodge",
+      "vote": 3,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-08-11 09:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-01 12:26:00"
+    },
+    {
+      "user": "Abrahaz",
+      "vote": 5,
+      "when": "2015-01-09 10:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-01-09 10:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-05-10 01:59:00"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 5,
+      "when": "2018-05-10 02:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

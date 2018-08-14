@@ -27,6 +27,88 @@
   "artist_names": [
     "Purple Motion"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-08 15:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-05 00:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-03-10 18:18:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-06-23 20:20:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-06-23 20:22:00"
+    },
+    {
+      "user": "bender",
+      "vote": 1,
+      "when": "2014-12-08 18:04:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2017-05-01 18:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "cederom",

@@ -23,6 +23,53 @@
   "artist_names": [
     "raina"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-10-16 11:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-17 20:03:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-16 20:20:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-03-09 12:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

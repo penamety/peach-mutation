@@ -25,6 +25,33 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "ThunderBird",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "ZTube",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-06-01"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

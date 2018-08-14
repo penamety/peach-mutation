@@ -23,6 +23,53 @@
   "artist_names": [
     "Infamous"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-06-19 15:11:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-08-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-10 13:46:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-11-10 13:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

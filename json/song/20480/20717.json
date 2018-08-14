@@ -20,6 +20,68 @@
   "artist_names": [
     "Lord Squeak"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Octoate",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-03"
+    },
+    {
+      "user": "Ishma",
+      "vote": 1,
+      "when": "2013-07-04 01:50:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 1,
+      "when": "2013-10-31"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-02-06"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-09-21"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2017-04-13 22:10:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-04-13 22:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-04-13 22:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

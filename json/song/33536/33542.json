@@ -23,6 +23,68 @@
   "artist_names": [
     "Iso"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Latis",
+      "vote": 5,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-02-27 17:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-02-27 17:17:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-25 05:32:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-03-02 13:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

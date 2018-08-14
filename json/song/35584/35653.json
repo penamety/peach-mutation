@@ -26,6 +26,88 @@
   "artist_names": [
     "SHD"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Clanfear",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2013-07-14 14:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-14 14:32:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-11-28 15:27:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2013-11-28 15:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-19 13:24:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-07-15 09:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

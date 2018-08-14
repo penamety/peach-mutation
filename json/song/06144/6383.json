@@ -20,6 +20,73 @@
   "artist_names": [
     "Fast Shadow"
   ],
+  "votes": [
+    {
+      "user": "Frumple",
+      "vote": 1,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 2,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "nurf",
+      "vote": 3,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-21"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-09-19 02:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-19 02:38:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-03-08 00:29:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "robert",
+      "vote": 2,
+      "when": "2017-10-03 10:50:00"
+    },
+    {
+      "user": "zeograd",
+      "vote": 1,
+      "when": "2017-10-03 10:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

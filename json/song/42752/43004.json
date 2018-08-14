@@ -26,6 +26,48 @@
   "artist_names": [
     "T-101"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-03-26 15:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-03-29 22:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-04-05 09:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-04-05 09:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-04-05 09:00:00"
+    },
+    {
+      "user": "Archmage",
+      "vote": 1,
+      "when": "2016-04-20 10:18:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-05-13 14:13:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 5,
+      "when": "2016-07-19"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

@@ -26,6 +26,63 @@
   "artist_names": [
     "Ascender"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-06-02 16:05:00"
+    },
+    {
+      "user": "omilian",
+      "vote": 5,
+      "when": "2013-09-10 06:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-09 03:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-03-03 14:56:00"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 5,
+      "when": "2014-09-23 23:04:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-12-22 13:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

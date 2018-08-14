@@ -25,6 +25,138 @@
   "artist_names": [
     "Judge Brad"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "Octoate",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "chellomere",
+      "vote": 1,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "gaussgss",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "infinigon",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Erk",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Robot2037",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sneh",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-15 00:31:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-03 12:57:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 1,
+      "when": "2016-02-28 10:04:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-02-28 10:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

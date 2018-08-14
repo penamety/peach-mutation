@@ -21,6 +21,53 @@
   "artist_names": [
     "Lizardking"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-01-31"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-08-11 09:33:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-06-27 21:13:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2015-06-27 21:13:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-08-30"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -22,6 +22,78 @@
   "artist_names": [
     "Turtle"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-09-13 12:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-13 13:00:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-08-09 21:19:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-09 21:19:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-09 21:19:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-08-09 21:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-08-09 21:22:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-03-01 14:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "tyco",

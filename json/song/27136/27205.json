@@ -27,6 +27,138 @@
   "artist_names": [
     "Vesuri"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Shriggar",
+      "vote": 3,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "eefi",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "shift",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Rapidkirby3k",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "matsim",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Colidace",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "qbit",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-12-19"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-07-29 15:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-29 15:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-29 15:31:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-07-29 15:33:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-21 03:01:00"
+    },
+    {
+      "user": "Qumran",
+      "vote": 2,
+      "when": "2014-12-09 15:19:00"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 3,
+      "when": "2015-08-18"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-09-14 12:57:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-09-14 12:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-09-26 18:46:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-12-21 23:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

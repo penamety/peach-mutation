@@ -20,6 +20,78 @@
   "artist_names": [
     "Shad"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Jakim",
+      "vote": 5,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "jaakkop",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-19 03:23:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-03-04 13:42:00"
+    },
+    {
+      "user": "freak_out",
+      "vote": 2,
+      "when": "2014-03-04 13:43:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2014-04-15 21:37:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-02-16 20:37:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-02-16 20:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2017-02-16 20:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

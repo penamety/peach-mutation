@@ -22,6 +22,28 @@
   "artist_names": [
     "The M"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-12-29 18:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-12-29 18:48:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-12-29 19:42:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2018-02-26 22:06:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

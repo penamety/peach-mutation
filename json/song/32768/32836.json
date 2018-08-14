@@ -24,6 +24,58 @@
   "artist_names": [
     "Marcer"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "mud",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-23"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-11 15:26:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-11-11 15:27:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2017-05-07 08:15:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-05-07 08:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

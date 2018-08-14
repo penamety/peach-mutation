@@ -24,6 +24,53 @@
   "artist_names": [
     "Mano"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-10-30 07:59:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-10-30 08:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-10-30 08:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-11-09 13:57:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-12 22:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-12-12 22:50:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-06-18 19:20:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-01-27"
+    },
+    {
+      "user": "malmen",
+      "vote": 4,
+      "when": "2018-05-20 08:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "Jeminami",

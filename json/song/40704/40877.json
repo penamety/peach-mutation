@@ -26,6 +26,88 @@
   "artist_names": [
     "Tayle"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-08-26 00:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-08-26 10:00:00"
+    },
+    {
+      "user": "Ishma",
+      "vote": 5,
+      "when": "2014-08-26 10:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-08-26 10:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-09-09 20:39:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2014-09-09 20:40:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-11-05 12:13:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-11-05 12:16:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2014-11-19 14:16:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2014-12-02 10:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-12-02 10:49:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2014-12-15 22:39:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2015-01-05 20:31:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-03-06 19:57:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-04-20 21:39:00"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2018-06-01 13:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

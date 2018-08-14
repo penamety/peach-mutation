@@ -23,6 +23,73 @@
   "artist_names": [
     "Velvet"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2014-12-21 21:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-12-21 21:30:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 4,
+      "when": "2014-12-21 21:31:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-12-21 21:32:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 4,
+      "when": "2014-12-31 16:14:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-12-31 16:15:00"
+    },
+    {
+      "user": "bc2001",
+      "vote": 4,
+      "when": "2014-12-31 16:16:00"
+    },
+    {
+      "user": "The_Tubes",
+      "vote": 5,
+      "when": "2015-03-03 23:20:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2015-06-16 06:28:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-01-14 20:02:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2018-04-21 19:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

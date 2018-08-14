@@ -22,6 +22,83 @@
   "artist_names": [
     "Marcer"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Octoate",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "silok",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-07-22 15:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-22 15:49:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-22 15:49:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-05-29 17:17:00"
+    },
+    {
+      "user": "joes",
+      "vote": 2,
+      "when": "2014-05-29 17:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

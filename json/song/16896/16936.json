@@ -20,6 +20,93 @@
   "artist_names": [
     "Dean"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-25 05:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-23 19:38:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-23 19:38:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-28 09:30:00"
+    },
+    {
+      "user": "Axel",
+      "vote": 5,
+      "when": "2014-02-28 09:31:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2014-02-28 09:32:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-02-28 09:32:00"
+    },
+    {
+      "user": "Haju",
+      "vote": 4,
+      "when": "2014-02-28 09:32:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2016-05-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-05-25"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-19 13:00:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-01-19 13:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

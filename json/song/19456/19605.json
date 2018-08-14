@@ -19,5 +19,17 @@
   "artist_names": [
     "WAVE"
   ],
+  "votes": [
+    {
+      "user": "SpaghettiCat",
+      "vote": 4,
+      "when": "2013-10-18 12:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-06-30"
+    }
+  ],
   "requests": []
 }

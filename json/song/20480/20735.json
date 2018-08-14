@@ -19,6 +19,68 @@
   "artist_names": [
     "Lotek Style"
   ],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-09 07:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-13 17:47:00"
+    },
+    {
+      "user": "Fireball",
+      "vote": 2,
+      "when": "2013-11-13 17:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-20 11:13:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2014-07-20 11:14:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2015-06-20 23:27:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2015-06-20 23:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

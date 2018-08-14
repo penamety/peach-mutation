@@ -19,6 +19,88 @@
   "artist_names": [
     "Facet"
   ],
+  "votes": [
+    {
+      "user": "Axioplase",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "aaai",
+      "vote": 5,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "velusip",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "gauri",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "crrr",
+      "vote": 4,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-08-11 10:22:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-08 05:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-09-26"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 4,
+      "when": "2015-11-19"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-11-19"
+    },
+    {
+      "user": "Fennimore",
+      "vote": 3,
+      "when": "2016-06-25"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2017-04-21 17:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yellowjelly",

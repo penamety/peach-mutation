@@ -22,6 +22,88 @@
   "artist_names": [
     "Superted"
   ],
+  "votes": [
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-05 01:41:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-05 01:43:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-05 01:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-15 09:42:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-06-15 09:42:00"
+    },
+    {
+      "user": "Rahta",
+      "vote": 5,
+      "when": "2017-06-27 18:23:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2017-06-27 18:26:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-10-04 08:06:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2018-04-10 19:08:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2018-04-10 19:10:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2018-05-26 11:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

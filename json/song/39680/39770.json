@@ -24,6 +24,68 @@
   "artist_names": [
     "Nik-O"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-12-17 17:38:00"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 1,
+      "when": "2013-12-17 18:09:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-12-25 23:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-06 14:27:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-01-06 14:27:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2014-01-06 14:30:00"
+    },
+    {
+      "user": "oryx",
+      "vote": 3,
+      "when": "2014-04-19 17:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-05-26 16:53:00"
+    },
+    {
+      "user": "etray",
+      "vote": 3,
+      "when": "2014-05-26 16:54:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2014-05-26 16:56:00"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2014-09-04 01:14:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-11-16 23:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "Dimouse",

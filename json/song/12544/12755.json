@@ -24,6 +24,73 @@
   "artist_names": [
     "Kenet"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-08-26 00:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-26 00:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-26 00:50:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-07-28 18:23:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-07-28 18:25:00"
+    },
+    {
+      "user": "jesper",
+      "vote": 4,
+      "when": "2016-02-19 09:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-02-19 09:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "xfinalx",

@@ -21,6 +21,148 @@
   "artist_names": [
     "Awesome"
   ],
+  "votes": [
+    {
+      "user": "aaai",
+      "vote": 5,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "Melo",
+      "vote": 4,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-01-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-01-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "qbit",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Darkseed",
+      "vote": 4,
+      "when": "2012-06-10"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-06-10"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-07-10"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-07-10"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-07-10"
+    },
+    {
+      "user": "Machforr",
+      "vote": 2,
+      "when": "2012-08-24"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-08-24"
+    },
+    {
+      "user": "velusip",
+      "vote": 3,
+      "when": "2012-08-24"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-09-30"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-07-22 21:49:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-12 10:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-22 18:56:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 4,
+      "when": "2014-02-22 18:56:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-02-22 19:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

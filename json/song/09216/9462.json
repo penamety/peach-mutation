@@ -24,6 +24,53 @@
   "artist_names": [
     "AnaMark"
   ],
+  "votes": [
+    {
+      "user": "funnyn8",
+      "vote": 5,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "aaai",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-07-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-17 01:52:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2014-01-23 02:18:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-05-11 11:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "SPACE",

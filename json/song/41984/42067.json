@@ -24,6 +24,73 @@
   "artist_names": [
     "IJsf"
   ],
+  "votes": [
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-05-31 14:22:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-05-31 14:24:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-05-31 14:24:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-07-20"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "Ishma",
+      "vote": 3,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 2,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-10"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2015-10-10"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2015-11-17"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2015-11-17"
+    },
+    {
+      "user": "atom32k",
+      "vote": 3,
+      "when": "2017-06-30 09:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

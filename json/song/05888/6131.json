@@ -19,6 +19,68 @@
   "artist_names": [
     "Rayn [US]"
   ],
+  "votes": [
+    {
+      "user": "deathy",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "qbit",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "mud",
+      "vote": 3,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-26 20:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-05-26 20:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-10-07 22:37:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-03-18 09:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-08 01:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-30 14:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "Venty",

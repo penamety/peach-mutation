@@ -19,6 +19,53 @@
   "artist_names": [
     "Cyborg Jeff"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-31 08:53:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-12-13 00:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-08 02:09:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-11-18 15:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "JazzViolence",

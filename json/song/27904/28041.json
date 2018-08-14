@@ -25,6 +25,53 @@
   "artist_names": [
     "Siren"
   ],
+  "votes": [
+    {
+      "user": "dxun",
+      "vote": 5,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-13 21:16:00"
+    },
+    {
+      "user": "Infovorr",
+      "vote": 5,
+      "when": "2014-09-02 19:00:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-10 18:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

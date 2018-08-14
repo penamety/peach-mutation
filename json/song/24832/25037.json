@@ -20,6 +20,58 @@
   "artist_names": [
     "Laviopra13"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "seppjo",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2013-08-23 16:08:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2017-02-17 13:54:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2017-02-17 13:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

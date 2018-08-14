@@ -25,6 +25,108 @@
   "artist_names": [
     "Con"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-10 19:15:00"
+    },
+    {
+      "user": "impishrazor",
+      "vote": 5,
+      "when": "2013-06-10 19:15:00"
+    },
+    {
+      "user": "cyberant",
+      "vote": 4,
+      "when": "2013-06-10 19:16:00"
+    },
+    {
+      "user": "gasg",
+      "vote": 3,
+      "when": "2013-06-10 19:17:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-31 17:55:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-04 06:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-03-10 06:42:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-06-08 04:19:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 4,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "nobody",
+      "vote": 4,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "sdjm",
+      "vote": 4,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "skall",
+      "vote": 4,
+      "when": "2016-06-09"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2017-03-16 13:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

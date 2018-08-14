@@ -19,6 +19,83 @@
   "artist_names": [
     "Dr. Awesome"
   ],
+  "votes": [
+    {
+      "user": "aaai",
+      "vote": 4,
+      "when": "2010-08-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 4,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-03-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-18 05:13:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-18 05:13:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-10-17 12:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-17 12:47:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2013-10-17 12:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-22 02:02:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-07-02 13:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-07-02 13:55:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-07-02 13:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "BombmanDK",

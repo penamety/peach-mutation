@@ -24,6 +24,193 @@
   "artist_names": [
     "Dr. Awesome"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-07-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2010-08-01"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2011-04-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "SampL",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "infinigon",
+      "vote": 5,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "selmi",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "mud",
+      "vote": 5,
+      "when": "2013-06-02 18:57:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-06-02 18:58:00"
+    },
+    {
+      "user": "Colidace",
+      "vote": 4,
+      "when": "2013-06-02 19:00:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2013-06-02 19:00:00"
+    },
+    {
+      "user": "zoner",
+      "vote": 5,
+      "when": "2013-07-09 22:19:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-09 22:20:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-07-09 22:20:00"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2013-07-09 22:25:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-05 02:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-01-09 07:51:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2015-07-19"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "wig",
+      "vote": 4,
+      "when": "2016-11-04 21:25:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-12-29 14:44:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 3,
+      "when": "2017-04-22 04:40:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-07-03 21:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "shift",

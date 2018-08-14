@@ -21,6 +21,83 @@
   "artist_names": [
     "4t Thieves"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2013-04-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-06-09 00:33:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-06-09 00:33:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-06-09 00:36:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-08-30 19:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-30 19:56:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-30 04:19:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-06-15 23:02:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-11-04 14:36:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2014-11-04 14:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

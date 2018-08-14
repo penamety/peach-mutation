@@ -21,6 +21,53 @@
   "artist_names": [
     "911"
   ],
+  "votes": [
+    {
+      "user": "jolic",
+      "vote": 2,
+      "when": "2008-12-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-07-17"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-18"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-06-04 12:28:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-06-04 12:31:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2013-10-12"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2015-11-17"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-06-02"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

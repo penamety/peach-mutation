@@ -24,6 +24,123 @@
   "artist_names": [
     "Tim Wright"
   ],
+  "votes": [
+    {
+      "user": "deathy",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "turbine5",
+      "vote": 4,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 3,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "isvenger",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "dupafkrate",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "eefi",
+      "vote": 5,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "HED",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Tangerine",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 5,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-20 00:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-12-15 21:32:00"
+    },
+    {
+      "user": "joes",
+      "vote": 5,
+      "when": "2014-05-24 14:01:00"
+    },
+    {
+      "user": "Erk",
+      "vote": 3,
+      "when": "2017-03-09 22:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "Darkseed",

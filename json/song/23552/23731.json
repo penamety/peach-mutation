@@ -19,6 +19,48 @@
   "artist_names": [
     "Roberts"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-11 18:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-11 18:54:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-10-17 11:38:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

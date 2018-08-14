@@ -22,6 +22,78 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2017-05-12 22:24:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-05-12 22:24:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2017-05-12 22:24:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2017-05-12 22:24:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-05-12 22:25:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2017-05-28 15:11:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2017-05-28 15:12:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-06-03 07:03:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 2,
+      "when": "2017-10-14 16:25:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-12-09 12:59:00"
+    },
+    {
+      "user": "medinuxx",
+      "vote": 4,
+      "when": "2017-12-09 13:01:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-03-28 10:16:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 3,
+      "when": "2018-03-28 10:17:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2018-03-28 10:17:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -26,6 +26,93 @@
   "artist_names": [
     "Peter Salomonsen"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "sLASH",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "SageBF",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "vonTaffelsson",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "AnaMark",
+      "vote": 1,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-11 11:11:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-11 11:14:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 4,
+      "when": "2014-02-09 20:53:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2015-01-11 11:41:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-10-20"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2016-02-19 19:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

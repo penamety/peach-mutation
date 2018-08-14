@@ -21,6 +21,73 @@
   "artist_names": [
     "TLF"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "warhawk",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-29 05:23:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-09-04 11:36:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-04 11:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-09-04 11:37:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 3,
+      "when": "2016-11-18 16:39:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-11-18 16:40:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-18 16:40:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2016-11-18 16:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

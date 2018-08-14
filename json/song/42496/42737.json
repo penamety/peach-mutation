@@ -25,6 +25,68 @@
   "artist_names": [
     "The Master"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "sdjm",
+      "vote": 2,
+      "when": "2016-01-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2016-01-24"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-01-24"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-02-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-03-11 11:21:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2016-03-11 11:22:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2017-03-26"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-03-26"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-11-04 12:02:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 2,
+      "when": "2017-11-04 12:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

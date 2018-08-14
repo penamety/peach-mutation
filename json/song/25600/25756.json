@@ -24,6 +24,48 @@
   "artist_names": [
     "Tone"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-26 04:51:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2015-09-24"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-02-07"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

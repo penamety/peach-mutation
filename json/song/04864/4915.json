@@ -22,6 +22,83 @@
   "artist_names": [
     "Moby"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "Smanux",
+      "vote": 3,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-18 01:32:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-08-10 23:39:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-08-10 23:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-19 12:50:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-03-06 04:31:00"
+    },
+    {
+      "user": "na85",
+      "vote": 5,
+      "when": "2016-02-01"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 5,
+      "when": "2016-04-20 06:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-04-20 06:51:00"
+    },
+    {
+      "user": "ck2nb",
+      "vote": 5,
+      "when": "2017-04-07 16:17:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-05-02 14:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

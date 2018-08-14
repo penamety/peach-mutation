@@ -19,6 +19,73 @@
   "artist_names": [
     "Innervision"
   ],
+  "votes": [
+    {
+      "user": "funnyn8",
+      "vote": 1,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "Sirocco",
+      "vote": 1,
+      "when": "2010-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "liquidstupid",
+      "vote": 1,
+      "when": "2013-03-12"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 1,
+      "when": "2013-04-07"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-03-19 07:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2014-03-19 07:00:00"
+    },
+    {
+      "user": "Haju",
+      "vote": 2,
+      "when": "2014-03-19 07:01:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-03-19 07:01:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-23 17:42:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2015-09-18"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

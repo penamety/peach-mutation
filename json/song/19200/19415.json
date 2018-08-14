@@ -23,6 +23,68 @@
   "artist_names": [
     "Jas"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Smanux",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2012-10-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-25 02:07:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-14 06:28:00"
+    },
+    {
+      "user": "Mimosaa",
+      "vote": 1,
+      "when": "2014-10-09 03:25:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 2,
+      "when": "2015-09-12"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

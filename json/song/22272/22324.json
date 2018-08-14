@@ -19,6 +19,58 @@
   "artist_names": [
     "Norfair"
   ],
+  "votes": [
+    {
+      "user": "alebu",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "golio",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-08-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-23 03:05:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-11-11 12:15:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-11-11 12:17:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-09-01 07:47:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

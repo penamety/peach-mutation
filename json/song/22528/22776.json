@@ -27,6 +27,123 @@
   "artist_names": [
     "Pink"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "asbjornu",
+      "vote": 2,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "Arktos",
+      "vote": 4,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "eefi",
+      "vote": 4,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "fblah",
+      "vote": 4,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "stokescomp",
+      "vote": 3,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-01 00:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-04 21:13:00"
+    },
+    {
+      "user": "EZH",
+      "vote": 3,
+      "when": "2014-04-04 21:14:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-05-03 14:18:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-11-10 05:25:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-04-02 13:08:00"
+    },
+    {
+      "user": "DexterAYS",
+      "vote": 5,
+      "when": "2015-04-02 13:08:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2015-04-02 13:09:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2015-10-29"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2016-03-16 19:03:00"
+    },
+    {
+      "user": "Siegfried",
+      "vote": 4,
+      "when": "2016-03-16 19:04:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2016-10-01"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

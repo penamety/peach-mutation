@@ -25,6 +25,83 @@
   "artist_names": [
     "CIE"
   ],
+  "votes": [
+    {
+      "user": "Fabzirya",
+      "vote": 1,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 2,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Melo",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-08-23 15:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-23 15:04:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2013-08-23 15:12:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-01-14 23:24:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-10-01"
+    },
+    {
+      "user": "Lancastersilk",
+      "vote": 1,
+      "when": "2016-10-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-02-10 13:23:00"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 2,
+      "when": "2017-11-29 14:13:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

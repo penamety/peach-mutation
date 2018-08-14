@@ -19,6 +19,58 @@
   "artist_names": [
     "Hein Design"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2011-12-10"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 3,
+      "when": "2012-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-29 19:44:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-06-23 12:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-09-19"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-09-19"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2015-09-19"
+    }
+  ],
   "requests": [
     {
       "user": "psymleko",

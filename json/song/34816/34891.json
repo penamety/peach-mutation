@@ -21,6 +21,88 @@
   "artist_names": [
     "Floppi"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 4,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "skall",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-19"
+    },
+    {
+      "user": "scanjam",
+      "vote": 4,
+      "when": "2014-09-29 06:59:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-09-29 07:00:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-12-25 13:22:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2016-12-25 13:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

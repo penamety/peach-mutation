@@ -23,6 +23,118 @@
   "artist_names": [
     "Mad Max"
   ],
+  "votes": [
+    {
+      "user": "eefi",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "phil242",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Bluerain33",
+      "vote": 4,
+      "when": "2010-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "numerus",
+      "vote": 1,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "NaN",
+      "vote": 4,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "skall",
+      "vote": 4,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-24 19:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-06-24 19:30:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-08-04 18:14:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 3,
+      "when": "2015-10-05"
+    },
+    {
+      "user": "seppjo",
+      "vote": 4,
+      "when": "2016-01-28"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-12-15 14:03:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-12-15 14:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "Spiral",

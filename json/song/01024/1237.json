@@ -19,6 +19,58 @@
   "artist_names": [
     "Clawz"
   ],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 2,
+      "when": "2010-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-08-03 19:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-03 19:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-11-26 09:01:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-11-26 09:03:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

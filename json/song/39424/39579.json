@@ -23,6 +23,83 @@
   "artist_names": [
     "Floppi"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-11-15 22:56:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-16 01:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-16 01:25:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-16 01:26:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-11-16 01:26:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-11-16 01:28:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2013-11-16 01:29:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2014-01-06 15:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-01-06 15:19:00"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2014-07-15"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-07-15 00:37:00"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 3,
+      "when": "2014-12-16 00:20:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-07-23"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-05-08 07:53:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-05-08 07:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

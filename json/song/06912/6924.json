@@ -19,6 +19,73 @@
   "artist_names": [
     "Thug"
   ],
+  "votes": [
+    {
+      "user": "deathy",
+      "vote": 2,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-07-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-06-07 13:19:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-06-07 13:19:00"
+    },
+    {
+      "user": "Sketch",
+      "vote": 3,
+      "when": "2013-06-07 13:20:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 3,
+      "when": "2013-06-07 13:20:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-11 00:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-09-11 00:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

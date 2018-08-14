@@ -17,6 +17,58 @@
   "last_scraped": "2018-05-23 03:16:37",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 3,
+      "when": "2012-09-10"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-04-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-04-05"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

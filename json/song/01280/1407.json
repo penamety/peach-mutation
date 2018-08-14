@@ -20,6 +20,73 @@
   "artist_names": [
     "Cybelius"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-11-30"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-09-01 04:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-19 13:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-06-04 08:25:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-01-28 19:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-01-28 20:06:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2017-05-06 17:45:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2017-05-06 17:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "crrr",

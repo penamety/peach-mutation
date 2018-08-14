@@ -23,6 +23,68 @@
   "artist_names": [
     "Wire"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-15 18:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-15 18:12:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-02-11 06:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-06-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-12-30 06:53:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-09-06 20:57:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-09-06 20:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "prowler",

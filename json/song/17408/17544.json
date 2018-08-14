@@ -16,6 +16,43 @@
   "last_scraped": "2018-05-23 02:35:30",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-06-09"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-05-03"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

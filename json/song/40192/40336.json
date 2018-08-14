@@ -26,6 +26,58 @@
   "artist_names": [
     "Yerzmyey"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-04-06 01:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-06 20:27:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-04-06 20:27:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-05-28 07:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-06-12 10:17:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-08-06 19:36:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-08-06 19:37:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-11-24"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-11-24"
+    },
+    {
+      "user": "johny8",
+      "vote": 5,
+      "when": "2018-01-05 13:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

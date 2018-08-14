@@ -15,5 +15,62 @@
   "last_scraped": "2018-05-23 05:14:29",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "bitl",
+      "vote": 2,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "oryx",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "scanjam",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "AlphaC",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "jass0",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "zensonic",
+      "vote": 5,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Gismo",
+      "vote": 1,
+      "when": "2014-10-23 10:03:00"
+    }
+  ],
   "requests": []
 }

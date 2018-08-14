@@ -19,6 +19,98 @@
   "artist_names": [
     "Heatbeat"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "temp01",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "traidmill",
+      "vote": 1,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-07-19 21:09:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-07-19 21:14:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 1,
+      "when": "2014-04-25 14:37:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2014-04-25 14:37:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2015-09-29"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-10-15"
+    },
+    {
+      "user": "Speeder",
+      "vote": 1,
+      "when": "2015-12-22"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2018-05-02 15:16:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 1,
+      "when": "2018-05-02 15:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

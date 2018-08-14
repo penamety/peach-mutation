@@ -24,6 +24,63 @@
   "artist_names": [
     "Dr. Bully"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "numerus",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "thorntonpete",
+      "vote": 5,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2013-11-10 14:45:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-10 14:46:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-11-10 14:46:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-11-10 15:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

@@ -22,6 +22,48 @@
   "artist_names": [
     "Perrra"
   ],
+  "votes": [
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-02-13 17:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-31 14:53:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-04-19 16:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-06-16 11:44:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 3,
+      "when": "2014-09-12 15:48:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-12-17 04:43:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-08-22"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2015-08-22"
+    }
+  ],
   "requests": [
     {
       "user": "Erk",

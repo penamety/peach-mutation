@@ -20,6 +20,68 @@
   "artist_names": [
     "Sir Monkey"
   ],
+  "votes": [
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-11-01 23:59:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-02 00:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-02 00:01:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-02 00:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-28 18:49:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-09-29 11:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

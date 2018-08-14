@@ -22,6 +22,83 @@
   "artist_names": [
     "LioZ"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "ezal",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "wiseman",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-11-17"
+    },
+    {
+      "user": "malmen",
+      "vote": 4,
+      "when": "2013-02-17"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-08-25 21:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-25 21:24:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-08-25 21:25:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-25 21:27:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-08-03 12:34:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2014-08-03 12:35:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-04-28 13:08:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-05-29 10:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

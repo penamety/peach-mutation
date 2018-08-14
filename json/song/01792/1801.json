@@ -20,6 +20,53 @@
   "artist_names": [
     "Djamm"
   ],
+  "votes": [
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2010-11-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-31"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-09-16"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-11 11:41:00"
+    },
+    {
+      "user": "jonte",
+      "vote": 4,
+      "when": "2014-07-11 11:41:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-09-09"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-09"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

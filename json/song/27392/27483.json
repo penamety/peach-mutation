@@ -21,6 +21,58 @@
   "artist_names": [
     "Oliwerko"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Galancy",
+      "vote": 2,
+      "when": "2014-05-20 13:05:00"
+    },
+    {
+      "user": "BLGM",
+      "vote": 1,
+      "when": "2015-08-11"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2017-01-10 09:03:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2017-01-10 09:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-05-15 00:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

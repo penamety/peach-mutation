@@ -24,6 +24,73 @@
   "artist_names": [
     "Noecken"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "menthes",
+      "vote": 5,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-08-26 14:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-26 14:35:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-26 14:35:00"
+    },
+    {
+      "user": "rascranasingha",
+      "vote": 3,
+      "when": "2013-08-26 14:35:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-08-26 14:35:00"
+    },
+    {
+      "user": "spekki",
+      "vote": 4,
+      "when": "2013-08-26 14:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-07-31 05:30:00"
+    },
+    {
+      "user": "melcom",
+      "vote": 3,
+      "when": "2014-12-19 15:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

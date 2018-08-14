@@ -25,6 +25,38 @@
   "artist_names": [
     "Elrinth"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-05"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-12"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-03-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-05"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

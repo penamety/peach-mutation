@@ -24,6 +24,83 @@
   "artist_names": [
     "Danger"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Zac",
+      "vote": 4,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Latis",
+      "vote": 4,
+      "when": "2010-08-03"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-07-22 00:49:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-12 12:08:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-12 12:08:00"
+    },
+    {
+      "user": "selmi",
+      "vote": 2,
+      "when": "2013-12-04 02:49:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-24 20:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

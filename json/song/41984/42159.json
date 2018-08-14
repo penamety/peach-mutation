@@ -27,6 +27,68 @@
   "artist_names": [
     "Fajser"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-06-14 11:13:00"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 3,
+      "when": "2015-07-08 19:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-07-08 19:41:00"
+    },
+    {
+      "user": "turbine5",
+      "vote": 4,
+      "when": "2015-07-08 19:41:00"
+    },
+    {
+      "user": "Chocoholic",
+      "vote": 5,
+      "when": "2015-07-08 19:43:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 5,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2015-08-10"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-04-03 16:35:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-09-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-09-29"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-09-29"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 4,
+      "when": "2018-05-15 10:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

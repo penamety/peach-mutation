@@ -26,6 +26,53 @@
   "artist_names": [
     "Oce"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-10-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-04-21 08:35:00"
+    },
+    {
+      "user": "plc",
+      "vote": 1,
+      "when": "2016-10-05"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-11-19 17:24:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

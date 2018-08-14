@@ -24,6 +24,68 @@
   "artist_names": [
     "Bc"
   ],
+  "votes": [
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Tezar",
+      "vote": 2,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-09-03 13:11:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-09-03 13:12:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2014-01-13 21:07:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2017-09-14 16:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "Tezar",

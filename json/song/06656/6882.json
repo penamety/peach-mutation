@@ -19,6 +19,98 @@
   "artist_names": [
     "Teque"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "caminante",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "rubik",
+      "vote": 5,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2012-10-25"
+    },
+    {
+      "user": "Melo",
+      "vote": 4,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-09-09 03:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-09 03:26:00"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2013-10-19 08:57:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-01-20 19:38:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-01-20 19:39:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-08-11 19:14:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2016-11-05 04:05:00"
+    }
+  ],
   "requests": [
     {
       "user": "jinx",

@@ -21,6 +21,53 @@
   "artist_names": [
     "kiwi2000"
   ],
+  "votes": [
+    {
+      "user": "Bobik",
+      "vote": 5,
+      "when": "2016-07-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-08-27"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-09-20"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-10-08"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-11-24 19:18:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-01-21 21:07:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-01-21 21:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "Bobik",

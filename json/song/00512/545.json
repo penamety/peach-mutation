@@ -19,6 +19,98 @@
   "artist_names": [
     "Bart Klepka"
   ],
+  "votes": [
+    {
+      "user": "Nicknack",
+      "vote": 3,
+      "when": "2009-01-01"
+    },
+    {
+      "user": "skall",
+      "vote": 4,
+      "when": "2009-01-31"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-03-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-31"
+    },
+    {
+      "user": "tas",
+      "vote": 4,
+      "when": "2012-07-31"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "corewhore",
+      "vote": 5,
+      "when": "2012-12-10"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-01-09"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-01-09"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-23 12:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-23 12:19:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-10-23 12:20:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-06-15 05:10:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2017-09-01 04:16:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-11-08 00:50:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2018-02-23 03:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "silok",

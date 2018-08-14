@@ -23,6 +23,88 @@
   "artist_names": [
     "Pixel"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Dattu",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "turbine5",
+      "vote": 4,
+      "when": "2010-09-02"
+    },
+    {
+      "user": "Melo",
+      "vote": 4,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-18 14:49:00"
+    },
+    {
+      "user": "killerspoon",
+      "vote": 5,
+      "when": "2013-07-18 14:49:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-10-29 09:17:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-10-29 09:17:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-07-13 23:03:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-04-28 06:22:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-03-29 14:05:00"
+    },
+    {
+      "user": "zeograd",
+      "vote": 1,
+      "when": "2016-03-29 14:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-09 00:06:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-01-14 11:41:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2018-01-14 11:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

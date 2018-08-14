@@ -22,6 +22,38 @@
   "artist_names": [
     "Iso"
   ],
+  "votes": [
+    {
+      "user": "Machforr",
+      "vote": 5,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "unfy",
+      "vote": 4,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-06-07 11:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

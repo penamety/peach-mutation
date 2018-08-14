@@ -25,6 +25,128 @@
   "artist_names": [
     "Croaker"
   ],
+  "votes": [
+    {
+      "user": "_wally",
+      "vote": 5,
+      "when": "2009-04-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2010-10-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-04-25"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-06-05 00:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-31 03:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-31 03:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-31 03:35:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-28 23:59:00"
+    },
+    {
+      "user": "ddoodm",
+      "vote": 5,
+      "when": "2014-08-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-12-30 07:36:00"
+    },
+    {
+      "user": "Rage",
+      "vote": 5,
+      "when": "2015-08-17"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2015-10-17"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2016-01-03"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-02-13"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-02-13"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-13"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-06-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2016-08-19"
+    },
+    {
+      "user": "Tudhalyas",
+      "vote": 5,
+      "when": "2016-11-16 20:53:00"
+    },
+    {
+      "user": "Triton",
+      "vote": 4,
+      "when": "2017-05-19 22:56:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2017-10-04 15:23:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-02-10 13:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

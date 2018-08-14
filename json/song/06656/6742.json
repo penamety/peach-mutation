@@ -19,6 +19,68 @@
   "artist_names": [
     "Stu taylor"
   ],
+  "votes": [
+    {
+      "user": "Vampire",
+      "vote": 1,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Bonstra",
+      "vote": 2,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "motorola",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2012-09-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-16 15:56:00"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-06-16 15:56:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-11-01 14:20:00"
+    },
+    {
+      "user": "Thexder",
+      "vote": 1,
+      "when": "2018-04-14 23:54:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-06-03 01:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "MyO",

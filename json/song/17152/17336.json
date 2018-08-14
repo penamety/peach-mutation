@@ -15,5 +15,17 @@
   "last_scraped": "2018-05-23 02:19:27",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Fabzirya",
+      "vote": 5,
+      "when": "2010-11-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-11-02"
+    }
+  ],
   "requests": []
 }

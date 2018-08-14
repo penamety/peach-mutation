@@ -25,6 +25,113 @@
   "artist_names": [
     "Dreamer"
   ],
+  "votes": [
+    {
+      "user": "turbine5",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2010-12-09"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "Quarex",
+      "vote": 2,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-01-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "zoner",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-29 08:11:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-06-29 08:11:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-29 21:59:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2013-11-29 21:59:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-11-29 22:01:00"
+    },
+    {
+      "user": "64odore",
+      "vote": 3,
+      "when": "2014-01-20 13:33:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2014-01-20 13:34:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2014-01-20 13:34:00"
+    },
+    {
+      "user": "Osmic",
+      "vote": 1,
+      "when": "2014-01-20 13:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-01-20 13:34:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-01-20 13:34:00"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2014-06-13 16:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

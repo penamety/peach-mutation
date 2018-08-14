@@ -23,6 +23,58 @@
   "artist_names": [
     "XCEL"
   ],
+  "votes": [
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-07-29 13:50:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-29 13:50:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-07-29 13:51:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-07-29 13:52:00"
+    },
+    {
+      "user": "turbine5",
+      "vote": 2,
+      "when": "2013-08-23 03:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-23 03:01:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-10-10 13:18:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-10-10 13:18:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-13 08:52:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2017-01-13 08:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

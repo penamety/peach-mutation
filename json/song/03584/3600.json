@@ -19,6 +19,68 @@
   "artist_names": [
     "Johan Petersson"
   ],
+  "votes": [
+    {
+      "user": "keen",
+      "vote": 5,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "rv6502",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "directive0",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-29 06:31:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-04-04 00:46:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-03-07 12:30:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2017-07-10 14:27:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2017-07-10 14:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

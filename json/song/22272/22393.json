@@ -19,6 +19,53 @@
   "artist_names": [
     "Oj Oscillation"
   ],
+  "votes": [
+    {
+      "user": "Korguiq",
+      "vote": 3,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-11-09"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-24"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2014-09-21 14:44:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2014-09-21 14:44:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 2,
+      "when": "2014-09-21 14:45:00"
+    }
+  ],
   "requests": [
     {
       "user": "rombust",

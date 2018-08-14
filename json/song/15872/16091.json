@@ -20,6 +20,48 @@
   "artist_names": [
     "CONS"
   ],
+  "votes": [
+    {
+      "user": "Terrasque",
+      "vote": 2,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "yoshi252",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2017-03-18"
+    }
+  ],
   "requests": [
     {
       "user": "jinx",

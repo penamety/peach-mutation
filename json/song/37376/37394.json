@@ -25,6 +25,73 @@
   "artist_names": [
     "4t Thieves"
   ],
+  "votes": [
+    {
+      "user": "prowler",
+      "vote": 5,
+      "when": "2012-10-19"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-11-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "sneh",
+      "vote": 4,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-17 15:44:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-17 15:45:00"
+    },
+    {
+      "user": "BeautyNerd",
+      "vote": 3,
+      "when": "2013-11-19 18:37:00"
+    },
+    {
+      "user": "omilian",
+      "vote": 5,
+      "when": "2014-01-30 04:49:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-01-30 04:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

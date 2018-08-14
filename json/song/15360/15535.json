@@ -19,6 +19,73 @@
   "artist_names": [
     "Cerror"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "turbine5",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2013-05-28 11:00:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-05-28 12:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-11-14 15:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-11-14 15:23:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-07 20:56:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-05-18 22:05:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2017-11-11 00:35:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2017-11-11 00:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-11-11 00:42:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

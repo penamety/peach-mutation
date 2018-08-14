@@ -19,6 +19,88 @@
   "artist_names": [
     "Golio"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "MyO",
+      "vote": 5,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "th4t1guy",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-12-04"
+    },
+    {
+      "user": "r043v",
+      "vote": 5,
+      "when": "2012-12-04"
+    },
+    {
+      "user": "dang",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-29 05:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-14 21:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-10-13"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-10-13"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2018-04-06 10:49:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2018-04-30 15:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

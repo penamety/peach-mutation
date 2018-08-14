@@ -19,6 +19,58 @@
   "artist_names": [
     "SML"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-08-01 14:02:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-08-01 14:04:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-10-13 08:49:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-10-13 08:49:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-10-13 08:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-06-06 21:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

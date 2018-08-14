@@ -27,6 +27,68 @@
   "artist_names": [
     "Matrix (SE)"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-08-19"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-08-18 22:02:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-09 19:31:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-04-03 19:07:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-04-16 12:29:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2015-04-16 12:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

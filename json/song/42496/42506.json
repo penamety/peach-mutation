@@ -28,6 +28,83 @@
   "artist_names": [
     "Ziutek"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-13 00:25:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-05-02 05:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-11-23"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-04-20 22:26:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "WIZARD600XL",
+      "vote": 3,
+      "when": "2016-09-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2018-06-09 11:40:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2015-11-23"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 3,
+      "when": "2017-06-17 06:57:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-10-28 20:40:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2016-03-15 16:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "zub",
+      "vote": 5,
+      "when": "2015-11-09"
+    }
+  ],
   "requests": [
     {
       "user": "zub",

@@ -22,5 +22,27 @@
   "artist_names": [
     "Crome [de]"
   ],
+  "votes": [
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "rams",
+      "vote": 5,
+      "when": "2010-06-02"
+    },
+    {
+      "user": "crrr",
+      "vote": 5,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-04-29 22:54:00"
+    }
+  ],
   "requests": []
 }

@@ -24,6 +24,113 @@
   "artist_names": [
     "Megaman"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2009-11-02"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 3,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2010-10-02"
+    },
+    {
+      "user": "Darkseed",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "minus",
+      "vote": 4,
+      "when": "2012-09-24"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-07-31 13:28:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-01 03:14:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-07 06:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-03-07 06:36:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-12-09 09:06:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2015-11-30"
+    },
+    {
+      "user": "cerror",
+      "vote": 5,
+      "when": "2015-11-30"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-02-26 23:46:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2018-04-04 15:46:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -25,6 +25,83 @@
   "artist_names": [
     "Rap"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Andersson",
+      "vote": 1,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-11-25"
+    },
+    {
+      "user": "DennyGSXR",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "neet",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2013-09-06 18:07:00"
+    },
+    {
+      "user": "Venty",
+      "vote": 1,
+      "when": "2014-01-13 22:59:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2015-03-18 23:54:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

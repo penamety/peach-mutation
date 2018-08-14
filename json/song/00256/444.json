@@ -19,6 +19,93 @@
   "artist_names": [
     "Awesome"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2011-03-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-01"
+    },
+    {
+      "user": "SJD",
+      "vote": 1,
+      "when": "2011-12-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "thebleh",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-12-20 06:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-12-20 06:22:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-06-26"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-06-26"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2016-06-26"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 2,
+      "when": "2016-06-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-06-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2017-04-25 22:38:00"
+    },
+    {
+      "user": "MrsBeanbag",
+      "vote": 2,
+      "when": "2017-04-25 22:39:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-04-25 22:39:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-04-25 22:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "lemonade",

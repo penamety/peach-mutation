@@ -19,6 +19,53 @@
   "artist_names": [
     "Acidline"
   ],
+  "votes": [
+    {
+      "user": "Chocoholic",
+      "vote": 3,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 2,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "chips",
+      "vote": 5,
+      "when": "2009-05-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2010-11-01"
+    },
+    {
+      "user": "velusip",
+      "vote": 1,
+      "when": "2010-11-01"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2011-04-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-05-03"
+    }
+  ],
   "requests": [
     {
       "user": "acidline",

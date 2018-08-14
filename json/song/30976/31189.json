@@ -21,6 +21,48 @@
   "artist_names": [
     "Qwan"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-17 02:43:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2015-06-09 09:37:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2015-06-09 09:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

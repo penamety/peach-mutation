@@ -26,6 +26,128 @@
   "artist_names": [
     "Jerry"
   ],
+  "votes": [
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Rapido",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Recycler",
+      "vote": 4,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Venty",
+      "vote": 3,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "three_sixxes",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "lilelk",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "ldc",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-27 23:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-27 23:00:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2013-05-27 23:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2013-10-02 20:48:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2014-01-11 21:09:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 4,
+      "when": "2014-12-13 18:17:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2015-12-09"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-08-03"
+    },
+    {
+      "user": "shftd_",
+      "vote": 4,
+      "when": "2016-08-03"
+    },
+    {
+      "user": "Rapture",
+      "vote": 5,
+      "when": "2018-01-26 00:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

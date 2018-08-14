@@ -21,6 +21,58 @@
   "artist_names": [
     "Mr Man"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Octoate",
+      "vote": 3,
+      "when": "2011-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-27 08:01:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2017-05-22 21:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

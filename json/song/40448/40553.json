@@ -25,6 +25,113 @@
   "artist_names": [
     "Daverd"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-06-15 20:44:00"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 4,
+      "when": "2014-06-17 17:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-07-01 10:16:00"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2014-07-01 10:17:00"
+    },
+    {
+      "user": "teddy",
+      "vote": 4,
+      "when": "2014-07-17 09:04:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-08-07 16:48:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-08-07 16:50:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2014-09-30 11:06:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 5,
+      "when": "2014-09-30 11:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-09-30 11:08:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 5,
+      "when": "2014-10-22 12:08:00"
+    },
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2014-11-09 13:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-11-09 13:43:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-09-08"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-09-08"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2015-10-01"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2015-10-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-09-21"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-01-02 03:30:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2017-04-21 18:59:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 4,
+      "when": "2017-05-30 14:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "jinx",

@@ -23,6 +23,78 @@
   "artist_names": [
     "Dezecrator"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "RoC",
+      "vote": 4,
+      "when": "2011-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "r043v",
+      "vote": 5,
+      "when": "2012-11-24"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-22 06:42:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-09-08 06:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-16 18:24:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-02-25 23:12:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2016-04-15 15:36:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 4,
+      "when": "2016-04-15 15:36:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2016-04-15 15:37:00"
+    },
+    {
+      "user": "turbine5",
+      "vote": 2,
+      "when": "2017-10-26 01:28:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

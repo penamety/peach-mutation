@@ -25,6 +25,98 @@
   "artist_names": [
     "Curt Cool"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Melo",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Sigatrev",
+      "vote": 1,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-02 06:12:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-01-17 22:36:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2014-11-14 18:46:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-11-14 18:47:00"
+    },
+    {
+      "user": "mortengh",
+      "vote": 1,
+      "when": "2016-12-13 10:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

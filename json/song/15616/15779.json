@@ -22,6 +22,78 @@
   "artist_names": [
     "Chris Hülsbeck"
   ],
+  "votes": [
+    {
+      "user": "seppjo",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "Arktos",
+      "vote": 3,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-07-10"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-07-08 17:26:00"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2013-07-08 17:30:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-18 05:06:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-11-18 05:06:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-12 23:25:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-01-16 12:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-01-27 07:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -19,6 +19,63 @@
   "artist_names": [
     "Kelbesque"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 3,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2010-08-02"
+    },
+    {
+      "user": "AndersArrenius",
+      "vote": 2,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "markoid",
+      "vote": 1,
+      "when": "2014-08-07 19:28:00"
+    },
+    {
+      "user": "funkygaucho",
+      "vote": 2,
+      "when": "2014-08-07 19:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-07-14"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2017-06-05 18:58:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-06-05 18:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "kelbesque",

@@ -26,6 +26,63 @@
   "artist_names": [
     "STS-136"
   ],
+  "votes": [
+    {
+      "user": "Jerry",
+      "vote": 2,
+      "when": "2014-12-19 09:21:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-12-19 09:21:00"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2014-12-19 09:22:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-12-19 09:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-12-31 10:23:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-12-31 10:35:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2015-02-13 21:17:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2015-04-08 21:16:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-07-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-09 07:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Andersson",

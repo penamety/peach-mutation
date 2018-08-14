@@ -20,6 +20,53 @@
   "artist_names": [
     "Some1"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "Ishma",
+      "vote": 4,
+      "when": "2013-07-09 11:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-10-12 13:52:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2018-03-07 09:53:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

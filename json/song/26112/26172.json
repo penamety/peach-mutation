@@ -23,6 +23,58 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2010-07-04"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2010-10-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "shift",
+      "vote": 1,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "crrr",
+      "vote": 2,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-24 02:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-08 13:41:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2017-06-12 00:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

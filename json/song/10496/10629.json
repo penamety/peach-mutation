@@ -25,6 +25,88 @@
   "artist_names": [
     "Lord Performer"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 2,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2012-08-01"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-04-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-21 04:25:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2014-07-27 03:58:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2014-07-27 04:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-21 01:50:00"
+    },
+    {
+      "user": "Stinsen",
+      "vote": 1,
+      "when": "2015-02-21 01:50:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 2,
+      "when": "2015-02-21 01:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2015-09-05"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-02-05"
+    },
+    {
+      "user": "Stormdragonblue",
+      "vote": 1,
+      "when": "2016-02-05"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

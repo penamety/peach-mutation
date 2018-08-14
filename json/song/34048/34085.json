@@ -22,6 +22,113 @@
   "artist_names": [
     "KoM'AH"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "ldc",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "BeautyNerd",
+      "vote": 4,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Herute",
+      "vote": 3,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-31 02:04:00"
+    },
+    {
+      "user": "AnonymousCoward",
+      "vote": 3,
+      "when": "2013-08-31 02:16:00"
+    },
+    {
+      "user": "beefheart",
+      "vote": 1,
+      "when": "2014-02-14 11:24:00"
+    },
+    {
+      "user": "Gismo",
+      "vote": 4,
+      "when": "2014-02-14 11:26:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2014-02-14 11:28:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-05-25 01:25:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2017-06-01 20:49:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-07-02 11:57:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-07-02 11:58:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-11-16 19:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

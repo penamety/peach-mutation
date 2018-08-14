@@ -24,6 +24,78 @@
   "artist_names": [
     "PRI"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-04-07 10:53:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2014-04-07 10:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-04-07 10:55:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-04-17 21:46:00"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2014-04-17 21:47:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-05-07 18:57:00"
+    },
+    {
+      "user": "maep",
+      "vote": 5,
+      "when": "2014-08-31 11:06:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-11-14 17:28:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2015-01-14 14:51:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2015-04-16 20:50:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2015-12-08"
+    },
+    {
+      "user": "Creonix",
+      "vote": 4,
+      "when": "2016-04-30 01:11:00"
+    },
+    {
+      "user": "MrsBeanbag",
+      "vote": 5,
+      "when": "2017-04-01"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-05-17 11:56:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

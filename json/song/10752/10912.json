@@ -23,6 +23,63 @@
   "artist_names": [
     "Dezecrator"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-03"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2013-02-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-21"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-06-10 19:16:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2016-04-15 14:36:00"
+    },
+    {
+      "user": "Ramses",
+      "vote": 5,
+      "when": "2016-04-15 14:37:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2016-07-14"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

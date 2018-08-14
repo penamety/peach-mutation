@@ -27,6 +27,33 @@
   "artist_names": [
     "Andrew Kolesnik"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2017-11-04 01:31:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-11-04 16:49:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-11-21 21:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-12-10 13:19:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-01-29 17:22:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

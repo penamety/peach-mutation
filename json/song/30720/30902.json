@@ -24,6 +24,93 @@
   "artist_names": [
     "Pedro"
   ],
+  "votes": [
+    {
+      "user": "Melo",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "dfast",
+      "vote": 5,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Recycler",
+      "vote": 4,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "anthony62490",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Sylve_Copper",
+      "vote": 5,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "armeS",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-08-31 22:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-31 22:35:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-08-31 22:36:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-04-08 05:31:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2014-07-23 06:10:00"
+    },
+    {
+      "user": "markoid",
+      "vote": 5,
+      "when": "2015-09-13"
+    },
+    {
+      "user": "seppjo",
+      "vote": 5,
+      "when": "2016-12-19 00:36:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 5,
+      "when": "2018-05-31 20:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "DocTomoe",

@@ -22,6 +22,73 @@
   "artist_names": [
     "Azazel"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "miggyb",
+      "vote": 5,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Sylve_Copper",
+      "vote": 3,
+      "when": "2012-11-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-12 14:05:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-12 14:09:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2013-07-12 14:11:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-10-27 13:02:00"
+    },
+    {
+      "user": "Falcon_11",
+      "vote": 5,
+      "when": "2014-12-30 19:10:00"
+    },
+    {
+      "user": "mjwise",
+      "vote": 1,
+      "when": "2014-12-30 19:16:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-07-18"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

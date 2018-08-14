@@ -25,6 +25,68 @@
   "artist_names": [
     "Tobe"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2013-11-01 14:45:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-11-01 14:46:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-11-01 14:48:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2014-02-21 13:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-01 22:04:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2014-09-01 22:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-23 21:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

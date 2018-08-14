@@ -20,6 +20,78 @@
   "artist_names": [
     "TDK"
   ],
+  "votes": [
+    {
+      "user": "Axioplase",
+      "vote": 2,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "skaro",
+      "vote": 1,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-08-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "minus",
+      "vote": 1,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2013-11-05 14:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-08-12"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-01-12"
+    },
+    {
+      "user": "Vampire",
+      "vote": 1,
+      "when": "2017-06-28 17:30:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2017-06-28 17:31:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 1,
+      "when": "2017-06-28 17:32:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-06-28 17:33:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2018-04-18 11:31:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2018-04-18 11:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

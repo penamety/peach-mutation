@@ -19,6 +19,78 @@
   "artist_names": [
     "Clawz"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2009-03-03"
+    },
+    {
+      "user": "TheNalex",
+      "vote": 4,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "acidline",
+      "vote": 3,
+      "when": "2009-08-01"
+    },
+    {
+      "user": "unfy",
+      "vote": 4,
+      "when": "2009-09-01"
+    },
+    {
+      "user": "Ishaan",
+      "vote": 4,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-05-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-10-17"
+    },
+    {
+      "user": "Tobbeo",
+      "vote": 3,
+      "when": "2012-10-17"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-06-09 11:47:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-11-11 09:39:00"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-11-11 09:40:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-11-11 09:41:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-11-11 09:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

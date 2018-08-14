@@ -26,6 +26,78 @@
   "artist_names": [
     "Oberheim"
   ],
+  "votes": [
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-04-25 13:20:00"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 2,
+      "when": "2016-04-25 13:31:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-04-25 15:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-04-27 12:00:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-06-11"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2016-07-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 2,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "silencer",
+      "vote": 2,
+      "when": "2016-07-28"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-11-09 17:35:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-11-09 17:37:00"
+    },
+    {
+      "user": "dang",
+      "vote": 2,
+      "when": "2017-03-25 13:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "Creonix",

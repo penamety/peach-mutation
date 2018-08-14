@@ -20,6 +20,73 @@
   "artist_names": [
     "Unknown"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 1,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2013-03-20"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-08-11 09:51:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2014-02-23 10:28:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-08-31"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 1,
+      "when": "2017-11-16 14:02:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-11-16 14:02:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -24,6 +24,53 @@
   "artist_names": [
     "Wiklund"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2014-07-15 21:20:00"
+    },
+    {
+      "user": "BrittletheFly",
+      "vote": 4,
+      "when": "2014-07-15 21:21:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-07-15 21:21:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-07-27 20:29:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-08-11 10:47:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-08-11 10:48:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-10-19 23:26:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-10-19 23:27:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-01-25 11:15:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

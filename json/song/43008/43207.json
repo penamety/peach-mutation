@@ -23,6 +23,58 @@
   "artist_names": [
     "Maktone"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "TheNalex",
+      "vote": 1,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-18"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2016-09-19"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-10-13 12:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-13 12:00:00"
+    },
+    {
+      "user": "blippyJon",
+      "vote": 4,
+      "when": "2016-10-13 12:00:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-11-28 18:16:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

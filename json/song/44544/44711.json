@@ -25,6 +25,23 @@
   "artist_names": [
     "Aardvark"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-03-14 22:58:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2018-03-15 08:26:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-03-15 08:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

@@ -25,6 +25,63 @@
   "artist_names": [
     "Lark"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2015-02-16 16:26:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-02-16 17:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-04 14:34:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-03-04 14:35:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-22 16:49:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-03-22 17:14:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-08-26"
+    },
+    {
+      "user": "jxx",
+      "vote": 3,
+      "when": "2016-04-27 07:01:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-10-17 11:06:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-10-17 11:09:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-02-14 12:12:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

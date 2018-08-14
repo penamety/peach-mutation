@@ -23,6 +23,78 @@
   "artist_names": [
     "Dayta"
   ],
+  "votes": [
+    {
+      "user": "Insectecutor",
+      "vote": 1,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "chazu",
+      "vote": 1,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2009-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "deot",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2010-03-05"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-26 03:13:00"
+    },
+    {
+      "user": "illuminatedgeek",
+      "vote": 4,
+      "when": "2014-02-10 21:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-10 21:31:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2014-11-05 18:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-08-03"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

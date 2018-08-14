@@ -21,6 +21,133 @@
   "artist_names": [
     "Axel"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 4,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Mindless",
+      "vote": 4,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "TheSLASH",
+      "vote": 3,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "turbine5",
+      "vote": 1,
+      "when": "2010-01-02"
+    },
+    {
+      "user": "Vampire",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "Venty",
+      "vote": 4,
+      "when": "2010-02-01"
+    },
+    {
+      "user": "phil242",
+      "vote": 3,
+      "when": "2010-03-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "MyO",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2011-01-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2011-02-08"
+    },
+    {
+      "user": "bitl",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-05-04"
+    },
+    {
+      "user": "Elos",
+      "vote": 3,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-07-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-13 05:56:00"
+    },
+    {
+      "user": "Archmage",
+      "vote": 2,
+      "when": "2014-02-04 22:59:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2014-02-04 23:00:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-04 23:03:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2016-06-24"
+    },
+    {
+      "user": "Thexder",
+      "vote": 2,
+      "when": "2017-10-09 20:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "dang",

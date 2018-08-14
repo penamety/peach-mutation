@@ -21,6 +21,53 @@
   "artist_names": [
     "Advertise Play"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2010-04-03"
+    },
+    {
+      "user": "DiGiT",
+      "vote": 1,
+      "when": "2011-08-02"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "LSA_Vinnie",
+      "vote": 1,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 2,
+      "when": "2012-04-09"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-11-20 03:19:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2014-01-23 05:30:00"
+    }
+  ],
   "requests": [
     {
       "user": "psymleko",

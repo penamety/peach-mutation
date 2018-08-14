@@ -23,6 +23,73 @@
   "artist_names": [
     "Dynamic"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 5,
+      "when": "2015-03-09 08:02:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 5,
+      "when": "2015-03-09 08:02:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-03-10 19:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-03-30 19:52:00"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 4,
+      "when": "2015-03-30 19:54:00"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2015-04-18 01:03:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 4,
+      "when": "2015-08-16"
+    },
+    {
+      "user": "t3l",
+      "vote": 4,
+      "when": "2015-11-02"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-04-12 10:08:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-04-12 10:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2016-10-21 12:54:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2016-10-21 12:56:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-01-13 11:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -20,6 +20,83 @@
   "artist_names": [
     "Rayn [US]"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "SPACE",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "r043v",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-09-12 11:47:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-12 11:47:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2013-09-12 11:48:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-12 11:50:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-11-29 11:46:00"
+    },
+    {
+      "user": "SoDa7",
+      "vote": 3,
+      "when": "2015-02-07 23:58:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-02-07 23:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-02-07 23:58:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2015-02-07 23:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

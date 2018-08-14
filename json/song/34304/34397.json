@@ -25,6 +25,73 @@
   "artist_names": [
     "Tripper"
   ],
+  "votes": [
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "eefi",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-11-04"
+    },
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-25 05:49:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2014-09-26 09:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-09-26 09:45:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-29 07:07:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

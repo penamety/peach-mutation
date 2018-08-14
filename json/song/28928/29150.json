@@ -24,5 +24,12 @@
   "artist_names": [
     "Bert"
   ],
+  "votes": [
+    {
+      "user": "flash",
+      "vote": 2,
+      "when": "2010-06-01"
+    }
+  ],
   "requests": []
 }

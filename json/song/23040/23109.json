@@ -19,6 +19,48 @@
   "artist_names": [
     "Pyrex"
   ],
+  "votes": [
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "jetpropulsion",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2014-01-15 08:27:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-22 11:57:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-02-22 11:59:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

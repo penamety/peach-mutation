@@ -22,6 +22,78 @@
   "artist_names": [
     "Mark Gyro"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2013-05-11"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-05-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-06-20 11:13:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-06-20 11:16:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-06-20 11:17:00"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2013-06-20 11:17:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-20 11:20:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-09-08 02:42:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-15 10:51:00"
+    },
+    {
+      "user": "GaRaOne",
+      "vote": 3,
+      "when": "2016-05-27"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-04-25 19:19:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2017-04-25 19:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "arrakis",

@@ -20,6 +20,128 @@
   "artist_names": [
     "Dizzy"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 5,
+      "when": "2009-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 5,
+      "when": "2010-01-31"
+    },
+    {
+      "user": "q3k",
+      "vote": 5,
+      "when": "2010-03-03"
+    },
+    {
+      "user": "bitl",
+      "vote": 3,
+      "when": "2010-04-02"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2010-07-02"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2010-08-01"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2010-09-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2010-11-01"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2011-05-03"
+    },
+    {
+      "user": "Jeminami",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "Colidace",
+      "vote": 2,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Kattywampus",
+      "vote": 4,
+      "when": "2012-10-17"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2013-03-18"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-04 01:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-04 01:00:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-03-20 09:27:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2014-12-08 14:27:00"
+    },
+    {
+      "user": "Surge",
+      "vote": 2,
+      "when": "2017-03-31"
+    },
+    {
+      "user": "Oldchap",
+      "vote": 4,
+      "when": "2018-01-02 06:52:00"
+    }
+  ],
   "requests": [
     {
       "user": "SampL",

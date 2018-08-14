@@ -19,6 +19,58 @@
   "artist_names": [
     "Darkhalo"
   ],
+  "votes": [
+    {
+      "user": "shift",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2011-02-08"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2012-07-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-08-03 09:22:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-08-03 09:26:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2013-12-16 22:08:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-10-30 18:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2015-03-28 14:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "kirsche",

@@ -24,6 +24,58 @@
   "artist_names": [
     "PsyPuls"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "medic",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-18"
+    },
+    {
+      "user": "Moses",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-05-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-29 18:02:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-08 00:58:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

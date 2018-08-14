@@ -20,6 +20,68 @@
   "artist_names": [
     "Spooney"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2012-06-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-08-31 10:00:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "jolic",
+      "vote": 1,
+      "when": "2015-07-24"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2018-05-25 08:55:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

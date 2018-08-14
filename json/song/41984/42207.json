@@ -26,6 +26,48 @@
   "artist_names": [
     "n1k-o"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-07-06 03:04:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 2,
+      "when": "2015-07-06 16:09:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-07-18"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2015-08-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2015-09-10"
+    },
+    {
+      "user": "markoid",
+      "vote": 4,
+      "when": "2015-10-03"
+    },
+    {
+      "user": "nobody",
+      "vote": 5,
+      "when": "2015-10-03"
+    },
+    {
+      "user": "rootuid",
+      "vote": 3,
+      "when": "2016-10-27 15:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "ViThor",

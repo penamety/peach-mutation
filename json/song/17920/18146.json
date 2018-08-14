@@ -22,6 +22,48 @@
   "artist_names": [
     "TSM"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2012-05-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-05-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2014-04-02 22:06:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-10 11:11:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-11-14 10:29:00"
+    }
+  ],
   "requests": [
     {
       "user": "rgrico",

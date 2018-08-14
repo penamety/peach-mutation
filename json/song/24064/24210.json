@@ -19,6 +19,93 @@
   "artist_names": [
     "Kalmindo"
   ],
+  "votes": [
+    {
+      "user": "Yellowjelly",
+      "vote": 4,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "warhawk",
+      "vote": 5,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Colidace",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-10-12"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-08-10 06:36:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-08-10 06:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-10 06:37:00"
+    },
+    {
+      "user": "Ozgu",
+      "vote": 4,
+      "when": "2013-10-06 03:16:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-17 10:11:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-02-17 10:12:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-10-13 11:38:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2017-10-13 11:39:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-10-13 11:39:00"
+    },
+    {
+      "user": "silok",
+      "vote": 4,
+      "when": "2017-10-13 11:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

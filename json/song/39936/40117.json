@@ -25,6 +25,68 @@
   "artist_names": [
     "Breeze"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-02-17 14:04:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2014-02-17 14:05:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-04-09 11:49:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2014-04-09 11:50:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2014-04-24 09:55:00"
+    },
+    {
+      "user": "Chapelier",
+      "vote": 4,
+      "when": "2014-06-03 19:30:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2014-11-15 08:29:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-07-23"
+    },
+    {
+      "user": "pipe",
+      "vote": 5,
+      "when": "2015-12-22"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2017-04-03 11:56:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2017-04-03 11:56:00"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-04-03 11:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

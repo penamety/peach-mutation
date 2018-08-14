@@ -25,6 +25,98 @@
   "artist_names": [
     "Fab"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 4,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "Jerry",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "motherchip",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-09-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-29 02:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-29 02:00:00"
+    },
+    {
+      "user": "tomi",
+      "vote": 4,
+      "when": "2013-08-15 00:45:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-03-24 19:21:00"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2014-04-09 20:36:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-01-10"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2018-05-06 12:21:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

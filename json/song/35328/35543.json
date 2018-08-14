@@ -26,6 +26,68 @@
   "artist_names": [
     "Kry"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "SPACE",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-12"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2013-01-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-10-06 18:25:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2016-06-12"
+    },
+    {
+      "user": "titus",
+      "vote": 4,
+      "when": "2017-01-24 14:18:00"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2017-01-24 14:19:00"
+    }
+  ],
   "requests": [
     {
       "user": "SPACE",

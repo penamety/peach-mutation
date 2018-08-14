@@ -26,6 +26,98 @@
   "artist_names": [
     "Virt"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "eefi",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-23 17:20:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-23 17:20:00"
+    },
+    {
+      "user": "chellomere",
+      "vote": 4,
+      "when": "2013-07-23 17:22:00"
+    },
+    {
+      "user": "Jimantha",
+      "vote": 5,
+      "when": "2014-04-05 20:31:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-04-05 20:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-07-06 22:18:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-02-12 05:22:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2015-02-12 05:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-04-16 07:56:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-04-18 07:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "RoC",

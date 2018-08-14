@@ -25,6 +25,73 @@
   "artist_names": [
     "Phlow"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2016-09-22"
+    },
+    {
+      "user": "atom32k",
+      "vote": 1,
+      "when": "2016-09-22"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2016-09-22"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-09-22"
+    },
+    {
+      "user": "essential",
+      "vote": 2,
+      "when": "2016-10-11 13:00:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2016-10-11 13:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2016-11-11 15:03:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-12-13 11:07:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-12-13 11:10:00"
+    },
+    {
+      "user": "Triace",
+      "vote": 3,
+      "when": "2017-01-14 10:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

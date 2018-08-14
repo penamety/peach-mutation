@@ -19,6 +19,128 @@
   "artist_names": [
     "Huezo"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 5,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Trallala",
+      "vote": 5,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "seppjo",
+      "vote": 5,
+      "when": "2012-03-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-06-11"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Spiral",
+      "vote": 3,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-08-18"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-07-11 17:28:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-07-11 17:28:00"
+    },
+    {
+      "user": "Chapelier",
+      "vote": 5,
+      "when": "2013-07-11 17:29:00"
+    },
+    {
+      "user": "SJD",
+      "vote": 5,
+      "when": "2013-12-10"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2014-02-06 04:21:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-03-15 02:22:00"
+    },
+    {
+      "user": "WTFcore",
+      "vote": 4,
+      "when": "2014-05-29 19:46:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 5,
+      "when": "2014-06-28 06:49:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 5,
+      "when": "2014-08-13 04:37:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2014-08-27 06:22:00"
+    },
+    {
+      "user": "san_im",
+      "vote": 5,
+      "when": "2015-01-18 04:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-03-16 22:53:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 4,
+      "when": "2016-08-08"
+    },
+    {
+      "user": "plc",
+      "vote": 4,
+      "when": "2017-07-17 20:34:00"
+    }
+  ],
   "requests": [
     {
       "user": "maep",

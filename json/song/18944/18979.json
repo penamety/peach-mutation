@@ -20,6 +20,53 @@
   "artist_names": [
     "Haiko Ruttmann"
   ],
+  "votes": [
+    {
+      "user": "Gnurou",
+      "vote": 1,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "anni",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "selmi",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-05-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-10-04"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 1,
+      "when": "2017-01-22 03:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

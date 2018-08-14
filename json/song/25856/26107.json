@@ -22,6 +22,73 @@
   "artist_names": [
     "Christophe Fevre"
   ],
+  "votes": [
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Yellowjelly",
+      "vote": 3,
+      "when": "2010-02-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "Smanux",
+      "vote": 1,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2012-12-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-05-28 01:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-28 01:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-05-28 01:00:00"
+    },
+    {
+      "user": "headache",
+      "vote": 1,
+      "when": "2014-02-21 22:20:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2014-02-21 22:21:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-02-08 15:40:00"
+    },
+    {
+      "user": "morgium",
+      "vote": 1,
+      "when": "2017-02-08 15:40:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

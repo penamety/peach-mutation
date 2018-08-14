@@ -20,6 +20,63 @@
   "artist_names": [
     "Spirit"
   ],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2008-11-02"
+    },
+    {
+      "user": "thadoss",
+      "vote": 4,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "vanward",
+      "vote": 2,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2013-02-05"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-08-04 18:41:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-08-04 18:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-04 18:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2013-11-09 19:01:00"
+    },
+    {
+      "user": "rombust",
+      "vote": 1,
+      "when": "2016-07-12"
+    }
+  ],
   "requests": [
     {
       "user": "Tuxality",

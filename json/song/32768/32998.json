@@ -28,6 +28,133 @@
     "Carl",
     "Danko"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-06-03"
+    },
+    {
+      "user": "nvictor",
+      "vote": 5,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Nicknack",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "flash",
+      "vote": 5,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 5,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "minus",
+      "vote": 3,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "selmi",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Gismo",
+      "vote": 3,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-07 21:57:00"
+    },
+    {
+      "user": "aleem",
+      "vote": 4,
+      "when": "2013-10-07 22:01:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-14 08:17:00"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2014-06-20 14:59:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2015-06-21 18:51:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-29 19:03:00"
+    },
+    {
+      "user": "vjetrovi",
+      "vote": 5,
+      "when": "2017-12-29 19:04:00"
+    }
+  ],
   "requests": [
     {
       "user": "Arne",

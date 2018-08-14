@@ -21,6 +21,93 @@
   "artist_names": [
     "Awesome"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "JaPeK",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "anni",
+      "vote": 5,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Herute",
+      "vote": 5,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-25"
+    },
+    {
+      "user": "silok",
+      "vote": 5,
+      "when": "2013-08-25 14:20:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-10-05 15:54:00"
+    },
+    {
+      "user": "Melo",
+      "vote": 4,
+      "when": "2014-04-05 03:00:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2015-02-05 19:38:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2015-02-05 19:38:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-05 20:06:00"
+    },
+    {
+      "user": "freem",
+      "vote": 4,
+      "when": "2016-07-03"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2018-01-31 02:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

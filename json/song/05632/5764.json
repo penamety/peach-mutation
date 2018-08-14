@@ -23,6 +23,53 @@
   "artist_names": [
     "Prodigy"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "mu6k",
+      "vote": 4,
+      "when": "2009-05-04"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2012-08-25"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-09-14 23:00:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-02-03 02:42:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-02-24 15:44:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2016-02-24 09:14:00"
+    }
+  ],
   "requests": [
     {
       "user": "Saga_Musix",

@@ -25,6 +25,73 @@
   "artist_names": [
     "Jason"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "infinigon",
+      "vote": 1,
+      "when": "2012-02-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2013-02-10"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 1,
+      "when": "2013-07-06 07:14:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-08-04"
+    },
+    {
+      "user": "andwan0",
+      "vote": 5,
+      "when": "2016-03-01 15:48:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 2,
+      "when": "2016-03-01 16:20:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-03-01 16:21:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-07-08 07:58:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 5,
+      "when": "2018-03-17 17:34:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-03-17 17:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

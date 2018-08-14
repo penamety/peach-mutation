@@ -22,6 +22,53 @@
   "artist_names": [
     "Wonderboy"
   ],
+  "votes": [
+    {
+      "user": "Entropia",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2011-04-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "eefi",
+      "vote": 3,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-07-03 08:04:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-07-03 08:04:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-08 22:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-02-08 22:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

@@ -26,6 +26,28 @@
   "artist_names": [
     "Moppe"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-05-24 06:08:00"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 5,
+      "when": "2018-04-20 19:01:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2018-04-20 19:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-04-20 19:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "Kalmo",

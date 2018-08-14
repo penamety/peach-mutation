@@ -26,6 +26,53 @@
   "artist_names": [
     "Shinobi"
   ],
+  "votes": [
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-03-04 17:49:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-03-04 18:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-03-04 18:43:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2016-03-05"
+    },
+    {
+      "user": "Basch",
+      "vote": 4,
+      "when": "2016-03-18 14:25:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-03-18 14:25:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-03-18 14:26:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-05-07 16:10:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-11-09 07:49:00"
+    }
+  ],
   "requests": [
     {
       "user": "serpent",

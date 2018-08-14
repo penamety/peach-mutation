@@ -19,6 +19,48 @@
   "artist_names": [
     "Duke"
   ],
+  "votes": [
+    {
+      "user": "Coco",
+      "vote": 2,
+      "when": "2009-01-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2012-09-30"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2012-09-30"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-03-25"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-06-13 08:52:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-06-13 08:52:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-07-14 07:18:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

@@ -24,6 +24,103 @@
   "artist_names": [
     "Mental Floss"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "crrr",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "jmph",
+      "vote": 5,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-01-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-29 07:22:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2014-02-04 00:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-02-04 00:26:00"
+    },
+    {
+      "user": "B00MER",
+      "vote": 5,
+      "when": "2015-03-25 07:35:00"
+    },
+    {
+      "user": "jass0",
+      "vote": 2,
+      "when": "2015-03-25 07:38:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2015-03-25 07:40:00"
+    },
+    {
+      "user": "EvanR",
+      "vote": 1,
+      "when": "2015-03-25 07:42:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-03-25 07:42:00"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 2,
+      "when": "2016-01-04"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-01-04"
+    },
+    {
+      "user": "boomer",
+      "vote": 2,
+      "when": "2017-04-26 10:25:00"
+    }
+  ],
   "requests": [
     {
       "user": "jmph",

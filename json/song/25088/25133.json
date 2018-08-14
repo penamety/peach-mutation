@@ -20,6 +20,63 @@
   "artist_names": [
     "TAR"
   ],
+  "votes": [
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2011-01-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "jmph",
+      "vote": 1,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-30 19:44:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-11-18 05:28:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-02-09 02:54:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2017-06-08 01:24:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-08-24 09:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-11-04 05:01:00"
+    }
+  ],
   "requests": [
     {
       "user": "MrsBidette",

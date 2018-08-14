@@ -24,6 +24,53 @@
   "artist_names": [
     "JCH"
   ],
+  "votes": [
+    {
+      "user": "Galancy",
+      "vote": 4,
+      "when": "2010-01-03"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-03-27"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-08-22 13:08:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-08-22 13:10:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

@@ -16,5 +16,37 @@
   "last_scraped": "2018-05-22 20:34:22",
   "artist_ids": [],
   "artist_names": [],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 5,
+      "when": "2008-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 5,
+      "when": "2009-07-03"
+    },
+    {
+      "user": "Saga_Musix",
+      "vote": 5,
+      "when": "2009-08-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2009-09-02"
+    },
+    {
+      "user": "pingo",
+      "vote": 5,
+      "when": "2009-10-02"
+    }
+  ],
   "requests": []
 }

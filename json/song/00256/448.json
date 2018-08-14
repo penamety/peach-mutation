@@ -19,6 +19,83 @@
   "artist_names": [
     "Awesome"
   ],
+  "votes": [
+    {
+      "user": "MyO",
+      "vote": 4,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-08-01"
+    },
+    {
+      "user": "thebleh",
+      "vote": 5,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-01-03 23:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-01-03 23:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-01-04 00:50:00"
+    },
+    {
+      "user": "DrFlay",
+      "vote": 5,
+      "when": "2014-03-11 11:01:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 5,
+      "when": "2014-03-11 11:01:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-03-11 11:01:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-18 12:35:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

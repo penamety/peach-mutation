@@ -20,6 +20,123 @@
   "artist_names": [
     "The REW"
   ],
+  "votes": [
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2010-06-01"
+    },
+    {
+      "user": "Teo",
+      "vote": 5,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Sensei",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 4,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 4,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2012-08-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-02-01"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-28 04:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-10-22 00:01:00"
+    },
+    {
+      "user": "Jimantha",
+      "vote": 5,
+      "when": "2014-05-30 09:44:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2014-05-30 09:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-06-17 13:11:00"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 4,
+      "when": "2014-09-07 02:08:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2014-10-10 10:21:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-12-16 04:28:00"
+    },
+    {
+      "user": "TomAxel",
+      "vote": 4,
+      "when": "2015-08-19"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-01-21"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2016-02-06"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 3,
+      "when": "2016-02-06"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-09-25 11:27:00"
+    }
+  ],
   "requests": [
     {
       "user": "Teo",

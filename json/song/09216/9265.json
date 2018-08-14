@@ -21,6 +21,63 @@
   "artist_names": [
     "Doc"
   ],
+  "votes": [
+    {
+      "user": "SJD",
+      "vote": 4,
+      "when": "2010-12-01"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2010-12-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2012-10-01"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-07-09 06:51:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-07-09 06:52:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-10-23 11:57:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-23 11:57:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-10-23 11:58:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-04-05 22:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

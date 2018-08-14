@@ -24,6 +24,238 @@
   "artist_names": [
     "Randall"
   ],
+  "votes": [
+    {
+      "user": "cyborgjeff",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "shift",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "AnonymousCoward",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "BeautyNerd",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Scope",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "ZTube",
+      "vote": 5,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "besh",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "cannonfodder",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 4,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-06-01"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Danger",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Gnurou",
+      "vote": 1,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 3,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "doggyfred",
+      "vote": 2,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "SampL",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Szrachnor",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "kronowolf",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "moellpauk",
+      "vote": 3,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "nvictor",
+      "vote": 4,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "omilian",
+      "vote": 1,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "SPACE",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Colidace",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 3,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "qbit",
+      "vote": 1,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Andersson",
+      "vote": 2,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Argolyn",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Latis",
+      "vote": 3,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2012-05-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-07-14 22:27:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-10-21 18:34:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-10-21 18:36:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 4,
+      "when": "2014-02-13 07:14:00"
+    },
+    {
+      "user": "robert",
+      "vote": 2,
+      "when": "2016-06-26"
+    },
+    {
+      "user": "grazey",
+      "vote": 1,
+      "when": "2016-08-26"
+    },
+    {
+      "user": "Whitelabel",
+      "vote": 4,
+      "when": "2018-02-22 14:02:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2018-04-08 03:32:00"
+    }
+  ],
   "requests": [
     {
       "user": "Yohabro",

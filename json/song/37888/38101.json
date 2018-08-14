@@ -25,6 +25,83 @@
   "artist_names": [
     "Ulrick"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "jass0",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "lroy",
+      "vote": 4,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 5,
+      "when": "2013-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-06"
+    },
+    {
+      "user": "jakov",
+      "vote": 4,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-08-11 23:41:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-08-11 23:43:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-10-06 14:27:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2014-09-16 13:07:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 4,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-03"
+    }
+  ],
   "requests": [
     {
       "user": "lroy",

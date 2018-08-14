@@ -26,6 +26,48 @@
   "artist_names": [
     "Beathoven"
   ],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-06-26 20:39:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-06-26 21:20:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-06-26 21:38:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 3,
+      "when": "2017-07-12 17:42:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-07-23 20:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-08-03 11:14:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2017-10-26 07:44:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2018-03-06 14:31:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

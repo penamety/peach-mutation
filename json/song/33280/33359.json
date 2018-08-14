@@ -28,5 +28,32 @@
   "artist_names": [
     "4-mat"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2013-12-29 16:04:00"
+    },
+    {
+      "user": "hornpipe2",
+      "vote": 5,
+      "when": "2014-02-05"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-09-11"
+    },
+    {
+      "user": "SJD",
+      "vote": 1,
+      "when": "2016-02-11"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2016-03-11 22:21:00"
+    }
+  ],
   "requests": []
 }

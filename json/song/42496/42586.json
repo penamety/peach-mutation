@@ -24,6 +24,68 @@
   "artist_names": [
     "Dynamic"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2015-12-12"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 1,
+      "when": "2015-12-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2015-12-12"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "codehead",
+      "vote": 1,
+      "when": "2016-02-18 09:45:00"
+    },
+    {
+      "user": "venttiili",
+      "vote": 1,
+      "when": "2016-11-11 12:06:00"
+    },
+    {
+      "user": "Antibyte",
+      "vote": 1,
+      "when": "2018-02-24 23:25:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 1,
+      "when": "2018-02-24 23:25:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 1,
+      "when": "2018-02-24 23:26:00"
+    },
+    {
+      "user": "d_vibe",
+      "vote": 1,
+      "when": "2018-05-23 10:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

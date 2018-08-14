@@ -23,6 +23,73 @@
   "artist_names": [
     "u4ia"
   ],
+  "votes": [
+    {
+      "user": "franz_koopa",
+      "vote": 3,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-11-03"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2012-07-26"
+    },
+    {
+      "user": "Cook",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 3,
+      "when": "2013-07-19 08:47:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2014-06-09 18:30:00"
+    },
+    {
+      "user": "satan",
+      "vote": 3,
+      "when": "2015-08-19"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2016-08-28"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

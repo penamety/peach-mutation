@@ -21,6 +21,78 @@
   "artist_names": [
     "Mortimer Twang"
   ],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2008-11-01"
+    },
+    {
+      "user": "bk237",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "lemonade",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2013-02-16"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-01-02 22:13:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2014-01-02 22:14:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-09-28 13:51:00"
+    },
+    {
+      "user": "BitArts",
+      "vote": 1,
+      "when": "2016-07-04"
+    },
+    {
+      "user": "Siegfried",
+      "vote": 3,
+      "when": "2016-07-04"
+    },
+    {
+      "user": "lroy",
+      "vote": 1,
+      "when": "2016-07-04"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-10-17 22:18:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 1,
+      "when": "2018-04-01 12:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

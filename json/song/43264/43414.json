@@ -25,6 +25,48 @@
   "artist_names": [
     "Spiral"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2016-09-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2016-09-10"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-09-22"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2016-10-08"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-10-08"
+    },
+    {
+      "user": "rootuid",
+      "vote": 1,
+      "when": "2016-10-27 15:10:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 4,
+      "when": "2016-12-30 23:44:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

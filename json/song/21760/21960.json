@@ -20,6 +20,73 @@
   "artist_names": [
     "MSG"
   ],
+  "votes": [
+    {
+      "user": "Axioplase",
+      "vote": 2,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "selmi",
+      "vote": 1,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2012-10-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-02-11"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 2,
+      "when": "2013-08-24 00:44:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-08-24 00:44:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-01 16:00:00"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2014-01-01 16:00:00"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2017-06-22 13:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-06-22 13:07:00"
+    },
+    {
+      "user": "maep",
+      "vote": 1,
+      "when": "2017-06-22 13:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

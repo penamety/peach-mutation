@@ -19,6 +19,73 @@
   "artist_names": [
     "Phaser"
   ],
+  "votes": [
+    {
+      "user": "dang",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-08-12"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 4,
+      "when": "2012-10-09"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-11"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2013-08-03 21:16:00"
+    },
+    {
+      "user": "Galancy",
+      "vote": 3,
+      "when": "2013-08-03 21:18:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-03 21:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-10-12 14:07:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2014-12-07 16:25:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2017-05-07 12:06:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2017-06-14 09:41:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-06-14 09:43:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

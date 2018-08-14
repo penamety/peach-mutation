@@ -20,6 +20,73 @@
   "artist_names": [
     "Danalog"
   ],
+  "votes": [
+    {
+      "user": "Sensei",
+      "vote": 2,
+      "when": "2011-11-01"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-04-01"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2012-07-01"
+    },
+    {
+      "user": "ViThor",
+      "vote": 2,
+      "when": "2013-03-11"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2013-07-28 14:33:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-10 03:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2014-10-03 00:05:00"
+    },
+    {
+      "user": "edlinfan",
+      "vote": 2,
+      "when": "2014-10-03 00:08:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2016-12-30 15:57:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-12-30 15:58:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 2,
+      "when": "2016-12-30 15:58:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 2,
+      "when": "2016-12-30 16:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

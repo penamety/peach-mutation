@@ -22,6 +22,53 @@
   "artist_names": [
     "DipA"
   ],
+  "votes": [
+    {
+      "user": "maep",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Teo",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "lilelk",
+      "vote": 4,
+      "when": "2011-11-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-01-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-19"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-07-18 03:47:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-04-24 16:54:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2016-04-11 16:58:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 3,
+      "when": "2017-04-19 22:08:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

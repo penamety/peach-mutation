@@ -22,6 +22,53 @@
   "artist_names": [
     "Xentar"
   ],
+  "votes": [
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-06-19"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-07-05"
+    },
+    {
+      "user": "MyO",
+      "vote": 3,
+      "when": "2012-07-05"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-05"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2012-07-05"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-24 03:21:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-11-28 02:23:00"
+    },
+    {
+      "user": "ramas",
+      "vote": 2,
+      "when": "2016-07-23"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2017-10-21 05:11:00"
+    }
+  ],
   "requests": [
     {
       "user": "tas",

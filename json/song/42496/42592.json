@@ -26,6 +26,88 @@
   "artist_names": [
     "Rock"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "serpent",
+      "vote": 5,
+      "when": "2015-12-16"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-12-23"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-12-23"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2016-01-09"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2016-01-09"
+    },
+    {
+      "user": "pipe",
+      "vote": 2,
+      "when": "2016-01-09"
+    },
+    {
+      "user": "arrakis",
+      "vote": 5,
+      "when": "2016-01-23"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2016-01-26"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2016-01-26"
+    },
+    {
+      "user": "nobody",
+      "vote": 4,
+      "when": "2016-01-26"
+    },
+    {
+      "user": "rombust",
+      "vote": 4,
+      "when": "2016-11-03 15:31:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2017-02-18 16:42:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-02-18 16:45:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-04-28 22:51:00"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

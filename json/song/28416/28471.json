@@ -26,6 +26,58 @@
   "artist_names": [
     "mch"
   ],
+  "votes": [
+    {
+      "user": "pps",
+      "vote": 4,
+      "when": "2010-04-04"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 3,
+      "when": "2012-04-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-03-13"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-05-07"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-09 15:48:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-11-25 15:27:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-02-13"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-11-03 08:57:00"
+    }
+  ],
   "requests": [
     {
       "user": "djrandom",

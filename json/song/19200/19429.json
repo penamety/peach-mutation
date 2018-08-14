@@ -22,6 +22,53 @@
   "artist_names": [
     "Jason"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-03-04"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "motherchip",
+      "vote": 4,
+      "when": "2012-07-25"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-04-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-09-20 23:51:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-09-20"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2016-09-21"
+    },
+    {
+      "user": "Kalmo",
+      "vote": 4,
+      "when": "2017-03-08 09:00:00"
+    }
+  ],
   "requests": [
     {
       "user": "Mystra",

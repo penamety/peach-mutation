@@ -25,6 +25,58 @@
   "artist_names": [
     "Timelord"
   ],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-06-03 07:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-06-03 07:09:00"
+    },
+    {
+      "user": "Colidace",
+      "vote": 3,
+      "when": "2013-06-29 16:44:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-08-15 14:23:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2013-08-15 14:25:00"
+    },
+    {
+      "user": "zmurf",
+      "vote": 2,
+      "when": "2014-03-17 14:35:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2014-03-17 14:37:00"
+    },
+    {
+      "user": "sprocket",
+      "vote": 2,
+      "when": "2014-03-17 14:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-05-28 23:31:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-09-06 22:36:00"
+    }
+  ],
   "requests": [
     {
       "user": "impishrazor",

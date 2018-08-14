@@ -26,6 +26,48 @@
   "artist_names": [
     "Skaven"
   ],
+  "votes": [
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-06-07 22:20:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2017-03-10 08:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2017-02-13 08:41:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-06-07 22:20:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 1,
+      "when": "2017-02-13 08:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-02-13 00:22:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-03-10 08:38:00"
+    },
+    {
+      "user": "traidmill",
+      "vote": 1,
+      "when": "2017-02-13 08:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "Accidental",

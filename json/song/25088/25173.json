@@ -20,6 +20,78 @@
   "artist_names": [
     "TAR"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 2,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "franz_koopa",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "isvenger",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "qbit",
+      "vote": 2,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2013-04-13"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-14 15:36:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 2,
+      "when": "2015-06-14 15:27:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-02-03 11:36:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2017-02-03 11:36:00"
+    },
+    {
+      "user": "plc",
+      "vote": 2,
+      "when": "2017-02-03 11:38:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2017-02-03 11:39:00"
+    }
+  ],
   "requests": [
     {
       "user": "Phlubby_Gnome",

@@ -24,6 +24,78 @@
   "artist_names": [
     "No More"
   ],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "ritvarsd2r",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "zer0frozt",
+      "vote": 4,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "eneloh",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-07-19"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-05-12"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-03-11 22:33:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 4,
+      "when": "2014-03-11 22:34:00"
+    },
+    {
+      "user": "grazey",
+      "vote": 4,
+      "when": "2014-10-30 15:07:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2014-11-27 11:25:00"
+    },
+    {
+      "user": "maep",
+      "vote": 4,
+      "when": "2015-07-23"
+    }
+  ],
   "requests": [
     {
       "user": "Aetrin",

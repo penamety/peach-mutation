@@ -26,6 +26,48 @@
   "artist_names": [
     "mAZE"
   ],
+  "votes": [
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2013-10-28 19:30:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2013-10-28 19:30:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-11-21 19:34:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2013-11-21 19:34:00"
+    },
+    {
+      "user": "Colidace",
+      "vote": 3,
+      "when": "2014-01-04 12:16:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2014-06-19 14:14:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-09-08"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-08-28"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

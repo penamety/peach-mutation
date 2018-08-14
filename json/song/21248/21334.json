@@ -22,6 +22,68 @@
   "artist_names": [
     "Mayonez"
   ],
+  "votes": [
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2011-02-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "G_Signal",
+      "vote": 4,
+      "when": "2013-07-31 16:41:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-07-31 16:41:00"
+    },
+    {
+      "user": "jakov",
+      "vote": 4,
+      "when": "2013-07-31 16:41:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2013-07-31 16:42:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2014-11-16 21:32:00"
+    },
+    {
+      "user": "blb",
+      "vote": 4,
+      "when": "2014-11-16 21:33:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2015-03-30 16:26:00"
+    }
+  ],
   "requests": [
     {
       "user": "Chakotay",

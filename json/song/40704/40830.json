@@ -24,6 +24,78 @@
   "artist_names": [
     "Maniac"
   ],
+  "votes": [
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2014-08-18 14:00:00"
+    },
+    {
+      "user": "yzi",
+      "vote": 3,
+      "when": "2014-08-18 14:00:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2014-08-18 15:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2014-08-27 12:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-09-15 12:34:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 4,
+      "when": "2014-09-15 12:35:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2014-10-30 14:01:00"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2014-10-30 14:02:00"
+    },
+    {
+      "user": "SpecialDefect",
+      "vote": 4,
+      "when": "2014-11-13 19:34:00"
+    },
+    {
+      "user": "CanisCanine",
+      "vote": 3,
+      "when": "2014-11-13 19:35:00"
+    },
+    {
+      "user": "Rapture",
+      "vote": 3,
+      "when": "2014-11-13 19:35:00"
+    },
+    {
+      "user": "malodorous101",
+      "vote": 3,
+      "when": "2014-12-01 23:50:00"
+    },
+    {
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-05-28"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2016-05-28"
+    }
+  ],
   "requests": [
     {
       "user": "NerdN",

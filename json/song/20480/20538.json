@@ -19,6 +19,68 @@
   "artist_names": [
     "Liam the Lemming"
   ],
+  "votes": [
+    {
+      "user": "Andersson",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "lemonade",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "zerkman",
+      "vote": 4,
+      "when": "2011-07-04"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "rockmonitor",
+      "vote": 5,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "NerdN",
+      "vote": 4,
+      "when": "2013-06-11 13:08:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2013-06-11 13:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-06-11 13:10:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-11-03 05:53:00"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2014-02-25 05:31:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2014-12-27 07:41:00"
+    }
+  ],
   "requests": [
     {
       "user": "Sensei",

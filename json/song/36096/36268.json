@@ -21,6 +21,78 @@
   "artist_names": [
     "CSM"
   ],
+  "votes": [
+    {
+      "user": "arrakis",
+      "vote": 4,
+      "when": "2012-06-05"
+    },
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2012-06-26"
+    },
+    {
+      "user": "BombmanDK",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "yeep",
+      "vote": 4,
+      "when": "2012-11-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2013-05-06"
+    },
+    {
+      "user": "serpent",
+      "vote": 4,
+      "when": "2013-09-05 22:05:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2013-09-05 22:08:00"
+    },
+    {
+      "user": "Tezar",
+      "vote": 5,
+      "when": "2014-02-07 10:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-07-20 23:33:00"
+    }
+  ],
   "requests": [
     {
       "user": "Chakotay",

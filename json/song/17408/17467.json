@@ -20,6 +20,63 @@
   "artist_names": [
     "Dor X"
   ],
+  "votes": [
+    {
+      "user": "lemonade",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "prowler",
+      "vote": 1,
+      "when": "2009-12-02"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 1,
+      "when": "2011-04-03"
+    },
+    {
+      "user": "Elrinth",
+      "vote": 1,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2011-09-02"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 2,
+      "when": "2012-06-01"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2013-07-03 04:18:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 1,
+      "when": "2014-01-12 15:18:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-01-12 15:18:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 3,
+      "when": "2014-11-23 01:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 2,
+      "when": "2017-11-22 12:09:00"
+    }
+  ],
   "requests": [
     {
       "user": "Cook",

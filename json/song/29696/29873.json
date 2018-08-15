@@ -15,5 +15,100 @@
   "vote_avg": 3.0909,
   "last_scraped": "2018-05-23 20:31:39",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "votes": [
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-03-05"
+    },
+    {
+      "user": "Arne",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 3,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "venttiili",
+      "vote": 4,
+      "when": "2011-05-05"
+    },
+    {
+      "user": "arrakis",
+      "vote": 2,
+      "when": "2011-08-03"
+    },
+    {
+      "user": "Andersson",
+      "vote": 4,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2011-09-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-07-02 01:01:00"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2013-11-03 10:42:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2014-02-27 00:00:00"
+    }
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-03-05 08:04:00"
+    },
+    {
+      "user": "iTowah68k",
+      "when": "2011-04-08 13:21:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2011-06-04 07:56:00"
+    },
+    {
+      "user": "Yellowjelly",
+      "when": "2011-08-14 20:46:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2011-09-24 23:48:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-07-15 02:40:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-07-01 22:43:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2013-11-03 07:34:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-02-27 00:15:00"
+    }
+  ]
 }

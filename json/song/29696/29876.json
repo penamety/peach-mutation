@@ -15,5 +15,103 @@
   "vote_avg": 2.5714,
   "last_scraped": "2018-05-23 19:44:12",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "votes": [
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "maep",
+      "vote": 3,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "minus",
+      "vote": 2,
+      "when": "2012-09-18"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "anni",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2013-04-27"
+    },
+    {
+      "user": "Mystra",
+      "vote": 2,
+      "when": "2013-09-17 11:35:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-09-17 11:36:00"
+    },
+    {
+      "user": "prowler",
+      "vote": 3,
+      "when": "2013-09-17 11:36:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-09-17 11:40:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2014-08-27 22:24:00"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2014-08-27 22:25:00"
+    }
+  ],
+  "requests": [
+    {
+      "user": "MrsBidette",
+      "when": "2011-09-25 03:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2012-08-01 05:17:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-09-16 12:13:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-04-26 12:05:00"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-09-17 09:16:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-08-27 21:47:00"
+    }
+  ]
 }

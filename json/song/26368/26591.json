@@ -18,5 +18,101 @@
   "last_scraped": "2018-05-23 18:44:12",
   "source_id": 1,
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "votes": [
+    {
+      "user": "cyborgjeff",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "dodge",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "wiseman",
+      "vote": 4,
+      "when": "2010-12-03"
+    },
+    {
+      "user": "Chakotay",
+      "vote": 4,
+      "when": "2012-02-02"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 2,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 3,
+      "when": "2013-01-25"
+    },
+    {
+      "user": "Arne",
+      "vote": 4,
+      "when": "2013-06-20 09:24:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 3,
+      "when": "2013-06-20 09:24:00"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2013-06-20 13:00:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-08-15 02:11:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2013-11-14 18:05:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2015-04-23 23:46:00"
+    }
+  ],
+  "requests": [
+    {
+      "user": "lroy",
+      "when": "2012-02-01 16:50:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-27 02:58:00"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-06-20 07:07:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-08-15 00:07:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2013-11-14 15:00:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2014-01-02 19:54:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-04-23 23:33:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-12-07 02:57:00"
+    }
+  ]
 }

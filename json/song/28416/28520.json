@@ -15,5 +15,13 @@
   "vote_avg": 4.0,
   "last_scraped": "2018-05-23 06:35:29",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-04-23 23:00:00"
+    }
+  ],
+  "requests": []
 }

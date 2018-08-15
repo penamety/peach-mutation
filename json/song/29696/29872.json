@@ -17,5 +17,191 @@
   "last_scraped": "2018-05-23 19:18:01",
   "source_id": 2,
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "votes": [
+    {
+      "user": "th4t1guy",
+      "vote": 2,
+      "when": "2010-09-03"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 1,
+      "when": "2011-10-03"
+    },
+    {
+      "user": "Aetrin",
+      "vote": 5,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Mystra",
+      "vote": 1,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "SJD",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Yohabro",
+      "vote": 3,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "lroy",
+      "vote": 2,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "iTowah68k",
+      "vote": 2,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "lemonade",
+      "vote": 3,
+      "when": "2012-01-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "Venty",
+      "vote": 2,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "arrakis",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "jesper",
+      "vote": 1,
+      "when": "2012-03-04"
+    },
+    {
+      "user": "anni",
+      "vote": 3,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2012-12-02"
+    },
+    {
+      "user": "Starchaser",
+      "vote": 3,
+      "when": "2012-12-11"
+    },
+    {
+      "user": "rombust",
+      "vote": 2,
+      "when": "2013-02-18"
+    },
+    {
+      "user": "Colidace",
+      "vote": 2,
+      "when": "2013-06-29 15:20:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-12-10 16:53:00"
+    },
+    {
+      "user": "Dimouse",
+      "vote": 1,
+      "when": "2014-08-27 22:57:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2014-08-27 23:05:00"
+    },
+    {
+      "user": "SoanoS",
+      "vote": 1,
+      "when": "2015-07-20 01:39:23"
+    },
+    {
+      "user": "kimpsa",
+      "vote": 2,
+      "when": "2015-09-19 01:39:23"
+    }
+  ],
+  "requests": [
+    {
+      "user": "MrsBidette",
+      "when": "2011-09-25 04:04:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2011-11-09 11:11:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2011-11-29 16:16:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-02-18 15:15:00"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2012-11-29 08:08:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2013-02-17 18:18:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2013-04-23 12:12:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2013-06-29 12:12:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2013-12-10 13:13:00"
+    },
+    {
+      "user": "Robot2037",
+      "when": "2014-02-20 08:08:00"
+    },
+    {
+      "user": "Starchaser",
+      "when": "2014-08-27 22:22:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-07-18 07:07:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-09-18 03:03:00"
+    }
+  ]
 }

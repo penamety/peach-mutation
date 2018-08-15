@@ -15,5 +15,82 @@
   "tags": "Untz",
   "last_scraped": "2018-05-23 19:45:28",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "votes": [
+    {
+      "user": "Cook",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Sensei",
+      "vote": 3,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "anni",
+      "vote": 4,
+      "when": "2011-10-02"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "serpent",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-04-12"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2013-12-12 22:29:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2014-02-20 03:38:00"
+    }
+  ],
+  "requests": [
+    {
+      "user": "djrandom",
+      "when": "2011-05-19 05:14:00"
+    },
+    {
+      "user": "crome",
+      "when": "2011-09-19 14:58:00"
+    },
+    {
+      "user": "Aetrin",
+      "when": "2012-04-11 13:55:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-04-10 06:36:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2013-09-22 08:37:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-12-12 19:08:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2014-02-20 03:28:00"
+    }
+  ]
 }

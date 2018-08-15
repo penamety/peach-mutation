@@ -18,5 +18,85 @@
   "last_scraped": "2018-05-23 17:54:00",
   "source_id": 1,
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 3,
+      "when": "2010-05-05"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2011-12-03"
+    },
+    {
+      "user": "Cook",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "silok",
+      "vote": 3,
+      "when": "2012-07-03"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2013-05-05"
+    },
+    {
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-04-23 22:58:00"
+    },
+    {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-06-17"
+    }
+  ],
+  "requests": [
+    {
+      "user": "Mystra",
+      "when": "2011-11-06 08:51:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2013-01-27 05:52:00"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-05-04 07:24:00"
+    },
+    {
+      "user": "lemonade",
+      "when": "2014-01-02 19:47:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2014-03-28 03:31:00"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-04-23 22:50:00"
+    },
+    {
+      "user": "djrandom",
+      "when": "2015-07-09 16:06:00"
+    },
+    {
+      "user": "MrsBidette",
+      "when": "2015-12-07 04:01:00"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-06-13 15:03:00"
+    }
+  ]
 }

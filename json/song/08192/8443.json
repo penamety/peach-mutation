@@ -12,5 +12,18 @@
   "vote_avg": 3.5,
   "last_scraped": "2018-05-22 22:42:53",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "votes": [
+    {
+      "user": "Elrinth",
+      "vote": 2,
+      "when": "2009-04-03"
+    },
+    {
+      "user": "jinx",
+      "vote": 5,
+      "when": "2009-11-02"
+    }
+  ],
+  "requests": []
 }

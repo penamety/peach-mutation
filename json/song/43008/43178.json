@@ -17,5 +17,18 @@
   "tags": "Jingle",
   "last_scraped": "2018-05-23 11:29:10",
   "artist_ids": [],
-  "artist_names": []
+  "artist_names": [],
+  "votes": [
+    {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2016-06-13"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2016-10-16 15:00:00"
+    }
+  ],
+  "requests": []
 }

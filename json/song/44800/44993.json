@@ -27,6 +27,11 @@
   ],
   "votes": [
     {
+      "user": "arrakis",
+      "vote": 3,
+      "when": "2018-06-06 09:07:00"
+    },
+    {
       "user": "Buzzer",
       "vote": 3,
       "when": "2018-06-06 09:09:00"
@@ -35,11 +40,6 @@
       "user": "NerdN",
       "vote": 4,
       "when": "2018-06-06 09:09:00"
-    },
-    {
-      "user": "arrakis",
-      "vote": 3,
-      "when": "2018-06-06 09:07:00"
     }
   ],
   "requests": [

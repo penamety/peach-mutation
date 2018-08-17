@@ -23,24 +23,9 @@
   ],
   "votes": [
     {
-      "user": "Accidental",
-      "vote": 2,
-      "when": "2017-12-29 19:08:00"
-    },
-    {
-      "user": "HappyDude",
-      "vote": 3,
-      "when": "2017-08-12 15:45:00"
-    },
-    {
-      "user": "NerdN",
-      "vote": 3,
-      "when": "2017-06-23 13:05:00"
-    },
-    {
-      "user": "Nosferatu",
-      "vote": 3,
-      "when": "2017-05-28 14:34:00"
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2017-05-12 23:51:00"
     },
     {
       "user": "Phlubby_Gnome",
@@ -48,19 +33,29 @@
       "when": "2017-05-13 00:01:00"
     },
     {
-      "user": "Vampire",
-      "vote": 3,
-      "when": "2017-08-30 15:48:00"
-    },
-    {
-      "user": "ViThor",
-      "vote": 4,
-      "when": "2017-05-12 23:51:00"
-    },
-    {
       "user": "pipe",
       "vote": 2,
       "when": "2017-05-13 00:01:00"
+    },
+    {
+      "user": "Nosferatu",
+      "vote": 3,
+      "when": "2017-05-28 14:34:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-06-23 13:05:00"
+    },
+    {
+      "user": "HappyDude",
+      "vote": 3,
+      "when": "2017-08-12 15:45:00"
+    },
+    {
+      "user": "Vampire",
+      "vote": 3,
+      "when": "2017-08-30 15:48:00"
     },
     {
       "user": "serpent",
@@ -71,6 +66,11 @@
       "user": "vjetrovi",
       "vote": 4,
       "when": "2017-12-29 19:07:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-12-29 19:08:00"
     }
   ],
   "requests": [

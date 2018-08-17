@@ -27,19 +27,9 @@
   ],
   "votes": [
     {
-      "user": "A120068030",
-      "vote": 5,
-      "when": "2017-12-08 00:09:00"
-    },
-    {
-      "user": "Accidental",
-      "vote": 2,
-      "when": "2017-07-15 08:26:00"
-    },
-    {
-      "user": "NerdN",
+      "user": "prowler",
       "vote": 3,
-      "when": "2017-08-30 14:14:00"
+      "when": "2017-07-12 11:58:00"
     },
     {
       "user": "Phlubby_Gnome",
@@ -47,19 +37,9 @@
       "when": "2017-07-12 12:03:00"
     },
     {
-      "user": "Totorman",
-      "vote": 4,
-      "when": "2017-12-08 00:12:00"
-    },
-    {
       "user": "ViThor",
       "vote": 4,
       "when": "2017-07-12 12:27:00"
-    },
-    {
-      "user": "dax_dexter",
-      "vote": 4,
-      "when": "2018-03-23 16:04:00"
     },
     {
       "user": "plc",
@@ -67,14 +47,34 @@
       "when": "2017-07-12 12:33:00"
     },
     {
-      "user": "prowler",
-      "vote": 3,
-      "when": "2017-07-12 11:58:00"
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-07-15 08:26:00"
     },
     {
       "user": "serpent",
       "vote": 3,
       "when": "2017-07-15 08:27:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-08-30 14:14:00"
+    },
+    {
+      "user": "A120068030",
+      "vote": 5,
+      "when": "2017-12-08 00:09:00"
+    },
+    {
+      "user": "Totorman",
+      "vote": 4,
+      "when": "2017-12-08 00:12:00"
+    },
+    {
+      "user": "dax_dexter",
+      "vote": 4,
+      "when": "2018-03-23 16:04:00"
     }
   ],
   "requests": [

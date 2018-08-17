@@ -25,14 +25,19 @@
   ],
   "votes": [
     {
+      "user": "Oldchap",
+      "vote": 3,
+      "when": "2018-03-19 17:00:00"
+    },
+    {
       "user": "Accidental",
       "vote": 2,
       "when": "2018-03-23 17:11:00"
     },
     {
-      "user": "NerdN",
+      "user": "ViThor",
       "vote": 1,
-      "when": "2018-04-30 14:46:00"
+      "when": "2018-03-23 20:00:00"
     },
     {
       "user": "Nosferatu",
@@ -40,14 +45,9 @@
       "when": "2018-04-30 14:45:00"
     },
     {
-      "user": "Oldchap",
-      "vote": 3,
-      "when": "2018-03-19 17:00:00"
-    },
-    {
-      "user": "ViThor",
+      "user": "NerdN",
       "vote": 1,
-      "when": "2018-03-23 20:00:00"
+      "when": "2018-04-30 14:46:00"
     },
     {
       "user": "plc",

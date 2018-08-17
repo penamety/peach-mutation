@@ -24,14 +24,19 @@
   ],
   "votes": [
     {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-04-30 09:10:00"
+    },
+    {
       "user": "Buzzer",
       "vote": 2,
       "when": "2018-05-28 12:24:00"
     },
     {
-      "user": "NerdN",
+      "user": "plc",
       "vote": 3,
-      "when": "2018-04-30 09:10:00"
+      "when": "2018-05-28 12:24:00"
     },
     {
       "user": "Nosferatu",
@@ -42,11 +47,6 @@
       "user": "ViThor",
       "vote": 3,
       "when": "2018-05-28 13:13:00"
-    },
-    {
-      "user": "plc",
-      "vote": 3,
-      "when": "2018-05-28 12:24:00"
     }
   ],
   "requests": [

@@ -23,24 +23,24 @@
   ],
   "votes": [
     {
-      "user": "Buzzer",
-      "vote": 1,
-      "when": "2018-05-21 08:53:00"
-    },
-    {
-      "user": "ViThor",
-      "vote": 1,
-      "when": "2018-05-21 09:01:00"
-    },
-    {
       "user": "arrakis",
       "vote": 3,
       "when": "2018-05-21 08:52:00"
     },
     {
+      "user": "Buzzer",
+      "vote": 1,
+      "when": "2018-05-21 08:53:00"
+    },
+    {
       "user": "luminous",
       "vote": 2,
       "when": "2018-05-21 08:54:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 1,
+      "when": "2018-05-21 09:01:00"
     }
   ],
   "requests": [

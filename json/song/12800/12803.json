@@ -27,9 +27,14 @@
   ],
   "votes": [
     {
-      "user": "Accidental",
+      "user": "prowler",
+      "vote": 5,
+      "when": "2014-07-11 11:00:00"
+    },
+    {
+      "user": "ViThor",
       "vote": 4,
-      "when": "2017-07-08 14:14:00"
+      "when": "2015-04-30 22:00:00"
     },
     {
       "user": "Buzzer",
@@ -37,14 +42,19 @@
       "when": "2017-06-26 10:35:00"
     },
     {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-06-26 10:37:00"
+    },
+    {
       "user": "NerdN",
       "vote": 3,
       "when": "2017-06-26 10:38:00"
     },
     {
-      "user": "ViThor",
+      "user": "Accidental",
       "vote": 4,
-      "when": "2015-04-30 22:00:00"
+      "when": "2017-07-08 14:14:00"
     },
     {
       "user": "mirrorbird",
@@ -55,16 +65,6 @@
       "user": "plc",
       "vote": 4,
       "when": "2017-10-30 11:24:00"
-    },
-    {
-      "user": "prowler",
-      "vote": 5,
-      "when": "2014-07-11 11:00:00"
-    },
-    {
-      "user": "serpent",
-      "vote": 3,
-      "when": "2017-06-26 10:37:00"
     }
   ],
   "requests": [

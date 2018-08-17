@@ -27,16 +27,6 @@
   ],
   "votes": [
     {
-      "user": "Buzzer",
-      "vote": 4,
-      "when": "2018-05-21 11:13:00"
-    },
-    {
-      "user": "Phlubby_Gnome",
-      "vote": 4,
-      "when": "2018-06-14 22:07:00"
-    },
-    {
       "user": "ViThor",
       "vote": 3,
       "when": "2018-05-21 11:07:00"
@@ -50,6 +40,16 @@
       "user": "the_Deviant",
       "vote": 4,
       "when": "2018-05-21 11:11:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 4,
+      "when": "2018-05-21 11:13:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2018-06-14 22:07:00"
     }
   ],
   "requests": [

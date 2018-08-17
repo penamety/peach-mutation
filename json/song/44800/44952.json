@@ -28,11 +28,6 @@
   ],
   "votes": [
     {
-      "user": "Scribblette",
-      "vote": 2,
-      "when": "2018-05-19 08:12:00"
-    },
-    {
       "user": "ViThor",
       "vote": 3,
       "when": "2018-05-19"
@@ -46,6 +41,11 @@
       "user": "mirrorbird",
       "vote": 3,
       "when": "2018-05-19 08:11:00"
+    },
+    {
+      "user": "Scribblette",
+      "vote": 2,
+      "when": "2018-05-19 08:12:00"
     }
   ],
   "requests": [

@@ -28,9 +28,19 @@
   ],
   "votes": [
     {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2018-04-01 21:07:00"
+    },
+    {
       "user": "Accidental",
       "vote": 2,
       "when": "2018-04-01 21:08:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2018-04-01 21:09:00"
     },
     {
       "user": "Antibyte",
@@ -38,24 +48,14 @@
       "when": "2018-04-27 21:42:00"
     },
     {
-      "user": "Buzzer",
-      "vote": 3,
-      "when": "2018-06-04 09:37:00"
-    },
-    {
       "user": "Phlubby_Gnome",
       "vote": 3,
       "when": "2018-04-27 21:42:00"
     },
     {
-      "user": "ViThor",
+      "user": "Buzzer",
       "vote": 3,
-      "when": "2018-04-01 21:07:00"
-    },
-    {
-      "user": "serpent",
-      "vote": 3,
-      "when": "2018-04-01 21:09:00"
+      "when": "2018-06-04 09:37:00"
     }
   ],
   "requests": [

@@ -34,19 +34,14 @@
       "when": "2016-02-25 08:11:00"
     },
     {
-      "user": "MrsBidette",
-      "vote": 3,
-      "when": "2017-04-06 05:00:00"
-    },
-    {
       "user": "NerdN",
       "vote": 3,
       "when": "2016-02-25 08:12:00"
     },
     {
-      "user": "Nosferatu",
+      "user": "VodkaBot",
       "vote": 3,
-      "when": "2016-10-15 00:00:00"
+      "when": "2016-02-25 08:12:00"
     },
     {
       "user": "ViThor",
@@ -54,9 +49,9 @@
       "when": "2016-02-26"
     },
     {
-      "user": "VodkaBot",
+      "user": "serpent",
       "vote": 3,
-      "when": "2016-02-25 08:12:00"
+      "when": "2016-03-10 12:17:00"
     },
     {
       "user": "jxx",
@@ -69,9 +64,14 @@
       "when": "2016-06-04"
     },
     {
-      "user": "serpent",
+      "user": "Nosferatu",
       "vote": 3,
-      "when": "2016-03-10 12:17:00"
+      "when": "2016-10-15 00:00:00"
+    },
+    {
+      "user": "MrsBidette",
+      "vote": 3,
+      "when": "2017-04-06 05:00:00"
     }
   ],
   "requests": [

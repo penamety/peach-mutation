@@ -25,11 +25,6 @@
   ],
   "votes": [
     {
-      "user": "Accidental",
-      "vote": 2,
-      "when": "2018-06-10 21:04:00"
-    },
-    {
       "user": "Oldchap",
       "vote": 3,
       "when": "2018-05-05 05:00:00"
@@ -43,6 +38,11 @@
       "user": "serpent",
       "vote": 3,
       "when": "2018-05-09 19:14:00"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-06-10 21:04:00"
     }
   ],
   "requests": [

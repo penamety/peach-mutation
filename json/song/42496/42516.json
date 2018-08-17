@@ -28,14 +28,19 @@
   ],
   "votes": [
     {
+      "user": "ViThor",
+      "vote": 5,
+      "when": "2015-11-09"
+    },
+    {
       "user": "Accidental",
       "vote": 3,
       "when": "2015-11-23"
     },
     {
-      "user": "Creonix",
-      "vote": 5,
-      "when": "2016-05-21"
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-11-23"
     },
     {
       "user": "NerdN",
@@ -43,9 +48,9 @@
       "when": "2015-12-02"
     },
     {
-      "user": "ViThor",
-      "vote": 5,
-      "when": "2015-11-09"
+      "user": "kimpsa",
+      "vote": 3,
+      "when": "2015-12-02"
     },
     {
       "user": "jxx",
@@ -53,19 +58,14 @@
       "when": "2015-12-16"
     },
     {
-      "user": "kimpsa",
-      "vote": 3,
-      "when": "2015-12-02"
-    },
-    {
       "user": "na85",
       "vote": 5,
       "when": "2016-01-31"
     },
     {
-      "user": "serpent",
-      "vote": 3,
-      "when": "2015-11-23"
+      "user": "Creonix",
+      "vote": 5,
+      "when": "2016-05-21"
     },
     {
       "user": "sqrmax",

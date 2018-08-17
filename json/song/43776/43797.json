@@ -25,19 +25,9 @@
   ],
   "votes": [
     {
-      "user": "Accidental",
-      "vote": 2,
-      "when": "2017-06-21 20:53:00"
-    },
-    {
-      "user": "NerdN",
-      "vote": 2,
-      "when": "2017-08-15 12:41:00"
-    },
-    {
-      "user": "Phlubby_Gnome",
+      "user": "arrakis",
       "vote": 3,
-      "when": "2017-06-21 20:52:00"
+      "when": "2017-06-21 20:07:00"
     },
     {
       "user": "ViThor",
@@ -45,19 +35,24 @@
       "when": "2017-06-21 20:09:00"
     },
     {
-      "user": "VodkaBot",
-      "vote": 2,
-      "when": "2018-06-11 16:18:00"
+      "user": "Phlubby_Gnome",
+      "vote": 3,
+      "when": "2017-06-21 20:52:00"
     },
     {
-      "user": "arrakis",
-      "vote": 3,
-      "when": "2017-06-21 20:07:00"
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-06-21 20:53:00"
     },
     {
       "user": "mirrorbird",
       "vote": 3,
       "when": "2017-07-22 14:37:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 2,
+      "when": "2017-08-15 12:41:00"
     },
     {
       "user": "plc",
@@ -68,6 +63,11 @@
       "user": "prowler",
       "vote": 3,
       "when": "2017-10-30 10:08:00"
+    },
+    {
+      "user": "VodkaBot",
+      "vote": 2,
+      "when": "2018-06-11 16:18:00"
     }
   ],
   "requests": [

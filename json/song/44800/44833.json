@@ -24,19 +24,14 @@
   ],
   "votes": [
     {
-      "user": "Accidental",
-      "vote": 2,
-      "when": "2018-04-25 22:10:00"
-    },
-    {
-      "user": "NerdN",
-      "vote": 3,
-      "when": "2018-05-28 14:56:00"
-    },
-    {
       "user": "Oldchap",
       "vote": 3,
       "when": "2018-04-16"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2018-04-25 22:10:00"
     },
     {
       "user": "ViThor",
@@ -47,6 +42,11 @@
       "user": "arrakis",
       "vote": 3,
       "when": "2018-05-28 14:51:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2018-05-28 14:56:00"
     }
   ],
   "requests": [

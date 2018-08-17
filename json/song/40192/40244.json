@@ -23,6 +23,26 @@
   ],
   "votes": [
     {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-03-10 08:00:00"
+    },
+    {
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2017-03-27 09:09:00"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2017-03-27 09:10:00"
+    },
+    {
+      "user": "ViThor",
+      "vote": 3,
+      "when": "2017-03-27 10:08:00"
+    },
+    {
       "user": "Accidental",
       "vote": 3,
       "when": "2017-05-10 15:53:00"
@@ -33,29 +53,9 @@
       "when": "2017-08-02 11:07:00"
     },
     {
-      "user": "Buzzer",
-      "vote": 3,
-      "when": "2017-03-27 09:09:00"
-    },
-    {
-      "user": "NerdN",
-      "vote": 3,
-      "when": "2017-03-10 08:00:00"
-    },
-    {
       "user": "Nosferatu",
       "vote": 3,
       "when": "2017-08-02 11:09:00"
-    },
-    {
-      "user": "ViThor",
-      "vote": 3,
-      "when": "2017-03-27 10:08:00"
-    },
-    {
-      "user": "serpent",
-      "vote": 3,
-      "when": "2017-03-27 09:10:00"
     }
   ],
   "requests": [

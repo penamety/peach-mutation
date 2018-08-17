@@ -30,14 +30,19 @@
   ],
   "votes": [
     {
-      "user": "Accidental",
-      "vote": 2,
-      "when": "2015-12-23"
+      "user": "ViThor",
+      "vote": 4,
+      "when": "2015-11-09"
     },
     {
-      "user": "Buzzer",
-      "vote": 3,
-      "when": "2015-12-02"
+      "user": "jxx",
+      "vote": 4,
+      "when": "2015-11-09"
+    },
+    {
+      "user": "zub",
+      "vote": 5,
+      "when": "2015-11-09"
     },
     {
       "user": "NerdN",
@@ -45,24 +50,9 @@
       "when": "2015-11-23"
     },
     {
-      "user": "Phlubby_Gnome",
-      "vote": 4,
-      "when": "2018-01-07 01:14:00"
-    },
-    {
-      "user": "ViThor",
-      "vote": 4,
-      "when": "2015-11-09"
-    },
-    {
       "user": "arrakis",
       "vote": 3,
       "when": "2015-11-23"
-    },
-    {
-      "user": "fosfer",
-      "vote": 4,
-      "when": "2016-02-25 16:00:00"
     },
     {
       "user": "frankrm78",
@@ -70,9 +60,34 @@
       "when": "2015-11-23"
     },
     {
-      "user": "jxx",
+      "user": "Buzzer",
+      "vote": 3,
+      "when": "2015-12-02"
+    },
+    {
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2015-12-23"
+    },
+    {
+      "user": "serpent",
+      "vote": 3,
+      "when": "2015-12-23"
+    },
+    {
+      "user": "fosfer",
       "vote": 4,
-      "when": "2015-11-09"
+      "when": "2016-02-25 16:00:00"
+    },
+    {
+      "user": "pipe",
+      "vote": 4,
+      "when": "2016-02-25 16:38:00"
+    },
+    {
+      "user": "sqrmax",
+      "vote": 2,
+      "when": "2016-10-20 06:10:00"
     },
     {
       "user": "mirrorbird",
@@ -85,24 +100,9 @@
       "when": "2018-01-07 01:11:00"
     },
     {
-      "user": "pipe",
+      "user": "Phlubby_Gnome",
       "vote": 4,
-      "when": "2016-02-25 16:38:00"
-    },
-    {
-      "user": "serpent",
-      "vote": 3,
-      "when": "2015-12-23"
-    },
-    {
-      "user": "sqrmax",
-      "vote": 2,
-      "when": "2016-10-20 06:10:00"
-    },
-    {
-      "user": "zub",
-      "vote": 5,
-      "when": "2015-11-09"
+      "when": "2018-01-07 01:14:00"
     }
   ],
   "requests": [

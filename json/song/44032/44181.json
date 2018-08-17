@@ -27,16 +27,6 @@
   ],
   "votes": [
     {
-      "user": "Accidental",
-      "vote": 2,
-      "when": "2017-07-15 08:45:00"
-    },
-    {
-      "user": "NerdN",
-      "vote": 3,
-      "when": "2017-08-24 13:31:00"
-    },
-    {
       "user": "Phlubby_Gnome",
       "vote": 3,
       "when": "2017-07-12 15:07:00"
@@ -47,9 +37,9 @@
       "when": "2017-07-12 16:40:00"
     },
     {
-      "user": "plc",
-      "vote": 3,
-      "when": "2018-02-12 12:34:00"
+      "user": "Accidental",
+      "vote": 2,
+      "when": "2017-07-15 08:45:00"
     },
     {
       "user": "serpent",
@@ -60,6 +50,16 @@
       "user": "sqrmax",
       "vote": 2,
       "when": "2017-08-15 08:54:00"
+    },
+    {
+      "user": "NerdN",
+      "vote": 3,
+      "when": "2017-08-24 13:31:00"
+    },
+    {
+      "user": "plc",
+      "vote": 3,
+      "when": "2018-02-12 12:34:00"
     }
   ],
   "requests": [

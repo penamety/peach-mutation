@@ -33,9 +33,9 @@
       "when": "2016-02-13"
     },
     {
-      "user": "Mystra",
+      "user": "ViThor",
       "vote": 4,
-      "when": "2016-04-01 10:26:00"
+      "when": "2016-02-13"
     },
     {
       "user": "NerdN",
@@ -43,49 +43,9 @@
       "when": "2016-02-24 09:45:00"
     },
     {
-      "user": "Phlubby_Gnome",
-      "vote": 4,
-      "when": "2017-12-02 00:39:00"
-    },
-    {
       "user": "SampL",
       "vote": 4,
       "when": "2016-02-24 09:45:00"
-    },
-    {
-      "user": "Shinobi",
-      "vote": 3,
-      "when": "2016-06-28"
-    },
-    {
-      "user": "Spiral",
-      "vote": 4,
-      "when": "2016-04-01 10:27:00"
-    },
-    {
-      "user": "ViThor",
-      "vote": 4,
-      "when": "2016-02-13"
-    },
-    {
-      "user": "johny8",
-      "vote": 5,
-      "when": "2018-01-05 12:57:00"
-    },
-    {
-      "user": "jxx",
-      "vote": 4,
-      "when": "2016-04-01 10:26:00"
-    },
-    {
-      "user": "lroy",
-      "vote": 3,
-      "when": "2016-04-01 10:25:00"
-    },
-    {
-      "user": "mirrorbird",
-      "vote": 4,
-      "when": "2017-12-31 09:46:00"
     },
     {
       "user": "serpent",
@@ -93,9 +53,49 @@
       "when": "2016-02-24 09:45:00"
     },
     {
+      "user": "lroy",
+      "vote": 3,
+      "when": "2016-04-01 10:25:00"
+    },
+    {
+      "user": "Mystra",
+      "vote": 4,
+      "when": "2016-04-01 10:26:00"
+    },
+    {
+      "user": "jxx",
+      "vote": 4,
+      "when": "2016-04-01 10:26:00"
+    },
+    {
+      "user": "Spiral",
+      "vote": 4,
+      "when": "2016-04-01 10:27:00"
+    },
+    {
+      "user": "Shinobi",
+      "vote": 3,
+      "when": "2016-06-28"
+    },
+    {
       "user": "yzi",
       "vote": 4,
       "when": "2017-12-02 00:38:00"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "vote": 4,
+      "when": "2017-12-02 00:39:00"
+    },
+    {
+      "user": "mirrorbird",
+      "vote": 4,
+      "when": "2017-12-31 09:46:00"
+    },
+    {
+      "user": "johny8",
+      "vote": 5,
+      "when": "2018-01-05 12:57:00"
     }
   ],
   "requests": [

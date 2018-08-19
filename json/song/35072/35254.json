@@ -16,8 +16,12 @@
   "vote_avg": 3.0,
   "last_scraped": "2018-05-23 17:54:00",
   "source_id": 7,
-  "artist_ids": [],
-  "artist_names": [],
+  "artist_ids": [
+    5022
+  ],
+  "artist_names": [
+    "Mesonyx"
+  ],
   "votes": [
     {
       "user": "Mystra",

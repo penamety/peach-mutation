@@ -16,8 +16,12 @@
   "vote_avg": 3.8182,
   "last_scraped": "2018-05-23 17:02:35",
   "source_id": 5,
-  "artist_ids": [],
-  "artist_names": [],
+  "artist_ids": [
+    601
+  ],
+  "artist_names": [
+    "Kada"
+  ],
   "votes": [
     {
       "user": "Chapelier",

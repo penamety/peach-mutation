@@ -16,8 +16,12 @@
   "vote_avg": 3.125,
   "last_scraped": "2018-05-23 15:30:50",
   "source_id": 5,
-  "artist_ids": [],
-  "artist_names": [],
+  "artist_ids": [
+    4058
+  ],
+  "artist_names": [
+    "Nomad"
+  ],
   "votes": [
     {
       "user": "Saga_Musix",

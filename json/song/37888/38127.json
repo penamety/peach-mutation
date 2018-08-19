@@ -15,8 +15,12 @@
   "vote_count": 10,
   "vote_avg": 4.5,
   "last_scraped": "2018-05-23 10:12:26",
-  "artist_ids": [],
-  "artist_names": [],
+  "artist_ids": [
+    408
+  ],
+  "artist_names": [
+    "Elwood"
+  ],
   "votes": [
     {
       "user": "Sensei",

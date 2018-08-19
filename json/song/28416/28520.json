@@ -14,8 +14,12 @@
   "vote_count": 1,
   "vote_avg": 4.0,
   "last_scraped": "2018-05-23 06:35:29",
-  "artist_ids": [],
-  "artist_names": [],
+  "artist_ids": [
+    1464
+  ],
+  "artist_names": [
+    "m0d"
+  ],
   "votes": [
     {
       "user": "ViThor",

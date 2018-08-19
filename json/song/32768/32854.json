@@ -10,8 +10,12 @@
   "vote_count": 14,
   "vote_avg": 4.0714,
   "last_scraped": "2013-01-01 00:00:01",
-  "artist_ids": [],
-  "artist_names": [],
+  "artist_ids": [
+    4765
+  ],
+  "artist_names": [
+    "Tony Thai"
+  ],
   "votes": [],
   "requests": []
 }

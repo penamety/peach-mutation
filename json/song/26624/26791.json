@@ -15,8 +15,12 @@
   "vote_count": 0,
   "last_scraped": "2018-05-23 04:21:50",
   "source_id": 8,
-  "artist_ids": [],
-  "artist_names": [],
+  "artist_ids": [
+    1464
+  ],
+  "artist_names": [
+    "m0d"
+  ],
   "votes": [],
   "requests": []
 }

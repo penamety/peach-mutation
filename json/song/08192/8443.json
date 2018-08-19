@@ -11,8 +11,12 @@
   "vote_count": 2,
   "vote_avg": 3.5,
   "last_scraped": "2018-05-22 22:42:53",
-  "artist_ids": [],
-  "artist_names": [],
+  "artist_ids": [
+    1373
+  ],
+  "artist_names": [
+    "Dubmood"
+  ],
   "votes": [
     {
       "user": "Elrinth",

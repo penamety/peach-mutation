@@ -13,8 +13,12 @@
   "vote_count": 4,
   "vote_avg": 4,
   "last_scraped": "2018-03-28 13:44:34",
-  "artist_ids": [],
-  "artist_names": [],
+  "artist_ids": [
+    1108
+  ],
+  "artist_names": [
+    "Some1"
+  ],
   "votes": [
     {
       "user": "NerdN",

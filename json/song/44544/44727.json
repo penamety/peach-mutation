@@ -13,8 +13,12 @@
   "vote_count": 1,
   "vote_avg": 4,
   "last_scraped": "2018-04-11 20:29:28",
-  "artist_ids": [],
-  "artist_names": [],
+  "artist_ids": [
+    5783
+  ],
+  "artist_names": [
+    "Aardvark"
+  ],
   "votes": [
     {
       "user": "ViThor",

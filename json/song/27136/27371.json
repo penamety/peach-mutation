@@ -15,8 +15,12 @@
   "vote_avg": 5.0,
   "last_scraped": "2018-05-23 07:34:44",
   "source_id": 1,
-  "artist_ids": [],
-  "artist_names": [],
+  "artist_ids": [
+    1332
+  ],
+  "artist_names": [
+    "Cerror"
+  ],
   "votes": [
     {
       "user": "ViThor",

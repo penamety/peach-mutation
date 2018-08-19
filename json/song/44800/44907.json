@@ -13,8 +13,14 @@
   "vote_count": 1,
   "vote_avg": 5,
   "last_scraped": "2018-05-29 21:22:26",
-  "artist_ids": [],
-  "artist_names": [],
+  "artist_ids": [
+    5801,
+    5802
+  ],
+  "artist_names": [
+    "Pumpking",
+    "Spagetti Box"
+  ],
   "votes": [],
   "requests": []
 }

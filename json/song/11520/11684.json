@@ -14,8 +14,12 @@
   "vote_count": 10,
   "vote_avg": 3.4,
   "last_scraped": "2018-05-23 17:20:49",
-  "artist_ids": [],
-  "artist_names": [],
+  "artist_ids": [
+    1464
+  ],
+  "artist_names": [
+    "m0d"
+  ],
   "votes": [
     {
       "user": "Mystra",

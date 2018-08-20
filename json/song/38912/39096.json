@@ -220,5 +220,27 @@
       "user": "franz_koopa",
       "when": "2018-05-11 22:48:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2014-01-10 08:24:00",
+      "tags": "food"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-08-03 11:27:00",
+      "tags": "food crap"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-08-26 14:38:00",
+      "tags": "food"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2017-08-16 13:24:00",
+      "tags": "food techno 1996"
+    }
   ]
 }

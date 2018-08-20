@@ -350,5 +350,27 @@
       "user": "pipe",
       "when": "2018-02-11 21:12:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "G_Signal",
+      "when": "2012-06-21 13:57:00",
+      "tags": "lounge"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2012-06-21 13:58:00",
+      "tags": "lounge ElevatorMusic"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2012-06-21 13:58:00",
+      "tags": "ElevatorMusic"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2012-06-21 13:58:01",
+      "tags": "ElevatorMusic"
+    }
   ]
 }

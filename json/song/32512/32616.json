@@ -528,5 +528,32 @@
       "user": "Arne",
       "when": "2018-06-05 18:35:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "anni",
+      "when": "2011-04-18 12:03:00",
+      "tags": "happy"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2011-06-23 16:05:00",
+      "tags": "happy nectarine compo NectaScene"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-03-14 10:23:00",
+      "tags": "compo happy Nectarine NectaScene animal"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-02-06 14:46:00",
+      "tags": "animal compo happy NectaScene"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-09-18 15:36:00",
+      "tags": "animal compo happy NectaScene coop"
+    }
   ]
 }

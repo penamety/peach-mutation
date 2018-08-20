@@ -235,5 +235,32 @@
       "user": "Mystra",
       "when": "2017-07-07 11:31:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "ViThor",
+      "when": "2011-06-06 08:49:00",
+      "tags": "video"
+    },
+    {
+      "user": "ViThor",
+      "when": "2011-06-13 16:56:00",
+      "tags": "video AY 1990 ZXSpectrum demo"
+    },
+    {
+      "user": "ViThor",
+      "when": "2011-06-13 16:57:00",
+      "tags": "1990 AY Demo video ZXSpectrum remix"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-04-02 19:50:00",
+      "tags": "1990 AY Demo Remix video ZXSpectrum speccy"
+    },
+    {
+      "user": "chellomere",
+      "when": "2014-01-15 12:32:00",
+      "tags": "1990 AY Demo Remix Speccy video ZXSpectrum OutOfTune"
+    }
   ]
 }

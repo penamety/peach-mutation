@@ -292,5 +292,27 @@
       "user": "plc",
       "when": "2018-06-03 09:57:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Rumpel",
+      "when": "2011-04-17 20:43:00",
+      "tags": "Breakpoint 2010 TRSI Rabenauge BrainControl wild video"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-18 04:45:00",
+      "tags": "2010 BrainControl Breakpoint Rabenauge  video Wild"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-24 13:03:00",
+      "tags": "2010  Breakpoint Rabenauge video Wild"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-24 13:06:00",
+      "tags": "2010 Breakpoint  video Wild"
+    }
   ]
 }

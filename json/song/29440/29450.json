@@ -343,5 +343,32 @@
       "user": "hornpipe2",
       "when": "2018-05-12 22:30:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2012-03-20 16:25:00",
+      "tags": "Avant-garde Experimental Mystic crap"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-21 08:14:00",
+      "tags": "Avant-garde crap Experimental Mystic burp"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-11-08 15:02:00",
+      "tags": "Avant-garde burp crap Experimental Mystic short"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-08-26 14:21:00",
+      "tags": "Avant-garde burp Experimental Mystic Short"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-09-03 13:51:00",
+      "tags": "Avant-garde burp Experimental Mystic Short coop"
+    }
   ]
 }

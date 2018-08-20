@@ -156,5 +156,27 @@
       "user": "franz_koopa",
       "when": "2018-02-10 22:10:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2010-06-07 14:20:00",
+      "tags": 1988
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-01-07 13:30:00",
+      "tags": "1988 gamemusic heroic"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-01-07 13:31:00",
+      "tags": "1988 Gamemusic Heroic Animals"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-04-17 13:35:00",
+      "tags": "1988 Gamemusic Heroic animal"
+    }
   ]
 }

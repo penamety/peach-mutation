@@ -368,5 +368,32 @@
       "user": "VodkaBot",
       "when": "2018-06-03 16:10:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Arne",
+      "when": "2010-12-02 20:12:00",
+      "tags": "Remake"
+    },
+    {
+      "user": "numerus",
+      "when": "2012-02-13 14:11:00",
+      "tags": "Remake remix worse"
+    },
+    {
+      "user": "numerus",
+      "when": "2012-02-13 14:13:00",
+      "tags": "Remake Remix worse OutOfTune"
+    },
+    {
+      "user": "numerus",
+      "when": "2012-02-13 14:14:00",
+      "tags": "OutOfTune Remake Remix worse"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-24 18:16:00",
+      "tags": "OutOfTune Remake Remix"
+    }
   ]
 }

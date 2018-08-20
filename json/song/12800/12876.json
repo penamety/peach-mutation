@@ -560,5 +560,17 @@
       "user": "plc",
       "when": "2018-05-01 10:23:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "prowler",
+      "when": "2010-07-19 19:19:00",
+      "tags": "sinewave"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-08-27 08:29:00",
+      "tags": "sinewave coop"
+    }
   ]
 }

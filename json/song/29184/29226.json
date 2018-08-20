@@ -52,5 +52,27 @@
       "when": "2015-02-01 18:00:00"
     }
   ],
-  "requests": []
+  "requests": [],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2010-06-09 14:06:00",
+      "tags": "long"
+    },
+    {
+      "user": "ulrikkold",
+      "when": "2012-03-08 13:03:00",
+      "tags": "long 10minPlus 15minPlus 20minPlus"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-12 06:16:00",
+      "tags": "long"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-12 06:16:01",
+      "tags": "long"
+    }
+  ]
 }

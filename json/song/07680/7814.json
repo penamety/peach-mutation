@@ -366,5 +366,17 @@
       "when": "2017-04-18 14:04:00"
     }
   ],
-  "requests": []
+  "requests": [],
+  "tag-history": [
+    {
+      "user": "Rumpel",
+      "when": "2010-05-05 16:59:00",
+      "tags": "Lyrics Vocals"
+    },
+    {
+      "user": "Rumpel",
+      "when": "2010-05-05 17:00:00",
+      "tags": "Lyrics Vocals GermanSpeak"
+    }
+  ]
 }

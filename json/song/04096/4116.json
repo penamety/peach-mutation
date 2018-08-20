@@ -1115,5 +1115,32 @@
       "user": "luminous",
       "when": "2018-05-24 05:15:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "dodge",
+      "when": "2011-02-03 15:29:00",
+      "tags": "cover"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2011-03-02 19:19:00",
+      "tags": "cover awesome"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-04-03 09:28:00",
+      "tags": "Awesome cover food"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-07-13 23:46:00",
+      "tags": "Awesome cover food Popcorn"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-08-26 15:16:00",
+      "tags": "cover food Popcorn"
+    }
   ]
 }

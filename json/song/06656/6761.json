@@ -505,5 +505,27 @@
       "user": "prowler",
       "when": "2018-05-31 11:53:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "dodge",
+      "when": "2011-03-04 13:52:00",
+      "tags": "Amiga diskmag"
+    },
+    {
+      "user": "Mystra",
+      "when": "2011-04-27 22:02:00",
+      "tags": "Amiga diskmag Upstream"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-04-28 19:40:00",
+      "tags": "Amiga diskmag Upstream Doskpop"
+    },
+    {
+      "user": "DrFlay",
+      "when": "2014-03-04 12:38:00",
+      "tags": "Amiga diskmag Doskpop Upstream 1993"
+    }
   ]
 }

@@ -243,5 +243,22 @@
       "user": "arrakis",
       "when": "2018-05-30 14:47:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2012-10-23 06:32:00",
+      "tags": "EarlyMOD"
+    },
+    {
+      "user": "serpent",
+      "when": "2012-10-23 07:34:00",
+      "tags": "EarlyMOD cowbell"
+    },
+    {
+      "user": "serpent",
+      "when": "2012-10-23 08:30:00",
+      "tags": "cowbell EarlyMOD saxophone"
+    }
   ]
 }

@@ -122,5 +122,22 @@
       "user": "kimpsa",
       "when": "2018-05-03 12:45:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "infra",
+      "when": "2011-07-10 02:34:00",
+      "tags": "classic"
+    },
+    {
+      "user": "infra",
+      "when": "2011-07-10 02:35:00",
+      "tags": "classic, dream"
+    },
+    {
+      "user": "serpent",
+      "when": "2012-10-24 05:57:00",
+      "tags": "Dream"
+    }
   ]
 }

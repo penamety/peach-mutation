@@ -425,5 +425,27 @@
       "user": "Kalmo",
       "when": "2018-06-13 09:11:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Elrinth",
+      "when": "2010-09-21 09:42:00",
+      "tags": "happy"
+    },
+    {
+      "user": "anni",
+      "when": "2010-12-13 10:57:00",
+      "tags": "Sad"
+    },
+    {
+      "user": "pipe",
+      "when": "2010-12-13 10:57:00",
+      "tags": "happy sad"
+    },
+    {
+      "user": "anni",
+      "when": "2010-12-13 10:59:00",
+      "tags": ""
+    }
   ]
 }

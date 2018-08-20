@@ -249,5 +249,27 @@
       "user": "djrandom",
       "when": "2018-03-13 05:45:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "lroy",
+      "when": "2013-04-19 15:16:00",
+      "tags": "happy"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-04-19 15:29:00",
+      "tags": "happy animal"
+    },
+    {
+      "user": "Jerry",
+      "when": "2013-08-22 13:17:00",
+      "tags": "animal happy 2013"
+    },
+    {
+      "user": "maep",
+      "when": "2014-10-17 00:54:00",
+      "tags": "2013 animal happy bad_encoder"
+    }
   ]
 }

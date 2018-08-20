@@ -423,5 +423,12 @@
       "user": "plc",
       "when": "2018-06-09 09:59:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2016-06-05 10:11:00",
+      "tags": "TruckDriversGearChange"
+    }
   ]
 }

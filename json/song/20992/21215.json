@@ -258,5 +258,32 @@
       "user": "Ozgu",
       "when": "2017-11-15 17:45:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "G_Signal",
+      "when": "2011-02-01 20:05:00",
+      "tags": "lounge"
+    },
+    {
+      "user": "MyO",
+      "when": "2011-08-11 18:06:00",
+      "tags": "lounge Awesome awesomeness"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2012-03-06 17:30:00",
+      "tags": "Awesome lounge"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-08-26 15:20:00",
+      "tags": "lounge"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-06-27 10:19:00",
+      "tags": "lounge Whoo"
+    }
   ]
 }

@@ -300,5 +300,27 @@
       "user": "arrakis",
       "when": "2017-03-18 15:08:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "anni",
+      "when": "2010-11-11 09:13:00",
+      "tags": "food"
+    },
+    {
+      "user": "lemonade",
+      "when": "2011-05-03 06:47:00",
+      "tags": "2010 food"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2011-06-23 15:47:00",
+      "tags": "2010 food nectarine compo nectascene"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-02-06 14:36:00",
+      "tags": "2010 compo food NectaScene"
+    }
   ]
 }

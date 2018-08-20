@@ -41,5 +41,27 @@
       "when": "2010-06-01"
     }
   ],
-  "requests": []
+  "requests": [],
+  "tag-history": [
+    {
+      "user": "jork",
+      "when": "2010-05-06 19:26:00",
+      "tags": "Chiptune c64 fusion jazz demo odd"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-20 10:26:00",
+      "tags": "C64 Chiptune Demo fusion Jazz"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-20 10:26:01",
+      "tags": "C64 Chiptune Demo fusion Jazz weird"
+    },
+    {
+      "user": "jork",
+      "when": "2017-04-25 02:32:00",
+      "tags": ""
+    }
+  ]
 }

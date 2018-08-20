@@ -430,5 +430,32 @@
       "user": "plc",
       "when": "2017-12-03 10:53:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Axioplase",
+      "when": "2010-08-27 03:45:00",
+      "tags": "Piano Jazz"
+    },
+    {
+      "user": "Axioplase",
+      "when": "2010-08-27 03:45:01",
+      "tags": "Jazz Piano ElevatorMusic"
+    },
+    {
+      "user": "Mystra",
+      "when": "2010-11-09 21:13:00",
+      "tags": "ElevatorMusic Jazz Piano Geography"
+    },
+    {
+      "user": "maep",
+      "when": "2013-06-14 11:45:00",
+      "tags": "ElevatorMusic Geography Jazz Piano bad_encoder"
+    },
+    {
+      "user": "maep",
+      "when": "2013-06-14 12:28:00",
+      "tags": "ElevatorMusic Geography Jazz Piano"
+    }
   ]
 }

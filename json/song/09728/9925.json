@@ -414,5 +414,22 @@
       "user": "maep",
       "when": "2018-05-11 16:00:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "maep",
+      "when": "2011-02-20 14:16:00",
+      "tags": "demo 2002"
+    },
+    {
+      "user": "maep",
+      "when": "2011-02-20 14:16:01",
+      "tags": "2002 Demo video"
+    },
+    {
+      "user": "Mystra",
+      "when": "2011-06-22 18:37:00",
+      "tags": "2002 Demo video Mekka&Symposium"
+    }
   ]
 }

@@ -851,5 +851,27 @@
       "user": "Oldchap",
       "when": "2018-05-28 19:13:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2013-01-23 15:09:00",
+      "tags": "food"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-06-02 09:31:00",
+      "tags": "food animal"
+    },
+    {
+      "user": "pipe",
+      "when": "2016-05-20 00:48:00",
+      "tags": ""
+    },
+    {
+      "user": "pipe",
+      "when": "2016-05-20 00:48:01",
+      "tags": "theme TV cover"
+    }
   ]
 }

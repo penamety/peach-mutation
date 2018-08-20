@@ -411,5 +411,22 @@
       "user": "mirrorbird",
       "when": "2018-01-03 06:29:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "dodge",
+      "when": "2011-01-13 15:37:00",
+      "tags": "C64 SID"
+    },
+    {
+      "user": "maep",
+      "when": "2013-03-26 19:37:00",
+      "tags": "C64 SID bad_encoder"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-02-02 19:42:00",
+      "tags": "bad_encoder C64 SID TruckDriversGearChange AndalusianCadence"
+    }
   ]
 }

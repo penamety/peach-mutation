@@ -730,5 +730,32 @@
       "user": "plc",
       "when": "2018-06-03 10:43:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Mystra",
+      "when": "2010-10-21 18:47:00",
+      "tags": "TheParty 1993"
+    },
+    {
+      "user": "anni",
+      "when": "2011-01-19 23:02:00",
+      "tags": "1993 TheParty Piano"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2012-06-08 08:43:00",
+      "tags": "Swing Piano TheParty"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-04-29 16:52:00",
+      "tags": "Piano Swing TheParty 1993"
+    },
+    {
+      "user": "Cook",
+      "when": "2016-03-04 16:46:00",
+      "tags": "1993 Piano Swing TheParty coop"
+    }
   ]
 }

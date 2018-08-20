@@ -395,5 +395,32 @@
       "user": "franz_koopa",
       "when": "2018-06-01 22:14:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2010-07-31 10:33:00",
+      "tags": "chiptune"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2010-07-31 11:19:00",
+      "tags": "Chiptune 1991"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2010-07-31 11:19:01",
+      "tags": "1991 Chiptune OldSchool"
+    },
+    {
+      "user": "anni",
+      "when": "2012-03-19 14:17:00",
+      "tags": "1991 Chiptune OldSchool OutOfTune"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-08-14 21:06:00",
+      "tags": "1991 Chiptune OldSchool OutOfTune software"
+    }
   ]
 }

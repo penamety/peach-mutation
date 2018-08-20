@@ -280,5 +280,32 @@
       "user": "mirrorbird",
       "when": "2018-03-23 23:46:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "anni",
+      "when": "2012-07-31 12:28:00",
+      "tags": "rock&roll"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-07-31 13:13:00",
+      "tags": "rock&roll happy c64 sid 2012"
+    },
+    {
+      "user": "lemonade",
+      "when": "2012-07-31 18:43:00",
+      "tags": "2012 C64 happy rock&roll SID nectascene food"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 12:31:00",
+      "tags": "race 2012 C64 food happy NectaScene rock&roll SID"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 12:32:00",
+      "tags": "2012 C64 food happy NectaScene Rock SID"
+    }
   ]
 }

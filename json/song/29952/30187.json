@@ -724,5 +724,17 @@
       "user": "Buzzer",
       "when": "2018-06-06 05:14:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "lemonade",
+      "when": "2011-05-03 06:49:00",
+      "tags": 2010
+    },
+    {
+      "user": "lemonade",
+      "when": "2011-05-23 20:00:00",
+      "tags": "2010 Stream"
+    }
   ]
 }

@@ -156,5 +156,27 @@
       "user": "nyingen",
       "when": "2018-06-01 11:07:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "sqrmax",
+      "when": "2013-03-21 07:48:00",
+      "tags": "crap"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-08-26 14:16:00",
+      "tags": "food alcohol"
+    },
+    {
+      "user": "serpent",
+      "when": "2014-10-11 21:23:00",
+      "tags": "alcohol food AwfulGuitarSample"
+    },
+    {
+      "user": "serpent",
+      "when": "2014-10-11 21:23:01",
+      "tags": "alcohol AwfulGuitarSample food cover"
+    }
   ]
 }

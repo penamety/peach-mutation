@@ -259,5 +259,27 @@
       "user": "franz_koopa",
       "when": "2018-05-12 22:37:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2015-01-11 10:23:00",
+      "tags": "ambient"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2015-01-11 11:50:00",
+      "tags": "ambient dualsid"
+    },
+    {
+      "user": "NerdN",
+      "when": "2015-01-11 15:40:00",
+      "tags": "ambient dualsid long"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2016-02-08 19:46:00",
+      "tags": "ambient dualsid long noise Experimental"
+    }
   ]
 }

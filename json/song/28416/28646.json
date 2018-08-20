@@ -799,5 +799,22 @@
       "user": "plc",
       "when": "2018-06-11 09:24:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Mystra",
+      "when": "2010-11-15 09:22:00",
+      "tags": "Breakpoint 2010"
+    },
+    {
+      "user": "anni",
+      "when": "2011-02-21 08:50:00",
+      "tags": "2010 Breakpoint choir Orchestral"
+    },
+    {
+      "user": "dodge",
+      "when": "2011-03-08 10:38:00",
+      "tags": "2010 Breakpoint Choir Orchestral cinematic"
+    }
   ]
 }

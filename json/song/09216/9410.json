@@ -369,5 +369,22 @@
       "user": "hornpipe2",
       "when": "2018-05-01 01:03:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "hornpipe2",
+      "when": "2013-11-29 07:49:00",
+      "tags": "technically-awesome"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-07-25 21:10:00",
+      "tags": "technically-awesome long"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2017-07-25 22:26:00",
+      "tags": "long technically-awesome TruckDriversGearChange"
+    }
   ]
 }

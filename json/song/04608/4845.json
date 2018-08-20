@@ -778,5 +778,22 @@
       "user": "Scribblette",
       "when": "2018-05-20 06:31:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "maep",
+      "when": "2012-11-05 15:19:00",
+      "tags": "bad_encoder"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 09:06:00",
+      "tags": "needs_reencoding"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 10:02:00",
+      "tags": ""
+    }
   ]
 }

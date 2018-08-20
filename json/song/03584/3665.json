@@ -182,5 +182,22 @@
       "user": "MyO",
       "when": "2017-04-06 13:28:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2012-03-08 09:32:00",
+      "tags": "Gamemusic Remix"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-03-08 09:33:00",
+      "tags": "Gamemusic medley"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2013-04-20 13:47:00",
+      "tags": "gameremix medley"
+    }
   ]
 }

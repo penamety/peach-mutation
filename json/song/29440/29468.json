@@ -549,5 +549,27 @@
       "user": "prowler",
       "when": "2018-04-26 09:06:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2010-06-27 18:04:00",
+      "tags": "EarlyMOD"
+    },
+    {
+      "user": "prowler",
+      "when": "2010-08-28 11:02:00",
+      "tags": "EarlyMOD 1988"
+    },
+    {
+      "user": "dodge",
+      "when": "2011-03-18 15:17:00",
+      "tags": "1988 EarlyMOD Amiga Demo"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-05-20 06:41:00",
+      "tags": "1988 Amiga Demo EarlyMOD TruckDriversGearChange"
+    }
   ]
 }

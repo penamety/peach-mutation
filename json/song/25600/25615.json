@@ -74,5 +74,27 @@
       "when": "2014-12-03 20:00:00"
     }
   ],
-  "requests": []
+  "requests": [],
+  "tag-history": [
+    {
+      "user": "MyO",
+      "when": "2011-03-13 16:14:00",
+      "tags": "crap Supercrap"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-03-20 16:18:00",
+      "tags": "crap"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-08-26 15:12:00",
+      "tags": ""
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-01-29 19:07:00",
+      "tags": "long"
+    }
+  ]
 }

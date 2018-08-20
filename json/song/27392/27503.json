@@ -46,5 +46,17 @@
       "when": "2016-03-14"
     }
   ],
-  "requests": []
+  "requests": [],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2012-03-28 10:48:00",
+      "tags": "food"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2012-05-01 10:39:00",
+      "tags": "food Remix Jingle"
+    }
+  ]
 }

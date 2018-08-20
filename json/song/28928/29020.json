@@ -67,5 +67,17 @@
       "when": "2018-05-01 12:00:00"
     }
   ],
-  "requests": []
+  "requests": [],
+  "tag-history": [
+    {
+      "user": "jork",
+      "when": "2010-05-09 03:19:00",
+      "tags": "Chiptune c64 sid odd"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-20 10:26:00",
+      "tags": "C64 Chiptune weird SID"
+    }
+  ]
 }

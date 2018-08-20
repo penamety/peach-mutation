@@ -1225,5 +1225,32 @@
       "user": "Phlubby_Gnome",
       "when": "2018-06-16 10:09:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "sqrmax",
+      "when": "2013-04-02 10:09:00",
+      "tags": "1988 verify_reencoding Jingle"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2013-05-06 18:14:00",
+      "tags": "1988 Jingle verify_reencoding long"
+    },
+    {
+      "user": "anni",
+      "when": "2013-05-12 12:32:00",
+      "tags": "1988 Jingle verify_reencoding"
+    },
+    {
+      "user": "anni",
+      "when": "2013-05-12 12:32:01",
+      "tags": "1988 Jingle needs_reencoding"
+    },
+    {
+      "user": "MyO",
+      "when": "2014-06-17 22:16:00",
+      "tags": "1988 Jingle needs_reencoding classic"
+    }
   ]
 }

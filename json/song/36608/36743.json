@@ -151,5 +151,17 @@
       "user": "Accidental",
       "when": "2017-05-20 09:34:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2013-11-27 15:26:00",
+      "tags": "animal"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-11-27 15:28:00",
+      "tags": "animal Geography"
+    }
   ]
 }

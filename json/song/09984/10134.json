@@ -492,5 +492,27 @@
       "user": "ViThor",
       "when": "2018-02-18 13:54:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "pipe",
+      "when": "2011-04-29 19:21:00",
+      "tags": "Demo"
+    },
+    {
+      "user": "pipe",
+      "when": "2011-04-29 19:21:01",
+      "tags": "Demo 1993"
+    },
+    {
+      "user": "ViThor",
+      "when": "2011-04-29 19:31:00",
+      "tags": "1993 Demo Amiga video"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-02-04 20:30:00",
+      "tags": "1993 Amiga Demo video POLARISComputerParty compo"
+    }
   ]
 }

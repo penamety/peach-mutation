@@ -494,5 +494,27 @@
       "user": "arrakis",
       "when": "2018-05-05 11:44:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "prowler",
+      "when": "2010-06-27 19:18:00",
+      "tags": "Space"
+    },
+    {
+      "user": "prowler",
+      "when": "2010-07-19 19:23:00",
+      "tags": "Space sinewave"
+    },
+    {
+      "user": "joes",
+      "when": "2014-03-20 20:40:00",
+      "tags": "sinewave Space Progressive"
+    },
+    {
+      "user": "joes",
+      "when": "2014-05-21 19:15:00",
+      "tags": "Progressive sinewave Space Reverb pad"
+    }
   ]
 }

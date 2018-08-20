@@ -228,5 +228,32 @@
       "user": "Accidental",
       "when": "2018-01-20 13:30:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Mystra",
+      "when": "2011-01-09 20:28:00",
+      "tags": "2010 Assembly"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-08-25 14:16:00",
+      "tags": "2010 Assembly PumpUpTheVolume"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-05-23 08:41:00",
+      "tags": "2010 Assembly PumpUpTheVolume Geography"
+    },
+    {
+      "user": "ViThor",
+      "when": "2016-02-05 19:16:00",
+      "tags": "2010 Assembly Geography PumpUpTheVolume demo video"
+    },
+    {
+      "user": "ViThor",
+      "when": "2016-02-05 19:16:01",
+      "tags": "2010 Assembly Demo Geography PumpUpTheVolume video 64k"
+    }
   ]
 }

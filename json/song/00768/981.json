@@ -438,5 +438,27 @@
       "user": "Phlubby_Gnome",
       "when": "2018-06-10 07:04:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Mystra",
+      "when": "2012-09-03 08:24:00",
+      "tags": "JurassicPack"
+    },
+    {
+      "user": "maep",
+      "when": "2012-10-26 20:04:00",
+      "tags": "JurassicPack bad_encoder"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 09:17:00",
+      "tags": "needs_reencoding JurassicPack"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-09-17 08:18:00",
+      "tags": "JurassicPack needs_reencoding TruckDriversGearChange"
+    }
   ]
 }

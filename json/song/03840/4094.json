@@ -281,5 +281,27 @@
       "user": "Korni",
       "when": "2017-05-06 18:04:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "DrFlay",
+      "when": "2015-02-20 15:13:00",
+      "tags": "1995 Amiga"
+    },
+    {
+      "user": "DrFlay",
+      "when": "2015-02-20 15:13:01",
+      "tags": "1995 Amiga"
+    },
+    {
+      "user": "DrFlay",
+      "when": "2015-02-20 15:13:02",
+      "tags": 1995
+    },
+    {
+      "user": "DrFlay",
+      "when": "2015-02-20 15:13:03",
+      "tags": 1995
+    }
   ]
 }

@@ -403,5 +403,27 @@
       "user": "arrakis",
       "when": "2018-06-07 05:30:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2010-09-06 21:53:00",
+      "tags": "1987 gamemusic"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-01-21 10:14:00",
+      "tags": "1987 gameremix arcade"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2013-01-01 12:16:00",
+      "tags": "1987 Arcade gameport"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-02-15 11:34:00",
+      "tags": "1987 Arcade Gameport gamemusic"
+    }
   ]
 }

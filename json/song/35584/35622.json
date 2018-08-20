@@ -416,5 +416,27 @@
       "user": "arrakis",
       "when": "2018-05-17 10:56:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "lemonade",
+      "when": "2012-04-07 17:17:00",
+      "tags": "2012 Revision"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2012-09-21 16:43:00",
+      "tags": "2012 Revision STEREO-SEPARATION"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2012-10-01 17:59:00",
+      "tags": "2012 Revision stereoseparation"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-11-15 09:33:00",
+      "tags": "2012 Revision stereoseparation chipstyle"
+    }
   ]
 }

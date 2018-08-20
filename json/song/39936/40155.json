@@ -141,5 +141,17 @@
       "user": "serpent",
       "when": "2017-04-04 05:24:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "joes",
+      "when": "2014-04-02 22:02:00",
+      "tags": "atmospheric"
+    },
+    {
+      "user": "serpent",
+      "when": "2017-04-04 05:30:00",
+      "tags": "atmospheric TruckDriversGearChange"
+    }
   ]
 }

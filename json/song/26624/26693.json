@@ -21,5 +21,22 @@
   "artist_ids": [],
   "artist_names": [],
   "votes": [],
-  "requests": []
+  "requests": [],
+  "tag-history": [
+    {
+      "user": "sqrmax",
+      "when": "2013-03-30 06:41:00",
+      "tags": "Gamemusic Turrican"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-30 06:42:00",
+      "tags": ""
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-30 07:00:00",
+      "tags": "Gamemusic Turrican"
+    }
+  ]
 }

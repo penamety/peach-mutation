@@ -449,5 +449,17 @@
       "user": "Arne",
       "when": "2018-06-13 17:28:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2012-11-08 13:47:00",
+      "tags": "animal"
+    },
+    {
+      "user": "Shinobi",
+      "when": "2013-09-16 21:14:00",
+      "tags": "animal SID"
+    }
   ]
 }

@@ -519,5 +519,32 @@
       "user": "HaCKa",
       "when": "2018-05-01 04:27:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "anni",
+      "when": "2011-05-31 07:19:00",
+      "tags": "Remix synthpop italo"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-01-27 13:03:00",
+      "tags": "italo gameremix synthpop"
+    },
+    {
+      "user": "maep",
+      "when": "2013-02-06 13:47:00",
+      "tags": "GameRemix italo synthpop bad_encoder"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 09:15:00",
+      "tags": "needs_reencoding GameRemix italo synthpop"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 09:44:00",
+      "tags": "GameRemix italo synthpop"
+    }
   ]
 }

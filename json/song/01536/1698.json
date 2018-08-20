@@ -547,5 +547,32 @@
       "user": "Arne",
       "when": "2018-05-29 19:01:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "G_Signal",
+      "when": "2010-10-14 23:06:00",
+      "tags": "Epic"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2010-10-14 23:07:00",
+      "tags": "synthpop Epic"
+    },
+    {
+      "user": "prowler",
+      "when": "2012-03-05 16:14:00",
+      "tags": "Epic synthpop 80s"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-05-15 09:40:00",
+      "tags": "80s Epic synthpop coop"
+    },
+    {
+      "user": "Arne",
+      "when": "2016-12-15 18:35:00",
+      "tags": "80s coop Epic synthpop italo"
+    }
   ]
 }

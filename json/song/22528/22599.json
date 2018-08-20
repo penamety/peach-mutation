@@ -598,5 +598,27 @@
       "user": "prowler",
       "when": "2018-05-29 14:16:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2010-05-11 17:02:00",
+      "tags": "EarlyMOD"
+    },
+    {
+      "user": "serpent",
+      "when": "2010-11-05 14:55:00",
+      "tags": "EarlyMOD video"
+    },
+    {
+      "user": "prowler",
+      "when": "2012-07-23 16:42:00",
+      "tags": "EarlyMOD video Speech-Synth"
+    },
+    {
+      "user": "prowler",
+      "when": "2013-11-05 15:21:00",
+      "tags": "EarlyMOD Speech-Synth video amigaspeak"
+    }
   ]
 }

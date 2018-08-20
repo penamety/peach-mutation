@@ -792,5 +792,27 @@
       "user": "Buzzer",
       "when": "2018-05-21 06:33:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2010-04-26 22:53:00",
+      "tags": "heroic"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2011-12-17 19:43:00",
+      "tags": "Heroic 1989"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2011-12-17 19:43:01",
+      "tags": "1989 Heroic gamemusic"
+    },
+    {
+      "user": "Elrinth",
+      "when": "2012-09-25 15:59:00",
+      "tags": "1989 Gamemusic Heroic needs_reencoding"
+    }
   ]
 }

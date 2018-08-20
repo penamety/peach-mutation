@@ -351,5 +351,32 @@
       "user": "oview",
       "when": "2018-05-24 10:05:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "BombmanDK",
+      "when": "2010-07-01 11:50:00",
+      "tags": "Piano Vocals"
+    },
+    {
+      "user": "aaai",
+      "when": "2011-01-05 18:57:00",
+      "tags": "Piano Vocals synth"
+    },
+    {
+      "user": "aaai",
+      "when": "2011-01-05 18:58:00",
+      "tags": "Piano synth Vocals strings"
+    },
+    {
+      "user": "aaai",
+      "when": "2011-01-05 18:59:00",
+      "tags": "Piano strings synth Vocals guitar"
+    },
+    {
+      "user": "aaai",
+      "when": "2011-01-05 18:59:01",
+      "tags": "distortedGuitar Piano strings synth Vocals"
+    }
   ]
 }

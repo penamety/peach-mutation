@@ -157,5 +157,27 @@
       "user": "djrandom",
       "when": "2017-11-21 03:51:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Jerry",
+      "when": "2012-01-04 10:29:00",
+      "tags": "accoustic"
+    },
+    {
+      "user": "Jerry",
+      "when": "2012-01-04 10:29:01",
+      "tags": "Ballad"
+    },
+    {
+      "user": "Jerry",
+      "when": "2012-01-04 10:29:02",
+      "tags": "Ballad Accoustic"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-03-23 09:44:00",
+      "tags": "Ballad Acoustic"
+    }
   ]
 }

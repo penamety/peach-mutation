@@ -366,5 +366,22 @@
       "user": "VodkaBot",
       "when": "2018-05-25 23:00:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "hornpipe2",
+      "when": "2014-05-01 18:55:00",
+      "tags": "ORCHESTRAHIT"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2014-05-01 18:55:01",
+      "tags": "ORCHESTRAHIT cowbell"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-05-26 10:58:00",
+      "tags": "cowbell ORCHESTRAHIT coop"
+    }
   ]
 }

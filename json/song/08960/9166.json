@@ -316,5 +316,27 @@
       "user": "Oldchap",
       "when": "2018-03-18 06:06:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2012-11-29 10:02:00",
+      "tags": "animal"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2015-01-10 20:33:00",
+      "tags": "animal crap food"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2015-01-10 20:33:01",
+      "tags": "animal crap food lol"
+    },
+    {
+      "user": "Cook",
+      "when": "2015-01-12 11:07:00",
+      "tags": "animal food lol"
+    }
   ]
 }

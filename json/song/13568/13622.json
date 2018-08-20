@@ -447,5 +447,22 @@
       "user": "Arne",
       "when": "2018-05-16 18:44:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Arne",
+      "when": "2010-09-20 18:20:00",
+      "tags": "Chiptune"
+    },
+    {
+      "user": "Mystra",
+      "when": "2011-03-18 20:25:00",
+      "tags": "Chiptune country"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-09-28 08:08:00",
+      "tags": "Chiptune country Breakpoint 2007"
+    }
   ]
 }

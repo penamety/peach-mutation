@@ -633,5 +633,27 @@
       "user": "Arne",
       "when": "2018-06-13 17:40:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "maep",
+      "when": "2012-10-21 15:04:00",
+      "tags": "bad_encoder"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 09:05:00",
+      "tags": "needs_reencoding"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 09:57:00",
+      "tags": ""
+    },
+    {
+      "user": "G_Signal",
+      "when": "2013-08-19 15:26:00",
+      "tags": "happy"
+    }
   ]
 }

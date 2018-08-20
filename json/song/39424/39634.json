@@ -362,5 +362,22 @@
       "user": "plc",
       "when": "2018-05-15 10:45:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "hornpipe2",
+      "when": "2017-02-14 17:13:00",
+      "tags": "dance"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2017-02-14 17:16:00",
+      "tags": "dance electro"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2017-10-06 18:16:00",
+      "tags": "dance electro 2013"
+    }
   ]
 }

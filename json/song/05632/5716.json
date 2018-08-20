@@ -329,5 +329,32 @@
       "user": "finrock",
       "when": "2017-04-24 19:55:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2010-09-07 11:11:00",
+      "tags": "Live Racing Remix Gamemusic"
+    },
+    {
+      "user": "pipe",
+      "when": "2011-04-23 23:47:00",
+      "tags": "Live Racing Remix"
+    },
+    {
+      "user": "maep",
+      "when": "2012-01-12 14:50:00",
+      "tags": "Live Racing Remix bad_encoder"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-01-12 17:12:00",
+      "tags": "bad_encoder Live Racing GameRemix Arcade"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-04-24 20:14:00",
+      "tags": "Arcade bad_encoder GameRemix Live Racing superofftune"
+    }
   ]
 }

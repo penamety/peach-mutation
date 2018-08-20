@@ -561,5 +561,32 @@
       "user": "Arne",
       "when": "2018-06-05 17:58:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2014-09-26 08:41:00",
+      "tags": "food Geography Compowinner"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2014-12-08 22:05:00",
+      "tags": "Compowinner food Geography NectaScene"
+    },
+    {
+      "user": "jxx",
+      "when": "2016-02-26 23:09:00",
+      "tags": "Compowinner food Geography NectaScene Ableton"
+    },
+    {
+      "user": "BombmanDK",
+      "when": "2016-07-18 14:52:00",
+      "tags": "Ableton Compowinner food Geography NectaScene GuitarSolo"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-09-06 20:24:00",
+      "tags": "Ableton Compowinner food Geography GuitarSolo NectaScene Popcorn"
+    }
   ]
 }

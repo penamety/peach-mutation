@@ -160,5 +160,12 @@
       "user": "plc",
       "when": "2017-05-13 11:10:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "joes",
+      "when": "2014-05-20 12:06:00",
+      "tags": "OldSchool Blues"
+    }
   ]
 }

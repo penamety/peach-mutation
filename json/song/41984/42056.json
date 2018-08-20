@@ -432,5 +432,17 @@
       "user": "plc",
       "when": "2018-05-23 15:00:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2015-05-25 17:26:00",
+      "tags": "shinostyle"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2015-12-04 16:28:00",
+      "tags": ""
+    }
   ]
 }

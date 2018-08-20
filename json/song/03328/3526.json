@@ -809,5 +809,32 @@
       "user": "Nosferatu",
       "when": "2018-06-13 10:14:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "prowler",
+      "when": "2010-07-05 20:32:00",
+      "tags": "Guitars Mellow Relaxing"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-03-21 09:42:00",
+      "tags": "Guitar Mellow Relaxing"
+    },
+    {
+      "user": "maep",
+      "when": "2012-12-14 15:03:00",
+      "tags": "Guitar Mellow Relaxing bad_encoder"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 09:09:00",
+      "tags": "needs_reencoding Guitar Mellow Relaxing"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 10:22:00",
+      "tags": "Guitar Mellow Relaxing"
+    }
   ]
 }

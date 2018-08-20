@@ -165,5 +165,32 @@
       "user": "mirrorbird",
       "when": "2018-06-16 04:18:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "sqrmax",
+      "when": "2013-04-02 09:53:00",
+      "tags": "needs_reencoding"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-02 10:01:00",
+      "tags": "verify_reencoding"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-02 13:30:00",
+      "tags": ""
+    },
+    {
+      "user": "serpent",
+      "when": "2017-01-17 05:31:00",
+      "tags": "TruckDriversGearChange"
+    },
+    {
+      "user": "serpent",
+      "when": "2017-01-17 05:32:00",
+      "tags": ""
+    }
   ]
 }

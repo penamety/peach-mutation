@@ -786,5 +786,32 @@
       "user": "SampL",
       "when": "2018-06-12 06:31:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Mystra",
+      "when": "2011-07-20 13:34:00",
+      "tags": "TheGathering 1991"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-02-27 10:37:00",
+      "tags": "1991 TheGathering food"
+    },
+    {
+      "user": "DrFlay",
+      "when": "2014-03-01 17:00:00",
+      "tags": "1991 food TheGathering Demo Amiga"
+    },
+    {
+      "user": "DrFlay",
+      "when": "2014-03-01 17:01:00",
+      "tags": "1991 Amiga Intro TheGathering"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-03-10 14:26:00",
+      "tags": "1991 Amiga Intro TheGathering food"
+    }
   ]
 }

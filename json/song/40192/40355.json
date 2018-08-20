@@ -213,5 +213,22 @@
       "user": "Accidental",
       "when": "2017-12-25 14:13:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2014-04-08 13:08:00",
+      "tags": "food"
+    },
+    {
+      "user": "serpent",
+      "when": "2014-04-08 13:17:00",
+      "tags": "food NorwegianSpeak"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-04-08 13:19:00",
+      "tags": "food NorwegianSpeak cover"
+    }
   ]
 }

@@ -516,5 +516,32 @@
       "user": "maep",
       "when": "2018-04-29 22:48:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2010-11-29 20:24:00",
+      "tags": "video"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2011-08-05 19:01:00",
+      "tags": "video Record"
+    },
+    {
+      "user": "maep",
+      "when": "2011-09-07 21:13:00",
+      "tags": "Record video Demo"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-03-27 22:12:00",
+      "tags": "Demo Record video Dub lounge"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-04-24 18:05:00",
+      "tags": "Demo Dub lounge Record video Assembly 2001"
+    }
   ]
 }

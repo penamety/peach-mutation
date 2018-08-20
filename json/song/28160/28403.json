@@ -538,5 +538,32 @@
       "user": "SPACE",
       "when": "2018-04-06 06:20:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "anni",
+      "when": "2010-11-03 13:51:00",
+      "tags": "samples video"
+    },
+    {
+      "user": "Mystra",
+      "when": "2011-12-04 14:19:00",
+      "tags": "samples video Breakpoint 2004"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2012-02-15 19:14:00",
+      "tags": "2004 Breakpoint samples video crap"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-26 06:12:00",
+      "tags": "2004 Breakpoint samples video Avant-garde Experimental"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-04-19 11:19:00",
+      "tags": "2004 Avant-garde Breakpoint Experimental samples video Manamana"
+    }
   ]
 }

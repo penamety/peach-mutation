@@ -301,5 +301,27 @@
       "user": "Oldchap",
       "when": "2018-05-09 02:01:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "dodge",
+      "when": "2011-02-03 15:52:00",
+      "tags": "cover"
+    },
+    {
+      "user": "anni",
+      "when": "2011-05-23 16:32:00",
+      "tags": "cover Remake"
+    },
+    {
+      "user": "anni",
+      "when": "2013-03-19 21:59:00",
+      "tags": "cover Remake st-01 st-02 st-03"
+    },
+    {
+      "user": "anni",
+      "when": "2013-03-19 21:59:01",
+      "tags": "cover Remake st-01 st-02 st-03 st-04 st-XX"
+    }
   ]
 }

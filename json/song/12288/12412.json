@@ -459,5 +459,32 @@
       "user": "arrakis",
       "when": "2018-05-30 15:25:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "anni",
+      "when": "2010-11-11 09:13:00",
+      "tags": "food"
+    },
+    {
+      "user": "lemonade",
+      "when": "2011-05-03 06:48:00",
+      "tags": "2009 food"
+    },
+    {
+      "user": "lemonade",
+      "when": "2011-06-22 08:43:00",
+      "tags": "2009 food Nectarine"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2011-06-23 15:38:00",
+      "tags": "2009 food compo nectarine nectascene"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-02-06 14:38:00",
+      "tags": "2009 compo food NectaScene"
+    }
   ]
 }

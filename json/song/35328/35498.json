@@ -891,5 +891,27 @@
       "user": "plc",
       "when": "2018-06-14 09:55:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2012-03-19 16:03:00",
+      "tags": "gameremix"
+    },
+    {
+      "user": "Elrinth",
+      "when": "2012-05-07 16:11:00",
+      "tags": "GameRemix guitar"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-10-22 10:46:00",
+      "tags": "GameRemix Guitar Geography"
+    },
+    {
+      "user": "Whitelabel",
+      "when": "2016-03-16 16:02:00",
+      "tags": "GameRemix Geography Guitar cover"
+    }
   ]
 }

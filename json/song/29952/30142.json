@@ -309,5 +309,27 @@
       "user": "Arne",
       "when": "2018-04-24 18:27:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "lemonade",
+      "when": "2011-05-03 06:48:00",
+      "tags": 2010
+    },
+    {
+      "user": "lemonade",
+      "when": "2011-06-22 08:43:00",
+      "tags": "2010 Nectarine"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2011-06-23 15:59:00",
+      "tags": "2010 nectarine compo nectascene"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-02-06 14:39:00",
+      "tags": "2010 compo NectaScene"
+    }
   ]
 }

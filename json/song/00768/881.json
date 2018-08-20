@@ -316,5 +316,27 @@
       "user": "Nosferatu",
       "when": "2018-06-06 12:11:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Yohabro",
+      "when": "2011-04-06 00:42:00",
+      "tags": "Jazz"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2011-07-12 15:51:00",
+      "tags": "Jazz 1999"
+    },
+    {
+      "user": "maep",
+      "when": "2012-04-27 13:56:00",
+      "tags": "1999 Jazz bad_encoder"
+    },
+    {
+      "user": "maep",
+      "when": "2013-02-02 14:22:00",
+      "tags": "1999 Jazz"
+    }
   ]
 }

@@ -536,5 +536,27 @@
       "user": "NerdN",
       "when": "2018-04-06 12:09:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "lemonade",
+      "when": "2010-04-26 20:09:00",
+      "tags": "Gamemusic"
+    },
+    {
+      "user": "dodge",
+      "when": "2011-02-18 14:19:00",
+      "tags": "Gamemusic C64 SID"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-30 06:44:00",
+      "tags": "C64 Gamemusic SID Turrican"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-05-27 14:33:00",
+      "tags": "C64 Gamemusic SID Turrican coop"
+    }
   ]
 }

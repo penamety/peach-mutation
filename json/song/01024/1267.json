@@ -886,5 +886,27 @@
       "user": "plc",
       "when": "2018-06-04 10:49:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "prowler",
+      "when": "2010-06-12 13:26:00",
+      "tags": "1988 EarlyMOD"
+    },
+    {
+      "user": "serpent",
+      "when": "2010-06-19 15:58:00",
+      "tags": ""
+    },
+    {
+      "user": "serpent",
+      "when": "2010-11-17 08:29:00",
+      "tags": "video"
+    },
+    {
+      "user": "DrFlay",
+      "when": "2014-02-28 17:34:00",
+      "tags": "video Amiga 1989"
+    }
   ]
 }

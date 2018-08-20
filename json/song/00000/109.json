@@ -463,5 +463,27 @@
       "user": "Nosferatu",
       "when": "2018-05-09 13:44:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2010-11-19 13:23:00",
+      "tags": "video"
+    },
+    {
+      "user": "Mystra",
+      "when": "2011-02-15 09:15:00",
+      "tags": "video StolenData"
+    },
+    {
+      "user": "dodge",
+      "when": "2011-02-15 11:08:00",
+      "tags": "StolenData video Chiptune"
+    },
+    {
+      "user": "dodge",
+      "when": "2011-03-25 11:59:00",
+      "tags": "Chiptune StolenData video Amiga"
+    }
   ]
 }

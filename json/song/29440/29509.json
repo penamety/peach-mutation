@@ -573,5 +573,32 @@
       "user": "VodkaBot",
       "when": "2018-06-09 22:04:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "aaai",
+      "when": "2010-09-26 20:50:00",
+      "tags": "vocals"
+    },
+    {
+      "user": "maep",
+      "when": "2010-12-04 10:16:00",
+      "tags": "Vocals SID"
+    },
+    {
+      "user": "pipe",
+      "when": "2011-04-26 01:22:00",
+      "tags": "Vocals"
+    },
+    {
+      "user": "pipe",
+      "when": "2011-04-26 01:22:01",
+      "tags": "Vocals pop"
+    },
+    {
+      "user": "anni",
+      "when": "2011-10-24 23:05:00",
+      "tags": "Pop Vocals OutOfTune"
+    }
   ]
 }

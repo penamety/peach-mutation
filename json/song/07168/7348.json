@@ -1239,5 +1239,32 @@
       "user": "Buzzer",
       "when": "2018-06-04 07:00:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2010-05-29 13:56:00",
+      "tags": ""
+    },
+    {
+      "user": "dodge",
+      "when": "2010-12-16 15:44:00",
+      "tags": "Amiga demotune"
+    },
+    {
+      "user": "ZTube",
+      "when": "2011-03-07 13:29:00",
+      "tags": "Amiga"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-02-05 08:13:00",
+      "tags": "Amiga classic"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2013-12-18 12:58:00",
+      "tags": "Amiga classic Repetitive"
+    }
   ]
 }

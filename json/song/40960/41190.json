@@ -465,5 +465,27 @@
       "user": "VodkaBot",
       "when": "2018-06-16 07:08:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "blippyJon",
+      "when": "2016-10-06 12:43:00",
+      "tags": "HasNoTag"
+    },
+    {
+      "user": "blippyJon",
+      "when": "2016-10-06 12:43:01",
+      "tags": "HasNoTag + ItDoesNow"
+    },
+    {
+      "user": "blippyJon",
+      "when": "2016-10-06 12:43:02",
+      "tags": "HasNoTag ItDoesNow Salty"
+    },
+    {
+      "user": "BombmanDK",
+      "when": "2017-01-11 08:31:00",
+      "tags": "Salty"
+    }
   ]
 }

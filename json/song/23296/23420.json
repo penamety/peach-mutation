@@ -509,5 +509,32 @@
       "user": "VodkaBot",
       "when": "2018-05-13 11:14:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "aaai",
+      "when": "2010-12-29 02:24:00",
+      "tags": "instrumental"
+    },
+    {
+      "user": "maep",
+      "when": "2011-09-30 02:14:00",
+      "tags": "Instrumental midi"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-03-07 12:31:00",
+      "tags": "Instrumental midi gameremix"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-04-23 08:26:00",
+      "tags": "GameRemix Instrumental midi boring"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-04-23 08:43:00",
+      "tags": "boring GameRemix Instrumental midi long"
+    }
   ]
 }

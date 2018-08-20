@@ -456,5 +456,27 @@
       "user": "Nosferatu",
       "when": "2018-06-05 12:12:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2010-05-14 08:37:00",
+      "tags": "Funk"
+    },
+    {
+      "user": "maep",
+      "when": "2012-10-28 15:15:00",
+      "tags": "Funk bad_encoder"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 09:08:00",
+      "tags": "needs_reencoding Funk"
+    },
+    {
+      "user": "ViThor",
+      "when": "2017-07-16 20:15:00",
+      "tags": "Funk needs_reencoding slapbass"
+    }
   ]
 }

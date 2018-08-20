@@ -741,5 +741,27 @@
       "user": "arrakis",
       "when": "2018-06-09 13:13:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2010-06-30 23:57:00",
+      "tags": "long"
+    },
+    {
+      "user": "ulrikkold",
+      "when": "2012-03-08 12:57:00",
+      "tags": "long 10minPlus"
+    },
+    {
+      "user": "crrr",
+      "when": "2012-05-11 01:36:00",
+      "tags": "10minPlus long Sleepy"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-12 06:12:00",
+      "tags": "long Sleepy"
+    }
   ]
 }

@@ -17,5 +17,17 @@
   "artist_ids": [],
   "artist_names": [],
   "votes": [],
-  "requests": []
+  "requests": [],
+  "tag-history": [
+    {
+      "user": "Yohabro",
+      "when": "2012-06-23 17:07:00",
+      "tags": "SongWithoutArtist"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2012-06-23 17:07:01",
+      "tags": ""
+    }
+  ]
 }

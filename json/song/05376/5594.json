@@ -373,5 +373,17 @@
       "user": "plc",
       "when": "2018-05-18 19:37:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2013-07-09 13:33:00",
+      "tags": "funk"
+    },
+    {
+      "user": "VodkaBot",
+      "when": "2017-03-25 17:39:00",
+      "tags": "Funk TruckDriversGearChange"
+    }
   ]
 }

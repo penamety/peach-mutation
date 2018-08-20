@@ -657,5 +657,17 @@
       "user": "Arne",
       "when": "2018-06-13 17:05:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2013-11-12 10:13:00",
+      "tags": "Geography"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-09-04 13:26:00",
+      "tags": "Geography coop"
+    }
   ]
 }

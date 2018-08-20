@@ -338,5 +338,17 @@
       "user": "prowler",
       "when": "2018-04-24 21:00:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "prowler",
+      "when": "2010-07-19 19:16:00",
+      "tags": "sinewave"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2011-06-24 18:31:00",
+      "tags": "Minimal one_sample"
+    }
   ]
 }

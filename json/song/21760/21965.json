@@ -417,5 +417,12 @@
       "user": "plc",
       "when": "2018-05-14 19:30:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "pipe",
+      "when": "2017-06-11 16:35:00",
+      "tags": "Epic technically-awesome"
+    }
   ]
 }

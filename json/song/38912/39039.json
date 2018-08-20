@@ -19,5 +19,17 @@
   "artist_ids": [],
   "artist_names": [],
   "votes": [],
-  "requests": []
+  "requests": [],
+  "tag-history": [
+    {
+      "user": "Yohabro",
+      "when": "2013-07-12 16:14:00",
+      "tags": "2013 Edison"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2013-07-12 18:32:00",
+      "tags": ""
+    }
+  ]
 }

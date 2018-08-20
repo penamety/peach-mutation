@@ -1055,5 +1055,32 @@
       "user": "plc",
       "when": "2018-06-09 15:13:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "ViThor",
+      "when": "2010-12-29 06:43:00",
+      "tags": "2010 demo Farbrausch tUM video Windows"
+    },
+    {
+      "user": "Rumpel",
+      "when": "2011-02-25 16:58:00",
+      "tags": "2010 Demo Farbrausch tUM video Windows SceneOrgAwards"
+    },
+    {
+      "user": "Rumpel",
+      "when": "2011-02-25 21:02:00",
+      "tags": "2010 Demo Farbrausch SceneOrgAwards tUM video Windows SceneOrgAwards"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-18 04:32:00",
+      "tags": "2010 Demo  SceneOrgAwards tUM video Windows"
+    },
+    {
+      "user": "jxx",
+      "when": "2016-02-26 23:07:00",
+      "tags": "2010 Demo SceneOrgAwards tUM video Windows Ableton"
+    }
   ]
 }

@@ -382,5 +382,27 @@
       "user": "Rage",
       "when": "2018-03-02 17:55:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "maep",
+      "when": "2011-11-13 13:12:00",
+      "tags": "cover"
+    },
+    {
+      "user": "maep",
+      "when": "2011-11-13 13:13:00",
+      "tags": "cover 80s"
+    },
+    {
+      "user": "serpent",
+      "when": "2014-03-16 16:05:00",
+      "tags": "80s cover TV"
+    },
+    {
+      "user": "DrFlay",
+      "when": "2015-02-18 13:42:00",
+      "tags": "80s cover TV 1990 Amiga"
+    }
   ]
 }

@@ -190,5 +190,27 @@
       "when": "2018-04-24 02:43:00"
     }
   ],
-  "requests": []
+  "requests": [],
+  "tag-history": [
+    {
+      "user": "Saga_Musix",
+      "when": "2010-06-24 21:01:00",
+      "tags": "Mekka&Symposium 2002 demo pc 64k"
+    },
+    {
+      "user": "Saga_Musix",
+      "when": "2010-10-18 15:00:00",
+      "tags": "2002 64k Demo Mekka&Symposium Windows"
+    },
+    {
+      "user": "Saga_Musix",
+      "when": "2010-10-22 00:34:00",
+      "tags": "2002 64k Mekka&Symposium Windows"
+    },
+    {
+      "user": "serpent",
+      "when": "2010-11-11 09:18:00",
+      "tags": "2002 64k Mekka&Symposium Windows video"
+    }
+  ]
 }

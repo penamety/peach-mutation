@@ -788,5 +788,17 @@
       "user": "plc",
       "when": "2018-06-09 15:29:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2011-01-12 20:37:00",
+      "tags": "video"
+    },
+    {
+      "user": "pipe",
+      "when": "2011-04-30 14:39:00",
+      "tags": "video demo 1991"
+    }
   ]
 }

@@ -239,5 +239,32 @@
       "user": "Nosferatu",
       "when": "2018-03-19 20:46:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2010-06-06 17:11:00",
+      "tags": "EarlyMOD"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2010-06-07 19:17:00",
+      "tags": "EarlyMOD 1988"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2010-06-26 23:28:00",
+      "tags": "1988 EarlyMOD ChiptuneCover"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-06-20 12:00:00",
+      "tags": "1988 ChiptuneCover EarlyMOD DepecheMode"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-05-23 15:24:00",
+      "tags": "1988 DepecheMode EarlyMOD"
+    }
   ]
 }

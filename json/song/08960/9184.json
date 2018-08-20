@@ -427,5 +427,27 @@
       "user": "HappyDude",
       "when": "2018-05-27 01:03:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2012-03-23 08:59:00",
+      "tags": "chipstyle"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-10-12 09:33:00",
+      "tags": "chipstyle food"
+    },
+    {
+      "user": "serpent",
+      "when": "2014-10-23 12:39:00",
+      "tags": "chipstyle food video"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-03-30 07:14:00",
+      "tags": "chipstyle food video BigChipcompo"
+    }
   ]
 }

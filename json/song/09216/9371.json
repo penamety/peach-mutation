@@ -613,5 +613,27 @@
       "user": "VodkaBot",
       "when": "2018-01-23 08:24:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "pipe",
+      "when": "2011-05-07 03:37:00",
+      "tags": "italo"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-08-26 15:19:00",
+      "tags": "italo animal"
+    },
+    {
+      "user": "serpent",
+      "when": "2015-07-21 10:00:00",
+      "tags": "animal italo OutOfSync"
+    },
+    {
+      "user": "pipe",
+      "when": "2016-02-05 11:54:00",
+      "tags": "italo OutOfSync"
+    }
   ]
 }

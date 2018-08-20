@@ -660,5 +660,27 @@
       "user": "BBB",
       "when": "2018-05-31 13:24:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Mystra",
+      "when": "2010-10-22 16:46:00",
+      "tags": "TheParty 1991"
+    },
+    {
+      "user": "ulrikkold",
+      "when": "2012-03-22 10:45:00",
+      "tags": "1991 TheParty doskfunk Funky"
+    },
+    {
+      "user": "joes",
+      "when": "2014-12-26 16:49:00",
+      "tags": "1991 doskfunk Funky TheParty disco"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-02-24 17:03:00",
+      "tags": "1991 disco Funky TheParty"
+    }
   ]
 }

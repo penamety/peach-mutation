@@ -373,5 +373,27 @@
       "user": "brm_",
       "when": "2018-03-15 05:20:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Mystra",
+      "when": "2013-04-15 08:01:00",
+      "tags": "TheGathering 1997"
+    },
+    {
+      "user": "prowler",
+      "when": "2013-07-19 08:39:00",
+      "tags": "1997 TheGathering video"
+    },
+    {
+      "user": "chellomere",
+      "when": "2013-09-13 08:48:00",
+      "tags": "1997 TheGathering video needs_reencoding"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-06-10 10:31:00",
+      "tags": "1997 needs_reencoding TheGathering video coop"
+    }
   ]
 }

@@ -628,5 +628,22 @@
       "user": "Arne",
       "when": "2018-06-07 17:36:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2012-03-17 18:21:00",
+      "tags": "happy reggae"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-03-17 18:21:01",
+      "tags": "happy Reggae adlib"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-03-17 18:21:02",
+      "tags": "adlib happy Reggae chiptune"
+    }
   ]
 }

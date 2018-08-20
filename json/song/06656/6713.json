@@ -55,5 +55,17 @@
       "when": "2018-03-12 22:00:00"
     }
   ],
-  "requests": []
+  "requests": [],
+  "tag-history": [
+    {
+      "user": "cederom",
+      "when": "2011-06-06 03:00:00",
+      "tags": "dune, adlib, spice opera"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-24 17:24:00",
+      "tags": "adlib Dune opera"
+    }
+  ]
 }

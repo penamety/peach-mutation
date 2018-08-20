@@ -390,5 +390,22 @@
       "user": "prowler",
       "when": "2018-05-29 10:18:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2013-03-08 11:35:00",
+      "tags": "animal"
+    },
+    {
+      "user": "prowler",
+      "when": "2013-06-28 12:37:00",
+      "tags": "animal Ninja"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-05-24 19:45:00",
+      "tags": "animal Ninja GameRemix"
+    }
   ]
 }

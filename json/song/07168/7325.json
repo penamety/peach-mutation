@@ -392,5 +392,27 @@
       "user": "pipe",
       "when": "2018-06-09 21:00:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Elrinth",
+      "when": "2012-05-23 14:18:00",
+      "tags": "st-XX"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2012-05-23 14:19:00",
+      "tags": "cowbell samples"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-02-11 14:56:00",
+      "tags": "cowbell samples animal"
+    },
+    {
+      "user": "NerdN",
+      "when": "2014-02-11 15:27:00",
+      "tags": "animal cowbell samples shout"
+    }
   ]
 }

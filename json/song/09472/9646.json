@@ -962,5 +962,27 @@
       "user": "VodkaBot",
       "when": "2018-06-03 14:21:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "aaai",
+      "when": "2010-05-31 23:42:00",
+      "tags": "lyrics"
+    },
+    {
+      "user": "aaai",
+      "when": "2010-05-31 23:42:01",
+      "tags": "Lyrics vocals"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2011-08-08 16:19:00",
+      "tags": "Lyrics Vocals chiptalk"
+    },
+    {
+      "user": "d_vibe",
+      "when": "2012-06-07 11:01:00",
+      "tags": "chiptalk Lyrics Vocals OutOfTune"
+    }
   ]
 }

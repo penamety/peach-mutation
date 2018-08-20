@@ -128,5 +128,22 @@
       "user": "Accidental",
       "when": "2017-02-12 12:35:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2012-09-25 13:00:00",
+      "tags": "Short"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-09-25 13:00:01",
+      "tags": "Short"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-02-03 12:59:00",
+      "tags": "Short Gamemusic"
+    }
   ]
 }

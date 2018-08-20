@@ -43,5 +43,27 @@
       "when": "2017-10-22 20:38:00"
     }
   ],
-  "requests": []
+  "requests": [],
+  "tag-history": [
+    {
+      "user": "Accidental",
+      "when": "2016-12-09 15:35:00",
+      "tags": 2008
+    },
+    {
+      "user": "Accidental",
+      "when": "2016-12-09 15:35:01",
+      "tags": "2008 cover Remix"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-03-04 17:08:00",
+      "tags": "2008 cover Remix Vocals"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-03-04 17:11:00",
+      "tags": "2008 cover Remix Vocals Politics"
+    }
+  ]
 }

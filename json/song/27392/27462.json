@@ -258,5 +258,27 @@
       "user": "Neobyte",
       "when": "2018-01-19 21:11:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "lemonade",
+      "when": "2011-05-03 07:00:00",
+      "tags": 2009
+    },
+    {
+      "user": "lemonade",
+      "when": "2011-06-22 08:44:00",
+      "tags": "2009 nectarine"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2011-06-23 15:45:00",
+      "tags": "2009 nectarine compo nectascene"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-02-06 14:32:00",
+      "tags": "2009 compo NectaScene"
+    }
   ]
 }

@@ -356,5 +356,27 @@
       "user": "franz_koopa",
       "when": "2018-06-15 21:17:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2010-06-12 10:31:00",
+      "tags": 1989
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2010-06-16 12:58:00",
+      "tags": "1989 intro"
+    },
+    {
+      "user": "serpent",
+      "when": "2010-06-18 14:47:00",
+      "tags": "EarlyMOD 1988"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-01-21 09:21:00",
+      "tags": "1988 EarlyMOD intro"
+    }
   ]
 }

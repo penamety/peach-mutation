@@ -481,5 +481,32 @@
       "user": "prowler",
       "when": "2018-05-24 09:51:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Spiral",
+      "when": "2012-12-21 08:14:00",
+      "tags": "offkey"
+    },
+    {
+      "user": "Spiral",
+      "when": "2012-12-21 08:14:01",
+      "tags": "offkey off-key"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-12 10:20:00",
+      "tags": "OutOfTune"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-12 10:21:00",
+      "tags": "off-key"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-12 10:21:01",
+      "tags": "OutOfTune"
+    }
   ]
 }

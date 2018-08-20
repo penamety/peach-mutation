@@ -329,5 +329,27 @@
       "user": "Nosferatu",
       "when": "2018-06-11 08:54:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2012-01-12 13:52:00",
+      "tags": "1991 demo"
+    },
+    {
+      "user": "prowler",
+      "when": "2012-01-14 09:53:00",
+      "tags": "1991 Demo video"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-04-05 15:33:00",
+      "tags": "1991 Demo video samples"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-04-05 15:33:01",
+      "tags": "1991 Demo samples video ORCHESTRAHIT"
+    }
   ]
 }

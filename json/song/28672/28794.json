@@ -488,5 +488,32 @@
       "user": "franz_koopa",
       "when": "2018-05-01 10:24:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "rams",
+      "when": "2010-05-04 12:49:00",
+      "tags": "zneek"
+    },
+    {
+      "user": "dodge",
+      "when": "2010-11-26 15:22:00",
+      "tags": "spokenword uptempo"
+    },
+    {
+      "user": "dodge",
+      "when": "2010-11-26 15:22:01",
+      "tags": "spokenword uptempo GermanSpeak"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 12:41:00",
+      "tags": "GermanSpeak Speak uptempo"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-24 18:04:00",
+      "tags": "GermanSpeak Speak fast"
+    }
   ]
 }

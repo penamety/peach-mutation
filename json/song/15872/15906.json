@@ -254,5 +254,22 @@
       "user": "djrandom",
       "when": "2018-05-21 12:10:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Latis",
+      "when": "2010-06-28 23:13:00",
+      "tags": "long"
+    },
+    {
+      "user": "maep",
+      "when": "2013-03-27 18:06:00",
+      "tags": "long bad_encoder"
+    },
+    {
+      "user": "maep",
+      "when": "2013-03-27 18:12:00",
+      "tags": "\\long"
+    }
   ]
 }

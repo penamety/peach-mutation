@@ -242,5 +242,17 @@
       "user": "franz_koopa",
       "when": "2018-06-15 17:01:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2015-03-15 21:22:00",
+      "tags": 1986
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2015-03-15 21:22:01",
+      "tags": "bleepy 1986"
+    }
   ]
 }

@@ -370,5 +370,17 @@
       "user": "plc",
       "when": "2018-06-12 20:00:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "ViThor",
+      "when": "2015-03-29 15:26:00",
+      "tags": "long"
+    },
+    {
+      "user": "jxx",
+      "when": "2016-02-26 23:43:00",
+      "tags": "long Renoise"
+    }
   ]
 }

@@ -632,5 +632,27 @@
       "user": "Buzzer",
       "when": "2018-06-06 05:21:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "SoDa7",
+      "when": "2015-08-10 12:30:00",
+      "tags": "EarlyMOD"
+    },
+    {
+      "user": "SoDa7",
+      "when": "2015-08-10 12:31:00",
+      "tags": "EarlyMOD 1989"
+    },
+    {
+      "user": "serpent",
+      "when": "2016-05-22 08:12:00",
+      "tags": 1989
+    },
+    {
+      "user": "lroy",
+      "when": "2016-12-22 09:55:00",
+      "tags": "1989 pachelbel"
+    }
   ]
 }

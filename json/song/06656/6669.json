@@ -170,5 +170,32 @@
       "user": "arrakis",
       "when": "2018-02-03 15:00:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "hornpipe2",
+      "when": "2012-08-27 19:13:00",
+      "tags": "static"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-24 17:30:00",
+      "tags": "noise"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-21 05:39:00",
+      "tags": "noise needs_reencoding"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-21 05:45:00",
+      "tags": "noise"
+    },
+    {
+      "user": "jxx",
+      "when": "2016-03-11 04:41:00",
+      "tags": "noise Assembly 1996"
+    }
   ]
 }

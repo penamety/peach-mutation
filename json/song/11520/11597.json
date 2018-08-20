@@ -479,5 +479,27 @@
       "user": "epso",
       "when": "2018-05-18 13:50:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "hornpipe2",
+      "when": "2011-10-11 17:00:00",
+      "tags": "polka"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-03-16 17:57:00",
+      "tags": "polka gameremix"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-03-16 17:58:00",
+      "tags": "GameRemix polka platformer merry"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-03-19 11:26:00",
+      "tags": "GameRemix Merry Platformer polka animal"
+    }
   ]
 }

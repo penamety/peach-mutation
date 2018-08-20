@@ -327,5 +327,17 @@
       "user": "Arne",
       "when": "2017-11-20 20:10:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "maep",
+      "when": "2013-06-13 12:08:00",
+      "tags": "bad_encoder"
+    },
+    {
+      "user": "Cook",
+      "when": "2015-07-09 14:40:00",
+      "tags": "bad_encoder coop"
+    }
   ]
 }

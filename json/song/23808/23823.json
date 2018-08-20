@@ -315,5 +315,27 @@
       "user": "Aardvark",
       "when": "2018-03-10 03:13:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2010-12-11 17:40:00",
+      "tags": "video"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-03-07 13:25:00",
+      "tags": "video oldskool Guitars"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-03-20 11:08:00",
+      "tags": "Guitars video OldSchool"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-03-21 11:58:00",
+      "tags": "Guitar OldSchool video"
+    }
   ]
 }

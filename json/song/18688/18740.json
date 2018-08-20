@@ -458,5 +458,27 @@
       "user": "maep",
       "when": "2018-04-29 20:43:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Mystra",
+      "when": "2011-12-07 08:54:00",
+      "tags": "Jazz"
+    },
+    {
+      "user": "maep",
+      "when": "2012-05-04 17:09:00",
+      "tags": "Jazz bad_encoder"
+    },
+    {
+      "user": "maep",
+      "when": "2012-05-04 17:12:00",
+      "tags": "bad_encoder Jazz TheParty"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-01-10 08:43:00",
+      "tags": "bad_encoder Jazz TheParty Dream"
+    }
   ]
 }

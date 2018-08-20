@@ -349,5 +349,27 @@
       "user": "prowler",
       "when": "2017-10-15 13:32:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2010-11-04 11:16:00",
+      "tags": "video"
+    },
+    {
+      "user": "dodge",
+      "when": "2010-11-18 13:56:00",
+      "tags": "video C64 SID"
+    },
+    {
+      "user": "dodge",
+      "when": "2011-02-15 16:03:00",
+      "tags": "C64 SID video demotune"
+    },
+    {
+      "user": "ZTube",
+      "when": "2011-03-07 13:22:00",
+      "tags": "C64 SID video"
+    }
   ]
 }

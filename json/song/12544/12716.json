@@ -835,5 +835,32 @@
       "user": "Arne",
       "when": "2018-05-30 17:18:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "maep",
+      "when": "2013-01-25 15:25:00",
+      "tags": "Chiptune cover Energetic happy Upbeat bad_stereo"
+    },
+    {
+      "user": "prowler",
+      "when": "2013-02-26 11:55:00",
+      "tags": "bad_stereo Chiptune cover Energetic happy Upbeat Prowler-upload"
+    },
+    {
+      "user": "prowler",
+      "when": "2013-02-27 15:50:00",
+      "tags": "bad_stereo Chiptune cover Energetic happy Upbeat"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 11:00:00",
+      "tags": "stereoseparation Chiptune cover Energetic happy Upbeat"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2013-07-31 16:41:00",
+      "tags": "Chiptunecover Energetic happy stereoseparation Upbeat"
+    }
   ]
 }

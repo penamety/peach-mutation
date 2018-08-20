@@ -911,5 +911,32 @@
       "user": "Brm",
       "when": "2018-05-01 02:35:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2014-03-17 10:48:00",
+      "tags": "SpaceShooter video gamemusic"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-03-17 10:49:00",
+      "tags": "Gamemusic SpaceShooter video CommercialSamples"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2014-07-04 07:16:00",
+      "tags": "CommercialSamples Gamemusic SpaceShooter video remix"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-06-09 09:07:00",
+      "tags": "CommercialSamples Gamemusic Remix SpaceShooter video ayeah"
+    },
+    {
+      "user": "NerdN",
+      "when": "2017-04-04 12:20:00",
+      "tags": "ayeah CommercialSamples Gamemusic Remix SpaceShooter video checkthisout"
+    }
   ]
 }

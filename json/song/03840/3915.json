@@ -1356,5 +1356,32 @@
       "user": "Phlubby_Gnome",
       "when": "2018-06-13 23:30:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2010-11-02 10:51:00",
+      "tags": "video"
+    },
+    {
+      "user": "pipe",
+      "when": "2011-04-29 18:41:00",
+      "tags": "video 1993 amiga Demo"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-11-22 12:08:00",
+      "tags": "1993 Amiga Demo video Dream"
+    },
+    {
+      "user": "maep",
+      "when": "2012-12-12 17:17:00",
+      "tags": "1993 Amiga Demo Dream video bad_encoder"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 09:08:00",
+      "tags": "1993 Amiga needs_reencoding Demo Dream video"
+    }
   ]
 }

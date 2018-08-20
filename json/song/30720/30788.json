@@ -395,5 +395,22 @@
       "user": "Antibyte",
       "when": "2018-06-03 19:34:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "BSC",
+      "when": "2010-11-11 14:34:00",
+      "tags": "Chiptune, ChiptuneCover, C64, SID, Amstrad, CPC"
+    },
+    {
+      "user": "dodge",
+      "when": "2010-11-25 15:52:00",
+      "tags": "amstrad Chiptune ChiptuneCover cpc YM"
+    },
+    {
+      "user": "dodge",
+      "when": "2010-11-25 15:53:00",
+      "tags": "amstrad C64 Chiptune ChiptuneCover cpc YM"
+    }
   ]
 }

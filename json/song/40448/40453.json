@@ -373,5 +373,27 @@
       "user": "plc",
       "when": "2018-06-17 09:32:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2014-05-18 10:30:00",
+      "tags": "Stream 2014"
+    },
+    {
+      "user": "serpent",
+      "when": "2014-05-18 19:30:00",
+      "tags": "2014 Stream video"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-06-12 10:30:00",
+      "tags": "2014 Stream video Geography"
+    },
+    {
+      "user": "jxx",
+      "when": "2016-02-26 23:44:00",
+      "tags": "2014 Geography Stream video Renoise"
+    }
   ]
 }

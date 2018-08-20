@@ -360,5 +360,22 @@
       "user": "Rapture",
       "when": "2018-05-29 01:19:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Mystra",
+      "when": "2011-08-03 20:02:00",
+      "tags": "Jazz"
+    },
+    {
+      "user": "Cook",
+      "when": "2015-09-24 13:30:00",
+      "tags": "Jazz fod"
+    },
+    {
+      "user": "Cook",
+      "when": "2015-09-24 13:30:01",
+      "tags": "food Jazz"
+    }
   ]
 }

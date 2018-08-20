@@ -593,5 +593,17 @@
       "user": "oview",
       "when": "2018-05-22 06:48:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "sqrmax",
+      "when": "2013-04-02 09:53:00",
+      "tags": "needs_reencoding"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-02 10:00:00",
+      "tags": "bad_encoder"
+    }
   ]
 }

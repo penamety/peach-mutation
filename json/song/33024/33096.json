@@ -960,5 +960,22 @@
       "user": "hornpipe2",
       "when": "2018-05-24 14:24:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "lemonade",
+      "when": "2011-05-23 18:00:00",
+      "tags": "stream 2011 Demo"
+    },
+    {
+      "user": "serpent",
+      "when": "2011-05-24 12:22:00",
+      "tags": "2011 Demo Stream video"
+    },
+    {
+      "user": "maep",
+      "when": "2011-05-24 12:38:00",
+      "tags": "2011 Demo Stream video Minimal"
+    }
   ]
 }

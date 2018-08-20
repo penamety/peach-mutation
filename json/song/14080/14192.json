@@ -148,5 +148,22 @@
       "user": "djrandom",
       "when": "2017-07-09 06:09:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2010-07-10 12:13:00",
+      "tags": "one sample"
+    },
+    {
+      "user": "serpent",
+      "when": "2010-07-10 12:14:00",
+      "tags": "one_sample"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-02-02 16:44:00",
+      "tags": "one_sample Short"
+    }
   ]
 }

@@ -554,5 +554,22 @@
       "user": "plc",
       "when": "2018-05-25 09:22:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2014-08-19 13:21:00",
+      "tags": "coop"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-11-09 11:13:00",
+      "tags": "coop tdgc"
+    },
+    {
+      "user": "NerdN",
+      "when": "2016-11-09 11:15:00",
+      "tags": "coop TruckDriversGearChange"
+    }
   ]
 }

@@ -106,5 +106,12 @@
       "user": "hornpipe2",
       "when": "2017-03-31 00:07:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "hornpipe2",
+      "when": "2017-03-31 00:12:00",
+      "tags": "needs_reencoding bad_encoder"
+    }
   ]
 }

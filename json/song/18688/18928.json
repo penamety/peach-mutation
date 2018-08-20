@@ -372,5 +372,27 @@
       "user": "brm_",
       "when": "2018-03-08 09:14:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "sqrmax",
+      "when": "2013-04-02 09:22:00",
+      "tags": "needs"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-02 09:23:00",
+      "tags": "needs_reencoding"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-28 07:53:00",
+      "tags": ""
+    },
+    {
+      "user": "serpent",
+      "when": "2013-08-09 08:38:00",
+      "tags": "video"
+    }
   ]
 }

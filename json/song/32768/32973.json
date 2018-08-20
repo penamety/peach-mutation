@@ -191,5 +191,22 @@
       "user": "bmn",
       "when": "2018-01-23 03:39:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "sqrmax",
+      "when": "2013-04-02 09:25:00",
+      "tags": "needs_reencoding"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-02 09:25:01",
+      "tags": "needs_reencoding NotOnPouet"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2014-02-27 20:48:00",
+      "tags": "NotOnPouet"
+    }
   ]
 }

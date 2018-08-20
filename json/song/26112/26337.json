@@ -647,5 +647,22 @@
       "user": "plc",
       "when": "2018-06-14 19:38:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "hornpipe2",
+      "when": "2012-09-04 17:01:00",
+      "tags": "funk"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2012-09-04 17:01:01",
+      "tags": "Funk OPL2"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-05-26 16:24:00",
+      "tags": "Funk OPL2 coop"
+    }
   ]
 }

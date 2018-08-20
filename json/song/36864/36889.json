@@ -264,5 +264,22 @@
       "user": "plc",
       "when": "2018-06-17 10:15:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "anni",
+      "when": "2012-08-13 17:24:00",
+      "tags": "re-encode"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 11:05:00",
+      "tags": "needs_reencoding"
+    },
+    {
+      "user": "Accidental",
+      "when": "2017-01-20 10:07:00",
+      "tags": "needs_reencoding Remix"
+    }
   ]
 }

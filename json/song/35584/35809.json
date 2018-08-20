@@ -889,5 +889,32 @@
       "user": "BBB",
       "when": "2018-05-22 15:20:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "anni",
+      "when": "2012-04-19 08:54:00",
+      "tags": "waltz Flute"
+    },
+    {
+      "user": "anni",
+      "when": "2012-04-20 18:53:00",
+      "tags": "Flute waltz Accordion"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-11-01 06:59:00",
+      "tags": "Accordion Flute waltz gameremix"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-30 07:20:00",
+      "tags": "Accordion Flute GameRemix waltz Turrican"
+    },
+    {
+      "user": "MyO",
+      "when": "2013-07-20 07:58:00",
+      "tags": "Accordion Flute GameRemix Turrican waltz pirates"
+    }
   ]
 }

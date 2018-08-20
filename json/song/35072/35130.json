@@ -1094,5 +1094,27 @@
       "user": "plc",
       "when": "2018-06-15 20:03:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2012-03-23 15:15:00",
+      "tags": 2012
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2013-02-27 10:30:00",
+      "tags": "2012 remix"
+    },
+    {
+      "user": "anni",
+      "when": "2013-02-27 10:36:00",
+      "tags": "2012 Remix Guitar"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-03-19 15:16:00",
+      "tags": "2012 Guitar Remix long"
+    }
   ]
 }

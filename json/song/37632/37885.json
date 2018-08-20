@@ -265,5 +265,17 @@
       "user": "oview",
       "when": "2018-06-06 07:05:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2013-01-05 09:00:00",
+      "tags": "tUM"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-01-05 09:00:01",
+      "tags": "tUM 2012"
+    }
   ]
 }

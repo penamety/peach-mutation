@@ -207,5 +207,32 @@
       "user": "SPACE",
       "when": "2017-04-29 10:24:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2010-12-10 10:35:00",
+      "tags": "EarlyMOD"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-07-22 19:34:00",
+      "tags": "EarlyMOD Megademo1 Vortex42"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-07-22 19:34:01",
+      "tags": "EarlyMOD Megademo1 Vortex42 amiga"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-24 16:19:00",
+      "tags": "Amiga EarlyMOD  Vortex42"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-24 16:20:00",
+      "tags": "Amiga EarlyMOD"
+    }
   ]
 }

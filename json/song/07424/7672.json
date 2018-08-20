@@ -231,5 +231,32 @@
       "user": "MMX",
       "when": "2012-03-19 14:01:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Latis",
+      "when": "2010-06-28 23:17:00",
+      "tags": "long"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2010-08-10 22:24:00",
+      "tags": "long boring"
+    },
+    {
+      "user": "pipe",
+      "when": "2011-05-08 20:57:00",
+      "tags": "long"
+    },
+    {
+      "user": "pipe",
+      "when": "2011-05-08 20:57:01",
+      "tags": "long glitch"
+    },
+    {
+      "user": "anni",
+      "when": "2012-03-19 14:36:00",
+      "tags": "glitch long boring"
+    }
   ]
 }

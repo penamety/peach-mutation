@@ -783,5 +783,32 @@
       "user": "plc",
       "when": "2018-06-10 09:44:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "pipe",
+      "when": "2010-08-29 04:43:00",
+      "tags": "Lyrics Vocals"
+    },
+    {
+      "user": "Mystra",
+      "when": "2010-11-12 20:34:00",
+      "tags": "Lyrics Vocals Compowinner Mekka&Symposium 2001"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2014-03-10 08:14:00",
+      "tags": "2001 Compowinner Lyrics Mekka&Symposium Vocals Cheese"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2014-05-02 16:52:00",
+      "tags": "2001 Cheese Compowinner Lyrics Mekka&Symposium Vocals bass"
+    },
+    {
+      "user": "hornpipe2",
+      "when": "2014-05-02 16:52:01",
+      "tags": "2001 Cheese Compowinner Lyrics Mekka&Symposium Vocals bass"
+    }
   ]
 }

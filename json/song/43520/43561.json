@@ -201,5 +201,12 @@
       "user": "plc",
       "when": "2018-05-08 10:51:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "lroy",
+      "when": "2016-12-28 11:00:00",
+      "tags": "TruckDriversGearChange"
+    }
   ]
 }

@@ -293,5 +293,27 @@
       "user": "Whitelabel",
       "when": "2018-04-28 16:05:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Yellowjelly",
+      "when": "2011-09-03 22:17:00",
+      "tags": "ambient"
+    },
+    {
+      "user": "Yellowjelly",
+      "when": "2011-09-03 22:17:01",
+      "tags": "Ambient"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-04-01 14:09:00",
+      "tags": "ambient Nature"
+    },
+    {
+      "user": "NerdN",
+      "when": "2012-04-01 14:10:00",
+      "tags": "ambient Nature water"
+    }
   ]
 }

@@ -61,5 +61,27 @@
       "user": "Cook",
       "when": "2012-03-13 13:39:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2012-03-13 14:18:00",
+      "tags": "stereoseparation"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-03-13 14:19:00",
+      "tags": "stereoseparation voice samples"
+    },
+    {
+      "user": "maep",
+      "when": "2012-03-13 14:21:00",
+      "tags": "samples stereoseparation voice bad_stereo"
+    },
+    {
+      "user": "maep",
+      "when": "2012-03-22 18:53:00",
+      "tags": "samples voice"
+    }
   ]
 }

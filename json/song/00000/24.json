@@ -785,5 +785,22 @@
       "user": "Arne",
       "when": "2018-05-17 17:05:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "dodge",
+      "when": "2010-11-30 14:37:00",
+      "tags": "Amiga"
+    },
+    {
+      "user": "dodge",
+      "when": "2010-11-30 14:37:01",
+      "tags": "Amiga diskmag"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-01-06 09:42:00",
+      "tags": "Amiga diskmag StolenData"
+    }
   ]
 }

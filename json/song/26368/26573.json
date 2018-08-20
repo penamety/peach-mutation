@@ -215,5 +215,22 @@
       "user": "fred532",
       "when": "2018-05-31 13:06:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "dodge",
+      "when": "2010-12-13 15:02:00",
+      "tags": "Rock Guitars"
+    },
+    {
+      "user": "dodge",
+      "when": "2010-12-13 15:02:01",
+      "tags": "Guitars Rock cover"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-03-21 09:41:00",
+      "tags": "cover Guitar Rock"
+    }
   ]
 }

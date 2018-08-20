@@ -1348,5 +1348,27 @@
       "user": "plc",
       "when": "2018-06-03 09:44:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "SoDa7",
+      "when": "2010-10-13 17:58:00",
+      "tags": "synthpop"
+    },
+    {
+      "user": "Mystra",
+      "when": "2010-10-28 22:51:00",
+      "tags": "synthpop TheGathering 1992"
+    },
+    {
+      "user": "Rumpel",
+      "when": "2010-11-24 18:07:00",
+      "tags": "1992 synthpop TheGathering jingle"
+    },
+    {
+      "user": "dodge",
+      "when": "2010-11-24 18:11:00",
+      "tags": "1992 Jingle synthpop TheGathering Amiga"
+    }
   ]
 }

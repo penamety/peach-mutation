@@ -608,5 +608,27 @@
       "user": "Arne",
       "when": "2018-05-29 18:15:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2010-05-12 08:36:00",
+      "tags": "SpaceShooter"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-11-26 13:49:00",
+      "tags": "SpaceShooter Gamemusic"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-07-08 15:49:00",
+      "tags": "Gamemusic SpaceShooter coop"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-01-13 14:52:00",
+      "tags": "coop Gamemusic SpaceShooter TruckDriversGearChange"
+    }
   ]
 }

@@ -251,5 +251,27 @@
       "user": "pipe",
       "when": "2017-06-14 18:43:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "maep",
+      "when": "2011-11-18 13:38:00",
+      "tags": "bad_stereo"
+    },
+    {
+      "user": "maep",
+      "when": "2012-04-14 16:17:00",
+      "tags": ""
+    },
+    {
+      "user": "anni",
+      "when": "2013-03-04 10:09:00",
+      "tags": "needs_reencoding"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-04-02 09:32:00",
+      "tags": ""
+    }
   ]
 }

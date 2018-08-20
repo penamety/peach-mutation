@@ -1143,5 +1143,32 @@
       "user": "plc",
       "when": "2018-06-15 10:09:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "hornpipe2",
+      "when": "2012-10-26 18:42:00",
+      "tags": "2011 CNCD Demo Fairlight TheGathering video Windows ambient"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 12:51:00",
+      "tags": "2011 ambient  Demo Fairlight TheGathering video Windows"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-18 04:14:00",
+      "tags": "2011 ambient Demo  TheGathering video Windows"
+    },
+    {
+      "user": "Phlubby_Gnome",
+      "when": "2014-04-13 20:04:00",
+      "tags": "2011 ambient Demo TheGathering video Windows Maths"
+    },
+    {
+      "user": "mirrorbird",
+      "when": "2017-05-26 16:02:00",
+      "tags": "2011 ambient Demo Maths TheGathering video Windows vocals"
+    }
   ]
 }

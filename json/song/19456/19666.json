@@ -568,5 +568,32 @@
       "user": "plc",
       "when": "2018-05-02 20:09:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "prowler",
+      "when": "2010-07-05 20:36:00",
+      "tags": "Amiga"
+    },
+    {
+      "user": "serpent",
+      "when": "2010-12-08 14:28:00",
+      "tags": "Amiga video"
+    },
+    {
+      "user": "BombmanDK",
+      "when": "2011-11-16 15:35:00",
+      "tags": "Amiga video GermanSpeak"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-07-02 20:04:00",
+      "tags": "Amiga GermanSpeak video demo 1995 Roots 2nd BBS"
+    },
+    {
+      "user": "ViThor",
+      "when": "2012-07-02 20:05:00",
+      "tags": "1995 2nd Amiga Demo GermanSpeak Roots video Symposium"
+    }
   ]
 }

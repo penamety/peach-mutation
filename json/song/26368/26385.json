@@ -271,5 +271,27 @@
       "user": "Korni",
       "when": "2017-12-19 19:58:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "aaai",
+      "when": "2010-05-15 05:04:00",
+      "tags": "guitars"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-03-21 09:30:00",
+      "tags": "Guitar"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2013-07-05 08:01:00",
+      "tags": "Guitar AwfulGuitarSample"
+    },
+    {
+      "user": "serpent",
+      "when": "2017-01-03 11:32:00",
+      "tags": "AwfulGuitarSample Guitar cover"
+    }
   ]
 }

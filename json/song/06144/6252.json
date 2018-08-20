@@ -635,5 +635,32 @@
       "user": "prowler",
       "when": "2018-05-08 13:13:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Yohabro",
+      "when": "2010-08-12 14:49:00",
+      "tags": "food"
+    },
+    {
+      "user": "maep",
+      "when": "2012-09-26 15:55:00",
+      "tags": "food bad_encoder"
+    },
+    {
+      "user": "Elrinth",
+      "when": "2012-09-26 15:59:00",
+      "tags": "good_encoder food"
+    },
+    {
+      "user": "serpent",
+      "when": "2013-10-28 09:36:00",
+      "tags": "food good_encoder Popcorn"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-06-11 16:41:00",
+      "tags": "food good_encoder Popcorn coop"
+    }
   ]
 }

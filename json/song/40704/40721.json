@@ -167,5 +167,27 @@
       "user": "silencer",
       "when": "2018-05-23 00:52:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Jerry",
+      "when": "2014-08-02 09:36:00",
+      "tags": "cover \"alter bridge\" Solskogen"
+    },
+    {
+      "user": "Jerry",
+      "when": "2014-08-02 09:36:01",
+      "tags": "cover Solskogen 2014"
+    },
+    {
+      "user": "Jerry",
+      "when": "2014-08-10 20:59:00",
+      "tags": "2014 cover Solskogen AlterBridge"
+    },
+    {
+      "user": "Jerry",
+      "when": "2014-08-10 21:00:00",
+      "tags": "2014 AlterBridge cover Solskogen ChiptuneCover"
+    }
   ]
 }

@@ -390,5 +390,22 @@
       "user": "yeep",
       "when": "2013-01-22 12:09:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "pipe",
+      "when": "2010-08-30 18:45:00",
+      "tags": "amiga"
+    },
+    {
+      "user": "maep",
+      "when": "2012-02-16 16:42:00",
+      "tags": "Amiga bad_stereo"
+    },
+    {
+      "user": "maep",
+      "when": "2012-04-14 16:18:00",
+      "tags": "Amiga"
+    }
   ]
 }

@@ -138,5 +138,32 @@
       "user": "Mystra",
       "when": "2017-05-07 06:10:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "maep",
+      "when": "2012-02-07 12:34:00",
+      "tags": "bad_stereo"
+    },
+    {
+      "user": "maep",
+      "when": "2012-02-07 12:34:01",
+      "tags": "bad_stereo Funk"
+    },
+    {
+      "user": "maep",
+      "when": "2012-04-13 18:07:00",
+      "tags": "Funk"
+    },
+    {
+      "user": "Cook",
+      "when": "2012-04-17 13:21:00",
+      "tags": "Funk food"
+    },
+    {
+      "user": "Mystra",
+      "when": "2017-03-06 12:46:00",
+      "tags": "food Funk TheParty 1996"
+    }
   ]
 }

@@ -273,5 +273,32 @@
       "user": "bmn",
       "when": "2018-01-31 02:07:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Cook",
+      "when": "2013-01-14 16:19:00",
+      "tags": "short"
+    },
+    {
+      "user": "Mystra",
+      "when": "2013-01-14 16:22:00",
+      "tags": ""
+    },
+    {
+      "user": "prowler",
+      "when": "2013-04-23 09:05:00",
+      "tags": "Popcorn"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-01-08 12:54:00",
+      "tags": "Popcorn food"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-01-08 13:09:00",
+      "tags": "Popcorn"
+    }
   ]
 }

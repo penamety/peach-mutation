@@ -250,5 +250,22 @@
       "user": "mirrorbird",
       "when": "2018-03-10 09:55:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Mystra",
+      "when": "2010-11-23 11:16:00",
+      "tags": "Jazz"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-05-28 10:51:00",
+      "tags": "Jazz foo"
+    },
+    {
+      "user": "Cook",
+      "when": "2013-05-28 10:52:00",
+      "tags": "food Jazz"
+    }
   ]
 }

@@ -1216,5 +1216,32 @@
       "user": "plc",
       "when": "2018-06-08 19:55:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Terrasque",
+      "when": "2010-04-25 21:47:00",
+      "tags": "Breakpoint 2005 PC-Demo"
+    },
+    {
+      "user": "Terrasque",
+      "when": "2010-04-25 21:48:00",
+      "tags": "2005 Breakpoint PC-Demo Plastic"
+    },
+    {
+      "user": "lemonade",
+      "when": "2010-04-26 07:40:00",
+      "tags": "2005 Breakpoint PC-Demo Plastic Orchestral"
+    },
+    {
+      "user": "serpent",
+      "when": "2010-10-23 14:22:00",
+      "tags": "2005 Breakpoint Demo Orchestral Plastic Windows video"
+    },
+    {
+      "user": "sqrmax",
+      "when": "2013-03-16 12:27:00",
+      "tags": "2005 Breakpoint Demo Orchestral  video Windows"
+    }
   ]
 }

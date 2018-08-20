@@ -22,5 +22,12 @@
   "artist_ids": [],
   "artist_names": [],
   "votes": [],
-  "requests": []
+  "requests": [],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2010-11-30 06:33:00",
+      "tags": "video"
+    }
+  ]
 }

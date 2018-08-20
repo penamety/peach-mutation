@@ -211,5 +211,27 @@
       "user": "VodkaBot",
       "when": "2018-06-03 21:56:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "VodkaBot",
+      "when": "2016-09-17 20:13:00",
+      "tags": "needs_reencoding"
+    },
+    {
+      "user": "ViThor",
+      "when": "2016-09-17 20:40:00",
+      "tags": "needs_reencoding long Guitar"
+    },
+    {
+      "user": "lroy",
+      "when": "2016-12-16 11:23:00",
+      "tags": "Guitar long"
+    },
+    {
+      "user": "lroy",
+      "when": "2017-01-16 11:28:00",
+      "tags": "Guitar long TruckDriversGearChange"
+    }
   ]
 }

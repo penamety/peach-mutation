@@ -257,5 +257,27 @@
       "user": "Korni",
       "when": "2018-03-11 00:14:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "ViThor",
+      "when": "2013-08-18 14:55:00",
+      "tags": "1986 DurellSoftware AY cpc"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2014-09-10 13:15:00",
+      "tags": "1986 AY cpc DurellSoftware needs_reencoding"
+    },
+    {
+      "user": "ViThor",
+      "when": "2015-07-24 22:56:00",
+      "tags": "1986 AY cpc DurellSoftware needs_reencoding long"
+    },
+    {
+      "user": "prowler",
+      "when": "2016-02-12 16:16:00",
+      "tags": "1986 AY cpc DurellSoftware"
+    }
   ]
 }

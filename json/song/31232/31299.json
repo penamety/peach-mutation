@@ -760,5 +760,22 @@
       "user": "Arne",
       "when": "2018-06-06 18:01:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "Mystra",
+      "when": "2012-07-04 11:20:00",
+      "tags": "doskfunk"
+    },
+    {
+      "user": "Mystra",
+      "when": "2012-07-04 11:20:01",
+      "tags": "Doskpop"
+    },
+    {
+      "user": "Cook",
+      "when": "2014-09-24 10:37:00",
+      "tags": "Doskpop coop"
+    }
   ]
 }

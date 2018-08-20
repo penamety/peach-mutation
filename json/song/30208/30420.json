@@ -781,5 +781,32 @@
       "user": "plc",
       "when": "2018-06-05 09:33:00"
     }
+  ],
+  "tag-history": [
+    {
+      "user": "serpent",
+      "when": "2010-12-13 07:57:00",
+      "tags": "Vocals FinnishSpeak"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2011-04-30 18:17:00",
+      "tags": "FinnishSpeak Vocals food"
+    },
+    {
+      "user": "G_Signal",
+      "when": "2011-07-10 20:55:00",
+      "tags": "FinnishSpeak food Vocals dance"
+    },
+    {
+      "user": "Yohabro",
+      "when": "2012-03-23 13:31:00",
+      "tags": "1995 dance FinnishSpeak food Vocals"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2013-02-22 11:46:00",
+      "tags": "1995 dance FinnishSpeak food Vocals abduction"
+    }
   ]
 }

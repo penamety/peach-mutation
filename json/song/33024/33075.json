@@ -33,5 +33,27 @@
       "when": "2015-02-26 20:04:00"
     }
   ],
-  "requests": []
+  "requests": [],
+  "tag-history": [
+    {
+      "user": "franz_koopa",
+      "when": "2012-04-10 17:07:00",
+      "tags": "gameremix"
+    },
+    {
+      "user": "franz_koopa",
+      "when": "2012-04-10 17:08:00",
+      "tags": ""
+    },
+    {
+      "user": "Cook",
+      "when": "2015-12-17 09:23:00",
+      "tags": "gameremix"
+    },
+    {
+      "user": "Cook",
+      "when": "2015-12-17 09:23:01",
+      "tags": "GameRemix short"
+    }
+  ]
 }

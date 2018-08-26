@@ -1,7 +1,7 @@
 name,deleted,hidden_profile,artist_id,country,location,info_line,member_since,upload_count,vote_count,oneliner_count,last_login,ultimate_song_id,avatar_path
 0A000h,0,0,,gl,,,2010-09-26,0,221,132,2017-03-31,,
 0A00h,1,0,,,,,2009-01-01,0,0,0,2013-01-01,,
-0D1N,1,,,,,,,0,,,2011-11-17,,
+0D1N,1,,,,,,,0,0,,2011-11-17,,
 0x4e71,0,0,,nl,,,2009-05-18,0,20,0,2014-05-24,,
 0x7e7e,0,0,,nl,,,2010-07-25,0,17,0,2010-11-18,,
 2ker,0,0,,pl,,,2014-11-06,0,14,1,2017-10-10,,
@@ -9,7 +9,7 @@ name,deleted,hidden_profile,artist_id,country,location,info_line,member_since,up
 3flight,0,0,,ru,,,2011-04-20,0,17,0,2011-12-03,,
 450,0,0,,us,,,2012-11-28,0,0,0,2013-01-06,,
 503,0,0,,ru,,,2013-01-29,0,0,0,2013-01-29,,
-514d3,0,0,,au,,,2013-10-08,0,1,0,2017-12-06,,
+514d3,0,0,,au,,,2013-10-08,0,6,0,2017-12-06,,
 5972,0,0,,de,,5972 - my old ojuice/necta id number :),2010-05-19,0,4,0,2010-05-19,,
 5k,0,0,,,,,2013-08-13,0,2,0,2013-08-13,,
 5tarbuck,0,0,1916,de,,,2009-07-19,13,5,0,2011-03-14,,
@@ -20,15 +20,15 @@ name,deleted,hidden_profile,artist_id,country,location,info_line,member_since,up
 8823,0,0,,,,,2009-03-08,0,25,0,2011-03-03,,
 8bitbubsy,0,0,3935,no,,moo,2009-12-07,9,26,505,2017-09-09,,/static/media/avatars/avatar_hobbes_100x100.jpg
 8bitvortex,0,0,,us,,,2011-11-06,0,28,0,2012-10-20,23071,/static/media/avatars/icon.png
-9fingers,0,1,,,,,,0,,,2013-01-01,,
-_,1,,,,,,,0,,,2013-05-08,,
+9fingers,0,1,,,,,,0,1,,2013-01-01,,
+_,1,,,,,,,0,0,,2013-05-08,,
 _Adoru_,0,0,,fr,,,2012-07-27,0,1,0,2012-07-27,,
 _Aeko_,0,0,4910,catalonia,Mataró (Barcelona),,2009-01-12,2,265,25,2017-11-29,,/static/media/avatars/feo.jpg
 _erOS_,0,0,,pl,,,2009-10-01,0,2,0,2011-06-04,,
 _wally,0,0,,es,,NO CARRIER,2008-12-04,9,342,11,2018-01-14,,/static/media/avatars/avatar_121897.jpg
-A120068030,0,0,,gb,,,2017-01-30,0,24,364,2018-04-07,,
+A120068030,0,0,,gb,,,2017-01-30,0,29,364,2018-04-07,,
 aaai,0,0,,,,,2008-11-01,32,1387,0,2013-01-25,,
-Aardvark,0,0,,gb,,,2011-03-17,16,7,0,2018-04-10,,
+Aardvark,0,0,,gb,,,2011-03-17,16,29,0,2018-04-10,,
 aart3k,0,0,,pl,,,2014-09-01,0,1,0,2014-09-01,,
 Aasemoon,0,0,,ca,"Toronto, Canada",Spice must flow....,2009-05-24,0,3,0,2010-04-11,,/static/media/avatars/Logo60.jpg
 abaddon,0,0,1806,fi,kerava,,2011-03-13,76,158,0,2015-10-19,,
@@ -38,13 +38,13 @@ Abrahaz,0,0,,ru,,,2011-12-08,63,172,14,2018-01-04,,
 abscess,0,0,,,,,2009-05-18,1,5,0,2009-08-11,,
 AC,0,0,,dk,"Skærbæk, Denmark",,2009-12-08,0,8,0,2009-12-08,,
 Acarvalho,0,0,,br,,,2014-01-18,0,0,0,2014-01-18,,
-Accidental,0,0,,kr,,,2015-09-03,12,13852,1200,2018-04-20,,
+Accidental,0,0,,kr,,,2015-09-03,12,15432,1200,2018-04-20,,
 accumbens,0,0,,fr,,,2010-09-18,0,6,0,2014-05-13,,
 AceTonic,0,0,,ru,,,2011-07-07,0,1,0,2013-08-20,,
 Achez,0,0,,ru,,,2009-10-30,0,0,0,2011-11-05,,
 Achmed,0,0,,at,,,2014-08-11,0,0,0,2014-08-11,,
 Achtwerk,0,0,,at,,,2015-02-03,0,28,2,2016-03-14,,
-AcidBeast,0,1,,,,,,0,,,2013-01-01,,
+AcidBeast,0,1,,,,,,0,0,,2013-01-01,,
 Acidizer69,0,0,,pl,Puławy,,2012-10-23,1,66,0,2013-01-02,7471,/static/media/avatars/Yin-yang-animated.gif
 acidline,0,0,15,de,Cologne,Earworms 4 Everybody!,2009-02-20,128,296,0,2011-05-28,,
 AciDnB,0,0,,hu,,,2013-07-20,0,0,0,2013-07-20,,
@@ -63,7 +63,7 @@ adrius,0,0,,eu,,,2013-04-06,0,0,0,2013-04-06,,
 adsfdgfhgjhkjlk,0,0,,,,,2014-02-05,0,2,2,2017-01-19,,
 AdvertisePlay,0,0,2193,il,,=),2010-03-14,25,63,0,2018-04-18,,/static/media/avatars/yai7av_.gif
 aeon,0,0,,,,,2010-11-23,0,11,0,2011-01-12,,
-Aetrin,0,0,,no,Trondheim,,2011-10-27,0,3588,0,2013-10-15,,
+Aetrin,0,0,,no,Trondheim,,2011-10-27,0,3584,0,2013-10-15,,
 aevoc,0,0,,fr,,,2011-01-25,0,4,0,2017-07-11,,
 Agamination,0,0,,il,,,2013-02-08,0,0,0,2013-02-08,,
 Aganel,0,0,,ru,,,2013-05-04,0,4,0,2013-05-19,,
@@ -75,7 +75,7 @@ ajwen,0,0,,pl,,,2013-10-23,36,103,0,2015-10-05,,
 akabaka,0,0,,,,,2009-03-02,0,7,0,2009-03-16,,
 akem,0,0,,fr,,,2011-10-05,0,0,0,2011-10-05,,
 akole,0,0,5002,fi,,,2009-03-24,0,5,0,2013-02-28,6866,
-Akshaal,1,,,,,,,0,,,2013-01-01,,
+Akshaal,1,,,,,,,0,6314,,2013-01-01,,
 AksTis,0,0,,ru,,,2011-02-14,0,1,0,2017-12-30,,
 akurei,0,0,,de,Würzburg,Infoline?,2010-05-10,0,3,0,2011-01-05,,/static/media/avatars/akurei_by_kaze_quadr_100x100.gif
 alabanzai,0,0,,,,,2008-11-22,0,13,0,2010-03-04,,
@@ -106,7 +106,7 @@ alklazema,0,0,,nl,,,2013-04-23,0,113,0,2018-04-05,,/static/media/avatars/100px-L
 all4n,0,0,,au,Australia,,2010-03-10,0,49,0,2014-03-03,,
 allamulax,0,0,,tr,,,2010-11-12,0,1,0,2016-09-14,,
 Almagore,0,0,,pl,Skierniewice,Almagore,2010-06-21,2,0,0,2010-11-09,,
-ALPAidUS,0,0,5668,nectaflag,,,2017-03-15,8,20,67,2018-03-19,,
+ALPAidUS,0,0,5668,nectaflag,,,2017-03-15,8,25,67,2018-03-19,,
 alpha,0,0,,de,,,2011-08-01,0,0,0,2011-08-01,,
 AlphaC,0,0,2045,nl,Rotterdam,C-5 01 64 D04,2008-09-29,58,377,0,2014-08-11,,/static/media/avatars/rockford_80px.gif
 alsoknownas1,0,0,,au,,,2013-04-03,0,0,0,2015-02-01,,
@@ -118,7 +118,7 @@ Ambydupuis,0,0,,be,,,2011-07-29,0,22,0,2016-10-19,,
 amdfx,0,0,,it,,,2011-10-06,0,1,0,2011-10-06,,
 ameoba,0,0,,us,,,2013-09-21,0,1,0,2013-09-21,,
 Amiga78,,,,,,,,,,,,,
-amigafrancedotcom,0,0,,fr,,,2017-10-03,0,7,3,2018-01-31,,
+amigafrancedotcom,0,0,,fr,,,2017-10-03,0,8,3,2018-01-31,,
 amigaman,0,0,,de,,,2011-07-27,0,26,16,2017-11-21,,/static/media/avatars/wb12_1.jpeg
 amiganostalgia,0,0,,se,,,2011-07-20,1,1,0,2011-07-28,,/static/media/avatars/me64er-logo1.jpeg
 Amithrax,0,0,,fr,,,2014-08-09,0,0,0,2014-08-09,,
@@ -127,16 +127,16 @@ Amok,0,0,2007,de,,,2009-09-28,0,10,0,2010-03-22,,
 Ampli,0,0,1738,se,,,2012-05-12,0,0,74,2018-01-05,,
 aMUSiC,0,0,,GR,,,2010-07-05,0,0,0,2010-07-05,,
 aN00Bis,0,0,,cz,,,2014-05-26,0,2,0,2014-05-26,,
-analizator,0,1,,,,,,0,,,2013-01-01,,
+analizator,0,1,,,,,,0,15,,2013-01-01,,
 analogue,0,0,,,,,2008-11-19,0,1,0,2008-11-19,,
 Analyzer,0,0,,ru,Yekaterinburg,,2013-01-08,0,333,0,2017-09-07,,
-AnaMark,0,1,,,,,,0,,,2013-01-01,,
+AnaMark,0,1,,,,,,0,198,,2013-01-01,,
 anchor,0,0,,hu,,,2009-01-29,0,3,0,2014-11-22,,/static/media/avatars/en_piciben_small.jpg
 anderaiso,0,0,,fr,Paris,,2010-02-13,2,188,0,2013-02-10,,
 AndersArrenius,0,0,46,se,Knivsta,,2010-06-24,5,53,0,2014-12-04,,
 anderscarling,0,0,,se,,,2017-01-06,0,0,0,2017-01-06,,
 andersh,0,0,,se,,,2012-02-01,0,1,0,2012-02-01,,
-Andersson,0,0,5429,no,-,SYS 16384,2010-01-04,5,7831,1027,2018-03-30,7285,/static/media/avatars/me.jpg
+Andersson,0,0,5429,no,-,SYS 16384,2010-01-04,5,7836,1027,2018-03-30,7285,/static/media/avatars/me.jpg
 andik,0,0,,id,,,2013-01-18,0,0,0,2013-01-18,,
 andiolsi,0,0,,de,,,2011-07-22,0,0,0,2011-07-22,,
 Andows,0,0,,fi,,,2011-07-16,0,1,0,2011-07-16,,
@@ -151,14 +151,14 @@ anerte,0,0,4369,ru,,,2010-06-08,35,243,0,2018-04-17,,
 angerush,0,0,,de,,,2013-10-13,0,0,0,2013-10-13,,
 animateusz,0,0,,,,,2009-03-13,0,14,0,2009-06-19,,
 AnkhAngel,1,0,,,,,2009-04-20,0,117,13215,2013-01-01,,
-anni,0,0,,np,Land of half christmas-trees,Lurking since Second Reality ;),2010-06-23,707,15024,2459,2018-03-13,3375,/static/media/avatars/nectawall_small2.gif
+anni,0,0,,np,Land of half christmas-trees,Lurking since Second Reality ;),2010-06-23,707,15030,2459,2018-03-13,3375,/static/media/avatars/nectawall_small2.gif
 Anonymo,0,0,,us,,,2012-04-14,0,0,0,2012-04-14,,
 anonymous,0,0,,,Guy Fawkes,Bonfire Knight,2010-12-16,9,8,0,2010-12-23,,/static/media/avatars/guy-fawkes_.jpg
 AnonymousCoward,0,0,,pa,You don't want to know...,Protecting users reputation since 2009,2009-12-07,3,279,33,2017-12-15,16598,/static/media/avatars/php2dk3wT
 ant1,0,0,,gb,,,2009-11-20,2,51,0,2010-11-30,,
 antechinus,,,,,,,,,,,,,
-anthony62490,0,0,,us,,Eaten by a Grue [RIP],2009-03-14,89,1355,29,2018-03-31,7925,/static/media/avatars/Virus.jpg
-Antibyte,0,0,,ru,,,2010-08-14,0,1234,24,2018-04-18,10429,
+anthony62490,0,0,,us,,Eaten by a Grue [RIP],2009-03-14,89,1361,29,2018-03-31,7925,/static/media/avatars/Virus.jpg
+Antibyte,0,0,,ru,,,2010-08-14,0,3275,24,2018-04-18,10429,
 antipod,0,0,,se,,,2009-03-17,0,655,0,2016-02-17,,
 Antitribu,0,0,,,,,2010-05-10,0,63,0,2012-07-07,3949,/static/media/avatars/Mori64.jpg
 AntonZab,0,0,,,,,2012-08-13,0,0,0,2012-08-13,,
@@ -168,9 +168,9 @@ apocalyptiq,0,0,,pl,,,2009-03-14,26,139,10,2016-09-05,,
 apprenticeoflink,0,0,,us,,,2013-02-28,0,0,0,2013-02-28,,
 aptiliux,0,0,,,,,2010-09-14,0,1,0,2010-09-14,,
 Aquatronic,0,0,,es,,,2011-11-09,0,0,0,2011-11-09,,
-arab,0,0,1853,pl,Szczecin,,2008-09-16,55,615,4891,2018-04-14,5870,/static/media/avatars/parental-advisory-avatar.gif
+arab,0,0,1853,pl,Szczecin,,2008-09-16,55,634,4891,2018-04-14,5870,/static/media/avatars/parental-advisory-avatar.gif
 arachnosoft,0,0,5294,fr,,Author of the Arachno SoundFont,2013-02-07,4,0,0,2017-08-04,2456,
-arakus,0,0,,pl,,,2011-10-16,0,3,0,2018-03-24,,
+arakus,0,0,,pl,,,2011-10-16,0,6,0,2018-03-24,,
 Aramir,0,0,,fr,,,2015-10-30,0,17,292,2017-05-12,,
 araya,0,0,,,,,2010-03-09,0,1,0,2010-03-09,,
 arcaneduck,0,0,,se,,,2011-03-22,0,0,0,2011-03-22,,
@@ -178,7 +178,7 @@ archangel,0,0,60,se,Jonkoping,Swedish mod tracker,2009-04-22,0,9,0,2014-03-18,,
 Archiboldian,0,0,,gr,,,2012-11-19,0,3,0,2012-11-19,,
 archipos,0,0,,se,,,2009-01-22,17,54,0,2015-01-18,,
 architect1,0,0,,ca,,,2010-11-18,1,26,0,2011-05-29,,
-Archmage,0,0,4043,no,"Oslo, Norway",,2010-10-25,0,893,213,2018-04-05,,/static/media/avatars/14268.jpg
+Archmage,0,0,4043,no,"Oslo, Norway",,2010-10-25,0,934,213,2018-04-05,,/static/media/avatars/14268.jpg
 archonone,0,0,,us,,,2012-09-01,0,0,0,2012-09-01,,
 ARCKANUM,0,1,,,,,,,,,,,
 Arcnor,0,0,,es,,,2008-10-12,0,105,0,2018-02-24,,
@@ -187,21 +187,21 @@ arfink,0,0,,us,,,2010-02-03,0,43,0,2012-10-12,,
 arg3ntum,0,0,,il,Rishon le-Zion,*nix freak,2010-01-08,0,38,0,2011-01-16,,
 argasek,0,0,4657,pl,"Cracow, Poland",,2010-05-27,5,3,0,2015-01-20,,
 argh,0,0,3927,gb,Chichester,,2012-01-10,2,0,0,2016-08-05,,
-Argolyn,0,0,,de,,,2009-08-26,5,1741,4,2018-04-13,,
-aricz,0,0,,no,,ken sent me,2013-04-04,48,462,3333,2018-03-19,9043,/static/media/avatars/larry1.jpg
+Argolyn,0,0,,de,,,2009-08-26,5,1753,4,2018-04-13,,
+aricz,0,0,,no,,ken sent me,2013-04-04,48,467,3333,2018-03-19,9043,/static/media/avatars/larry1.jpg
 AriZone,0,0,,pl,,,2011-06-05,0,0,0,2011-06-05,,
 arj,0,0,,no,,,2008-12-05,0,68,0,2016-01-16,,
-Arkholt,0,0,,us,"Harlem, GA, USA",Cartoonist,2009-10-11,0,1,1,2018-03-11,,/static/media/avatars/hal_9000.png
+Arkholt,0,0,,us,"Harlem, GA, USA",Cartoonist,2009-10-11,0,2,1,2018-03-11,,/static/media/avatars/hal_9000.png
 arklif,0,0,,fr,,,2011-12-01,0,4,0,2011-12-01,,
 Arktos,0,0,5135,no,,,2009-08-05,4,987,1,2016-06-21,,
 arlek,0,0,,ar,,,2017-01-27,0,0,1,2017-01-27,,
 armeS,0,0,,va,,,2012-11-05,0,164,2,2018-04-07,,
 Armi,0,0,,pl,,,2016-01-17,0,5,0,2017-06-16,,
 ArminSeiko,0,0,4053,de,Magdeburg,dödel,2009-12-26,21,15,0,2013-03-06,,
-Arne,0,0,3986,de,Timmendorfer Strand,nect(AR)i(NE),2009-11-20,82,14991,335,2018-04-19,8751,/static/media/avatars/479071_375821149154127_1164295008_o.jpg
+Arne,0,0,3986,de,Timmendorfer Strand,nect(AR)i(NE),2009-11-20,82,15503,335,2018-04-19,8751,/static/media/avatars/479071_375821149154127_1164295008_o.jpg
 arnie,0,0,,de,Hamburg,,2011-01-09,0,1,0,2013-06-27,,
 Arpimato,0,0,,,,,2009-03-15,0,1,0,2013-05-29,,
-arrakis,0,0,66,ls,Earth,Amiga&C64 rulez,2011-02-28,29,19960,73993,2018-04-12,3295,/static/media/avatars/6516necta.png
+arrakis,0,0,66,ls,Earth,Amiga&C64 rulez,2011-02-28,29,20439,73993,2018-04-12,3295,/static/media/avatars/6516necta.png
 Artefact2,0,0,,fr,,,2013-03-27,0,99,31,2017-11-08,,
 artem23,0,0,,ru,,,2012-11-06,0,0,0,2012-11-06,,
 ArthurII,0,0,,gb,,,2013-12-07,0,5,0,2014-08-29,,
@@ -222,9 +222,9 @@ Astra,0,0,,,,Into the wonderful,2010-02-02,0,1,0,2010-07-13,,
 AstralFairy,0,0,,gr,,,2015-06-25,0,0,0,2016-03-05,,
 AstralFairyMarga,0,0,,,,,2013-11-02,0,0,0,2013-11-02,,
 astron,0,0,,ru,,,2014-07-16,0,0,0,2014-07-16,,
-atari666,0,,,,,,,0,,,2018-02-21,,
+atari666,0,,,,,,,0,8,,2018-02-21,,
 Atari_Mark,0,0,,gb,,Mac Sys Data / POV,2010-07-05,0,13,0,2017-07-14,,
-atom32k,0,0,,pl,Wroclaw,..wtf ?!,2008-12-11,0,1998,1576,2018-04-10,26863,/static/media/avatars/me_evil_small.png
+atom32k,0,0,,pl,Wroclaw,..wtf ?!,2008-12-11,0,2035,1576,2018-04-10,26863,/static/media/avatars/me_evil_small.png
 AtomicBlom,0,0,,au,,,2013-07-18,0,0,0,2013-07-18,,
 atomicity,0,0,,ie,,,2013-08-17,0,1,0,2013-08-17,,
 atomicmecw,0,0,,,,,2010-09-22,0,7,0,2010-09-22,,
@@ -241,10 +241,10 @@ AUX,0,0,,us,,,2013-07-28,0,1,0,2013-07-28,,
 Avatar,0,0,,se,,,2011-03-13,0,0,0,2011-03-13,,
 AvAxx,0,0,,cz,,We Shall See!,2010-12-13,0,110,2,2016-11-22,,/static/media/avatars/adrian.jpg
 Avery,0,0,,jp,,megazeux owns,2010-09-12,0,11,0,2010-09-12,,
-avolver,0,0,,ru,,,2015-08-15,0,10,8,2018-04-03,,
+avolver,0,0,,ru,,,2015-08-15,0,23,8,2018-04-03,,
 awesome,0,0,75,es,,,2010-08-03,29,0,0,2017-05-23,,
 awizen,0,0,1769,se,,,2011-07-28,1,0,0,2017-12-15,,
-Axel,0,0,76,ch,,,2008-09-17,1,368,324,2017-07-31,,
+Axel,0,0,76,ch,,,2008-09-17,1,371,324,2017-07-31,,
 axelerator,,,,,,,,,,,,,
 Axioplase,0,0,,us,Pittsburgh,More Maths!,2009-12-07,0,718,22,2017-06-02,8324,/static/media/avatars/q598248591_2220.jpg
 AY38912,0,0,,us,,AY or DIEEEEE!,2010-07-21,3,1,0,2010-09-21,,
@@ -275,13 +275,13 @@ barde,0,0,,de,,,2013-10-25,0,2,1,2017-10-13,,
 barek,0,0,,no,,,2011-11-16,0,1,0,2015-04-27,,
 Barnacules,0,0,,us,,,2011-11-16,0,1,0,2011-11-16,,
 barog,0,0,,,,,2010-08-16,0,2,0,2010-08-16,,
-BarZoule,0,0,3873,ca,,,2008-09-17,1,152,0,2016-03-06,,
+BarZoule,0,0,3873,ca,,,2008-09-17,1,153,0,2016-03-06,,
 Basch,0,0,,nl,,,2010-06-15,0,44,4,2016-03-18,,
 Basil,0,0,,ru,,,2012-08-14,0,14,0,2012-08-14,,
-baton,0,0,,,Wrocław,,2009-11-09,0,46,0,2018-04-10,,
+baton,0,0,,,Wrocław,,2009-11-09,0,47,0,2018-04-10,,
 bauer,0,0,4740,se,Stockholm,\m/ d(Ô¿Ô)b \m/ ,2010-03-14,1,3,0,2012-09-16,,/static/media/avatars/bauair_avatar2.png
 Baz,0,0,,ru,,,2012-05-16,0,0,0,2012-05-16,,
-BBB,0,0,,ca,,,2009-07-03,0,712,166,2018-04-11,,
+BBB,0,0,,ca,,,2009-07-03,0,730,166,2018-04-11,,
 BBD,0,0,,lt,,,2014-04-01,0,2,0,2014-04-01,,
 bbno,0,0,,sk,,,2015-11-17,0,0,0,2015-11-17,,
 bc2001,0,0,,,home of the NSA,Brandon Crystal,2013-02-05,0,176,0,2016-01-22,5824,
@@ -299,7 +299,7 @@ beek,0,0,106,us,,,2010-09-06,1,0,14,2016-12-13,,
 beetle,0,0,,nz,,,2011-11-16,0,10,0,2011-11-16,,
 bender,0,0,,de,,,2009-05-12,0,74,12,2016-12-10,,
 benfaigin,0,0,,us,,,2013-05-30,0,2,0,2014-09-16,,
-benipular,0,1,,,,,,0,,,2013-01-01,,
+benipular,0,1,,,,,,0,1,,2013-01-01,,
 benishor,0,0,,ro,,,2014-12-30,0,2,0,2014-12-30,,
 benoit,0,0,,fr,,,2014-12-31,0,21,0,2016-01-27,,
 benserwa,0,0,,,,,2010-10-12,0,1,0,2010-10-12,,
@@ -312,11 +312,11 @@ bherila,0,0,,us,,,2010-04-11,0,8,0,2011-09-11,,
 bif,0,0,,us,,,2009-10-18,6,35,300,2018-01-15,,
 biffa,0,0,,,,,2015-03-09,0,4,0,2015-03-18,,
 big_alec,0,0,114,us,"San Jose, CA",Atari ST Chiptune Nerd,2009-11-10,0,3,3,2016-05-13,,
-big_bear,0,0,113,ch,,Rubber ducks!,2009-02-25,0,329,0,2018-02-12,,
+big_bear,0,0,113,ch,,Rubber ducks!,2009-02-25,0,338,0,2018-02-12,,
 bigdan,0,0,,fr,,,2011-05-28,0,2,0,2016-08-31,,
 bigfoot,0,0,,,,,2010-07-06,0,5,0,2010-07-06,,
 bigg,0,0,,,,,2009-01-26,0,2,0,2010-11-16,,
-Bigman1971,0,0,,de,Forchheim/Ofr.,Amiga forever!,2010-07-13,0,0,0,2018-02-04,,/static/media/avatars/angus3_prv.jpg
+Bigman1971,0,0,,de,Forchheim/Ofr.,Amiga forever!,2010-07-13,0,1,0,2018-02-04,,/static/media/avatars/angus3_prv.jpg
 bignick0,0,0,,us,,,2012-12-12,0,1,0,2013-03-11,,
 bigsofty,0,0,,gb,,,2013-04-23,0,0,0,2013-04-23,,
 Biit,0,0,,no,,,2017-11-03,0,0,0,2017-11-09,,
@@ -331,7 +331,7 @@ biotenshu,0,0,,ru,,,2012-03-17,0,0,0,2013-02-01,,
 birnam,0,0,,us,,,2011-04-15,0,1,0,2012-04-14,,
 bishop,0,0,,fr,,,2014-11-14,0,0,0,2014-11-14,,
 bishopplt,,,,,,,,,,,,,
-BitArts,0,0,121,de,,,2008-10-08,8,521,16025,2018-04-20,,/static/media/avatars/norenoise_small.png
+BitArts,0,0,121,de,,,2008-10-08,8,527,16025,2018-04-20,,/static/media/avatars/norenoise_small.png
 bitblit,0,0,,nectaflag,,,2010-04-01,1,0,0,2017-07-13,,
 bitflippr,0,0,,se,,,2014-12-22,0,45,2,2016-01-27,,
 bitl,0,0,3921,ru,Labinsk/Krasnodar,,2009-12-03,34,1329,0,2013-02-09,,/static/media/avatars/ponypony.gif
@@ -363,22 +363,22 @@ blippyJon,0,0,,se,,,2015-01-27,0,536,3296,2017-09-18,,
 blobbbb,0,0,,be,,,2009-09-24,2,5,0,2015-05-18,,
 Bloccy,0,0,,de,,,2014-03-18,0,0,0,2014-03-18,,
 Blubber,0,0,,de,de,,2015-11-03,0,56,666,2016-12-08,,
-blubberdiblub,0,0,,de,Berlin,,2015-02-07,0,130,10,2018-02-17,,/static/media/avatars/baby_tux_alpha_100x100.png
+blubberdiblub,0,0,,de,Berlin,,2015-02-07,0,135,10,2018-02-17,,/static/media/avatars/baby_tux_alpha_100x100.png
 blue1977,0,0,,at,,,2012-04-27,0,0,0,2012-04-27,,
 blue_green,0,0,,us,,,2012-01-10,0,0,0,2012-01-10,,
 bluekhezu,0,0,,gb,,,2012-11-09,0,0,0,2012-11-09,,
-BluePopolopoi,0,0,,fr,,,2015-05-07,0,1,0,2015-05-07,,/static/media/avatars/r2-world1.gif
+BluePopolopoi,0,0,,fr,,,2015-05-07,0,3,0,2015-05-07,,/static/media/avatars/r2-world1.gif
 Bluerain33,0,0,,tr,,,2010-10-10,0,56,0,2014-05-25,,/static/media/avatars/100x100mehatalpha2blackhat.bmp
 BlueSkies,0,0,,ru,,,2013-04-10,0,1,0,2017-09-06,,
 blurry,0,0,1880,us,,,2009-07-16,5,62,0,2011-07-30,,/static/media/avatars/ringo_really_small.gif
-bmn,0,0,,vn,,shared account,2014-09-10,46,334,33,2018-04-10,,
+bmn,0,0,,vn,,shared account,2014-09-10,46,374,33,2018-04-10,,
 bmo,0,0,,nectaflag,,,2015-11-25,0,1,0,2017-03-03,,/static/media/avatars/impulse_project4.jpg
 Bobfahrer,0,0,,de,,,2013-10-31,0,1,0,2013-10-31,,
 Bobik,0,0,,pl,,,2015-07-15,40,103,52,2016-11-25,43260,/static/media/avatars/Historyczna_Flaga_%C5%9Al%C4%85ska_z_herbem.png
 bobobo,0,0,,de,,,2011-07-08,0,0,0,2011-07-08,,
 boboman,0,0,,de,,,2011-08-09,0,0,0,2011-08-09,,
 boluo,0,0,,cn,,,2008-10-19,0,20,0,2013-11-20,,
-BombmanDK,0,0,,sc,,Hans-Henrik Stærfeldt,2008-09-18,3,7608,1351,2018-04-12,7733,/static/media/avatars/Mega_Man_Bomb_Man_Art2.png
+BombmanDK,0,0,,sc,,Hans-Henrik Stærfeldt,2008-09-18,3,7721,1351,2018-04-12,7733,/static/media/avatars/Mega_Man_Bomb_Man_Art2.png
 BonnieBraindead,0,0,,fi,,,2012-03-04,0,0,0,2012-03-04,,
 Bonstra,0,0,,fr,,,2009-05-28,42,789,0,2018-04-02,,
 boob,0,0,,sk,Bratislava,,2009-10-11,0,15,0,2012-08-09,,
@@ -388,7 +388,7 @@ boomdry,0,0,,gb,,,2014-12-21,0,0,0,2014-12-21,,
 boomer,0,0,,de,,,2009-02-11,0,288,0,2018-01-30,21750,
 Boost,0,0,,se,,Amiga fan since '87,2015-08-29,3,0,191,2016-10-06,,/static/media/avatars/Avatar_-_Happy_-_100px.jpg
 bootlegger,0,0,,gb,,,2009-10-12,0,0,0,2014-03-11,,
-Bophie,1,,,,,,,0,,,2009-08-31,,
+Bophie,1,,,,,,,0,4,,2009-08-31,,
 bord3n,0,0,,pl,,,2012-03-31,0,1,0,2017-12-26,,
 boriskender,0,0,,rs,,,2015-07-14,0,2,0,2015-12-16,,
 Bornheim,0,0,,de,Hamburg,๏̯͡๏﴿ huh?,2009-09-06,6,56,0,2012-06-27,28452,/static/media/avatars/avatar.gif
@@ -396,7 +396,7 @@ Borszczuk,0,0,,pl,,,2011-11-12,0,20,0,2015-01-09,,
 Botrax,0,0,,ca,,Y2K Compliant,2010-03-08,0,1,0,2010-04-11,,/static/media/avatars/botrax100x100.jpg
 bowie,0,0,,by,,,2011-02-21,0,0,0,2011-02-21,,
 br4inlock,0,0,,,Bonn,,2010-04-22,1,1409,129,2016-03-23,,/static/media/avatars/lain10_avatar.gif
-bracket,0,0,,fi,Espoo,,2009-10-14,0,5,0,2010-06-04,,
+bracket,0,0,,fi,Espoo,,2009-10-14,0,12,0,2010-06-04,,
 brad209,0,0,,gb,,,2012-07-24,0,0,0,2012-07-24,,
 Brainbug,0,0,,no,,This sentence will repeat itself.,2014-03-01,6,5,0,2018-02-08,,/static/media/avatars/rainer-nilsen.jpg
 Branch,0,0,,fi,,,2011-12-03,0,0,0,2011-12-03,,
@@ -410,9 +410,9 @@ brettsuo,0,0,,us,,,2012-07-06,0,0,0,2012-07-06,,
 bridge,0,0,,ru,,,2011-06-04,0,2,0,2015-02-06,,
 brightentayle,0,0,5416,ua,,,2013-08-26,4,16,0,2013-08-27,,
 britelite,0,0,,eu,,,2008-10-22,0,1,0,2017-03-16,,
-BrittletheFly,0,0,,fi,"Glowshroom Garden, Minutia",Nervous nelly.,2014-05-02,334,2761,43,2018-04-07,2309,/static/media/avatars/image.jpg
-Brm,0,0,,fi,Pori,,2009-11-30,4,114,1038,2018-04-19,2328,
-brm_,0,0,2344,fi,,,2011-02-28,0,142,90,2018-04-19,,
+BrittletheFly,0,0,,fi,"Glowshroom Garden, Minutia",Nervous nelly.,2014-05-02,334,2786,43,2018-04-07,2309,/static/media/avatars/image.jpg
+Brm,0,0,,fi,Pori,,2009-11-30,4,118,1038,2018-04-19,2328,
+brm_,0,0,2344,fi,,,2011-02-28,0,144,90,2018-04-19,,
 BrokenAngel,0,0,,ru,,,2012-04-24,0,0,0,2012-04-24,,
 brom,0,0,,au,,,2011-10-19,0,0,0,2011-10-19,,
 brotdeluxe,0,0,,de,,,2016-06-15,0,0,0,2016-06-20,,
@@ -422,20 +422,20 @@ bryc,0,0,,ca,,,2012-08-23,0,2,6,2016-04-10,,
 bryface,,,,,,,,,,,,,
 BrysBorg,0,0,,,,,2010-12-05,0,0,0,2010-12-14,,
 bs1818,0,0,,,,,2014-02-02,0,1,0,2014-02-02,,
-BSC,0,0,1862,de,cologne,Amstraaaaaaad!,2009-10-10,26,192,28,2018-04-15,863,
+BSC,0,0,1862,de,cologne,Amstraaaaaaad!,2009-10-10,26,193,28,2018-04-15,863,
 bse,0,0,,de,,,2011-05-09,0,0,0,2011-05-09,,
 bsivko,0,0,,,,,2010-08-12,0,2,0,2010-08-12,,
 btn_,0,0,,se,,,2011-05-25,0,17,0,2011-05-25,,
 bucky,0,0,,de,,,2015-09-05,0,261,80,2017-02-21,,
 budperson,0,0,,,,,2012-09-06,0,5,0,2012-10-08,,
-buggerall,1,,,,,,,0,,,2010-07-23,,
+buggerall,1,,,,,,,0,2,,2010-07-23,,
 Bulmer,0,0,,gb,,,2008-10-08,0,12,330,2018-04-14,,
 bumbidebambi,0,0,,,Deutschland Sachsen,,2010-01-07,0,2,0,2011-12-26,,
 bundeswehr,0,0,,de,,,2014-11-14,0,0,0,2014-11-14,,
 bungee,0,0,,gb,,,2014-11-22,0,6,0,2014-12-28,,
 burg,0,0,,by,,,2017-01-28,0,0,0,2017-01-28,,
 burito,0,0,,,,,2009-09-25,0,1,0,2009-09-25,,
-Buzzer,0,0,1327,fi,,Buzzer/Brainstorm,2009-05-06,63,23082,36785,2018-04-19,7348,/static/media/avatars/brain-buddha-ava_1.jpg
+Buzzer,0,0,1327,fi,,Buzzer/Brainstorm,2009-05-06,63,23331,36785,2018-04-19,7348,/static/media/avatars/brain-buddha-ava_1.jpg
 buzzster,0,0,,se,,,2012-07-20,0,0,0,2012-07-20,,
 bxSLP,0,0,,gb,,,2016-11-07,4,0,2,2016-11-07,,
 Bydo,0,0,,de,,,2011-10-08,0,17,0,2015-09-08,,
@@ -454,12 +454,12 @@ Cales,0,0,,de,,,2011-08-25,0,75,0,2016-02-04,,
 caminante,0,0,,es,,,2011-06-18,4,574,0,2013-09-29,,
 campitellian,0,0,,,,,2009-10-10,0,2,0,2009-10-12,,
 CanisCanine,0,0,,gb,,,2014-07-15,3,1021,202,2017-03-30,,/static/media/avatars/jd-pixels_1.gif
-cannonfodder,0,0,,pl,Zielona Góra,82 generation,2009-01-31,0,1766,14,2018-04-15,8488,/static/media/avatars/sf.gif
+cannonfodder,0,0,,pl,Zielona Góra,82 generation,2009-01-31,0,1821,14,2018-04-15,8488,/static/media/avatars/sf.gif
 CaptainAntonius,0,0,,us,,,2013-08-02,0,16,0,2016-03-17,,
 CaptainHug,0,0,,gb,,,2012-08-09,0,3,0,2013-07-02,,
-CaptCookie,0,1,,,,,,0,,,2013-01-01,,
+CaptCookie,0,1,,,,,,0,60,,2013-01-01,,
 CarelessOne,0,0,,eu,,,2017-06-16,0,2,0,2017-07-09,,
-carmshlong,0,0,,us,,,2012-05-31,0,0,13,2018-01-09,,
+carmshlong,0,0,,us,,,2012-05-31,0,2,13,2018-01-09,,
 cashmoney,0,0,,,,,2008-12-08,0,1,0,2008-12-08,,
 castanhojfc,0,0,,pt,,,2012-08-21,0,0,0,2012-12-25,,
 Castor,0,0,,gb,,,2010-05-13,0,22,0,2010-07-21,,
@@ -467,7 +467,7 @@ casty,0,0,,,,,2008-09-24,0,2,0,2009-07-01,,
 cavell,0,0,4170,pl,Dąbrowa Górnicza,,2010-05-04,14,37,0,2017-12-07,,/static/media/avatars/cavell_09.jpg
 cccddd,0,0,,cz,,,2013-05-26,0,0,0,2013-05-26,,
 cce,0,0,,,Espoo,,2010-02-07,0,7,0,2011-10-05,,/static/media/avatars/a.png
-ccelizic,0,0,,us,,,2016-03-15,4,190,2,2018-04-16,,
+ccelizic,0,0,,us,,,2016-03-15,4,192,2,2018-04-16,,
 cdgpetto,0,0,,,,,2010-02-19,0,1,0,2010-02-19,,
 CecilKnight,0,0,,us,,,2008-11-07,0,6,0,2015-06-05,,
 cederom,0,0,4821,pl,Chiba City,- CeDeROM - THE FIRST CYBORG EVER -,2008-09-18,22,180,0,2013-08-09,6713,/static/media/avatars/cdr-terminator-60x60.jpg
@@ -481,7 +481,7 @@ cesar,0,0,,,,,2009-06-06,0,9,0,2012-04-08,,
 cesiumsoundsystem,0,0,,fr,,,2010-10-05,0,2,0,2014-02-14,,
 chabee,0,0,,hu,,,2010-11-15,0,14,0,2016-12-29,,
 Chainsaw,0,0,,ch,,,2008-09-16,1,37,0,2016-12-10,,
-Chakotay,0,0,,pl,Opole,,2011-05-10,0,9662,0,2012-09-01,35130,
+Chakotay,0,0,,pl,Opole,,2011-05-10,0,9659,0,2012-09-01,35130,
 chaozer,0,0,,se,,,2009-12-06,0,3,10,2017-06-13,,
 Chapelier,0,0,,fi,Espoo,Code games code,2009-04-13,29,773,0,2014-08-10,,/static/media/avatars/cropped_quartersize.png
 chavpl,0,0,,pl,,,2015-08-12,0,0,0,2016-05-25,,
@@ -493,7 +493,7 @@ chellomere,0,0,4973,se,Lund,,2009-08-17,14,1274,21,2017-04-13,,
 Chewrafa,0,0,,es,Valencia,Chewrafa,2011-07-20,1,170,0,2012-05-05,,
 CheZDa,0,0,,fi,,,2011-10-03,0,0,0,2014-04-06,,
 chicabou,0,0,,fr,,,2009-04-22,0,2,0,2010-05-23,,
-chiefsucker,0,1,,,,,,0,,,2015-11-12,,
+chiefsucker,0,1,,,,,,0,96,,2015-11-12,,
 chill,0,0,,ee,Tallinn,Booyakasha!,2010-05-18,0,5,0,2017-12-19,10426,/static/media/avatars/chill-04-96x96.png
 chilm,0,0,,nl,,,2011-09-13,38,0,0,2013-04-11,,
 ChipmunkUK1,0,0,,gb,,,2009-04-07,0,3,0,2017-08-15,,
@@ -502,9 +502,9 @@ chips,0,0,,,,,2009-03-31,0,306,0,2010-12-04,,
 chkdsk,0,0,,se,,,2009-05-25,11,91,15,2018-04-06,,
 chlu,0,0,,se,,,2016-11-13,0,0,0,2017-08-26,,
 Chocobobafett,0,0,,nectaflag,,,2015-03-03,0,2,0,2015-03-03,,
-Chocoholic,0,0,,de,,Random CS guy,2009-04-12,11,1473,141,2018-04-06,,/static/media/avatars/avatar_100x80_alpha-only_32bit.png
+Chocoholic,0,0,,de,,Random CS guy,2009-04-12,11,1477,141,2018-04-06,,/static/media/avatars/avatar_100x80_alpha-only_32bit.png
 chorizotime,0,0,,au,,,2014-08-03,0,0,0,2014-08-03,,
-chotaire,0,1,,,,,,0,,,2013-01-01,,
+chotaire,0,1,,,,,,0,2,,2013-01-01,,
 chrescht,0,0,,lu,,,2016-01-24,0,0,1,2016-02-08,,
 Christofori,0,0,2406,,,,2010-06-01,1,0,0,2011-02-08,,
 christophe,0,0,,fr,,,2014-07-11,0,0,0,2016-05-15,,
@@ -515,23 +515,23 @@ chudik,0,0,,ru,,,2011-08-04,0,3,0,2011-08-04,,
 Cicciuzzone,0,0,,it,,,2014-08-26,0,0,0,2017-09-28,,
 Cie,0,0,2413,de,,,2010-10-21,1,0,0,2010-10-21,,
 cimmerson,0,0,,fi,,Castor,2010-10-29,0,0,0,2012-03-05,,
-Citadel,0,,,,,,,0,,,2018-03-16,,
+Citadel,0,,,,,,,0,0,,2018-03-16,,
 civasix,0,0,,,,,2009-08-09,0,1,0,2009-08-09,,
 ck2nb,0,0,,pl,,,2016-06-04,0,110,3,2017-04-07,,
 Clanfear,0,0,,ru,,\m/ >_<,2010-11-23,0,99,0,2015-08-07,,/static/media/avatars/tomarayaelvis100.jpg
-claustro,0,0,,fi,,,2013-12-27,0,50,2,2018-03-12,,/static/media/avatars/IMG_8764_pixelsmall.jpg
+claustro,0,0,,fi,,,2013-12-27,0,51,2,2018-03-12,,/static/media/avatars/IMG_8764_pixelsmall.jpg
 clayer,0,0,,ee,,,2015-02-24,0,1,0,2015-02-24,,
 Clemaul,0,0,,fr,,,2011-08-27,0,0,0,2011-08-27,,
 clevergirl,0,0,,de,,,2012-10-28,0,0,0,2012-10-28,,
 clevermind,0,0,,,,,2009-09-07,0,1,0,2009-09-07,,
 Climbatiz,0,0,,is,,,2011-04-17,5,0,0,2011-12-10,,
 clippy,0,0,,fam,,it looks like you are writing a letter,2011-01-29,0,0,2,2017-04-24,18671,/static/media/avatars/clippy.jpg
-Cll33arSky,0,0,,ro,,\o,2017-01-25,0,30,53,2018-01-15,,
+Cll33arSky,0,0,,ro,,\o,2017-01-25,0,32,53,2018-01-15,,
 ClockworkBastard,0,0,,ru,Russia,,2010-08-15,0,4,0,2013-10-04,,
 Cloonix,0,0,,de,,,2009-08-31,0,27,0,2010-06-26,,
 Clop,,,,,,,,,,,,,
 clumdon,0,0,,mh,behind the seven hills...,! Chopsticks of Death !,2010-11-26,0,260,42,2018-03-31,9933,/static/media/avatars/avatar230_1.gif_1.jpg
-cLx,0,0,,fr,,Meeeeooow!,2013-01-02,0,5,0,2018-03-22,,/static/media/avatars/cLxbyEmiya_100x100.jpg
+cLx,0,0,,fr,,Meeeeooow!,2013-01-02,0,8,0,2018-03-22,,/static/media/avatars/cLxbyEmiya_100x100.jpg
 ClySuva,0,0,5110,ee,,,2012-09-19,2,1,0,2014-12-31,,
 cmdrfan,0,0,,ve,,,2011-05-09,0,0,0,2011-05-09,,
 CME,0,0,,de,,,2008-09-17,4,4,0,2011-05-10,,
@@ -545,35 +545,35 @@ Codarki,0,0,,fi,,,2014-07-11,0,0,0,2014-07-11,,
 CodeBuster,0,0,,de,,,2011-05-14,0,1,0,2011-05-14,,
 codec,0,0,226,se,,,2009-01-12,2,2,0,2017-03-17,,
 codefx,0,0,,br,Rio de Janeiro,,2010-03-21,0,1,0,2010-05-11,,
-codehead,0,0,4988,fi,,,2008-12-12,26,1189,5184,2018-04-20,,
+codehead,0,0,4988,fi,,,2008-12-12,26,1199,5184,2018-04-20,,
 Codetapper,0,0,,nz,,,2014-07-02,0,1,0,2014-07-02,,
-codewiz,0,0,,us,NULL,"I hack, therefore I am.",2008-09-26,0,51,0,2018-03-05,,/static/media/avatars/BernieMangaAlpha64x64__.png
+codewiz,0,0,,us,NULL,"I hack, therefore I am.",2008-09-26,0,54,0,2018-03-05,,/static/media/avatars/BernieMangaAlpha64x64__.png
 coencoppens,0,0,,,,,2013-12-06,0,0,0,2013-12-06,,
 coincoin,0,0,,us,,,2012-07-01,0,0,0,2012-07-01,,
 Col,0,0,,,,,2008-11-03,0,1,0,2010-10-11,,
 ColdFever,0,0,,fr,,,2009-12-17,0,2,0,2015-03-11,,
 Colella,0,0,,br,,,2014-04-13,0,0,0,2014-04-13,,
-Colidace,0,0,4993,pl,Gdańsk,Pazur Colidace,2008-11-16,67,1533,22,2018-04-14,9256,/static/media/avatars/PazuR_ts.jpg
+Colidace,0,0,4993,pl,Gdańsk,Pazur Colidace,2008-11-16,67,1569,22,2018-04-14,9256,/static/media/avatars/PazuR_ts.jpg
 colon_three,0,0,,scotland,,,2012-08-18,5,20,0,2014-02-27,,
 colonel_mustard,0,0,,se,,Colonel Mustard in the Lounge with a spoon,2011-08-02,0,168,0,2011-12-12,,
 comajim,0,0,,no,,,2011-06-16,1,9,0,2016-08-13,,
-Commodore,0,0,,se,Nyköping,"yep, totally came up with this nick by me self ",2009-11-27,0,21,368,2018-04-18,2328,/static/media/avatars/IMG_6388.jpg
+Commodore,0,0,,se,Nyköping,"yep, totally came up with this nick by me self ",2009-11-27,0,25,368,2018-04-18,2328,/static/media/avatars/IMG_6388.jpg
 commodork,0,0,,us,Philadelphia,,2014-01-05,0,0,0,2016-02-11,,
-communicator,0,0,,pt,,,2008-11-12,0,505,270,2018-04-19,,/static/media/avatars/code.png
+communicator,0,0,,pt,,,2008-11-12,0,524,270,2018-04-19,,/static/media/avatars/code.png
 Conan_FR,0,0,,fr,Nantes,,2011-06-14,0,1,0,2012-12-26,24447,
 constant_ural,0,0,,ru,,,2013-07-02,0,0,0,2013-07-02,,
 Continuum,0,0,,de,,Back to the roots,2015-03-24,0,57,7,2018-04-09,,/static/media/avatars/images_1.jpg
-Cook,0,0,,necta,, ,2008-09-17,10,23961,4308,2016-04-25,,
+Cook,0,0,,necta,, ,2008-09-17,10,23960,4308,2016-04-25,,
 coolsaucex,0,0,,,,,2009-03-12,0,9,0,2009-11-10,,
 CopperCAT,0,0,,be,,,2008-10-19,0,14,0,2017-09-18,,
 Corak,0,0,,ua,,,2012-02-14,0,0,0,2016-03-08,,
 Coran,0,0,,fi,Joensuu,,2011-05-25,0,0,0,2011-05-25,,
-Cordwainer,0,0,,us,Philadelphia,,2016-05-01,0,47,13,2018-02-06,,
+Cordwainer,0,0,,us,Philadelphia,,2016-05-01,0,58,13,2018-02-06,,
 corewhore,0,0,,us,,,2012-07-26,0,329,0,2014-10-09,,
 Corp,0,0,,nl,,Mycologists rule :D <3,2010-10-05,0,2,0,2012-07-22,,/static/media/avatars/chaetomium_copy.JPG
 corwin,0,0,,rs,,,2017-01-09,0,2,0,2017-01-09,,
 cosmo,0,0,,de,,,2013-02-18,0,7,0,2013-02-18,,
-Cosmogenesis,0,0,,fr,,,2014-01-07,0,7,0,2018-03-09,,/static/media/avatars/cosmogenesis100x100.gif
+Cosmogenesis,0,0,,fr,,,2014-01-07,0,10,0,2018-03-09,,/static/media/avatars/cosmogenesis100x100.gif
 Counterpoint,0,0,,ca,,,2013-02-06,0,0,0,2013-02-06,,
 covux,0,0,2447,de,,,2010-02-27,1,0,1,2017-01-16,,
 cow,0,0,,,,,2009-05-27,0,1,0,2010-02-12,,
@@ -593,7 +593,7 @@ cromain,0,0,,fr,Wittes,,2011-12-26,0,46,0,2017-12-20,,
 crome,0,0,,hu,Budapest,,2010-12-15,0,278,5,2017-04-10,27569,/static/media/avatars/raziel.png
 cromoz,0,0,,pl,,,2013-04-28,0,7,0,2013-04-30,,
 crosbow,0,0,,pl,,,2008-09-16,0,5,0,2014-06-02,,
-crrr,0,1,,,,,,0,,,2013-01-01,,
+crrr,0,1,,,,,,0,4442,,2013-01-01,,
 crt,0,0,,tt,,Blowin' tubes since '89,2012-05-03,28,260,0,2013-10-02,36964,/static/media/avatars/46.png
 crudeo,0,0,,fr,,,2016-06-29,0,0,0,2016-07-02,,
 cryke,0,0,,,Murmansk,,2010-06-14,2,25,0,2018-03-12,,
@@ -604,14 +604,14 @@ Cstain,0,0,,fi,,,2009-11-01,0,64,0,2010-05-29,,
 CTLance,0,0,,de,,,2009-05-13,0,7,0,2018-03-12,,
 cts,0,0,,pl,,,2010-01-15,1,2,0,2010-05-23,,
 ctsnlc,0,0,,fr,,,2009-02-23,0,3,0,2016-02-01,,
-cube,0,0,254,fi,Vantaa,!Cube,2009-11-11,7,136,1789,2018-01-23,,/static/media/avatars/toni_bw_small.jpg
+cube,0,0,254,fi,Vantaa,!Cube,2009-11-11,7,143,1789,2018-01-23,,/static/media/avatars/toni_bw_small.jpg
 cubehacker,0,0,,us,,,2009-12-25,0,2,0,2014-01-14,,
 cubix150x,0,0,,pl,,,2009-07-27,0,3,0,2011-05-17,5140,
 Cueball,0,0,,de,,,2010-05-01,0,0,0,2017-02-14,,
 CuteEwok,0,0,,us,,,2014-07-16,0,3,42,2015-08-08,,
 cvdm,0,0,,us,,,2012-02-22,0,0,0,2012-02-22,,
 CvX,0,0,,pl,,,2009-10-13,0,37,0,2012-04-25,,
-cxw,0,0,4741,us,,"Greetings, program!",2010-10-20,5,841,1,2018-04-06,10096,/static/media/avatars/favicon.ico.gif
+cxw,0,0,4741,us,,"Greetings, program!",2010-10-20,5,842,1,2018-04-06,10096,/static/media/avatars/favicon.ico.gif
 Cyan,0,0,,ca,"Vancouver, BC",,2009-11-23,0,337,929,2018-02-06,5861,
 cyanotic,0,0,,,,,2011-12-13,0,5,0,2013-11-18,,
 Cyb,0,0,,,Bordeaux,,2010-10-28,0,1,0,2010-10-28,,
@@ -639,7 +639,7 @@ Czar,0,0,,us,,,2012-02-03,0,0,0,2015-03-06,,
 d00p,0,0,,fi,,,2015-12-09,0,0,14,2015-12-10,,
 D2nny,0,0,,nl,,,2013-02-05,0,0,0,2013-02-05,,
 d64,0,0,,fi,,,2011-01-30,1,3,0,2017-07-07,,
-d_vibe,0,0,5114,se,,member of nature,2012-02-23,15,186,132,2018-04-17,3230,/static/media/avatars/feet_100x100_4col.gif
+d_vibe,0,0,5114,se,,member of nature,2012-02-23,15,498,132,2018-04-17,3230,/static/media/avatars/feet_100x100_4col.gif
 dachtunner,0,0,,fr,,,2009-08-18,0,59,0,2009-08-18,,
 DactylonDigital,0,0,,ca,,,2010-12-20,0,58,5,2016-10-21,,
 Dadu207,0,0,,fr,bordeaux,,2011-05-06,0,158,0,2014-08-09,,
@@ -653,7 +653,7 @@ daftpunx234,0,0,,,,,2014-01-03,0,0,0,2014-01-03,,
 Dagobah,0,0,,de,,,2009-02-25,0,2,0,2017-12-23,,
 daison,0,0,,nl,,,2015-05-27,0,0,0,2015-05-28,,
 Dakkus,0,0,,fam,,,2009-01-17,0,62,0,2012-08-25,,
-Dakota,0,0,4532,pl,Wroclaw,,2011-12-29,22,113,0,2016-08-09,,/static/media/avatars/dakota2.JPG
+Dakota,0,0,4532,pl,Wroclaw,,2011-12-29,22,112,0,2016-08-09,,/static/media/avatars/dakota2.JPG
 DAL,0,0,,dk,,,2014-07-05,0,0,0,2014-07-05,,
 Dalichisan,0,0,,fr,Reims,,2013-11-25,0,0,5,2018-02-07,,
 dalton,0,0,,se,,tulou,2010-10-15,0,1,0,2015-02-13,3404,/static/media/avatars/meow_100_100.jpg
@@ -664,7 +664,7 @@ Danalog,0,0,277,us,,,2009-07-31,5,121,0,2012-11-06,,/static/media/avatars/monkey
 dancek,0,0,,fi,,,2013-05-27,0,0,0,2013-05-27,,
 dandruff,0,0,,se,,,2009-02-12,0,1,0,2010-05-13,,
 dang,0,0,,fr,,,2009-11-24,0,2800,0,2017-10-23,,/static/media/avatars/webcam2scale.jpg
-Danger,0,0,1688,cz,Hradec Králové,Compo staff,2008-09-16,51,1057,17,2018-02-08,7925,/static/media/avatars/avatar_small.png
+Danger,0,0,1688,cz,Hradec Králové,Compo staff,2008-09-16,51,1059,17,2018-02-08,7925,/static/media/avatars/avatar_small.png
 danguafer,0,0,,br,,,2008-11-08,0,0,0,2015-06-09,,
 Daniel,0,0,,se,,New Beat,2009-09-11,0,206,0,2010-02-21,,
 Daniil889,0,0,,ru,,,2012-09-12,0,0,0,2012-09-12,,
@@ -701,8 +701,8 @@ davidyang,,,,,,,,,,,,,
 daviruz,0,0,,se,,,2009-09-03,0,0,3,2017-12-23,,
 davogotland,0,0,,se,,,2011-12-16,0,1,0,2011-12-16,,
 dawidbistram,0,0,,ie,,,2015-10-17,0,0,1,2015-10-19,,
-dax_dexter,0,0,,ch,,"more bass, less text!!",2009-07-09,0,1613,0,2018-04-12,12741,/static/media/avatars/ava_nectarine_neu.jpg
-dax_teh_second,1,,,,,,,0,,,2011-05-24,,
+dax_dexter,0,0,,ch,,"more bass, less text!!",2009-07-09,0,1618,0,2018-04-12,12741,/static/media/avatars/ava_nectarine_neu.jpg
+dax_teh_second,1,,,,,,,0,1,,2011-05-24,,
 daxx,0,0,,de,,,2017-03-08,0,0,7,2017-03-11,,
 DaytaMOD,0,0,,wales,Birmingham,,2010-04-04,0,17,0,2010-04-07,,
 daZe,0,0,4543,gb,,,2010-11-27,17,30,0,2011-12-22,,
@@ -715,7 +715,7 @@ deadFreak781,0,0,,ec,,,2012-12-07,0,0,0,2012-12-10,,
 deadguy,0,0,,se,,,2012-10-09,0,8,0,2015-02-06,,
 deadlock,0,0,,se,,,2010-08-27,0,10,0,2010-10-08,,
 deathy,0,0,300,nl,,"Amsterdam, Netherlands",2009-01-20,25,1026,0,2015-12-22,8356,/static/media/avatars/20081978063Gir_Dancing.gif
-debarrb,0,0,,gb,,,2014-10-22,0,121,403,2018-04-10,,
+debarrb,0,0,,gb,,,2014-10-22,0,122,403,2018-04-10,,
 debo,0,0,,,,,2014-04-03,0,7,2,2016-04-20,,
 decoder,0,0,,fi,,,2009-04-16,0,0,0,2012-01-26,,
 decopad,0,0,,br,,,2010-03-10,0,1,0,2011-09-29,,
@@ -743,7 +743,7 @@ den32ds,0,0,,ru,,,2017-03-08,0,27,127,2017-03-08,,
 Denamo,0,0,,fi,,,2011-08-12,0,2,0,2014-01-14,,
 denicefr,0,0,,fr,,,2016-09-25,0,2,0,2016-09-25,,
 DeniceInside,0,0,,fr,,,2014-09-10,0,0,0,2015-01-18,,
-DennyGSXR,0,0,,it,Venice,,2010-07-09,0,1658,183,2018-04-09,,/static/media/avatars/denny_.jpg
+DennyGSXR,0,0,,it,Venice,,2010-07-09,0,1703,183,2018-04-09,,/static/media/avatars/denny_.jpg
 denyrosse,0,0,,it,,,2012-04-16,0,0,0,2012-04-16,,
 deot,0,0,,fi,Oulu,,2010-02-19,0,1008,0,2015-12-20,,/static/media/avatars/Wu.png
 dep,0,0,,fi,,,2011-10-30,1,1,0,2011-11-24,,
@@ -755,7 +755,7 @@ Destructo,0,0,,gb,,,2015-04-10,0,4,0,2015-04-10,,
 detox,0,0,,hu,,,2016-05-10,0,0,0,2016-05-11,,
 Deviouz,0,0,,se,Venice,,2015-11-26,0,0,0,2017-03-07,,
 DevL,0,0,,se,Slightly right of Jupiter,,2009-11-27,0,0,0,2011-11-13,,
-DexterAYS,0,0,,de,,,2011-02-22,0,443,23,2018-04-06,,
+DexterAYS,0,0,,de,,,2011-02-22,0,452,23,2018-04-06,,
 dfast,0,0,1354,fi,Helsinki,Yes hello.,2010-04-26,33,57,113,2017-02-20,,/static/media/avatars/dfast_logo.jpg
 dfu,0,0,,us,,,2010-04-30,0,1,0,2013-12-14,,
 dgazz,0,0,,de,,,2017-01-05,0,0,0,2017-01-05,,
@@ -767,21 +767,21 @@ dhs,0,0,,ie,,,2013-07-07,0,0,0,2013-07-10,,
 DiaAWAY,0,0,,no,,"Coder by day, comic book reader by night!",2009-06-04,0,82,0,2014-09-17,,
 diaspora01,0,0,,,,,2011-01-18,0,2,0,2011-05-27,,
 didel_pticelov,0,0,,,,,2010-09-06,0,16,0,2013-02-11,,
-diffuse,0,0,,nl,,,2017-11-27,0,38,66,2018-01-15,,/static/media/avatars/rsz_1aav6p.jpg
+diffuse,0,0,,nl,,,2017-11-27,0,39,66,2018-01-15,,/static/media/avatars/rsz_1aav6p.jpg
 DiGiT,0,0,,nl,Utrecht,,2009-01-14,0,155,0,2018-04-04,,
 digitalch,0,0,,lt,,,2012-08-11,0,0,0,2012-08-11,,
 digix,0,0,,se,falköping,,2008-09-18,0,14,0,2011-05-31,,
-dimaquiet,0,0,5727,ru,,,2017-05-16,2,2,8,2018-04-14,,
+dimaquiet,0,0,5727,ru,,,2017-05-16,2,6,8,2018-04-14,,
 Dimon300,1,0,,,,,2009-01-01,0,0,0,2013-01-01,,
 Dimon3000,0,0,,ru,,,2009-03-03,4,75,0,2011-05-23,,
-Dimouse,0,0,,ru,Moscow,,2011-12-16,40,1451,0,2016-03-02,,
+Dimouse,0,0,,ru,Moscow,,2011-12-16,40,1450,0,2016-03-02,,
 dineyin,0,0,,cl,,,2010-03-12,0,2,0,2011-07-01,,
 DinGODzilla,0,0,,cz,,,2011-07-18,0,1,0,2011-07-18,,
 diogotux,0,0,,br,,,2014-05-13,0,0,0,2014-06-04,,
 diOnysos,0,0,,dk,,,2013-05-07,0,0,0,2013-05-07,,
 DIPsocket,0,0,,,,,2010-04-01,0,3,0,2012-10-28,,/static/media/avatars/dipsocket.gif
 directionless,0,0,823,us,,i love scene music !,2011-07-06,0,14,0,2011-09-28,5868,
-directive0,0,0,,ca,Toronto,,2010-11-16,0,55,14,2018-04-03,,
+directive0,0,0,,ca,Toronto,,2010-11-16,0,64,14,2018-04-03,,
 DiscoBoy,0,0,,ro,,,2012-01-06,0,1,0,2012-01-06,,
 diskojoe,0,0,,nectaflag,,,2010-10-26,0,0,0,2017-04-13,,
 diskxls,0,0,,ru,,,2013-07-12,0,1,0,2013-07-12,,
@@ -792,10 +792,10 @@ diwic,0,0,,se,,,2010-10-04,0,43,0,2011-05-19,,
 DizZy,0,0,,england,,,2010-07-22,0,58,1,2015-11-02,,/static/media/avatars/Untitled.jpg
 dj_faceplant,0,0,,,,,2009-03-25,0,7,0,2009-05-05,,
 djattack,0,0,4188,,,,2010-05-16,5,3,0,2010-05-17,,
-DJJoge,0,0,346,fi,Lappeenranta,,2009-04-24,52,454,11231,2018-04-09,,
+DJJoge,0,0,346,fi,Lappeenranta,,2009-04-24,52,456,11231,2018-04-09,,
 djknight,0,0,,us,,,2012-06-12,0,0,0,2012-06-12,,
 djmirage,0,0,,nl,,,2012-11-13,0,0,0,2012-11-13,,
-djrand0m,1,,,,,,,0,,,2009-07-22,,
+djrand0m,1,,,,,,,0,1,,2009-07-22,,
 djrandom,0,0,,,,Source for tunes when nobody feels like requesting,2008-09-16,0,0,0,2008-09-16,,
 djTMS,,,,,,,,,,,,,
 djvivid,0,0,,,,,2010-03-28,0,1,0,2010-04-07,,
@@ -818,13 +818,13 @@ doh,0,0,359,fr,,,2008-11-22,5,56,0,2017-07-23,,/static/media/avatars/doh_2.JPG
 doj,0,0,,us,,"Cubic Team, Farbrausch",2010-01-01,0,4,0,2010-04-21,,/static/media/avatars/doj_head_100x100.jpg
 doktor,0,0,2623,pl,,,2012-11-24,1,0,0,2013-03-10,,/static/media/avatars/284.jpg
 dollie1,0,0,,au,,,2012-10-29,0,0,0,2012-10-29,,
-don9016,0,1,,,,,,0,,,2013-01-01,,
+don9016,0,1,,,,,,0,1,,2013-01-01,,
 Donno,0,0,,dk,Aalborg,,2011-06-14,0,37,0,2012-11-19,,
 DopefishJustin,0,0,,ca,,,2011-04-01,1,32,0,2016-10-31,,
 doraemonppc,0,0,,,,,2012-03-25,0,0,0,2012-03-25,,
 DOS,0,0,,us,,,2008-12-01,0,3,0,2017-10-31,,
 dot,0,0,,,,,2012-09-06,0,5,0,2013-07-12,,
-dotmod,0,0,,pl,,,2017-01-16,0,1,5,2018-04-03,,
+dotmod,0,0,,pl,,,2017-01-16,0,6,5,2018-04-03,,
 dottedfish,0,0,,de,,,2009-08-04,0,58,0,2017-07-04,20248,
 Double,0,0,,fr,,,2009-11-18,0,1,0,2016-04-14,,
 double07,0,0,,au,,,2011-11-26,0,0,0,2011-11-26,,
@@ -832,7 +832,7 @@ Downhillracer,0,0,,us,,,2013-09-20,0,1,0,2013-09-20,,
 dox,0,0,,pl,,,2011-07-11,0,59,0,2013-11-04,,
 Doxx,0,0,,se,,,2009-04-30,0,70,0,2011-06-10,,
 doz,0,0,,gb,,,2012-08-13,0,0,0,2013-03-22,,
-Dr4pht,0,1,,,,,,0,,,2013-01-01,,
+Dr4pht,0,1,,,,,,0,119,,2013-01-01,,
 Dr_Awesome,0,0,,gb,,,2009-05-22,0,23,0,2016-05-08,,
 Dr_Jakob,0,0,,se,,,2008-09-19,0,5,0,2011-03-09,,
 draggsconnor,0,0,5701,ru,St.Petersburg,,2017-01-01,1,3,5,2017-01-23,,/static/media/avatars/1993.png
@@ -842,9 +842,9 @@ Dragonslayer,0,0,,fr,,,2008-11-01,0,12,0,2018-03-11,,/static/media/avatars/Drago
 Dranix,0,0,,de,,,2009-01-28,0,53,0,2018-02-17,,
 draoan,0,0,,fi,,,2011-11-11,0,13,1,2016-06-27,,
 Draze,0,0,,lt,,,2014-08-10,0,9,0,2014-08-22,,
-drbig,0,0,,pl,,Life's too short.,2009-11-15,0,34,14,2018-02-19,,/static/media/avatars/avatar_dwa_mini.png
+drbig,0,0,,pl,,Life's too short.,2009-11-15,0,37,14,2018-02-19,,/static/media/avatars/avatar_dwa_mini.png
 DrCain,0,0,,se,,,2008-09-18,0,34,0,2018-01-22,,
-DrCooldude,0,0,,dk,,,2012-06-10,1,5,0,2018-02-07,,
+DrCooldude,0,0,,dk,,,2012-06-10,1,12,0,2018-02-07,,
 drd_xtm,0,0,,ru,,,2013-01-12,0,0,0,2013-01-12,,
 dremok,0,0,,se,,,2015-10-16,0,0,0,2015-10-20,,
 drenaline,0,0,,de,Bremen,Expect and Respect.,2010-10-26,0,8,0,2010-10-26,12188,/static/media/avatars/tron_victory_avatar_.jpg
@@ -852,7 +852,7 @@ DRF,0,0,1847,de,,,2009-05-18,3,0,0,2016-02-02,,
 DRF049,0,0,,de,,,2011-10-11,1,0,0,2013-10-25,,
 DrFlay,0,0,,,,,2010-02-24,1,418,6,2017-05-15,,/static/media/avatars/flay.png
 dribb,0,0,,,,,2010-10-30,0,2,0,2010-10-30,,
-drifter,0,1,,,,,,0,,,2013-01-01,,
+drifter,0,1,,,,,,0,57,,2013-01-01,,
 drincker,0,0,,,,,2010-01-09,0,1,0,2010-01-09,,
 DrinkTea,0,0,,,,,2009-08-06,0,2,0,2009-08-06,,
 drislands,0,0,,us,,,2015-08-10,0,465,108,2017-08-08,,
@@ -860,7 +860,7 @@ drivler,0,0,,,,,2010-10-25,0,1,0,2010-10-25,,
 drizzt,0,0,,fr,Strasbourg,,2008-10-31,0,10,0,2011-01-01,,/static/media/avatars/790.jpg
 drk421,0,0,,us,,,2009-04-11,0,26,0,2016-04-05,,
 drm1325,0,0,,hu,,,2011-05-21,0,0,0,2011-05-21,,
-drmad,0,0,,pe,Ica,drmad/x10,2010-01-02,0,2,2,2018-02-24,,/static/media/avatars/blender.jpg
+drmad,0,0,,pe,Ica,drmad/x10,2010-01-02,0,3,2,2018-02-24,,/static/media/avatars/blender.jpg
 drobangelo,0,0,,us,,,2015-04-22,2,243,0,2016-11-28,,
 droctblargh,0,0,,nectaflag,,,2014-07-15,0,0,0,2014-07-15,,
 drozerix,0,0,5388,us,,Drozerix,2013-05-25,0,34,0,2014-09-02,,/static/media/avatars/Drozerix.PNG
@@ -871,17 +871,17 @@ drybrain,0,0,,gb,london,,2009-06-07,37,71,0,2017-07-20,,
 drye,0,0,,si,,,2011-11-29,0,0,0,2014-04-19,,
 dsargent724,0,0,,,,,2010-12-22,0,0,0,2011-02-17,,
 dsp,0,0,,at,,,2008-11-15,0,4,0,2012-01-24,,
-dsync,0,1,,,,,,0,,,2013-01-01,,
+dsync,0,1,,,,,,0,0,,2013-01-01,,
 dts,0,0,,ru,,,2009-09-19,0,15,0,2015-03-02,,/static/media/avatars/dts.gif
 dualtrax,0,0,,de,,,2012-03-31,3,0,0,2015-01-22,,
 Dude_1980,0,0,,de,,Questions?,2010-03-20,49,96,0,2011-06-10,,/static/media/avatars/bb.gif
 dudel,0,0,,de,,,2010-09-25,0,14,0,2017-07-20,,
 Due,0,0,,dk,,,2008-12-22,0,33,0,2010-05-31,,
-duempeIhorst,1,,,,,,,0,,,2015-06-28,,
-duempelhorst,1,,,,,,,0,,,2015-06-16,,
+duempeIhorst,1,,,,,,,0,0,,2015-06-28,,
+duempelhorst,1,,,,,,,0,6,,2015-06-16,,
 Duke,0,0,,hu,,,2008-10-05,0,23,1,2018-01-09,,
 dukejz,0,0,,lv,,,2015-09-20,0,0,0,2015-09-20,,
-dukzcry,0,0,,ru,,,2009-09-11,21,370,22,2018-02-09,5861,/static/media/avatars/c23efa44da573f704f58fa0eafc3283d.png
+dukzcry,0,0,,ru,,,2009-09-11,21,371,22,2018-02-09,5861,/static/media/avatars/c23efa44da573f704f58fa0eafc3283d.png
 dupafkrate,0,0,,pl,,,2009-09-20,6,52,0,2015-11-08,,
 dusk,0,0,,,,,2010-04-28,0,1,0,2010-07-05,,
 dustbin,0,0,386,,Italy,,2010-07-18,3,0,0,2015-03-28,,
@@ -897,7 +897,7 @@ dwfan,0,0,,,,,2014-01-11,0,0,0,2014-01-11,,
 dwlee79,0,0,,,,,2010-01-05,0,2,0,2010-01-05,,
 dxun,0,0,,,,,2010-07-28,0,5,0,2010-07-28,,
 dybyt,0,0,,pl,,,2012-09-19,0,3,0,2012-09-19,,
-Dynamic,0,0,390,se,,,2009-11-03,16,17,0,2018-04-06,,/static/media/avatars/Mart_invertedmysko2.jpg
+Dynamic,0,0,390,se,,,2009-11-03,16,29,0,2018-04-06,,/static/media/avatars/Mart_invertedmysko2.jpg
 dynamite,0,0,,,,,2011-02-06,0,10,0,2011-02-06,,
 dynamite1981,0,0,,us,,,2013-03-10,0,0,0,2013-03-10,,
 dyno,0,0,,fr,,,2015-08-07,0,0,0,2016-02-19,,
@@ -921,9 +921,9 @@ edoran,0,0,,,,,2009-12-23,0,10,0,2013-02-18,,
 edroal,0,0,,es,,,2016-11-17,0,0,0,2016-11-19,,
 Edwards80,,,,,,,,,,,,,
 edwin,0,0,,,,,2009-01-14,0,2,0,2009-07-15,,
-edwrodrig,0,0,,cl,Concepción,Programmer,2016-11-04,0,13,1,2017-09-07,,
+edwrodrig,0,0,,cl,Concepción,Programmer,2016-11-04,0,23,1,2017-09-07,,
 EdwVee,0,0,,ru,,,2013-01-12,0,0,0,2013-01-12,,
-eefi,0,0,,ru,777 seas,☠ Fight all the ninjas!,2010-05-07,2,3286,301,2018-04-16,30358,/static/media/avatars/cb5e6326dff059cf1c8f7a7775254e69.gif
+eefi,0,0,,ru,777 seas,☠ Fight all the ninjas!,2010-05-07,2,3386,301,2018-04-16,30358,/static/media/avatars/cb5e6326dff059cf1c8f7a7775254e69.gif
 eekee,0,0,,gb,,,2012-02-16,0,10,25,2018-01-13,3389,/static/media/avatars/limekitty.jpg
 efcsn,0,0,,es,,,2010-10-25,0,1,0,2016-07-20,,
 eftet,0,0,,pl,Lublin,,2011-12-19,0,149,0,2015-01-15,,
@@ -958,7 +958,7 @@ elleing,0,0,,de,,,2011-05-14,0,1,0,2011-05-14,,
 elliemon,0,0,,,,,2010-10-06,0,3,0,2010-10-06,,
 Elos,0,0,,fi,,,2010-10-15,0,87,0,2014-04-08,,/static/media/avatars/trans100.png
 Elrick,0,0,,fr,,,2010-07-30,0,1,0,2013-04-18,,
-Elrinth,0,0,1681,se,Skell Hell,double u[t][f];,2008-09-29,1194,11234,1395,2018-04-10,11101,/static/media/avatars/me.png
+Elrinth,0,0,1681,se,Skell Hell,double u[t][f];,2008-09-29,1194,11239,1395,2018-04-10,11101,/static/media/avatars/me.png
 Elsewhere,0,0,,nectaflag,,Welcome to Cloud Nine.,2012-11-24,0,3,5,2018-02-22,,/static/media/avatars/zap.png
 eltopo,0,0,,se,,Screams of ecstacy. ,2008-09-26,0,8,0,2010-07-14,,
 elusive,0,0,1630,se,,,2011-11-29,1,8,0,2012-02-03,,
@@ -971,15 +971,15 @@ Emanuele,0,0,,it,,,2013-01-17,0,1,0,2013-01-17,,
 emax,0,0,4181,se,,,2012-04-12,10,0,0,2012-07-25,,
 Embryo_The_Second,0,0,,br,,,2009-04-26,0,24,0,2015-09-21,,
 emiletuffhan,0,0,,fi,,,2013-01-08,0,0,0,2013-01-08,,
-emkay,0,1,,,,,,0,,,2013-01-01,,
+emkay,0,1,,,,,,0,0,,2013-01-01,,
 emmalina,0,0,,fi,,Only Emma!,2010-03-27,0,45,0,2010-05-08,,
 emook,0,0,,gb,,,2014-01-29,5,0,0,2014-01-29,,
-emoon,0,0,,se,,,2009-01-26,0,370,0,2018-01-30,,
+emoon,0,0,,se,,,2009-01-26,0,393,0,2018-01-30,,
 emor3j,0,0,,fr,,,2009-10-26,0,15,0,2010-06-05,,
 EmteeMoe,0,0,,,,,2009-02-09,0,1,0,2009-05-05,,
 emuman,0,0,,es,,,2011-01-26,0,66,0,2017-10-26,,
 encelo,0,0,,it,Naples,Amiga for ever!,2010-01-04,27,237,22,2017-04-03,6986,/static/media/avatars/boing4_.gif
-eneloh,0,1,,,,,,0,,,2013-01-01,,
+eneloh,0,1,,,,,,0,92,,2013-01-01,,
 eNeSik,,,,,,,,,,,,,
 enkolpion,0,0,,,Poland,,2009-12-29,0,1,0,2009-12-29,,/static/media/avatars/PIC_0009.jpg
 ennorie,0,0,,pl,Gdansk,,2010-11-17,0,7,0,2010-12-06,,
@@ -993,13 +993,13 @@ enzo,0,0,,fi,,,2009-12-14,0,78,0,2012-03-30,,
 Epec,0,0,,us,,Mrs. Fishguy876,2010-07-08,0,0,0,2013-03-08,,
 Epizen,0,0,,gb,,,2010-08-10,0,17,0,2011-07-05,,
 eppic,,,,,,,,,,,,,
-epso,0,0,,nl,The Hague,coder,2013-11-18,3,1651,13244,2018-04-19,39219,/static/media/avatars/tongue-250.jpg
+epso,0,0,,nl,The Hague,coder,2013-11-18,3,1736,13244,2018-04-19,39219,/static/media/avatars/tongue-250.jpg
 equenox,0,0,,,,,2010-06-21,0,1,0,2010-06-21,,/static/media/avatars/dainese_logo.gif
 equinox,0,0,,gb,south east,so much for the overflow,2013-04-01,0,36,2,2017-09-22,,
 Ergo,0,0,,ru,,,2016-01-20,0,5,3,2016-03-03,,
 Ergokun,0,0,,ru,,,2011-08-18,0,0,0,2011-08-18,,
 eriqjb,0,0,,de,Karlsruhe,,2011-08-25,0,0,0,2012-08-15,,
-Erk,0,0,2698,fr,Lorient,Supercalifragilisticexpialidocious,2011-04-05,52,604,1010,2018-04-09,37888,/static/media/avatars/Aniel.jpg
+Erk,0,0,2698,fr,Lorient,Supercalifragilisticexpialidocious,2011-04-05,52,607,1010,2018-04-09,37888,/static/media/avatars/Aniel.jpg
 erodj5,0,0,,mx,,,2013-12-11,0,0,0,2013-12-11,,
 error_spirit,0,0,,ar,SoL III,no tags plz! ,2009-08-03,0,139,0,2017-08-18,,/static/media/avatars/images2.jpg
 ers35,0,0,,nectaflag,,,2015-03-07,0,8,46,2017-03-09,,/static/media/avatars/orange.png
@@ -1015,9 +1015,9 @@ esteyman,0,0,,mx,,,2013-02-03,0,0,0,2013-02-03,,
 estimates,0,0,,tr,,,2015-08-18,0,0,0,2015-08-19,,
 Eteriuss,0,0,,cz,Praha,,2015-06-24,0,0,8,2015-06-25,,
 ethenq,0,0,,pl,,,2015-11-01,0,11,12,2015-11-05,,
-etray,0,1,,,,,,0,,,2014-06-07,,
+etray,0,1,,,,,,0,648,,2014-06-07,,
 Eurtek,0,0,,us,,,2010-04-14,0,3,0,2010-05-03,,
-EvanR,0,0,,us,,,2014-06-29,0,590,198,2017-01-21,,/static/media/avatars/dungeon-master-avatar-small.png
+EvanR,0,0,,us,,,2014-06-29,0,593,198,2017-01-21,,/static/media/avatars/dungeon-master-avatar-small.png
 evantaur,0,0,,fi,,,2010-12-27,0,82,0,2016-05-05,,/static/media/avatars/Amiga_kickstart.png
 evanval1,0,0,,us,,,2012-12-26,0,94,200,2017-10-19,,/static/media/avatars/dungeonmaster_resized.gif
 Evelina,0,0,,pl,,,2015-02-25,0,0,0,2015-02-25,,
@@ -1033,16 +1033,16 @@ eXe,0,0,,,,,2009-02-13,0,2,0,2009-02-13,,
 exec_s,0,0,,de,,,2013-02-12,0,0,0,2013-02-18,,
 Exelcia95,0,0,,no,Sande,,2011-09-04,0,77,0,2011-11-07,,/static/media/avatars/ecchi_summer_avatar_by_rachelaori-d3hg537.png
 Exit,0,0,,nl,,,2009-08-11,1,0,0,2010-08-26,,
-EXJ,0,0,,lv,Riga,,2010-02-05,12,246,3499,2018-02-26,,/static/media/avatars/SAM_7364-p-small.jpg
-exocet,0,0,,fr,Orléans,Exocet / JFF^Checkpoint,2014-05-05,8,371,7,2018-04-09,8280,/static/media/avatars/avatar_exocet_2x.png
+EXJ,0,0,,lv,Riga,,2010-02-05,12,263,3499,2018-02-26,,/static/media/avatars/SAM_7364-p-small.jpg
+exocet,0,0,,fr,Orléans,Exocet / JFF^Checkpoint,2014-05-05,8,403,7,2018-04-09,8280,/static/media/avatars/avatar_exocet_2x.png
 eXOdus,0,0,5438,us,South Carolina,,2013-09-11,6,6,1,2017-04-02,8974,
 exsub,0,0,,gb,,,2015-01-04,0,0,0,2015-02-01,,
 exulans,0,0,,dk,,,2011-02-28,0,0,0,2011-02-28,,
 exxess,0,0,,us,,,2009-12-17,0,0,0,2016-08-20,,
-Exyll,0,0,,nl,Rotterdam,,2009-06-15,0,30,18,2018-04-17,,
+Exyll,0,0,,nl,Rotterdam,,2009-06-15,0,37,18,2018-04-17,,
 Eye,0,0,,fi,Oulu,,2009-11-18,0,11,1,2018-03-15,,
 ezal,0,0,,fi,,,2010-02-22,0,66,0,2018-04-10,,
-EZH,0,0,,by,Minsk,,2010-07-28,1,869,10088,2018-04-19,,/static/media/avatars/atari_st_busy_bee_icon_100.png
+EZH,0,0,,by,Minsk,,2010-07-28,1,932,10088,2018-04-19,,/static/media/avatars/atari_st_busy_bee_icon_100.png
 Ezzelin,0,0,,us,,,2008-09-25,19,195,24,2018-01-06,10156,
 f2bnp,0,0,,gr,,,2012-05-04,0,0,0,2012-05-04,,
 f3jekqek3,0,0,,cz,,,2010-09-05,0,21,0,2012-10-12,,
@@ -1050,11 +1050,11 @@ fabiobulhoes,0,0,,br,,,2011-05-30,0,0,0,2011-05-30,,
 FabioOlive,0,0,,br,,,2016-07-06,0,1,0,2016-07-28,,
 fabricius,0,0,,fr,,,2010-09-30,0,2,0,2016-05-27,,
 Fabrizio,0,0,,,,,2014-01-30,0,0,,2014-01-30,,
-Fabzirya,0,1,,,,,,0,,,2013-01-01,,
-fabzirye,1,,,,,,,-1,,,2013-01-01,,
+Fabzirya,0,1,,,,,,0,651,,2013-01-01,,
+fabzirye,1,,,,,,,-1,-1,,2013-01-01,,
 factor6,0,0,1725,cz,,,2011-03-10,0,1,0,2016-02-05,,
 Fajser,0,0,431,se,Skepplanda,,2014-09-19,2,0,0,2016-06-06,,/static/media/avatars/henrik.jpg
-fakk3,0,0,,pl,,,2013-03-02,1,4,0,2018-03-10,,
+fakk3,0,0,,pl,,,2013-03-02,1,7,0,2018-03-10,,
 Falcon_11,0,0,,sk,Kúty,,2010-08-28,0,73,0,2017-01-10,,
 Fallout,0,0,2717,gb,Southampton,Tracking since 1995!,2011-05-26,5,5,0,2011-05-27,,/static/media/avatars/avatar_1.jpg
 far4,0,0,,us,,,2012-09-29,0,0,0,2012-09-29,,
@@ -1070,25 +1070,25 @@ feehza,0,0,,de,,,2013-11-27,0,0,0,2013-11-27,,
 feek,0,0,,de,,,2015-03-21,0,0,0,2015-03-21,,
 Felipepaulino,0,0,,br,,,2014-09-25,0,0,0,2014-11-06,,
 fellow,0,0,,,,,2009-02-03,0,1,0,2010-09-02,,
-Felor,0,1,,,,,,0,,,2016-09-04,17529,
+Felor,0,1,,,,,,0,190,,2016-09-04,17529,
 fenixDG,0,0,,gb,,,2011-06-29,0,1,0,2011-06-29,,
-Fennimore,0,0,,de,Berlin,,2009-07-07,0,34,0,2016-06-24,,/static/media/avatars/avatar_knightlore002.gif
+Fennimore,0,0,,de,Berlin,,2009-07-07,0,39,0,2016-06-24,,/static/media/avatars/avatar_knightlore002.gif
 Fenotipo,0,0,,es,,,2013-02-10,0,0,0,2014-07-12,,
 ferongr,0,0,,gr,,,2009-08-25,0,2,0,2009-08-29,,/static/media/avatars/asd.png
 Fester77,0,0,,se,,,2016-01-13,0,0,0,2016-01-14,,
 Feuermurmel,0,0,,ch,,,2009-08-14,0,616,0,2017-06-07,,
-Feveria,0,0,,pl,,,2009-09-10,0,1,3,2018-02-03,,
+Feveria,0,0,,pl,,,2009-09-10,0,2,3,2018-02-03,,
 FF7Cayn,0,0,,de,BY,WEEEEeeeeee....,2009-10-09,0,201,93,2017-11-03,,/static/media/avatars/Happy_Time_by_de_Mote.gif
 fffortune,0,0,,se,,,2012-06-07,0,1,0,2012-06-07,,
 ffx,0,0,,de,,,2012-03-18,0,0,0,2012-03-18,,
 fibs,0,0,,de,,,2016-03-11,0,1,0,2016-12-26,,
 fiddlebender,0,0,,fi,,,2015-01-12,0,5,0,2015-01-16,,
-filipsound,0,,,,,,,0,,,2016-01-07,,
+filipsound,0,,,,,,,0,16,,2016-01-07,,
 filou93dc,0,0,,fr,,,2011-07-01,0,0,0,2011-08-24,,
 finalman,0,0,,se,,,2014-08-21,0,0,0,2014-08-21,,
 Finariel,0,0,,fr,,,2010-02-16,0,5,0,2012-07-20,,
 fingers,0,0,,fi,,,2009-02-11,0,17,3,2017-12-14,,/static/media/avatars/jee_2.jpg
-finrock,0,0,,us,"Cupertino, CA",,2010-03-02,0,93,34,2018-04-13,,
+finrock,0,0,,us,"Cupertino, CA",,2010-03-02,0,99,34,2018-04-13,,
 fire2k2,0,0,,cn,,,2010-08-08,0,15,0,2012-08-10,,
 Fireball,0,0,,de,,,2011-01-21,0,612,24,2017-08-28,,
 FireballJr,0,0,,nectaflag,,,2016-01-28,0,0,2,2017-12-31,,
@@ -1104,10 +1104,10 @@ Flame,0,0,,,,,2017-11-02,0,0,438,2018-02-10,,
 flamingo,0,0,451,,,,2009-08-18,1,11,0,2014-01-31,,
 flanderz,0,0,,no,,,2009-09-20,0,3,0,2018-01-04,,
 Flappy,0,0,,ca,,,2016-01-24,0,16,29,2016-01-24,,
-flash,0,0,5014,de,,,2009-04-18,54,503,1016,2018-04-14,34888,/static/media/avatars/necta_flash.jpeg
+flash,0,0,5014,de,,,2009-04-18,54,505,1016,2018-04-14,34888,/static/media/avatars/necta_flash.jpeg
 Flashlight,0,0,,nl,,,2009-03-07,0,3,0,2014-08-01,,
-Flashy,0,0,,nectaflag,,,2017-01-20,3,8,9,2018-04-10,,
-Flatline,0,0,,hu,Budapest,-=Flatline=-,2010-01-10,57,1334,329,2018-04-14,312,/static/media/avatars/flatline_big_1.jpg
+Flashy,0,0,,nectaflag,,,2017-01-20,3,12,9,2018-04-10,,
+Flatline,0,0,,hu,Budapest,-=Flatline=-,2010-01-10,57,1374,329,2018-04-14,312,/static/media/avatars/flatline_big_1.jpg
 FlaxixAvant,0,0,,se,,hi,2013-05-02,1,5,0,2016-07-22,,
 fledermausl,0,0,,,deutschland,,2010-08-17,0,7,0,2011-02-09,,/static/media/avatars/0_Jeder_Tag_Wegen_Dir.gif
 flexi,0,0,,tr,tr,,2008-11-07,0,1,0,2014-03-13,,/static/media/avatars/weave_icon.png
@@ -1115,7 +1115,7 @@ flipshitter,0,0,,se,,,2009-11-02,0,1,0,2009-11-18,,
 Floh,0,0,,de,,,2012-02-19,0,0,0,2012-02-19,,
 FlorentCaubienGTK,0,0,1466,fr,Valdoie,,2015-07-19,39,0,66,2016-01-10,,/static/media/avatars/Perplex003.jpg
 floriannils,0,0,,fr,,,2016-01-12,0,0,0,2016-01-12,,
-florist,0,,,,,,,0,,,2018-04-18,,
+florist,0,,,,,,,0,0,,2018-04-18,,
 fluke5,0,0,,gb,,,2011-09-24,0,0,0,2011-09-24,,
 Flush,0,0,,us,,,2011-05-26,0,0,0,2011-05-26,,
 flushback666,0,0,,de,,,2011-03-21,0,1,0,2018-04-15,,
@@ -1125,13 +1125,13 @@ fluxor,0,0,,us,,,2014-01-14,0,0,0,2015-01-27,,
 FlySkyHigh,0,0,,se,,,2011-10-20,0,1,0,2011-10-20,,
 FlyveHest,0,0,,dk,,,2012-02-05,7,14,0,2013-10-09,,/static/media/avatars/horsie.png
 fnx,0,0,,fi,,,2013-02-06,0,31,0,2014-05-04,,
-fogbank,0,0,,it,,,2010-01-28,0,2,0,2017-04-15,,
+fogbank,0,0,,it,,,2010-01-28,0,3,0,2017-04-15,,
 foonk,0,0,,,,,2009-01-18,0,3,0,2009-01-18,,
 Forged,0,0,,us,,,2009-04-27,0,6,2,2015-11-26,,
 Formand,0,0,,dk,,,2012-07-09,0,0,0,2012-07-09,,
 fosco,0,0,,,,,2009-09-05,0,1,0,2009-09-06,,
 fosfer,0,0,,mx,,,2011-04-08,0,35,7,2017-09-12,,
-foster,0,0,,de,,,2016-10-05,0,9,1710,2018-04-09,,
+foster,0,0,,de,,,2016-10-05,0,10,1710,2018-04-09,,
 Foul,0,0,,fr,Périgueux,,2010-05-21,0,3,0,2017-05-07,4901,/static/media/avatars/xcopy.png
 foz,0,0,,gb,,,2010-01-27,3,12,0,2014-01-07,,
 Fpblazer,0,0,,,,,2017-12-04,0,0,0,2017-12-04,,
@@ -1142,11 +1142,11 @@ franckarts,0,0,,fr,,,2009-04-23,0,0,2,2016-09-22,,
 francouai,0,0,,fr,,,2014-01-01,0,0,0,2014-01-01,,
 FrankBR,0,0,,br,,,2011-02-11,0,1,0,2011-03-01,,
 frankrm78,0,0,,it,,,2013-02-04,1,76,1,2017-12-28,,
-franz_koopa,0,0,4970,fi,Capital Zone act 1,C-h t for tutorial,2009-08-17,494,2205,11025,2018-04-18,78,/static/media/avatars/camel-avatar2.png
-freak_out,0,0,,de,,,2013-01-11,0,213,4,2018-04-14,,/static/media/avatars/data.png
+franz_koopa,0,0,4970,fi,Capital Zone act 1,C-h t for tutorial,2009-08-17,494,2227,11025,2018-04-18,78,/static/media/avatars/camel-avatar2.png
+freak_out,0,0,,de,,,2013-01-11,0,222,4,2018-04-14,,/static/media/avatars/data.png
 fred0,0,0,,fr,10000100110100000,Eh! Ben dis donc,2009-10-25,0,38,0,2015-01-18,,/static/media/avatars/panoramix2.png
-fred532,0,0,,fr,,,2014-10-15,0,90,284,2018-04-20,,
-Fredisland,0,1,,,,,,0,,,2017-08-27,,
+fred532,0,0,,fr,,,2014-10-15,0,102,284,2018-04-20,,
+Fredisland,0,1,,,,,,0,16,,2017-08-27,,
 Fredu,0,0,,pl,,Fredu,2008-11-11,0,422,94,2017-01-20,2329,/static/media/avatars/av13_bs2____.jpg
 freedrull,0,0,,,,,2010-05-28,0,0,0,2011-06-16,,
 FreeFull,0,0,,gb,,,2017-09-03,0,2,5,2018-03-01,,
@@ -1157,19 +1157,19 @@ freQvibez,0,0,,,,,2009-02-17,0,90,0,2009-02-25,,
 fresh_meat,0,0,,fr,,,2009-05-02,1,6,0,2012-08-31,,
 Friedslick6,0,0,,au,,,2014-04-05,0,0,0,2014-09-24,,
 Frikki93,0,0,,is,,,2012-08-04,0,0,0,2012-08-04,,
-Friksen,0,0,,no,,,2010-05-15,0,18,14,2018-04-13,,
+Friksen,0,0,,no,,,2010-05-15,0,20,14,2018-04-13,,
 FroggyMe,0,0,,us,,,2013-05-21,0,146,0,2014-07-16,,
 frohikey,0,0,,cz,,,2013-03-16,0,13,0,2013-03-16,,
 fromanywhere,0,0,,ru,,,2010-09-03,0,15,0,2016-07-26,,
 frost,0,0,,,,,2009-12-11,0,1,0,2009-12-11,,
 FruitieX,0,0,,fi,,,2015-11-02,0,0,1,2015-11-02,,
-Frumple,0,1,,,,,,0,,,2013-01-01,,
-Frylix,0,0,,de,,"divided on the outside, connected on the inside",2016-04-28,0,121,153,2018-04-05,,/static/media/avatars/old-man-dancing_uqmMTgW.gif
+Frumple,0,1,,,,,,0,160,,2013-01-01,,
+Frylix,0,0,,de,,"divided on the outside, connected on the inside",2016-04-28,0,127,153,2018-04-05,,/static/media/avatars/old-man-dancing_uqmMTgW.gif
 ftl,0,0,,fi,Oulu,,2008-12-12,0,39,1,2016-05-19,,
 FunkyFish,0,0,,no,,,2009-03-31,0,0,0,2009-12-08,,
 funkygaucho,0,0,,ar,,,2012-06-28,0,972,0,2017-09-06,30443,/static/media/avatars/cool.jpg
 funny_sailor,0,0,,ru,,,2012-05-04,0,45,0,2015-07-27,,
-funnyn8,0,1,,,,,,0,,,2013-01-01,,
+funnyn8,0,1,,,,,,0,527,,2013-01-01,,
 funtom,0,0,,cz,,,2009-05-08,0,6,0,2018-03-26,,
 FuNx,0,0,,,,,2010-10-04,0,0,0,2010-10-04,,
 fuo,0,0,,gb,,,2012-12-31,0,0,0,2012-12-31,,
@@ -1188,8 +1188,8 @@ Gagarin80,0,0,,nectaflag,,,2017-01-12,0,3,1,2017-12-30,,
 Gage,0,0,,us,,,2011-08-07,0,1,0,2011-08-07,,
 Galancy,0,0,4926,fi,,,2008-10-22,210,6048,407,2017-11-26,12390,/static/media/avatars/galancy.jpg
 Gallefray,0,0,,gb,,,2013-12-31,0,0,1,2018-01-02,,
-Gandalf,0,0,,fr,Paris,I like Cinnamon,2011-09-22,3,34,4,2018-04-20,,/static/media/avatars/quakelive.png
-GaRaOne,0,0,,de,Cottbus,,2009-02-19,0,1003,6,2018-04-19,,
+Gandalf,0,0,,fr,Paris,I like Cinnamon,2011-09-22,3,35,4,2018-04-20,,/static/media/avatars/quakelive.png
+GaRaOne,0,0,,de,Cottbus,,2009-02-19,0,1063,6,2018-04-19,,
 garfield2142,0,0,,hu,,,2016-01-17,0,1,0,2016-01-20,,
 Gargaj,0,0,1390,hu,"Budapest, Hungary",Polyurethane audio-breeder,2011-05-02,24,1,3,2018-02-28,,/static/media/avatars/06.jpg
 garvalf,0,0,5683,fr,,,2016-09-04,3,0,2,2017-08-20,,/static/media/avatars/garvalf64_pix_amstrad.png
@@ -1206,7 +1206,7 @@ GeekShadow,0,0,,fr,"Saint-Nazaire, Loire Atlantique (44)",,2011-08-05,0,170,3,20
 GeexPowered,0,0,,fr,,,2010-11-28,0,3,0,2012-03-25,,/static/media/avatars/GeexThumbNail_.png
 geforce,0,0,,,,,2008-12-08,0,1,0,2008-12-08,,
 geggert1,0,0,,gb,,,2013-09-25,0,1,0,2013-09-25,,
-Geir_Tjelta,0,1,,,,,,0,,,2013-01-01,,
+Geir_Tjelta,0,1,,,,,,0,1,,2013-01-01,,
 Genesis,0,0,,gb,,,2009-11-05,0,12,0,2010-12-12,,/static/media/avatars/noriko.jpg
 Genetic_Gemini,0,0,1395,de,,,2010-01-12,3,179,5,2017-02-17,8188,
 genetik,0,0,,us,,,2010-04-28,0,1,0,2015-11-15,,
@@ -1214,9 +1214,9 @@ gengus,0,0,,se,,,2016-07-09,0,0,0,2017-06-08,,
 genkakuzai,0,0,,be,,,2012-05-20,0,0,0,2012-05-20,,
 geno,0,0,,de,,,2011-05-14,0,3,0,2013-08-25,,
 GenVox,0,0,,ru,,,2012-03-15,0,0,0,2014-11-01,,
-Geoman,0,0,,de,,fan of the Demoscene since 1997,2017-04-20,8,98,42,2018-03-02,73799,/static/media/avatars/Octane2.ico
+Geoman,0,0,,de,,fan of the Demoscene since 1997,2017-04-20,8,99,42,2018-03-02,73799,/static/media/avatars/Octane2.ico
 GeraldJerome,0,0,,nectaflag,,,2012-08-07,0,38,3,2017-11-11,,
-germic,0,0,,,Umeå,,2010-09-20,0,3,0,2018-03-06,,
+germic,0,0,,,Umeå,,2010-09-20,0,4,0,2018-03-06,,
 Gerry_G,0,0,,,,,2009-10-13,0,0,0,2009-11-02,,
 gforce,0,0,,de,Weimar,.~: remembering the old days :~.,2009-12-14,0,196,0,2013-02-13,,
 ghazz,0,0,,no,Haugesund,,2010-07-29,0,62,0,2015-11-28,,
@@ -1228,18 +1228,18 @@ GibsonXXI,0,0,,gb,,,2015-04-01,28,1,0,2015-04-01,,
 Gieron,0,0,,se,Sweden,,2010-08-23,0,1,0,2010-11-21,,
 gigio_chelo,0,0,,ar,,,2014-09-14,0,0,0,2014-09-14,,
 gilo,0,0,,pl,,,2011-03-11,0,1,0,2014-07-22,,
-Gismo,0,0,,de,,,2013-02-07,0,1110,26,2018-03-13,,
+Gismo,0,0,,de,,,2013-02-07,0,1114,26,2018-03-13,,
 gizennsyax,0,0,,jp,,,2015-02-24,0,1,2,2016-11-16,,
 GL1zdA,0,0,,pl,Warsaw,,2009-01-28,0,117,0,2016-08-25,24423,
 gldnspud,0,0,,nectaflag,,,2009-03-21,0,10,0,2014-10-24,,
 glenns04,0,0,,gb,,,2013-01-12,0,0,0,2013-02-09,,
 gligli,0,0,,fr,,,2015-11-29,1,0,1,2017-11-03,,
-Glow,0,0,,us,,,2010-11-27,0,68,1,2018-02-25,,/static/media/avatars/planet-earth-in-space.jpg
+Glow,0,0,,us,,,2010-11-27,0,77,1,2018-02-25,,/static/media/avatars/planet-earth-in-space.jpg
 glr,0,0,,,,,2010-07-04,0,1,0,2010-07-04,,
 Gluttony,0,0,,ru,Moscow,o_O,2008-11-21,0,424,0,2010-10-12,,
 gnonide,0,0,,br,,,2009-08-07,0,7,0,2011-06-09,,
 gnrp,0,0,,de,,,2012-11-16,0,50,0,2013-11-18,,
-Gnurou,0,0,,jp,,,2010-01-18,0,1079,0,2016-02-02,,
+Gnurou,0,0,,jp,,,2010-01-18,0,1078,0,2016-02-02,,
 GoblinRFD,0,0,,,,,2008-10-05,0,0,0,2010-06-20,,
 gogbonk,0,0,,hu,,,2009-09-10,0,1,0,2009-09-10,,
 golet,0,0,,gr,,,2014-04-09,0,1,0,2014-04-24,,
@@ -1251,16 +1251,16 @@ Goor00,0,0,,us,,,2011-05-07,0,0,0,2014-05-31,,
 gootube2000,0,0,,nectaflag,,,2015-03-01,0,0,0,2015-03-01,,
 Gott666,0,0,,co,,,2013-05-20,0,0,0,2013-05-20,,
 GPO123,0,0,,de,,,2011-11-19,0,0,0,2011-11-19,,
-gr0bi,0,0,,de,,,2009-03-15,2,48,0,2018-02-12,,
+gr0bi,0,0,,de,,,2009-03-15,2,49,0,2018-02-12,,
 gr9yfox,0,0,,gb,,,2009-09-29,0,0,0,2017-11-16,,
 Gracek,0,0,,pl,,,2014-06-20,0,73,0,2018-01-27,,
 grachev,0,0,,no,,The doctor's in the house,2009-02-03,4,287,27,2017-09-28,8729,/static/media/avatars/doctah_.png
 gradator,0,0,,fr,,,2013-08-11,0,1,0,2014-03-24,,
 Gran88,,,,,,,,,,,,,
 grave_digga,0,0,,de,,,2012-09-23,0,111,0,2017-04-12,,/static/media/avatars/digga.jpg
-gravisrs,0,0,,pl,Ełk,,2008-09-25,0,199,16,2018-02-12,,
+gravisrs,0,0,,pl,Ełk,,2008-09-25,0,202,16,2018-02-12,,
 gravywpg,0,0,,ca,,,2011-11-30,0,0,0,2011-11-30,,
-grazey,0,0,,gb,Kingston Upon Hull,Atari ST music ripper extraordinaire,2008-09-30,8,432,56,2018-04-05,,
+grazey,0,0,,gb,Kingston Upon Hull,Atari ST music ripper extraordinaire,2008-09-30,8,448,56,2018-04-05,,
 GRD,0,0,4067,kz,,,2016-08-06,10,7,0,2017-06-21,,
 gredon,0,0,,,,,2010-06-24,0,1,0,2010-06-24,,
 GreenBastad,0,0,,ru,msk,,2011-03-14,0,18,0,2011-03-14,,
@@ -1272,7 +1272,7 @@ grim,0,0,,,,,2010-01-17,0,3,0,2010-01-17,,
 grim234,0,0,,us,,,2009-12-23,0,3,0,2015-07-08,,
 grimlock,0,0,5339,jp,,,2013-03-28,5,8,0,2013-10-28,,
 grinchy,0,0,,de,,,2014-01-19,0,0,0,2014-01-19,,
-Grit,0,0,,hk,Geographically unaffiliated,24/7: The thunder will roll!,2012-06-23,50,415,332,2018-03-24,15472,/static/media/avatars/MAX.png
+Grit,0,0,,hk,Geographically unaffiliated,24/7: The thunder will roll!,2012-06-23,50,416,332,2018-03-24,15472,/static/media/avatars/MAX.png
 Groms,0,0,3524,no,,,2010-05-20,0,1,0,2015-07-14,,/static/media/avatars/gaumini_.jpg
 gross,0,0,,es,,,2011-12-09,0,0,0,2011-12-09,,
 groundhog,,,,,,,,,,,,,
@@ -1293,11 +1293,11 @@ gwen,0,0,,fr,,,2013-10-05,0,1,0,2013-10-05,,
 gwspace,0,0,,hr,,,2017-09-24,0,0,0,2017-09-26,,
 gyllerman,0,0,,se,,,2011-09-11,0,16,0,2014-06-08,,
 H0lySh1t,0,0,5269,hu,Budapest,Guru meditation...,2010-12-30,10,529,245,2016-11-02,,
-H3LL4Sphoros,0,0,,gr,Athens,,2016-05-30,5,322,83,2018-04-16,2309,/static/media/avatars/Parthenon.jpg
+H3LL4Sphoros,0,0,,gr,Athens,,2016-05-30,5,335,83,2018-04-16,2309,/static/media/avatars/Parthenon.jpg
 H7,0,0,,fi,Helsinki,accession & divine stylers,2012-01-28,0,0,0,2012-01-28,,
 HaasiD,0,0,5512,pr,,"Microsoft, you disappoint me.",2014-05-05,27,312,0,2015-03-09,,/static/media/avatars/downloiniad.png
 habubuha,0,0,,,,,2010-12-08,0,1,0,2010-12-08,,
-HaCKa,0,0,,br,Rio de Janeiro,Ya hey!,2008-11-17,12,440,108,2018-04-04,8441,/static/media/avatars/NectaIcon.png
+HaCKa,0,0,,br,Rio de Janeiro,Ya hey!,2008-11-17,12,478,108,2018-04-04,8441,/static/media/avatars/NectaIcon.png
 Hacktarus,0,0,,,,,2009-06-13,0,0,0,2009-06-13,,
 Hadakajime,0,0,,au,,,2009-07-30,0,1,0,2009-07-30,,
 haggar,0,0,,hr,,,2015-04-27,0,0,0,2015-04-30,,
@@ -1314,7 +1314,7 @@ hammer,0,0,,kz,Almaty,,2010-01-21,0,5,0,2010-09-06,,
 hammett,0,0,,gb,,,2011-10-01,0,0,0,2011-10-01,,
 Hanako,0,0,,ru,,,2011-04-10,0,0,0,2014-07-06,,
 Hansee,0,0,1405,no,Nøtterøy,Hansee,2009-07-23,10,122,31,2018-01-06,,/static/media/avatars/nect.jpg
-HappyDude,0,0,,ca,,Nostalgic BBS Sysop - v2.0,2008-11-04,0,2597,73,2018-04-20,,/static/media/avatars/540294_10151989458105177_1464295393_n.jpg
+HappyDude,0,0,,ca,,Nostalgic BBS Sysop - v2.0,2008-11-04,0,3018,73,2018-04-20,,/static/media/avatars/540294_10151989458105177_1464295393_n.jpg
 HappyRunner,0,0,,pl,,,2015-07-13,0,5,0,2016-02-18,,
 harald,0,0,,,,,2008-11-20,0,6,0,2009-02-04,,
 hardwired,0,0,,ch,,,2009-11-04,0,4,0,2014-07-04,,
@@ -1330,10 +1330,10 @@ hcollin,0,0,,fi,,,2011-05-03,0,0,0,2011-08-10,,
 headache,0,0,1805,fr,,,2013-12-27,0,86,0,2014-02-21,,
 heathkit,0,0,,,,,2010-02-23,0,1,0,2010-02-23,,
 hebychimera,0,0,,nectaflag,,,2014-09-11,0,0,0,2014-09-11,,
-HED,0,0,4061,fr,,,2009-02-25,1,471,12,2018-02-12,3404,/static/media/avatars/hed854k.gif
-hedning,0,0,,se,"Lund, Sweden",G*P - Accept No Limits!,2009-09-03,15,82,39,2018-04-06,,/static/media/avatars/honungen.png
+HED,0,0,4061,fr,,,2009-02-25,1,472,12,2018-02-12,3404,/static/media/avatars/hed854k.gif
+hedning,0,0,,se,"Lund, Sweden",G*P - Accept No Limits!,2009-09-03,15,86,39,2018-04-06,,/static/media/avatars/honungen.png
 hege56,0,0,,hu,,,2012-02-05,0,0,0,2012-02-05,,
-Heh_man,0,1,,,,,,0,,,2013-01-01,,
+Heh_man,0,1,,,,,,0,11,,2013-01-01,,
 Helioth,0,0,,ch,,"Vega, Amiga (1991-1992)",2008-09-26,18,249,23,2017-12-27,10479,/static/media/avatars/aaa_.gif
 heliumHE,0,0,,se,,,2010-08-12,0,23,0,2010-08-12,,
 Heliumjunkie,0,0,,se,Karlsborg,,2014-09-19,0,0,0,2014-09-19,,/static/media/avatars/Heliumjunkie.JPG
@@ -1344,13 +1344,13 @@ henritonchain,0,0,,fr,,,2013-04-01,0,0,0,2013-04-01,,
 Hermandari,0,0,,eu,DE.P,,2017-08-09,0,13,1,2017-09-26,,
 hermes,0,0,,de,,,2009-09-05,0,5,0,2010-05-28,,
 herotyc,0,0,,es,,,2015-10-19,0,5,0,2015-12-02,,
-Herute,0,1,,,,,,0,,,2013-01-01,,
+Herute,0,1,,,,,,0,403,,2013-01-01,,
 hexalis,0,0,,fr,,,2011-05-04,0,0,0,2011-05-08,,
 hexdump,0,0,,es,,,2009-06-07,0,8,4,2016-10-21,,
 HexenNI,0,0,,gb,,,2009-07-23,0,28,0,2009-08-30,,
 hexon,0,0,,us,,,2011-10-04,0,0,0,2011-10-04,,
 hidalgo,0,0,,es,Elche,,2009-10-10,0,9,0,2010-01-14,,
-HideawayStudio,0,0,1348,vg,,,2011-03-16,10,378,13056,2018-04-12,29309,/static/media/avatars/GuruMeditation_sm.JPG
+HideawayStudio,0,0,1348,vg,,,2011-03-16,10,426,13056,2018-04-12,29309,/static/media/avatars/GuruMeditation_sm.JPG
 HiJacker,0,0,,ck,,,2013-09-20,0,1,0,2013-09-20,,
 hiltunen,0,0,,eu,"Lahti, FINLAND",ChoP ChoP!,2010-06-17,0,359,0,2016-08-05,,/static/media/avatars/zendams-ninjatux100.PNG
 hinode,,,,,,,,,,,,,
@@ -1366,7 +1366,7 @@ holy_bazooka,0,0,,pk,,,2009-12-22,0,2,0,2009-12-22,,/static/media/avatars/_pipbo
 honorabili,0,0,2876,us,Miami,,2013-06-28,0,355,1,2016-01-26,,/static/media/avatars/dr_strangelove_50_by_50.jpg
 hornet,0,0,,dk,,,2010-08-26,0,2,0,2014-11-12,,
 hornpipe2,0,0,4928,us,"Conway, AR",it's-a me,2010-04-15,236,17,3421,2018-04-12,35574,/static/media/avatars/400836_10151696426879560_1463234617_n.png
-horseplops,0,0,,us,,,2008-10-15,0,15,0,2018-04-12,,
+horseplops,0,0,,us,,,2008-10-15,0,22,0,2018-04-12,,
 housed,0,0,,us,,,2012-05-26,0,0,0,2012-05-26,,
 housnet,0,0,,it,,,2015-05-12,0,15,0,2015-06-02,,
 HouzJunkie,0,0,,nectaflag,,,2014-09-25,0,0,0,2014-09-25,,
@@ -1385,7 +1385,7 @@ husbyggarn,0,0,,se,,,2010-10-11,1,6,0,2016-11-23,,
 hWnd,0,0,,de,,hWnd,2011-01-06,0,1,0,2012-04-08,,
 Hybris,0,0,,ch,,,2010-03-20,0,1,0,2011-03-31,,
 hyde,0,0,,no,,,2008-09-29,0,13,3,2017-08-19,,/static/media/avatars/deletedscenes_1.jpg
-Hypah,1,,,,,,,0,,,2016-01-18,,
+Hypah,1,,,,,,,0,179,,2016-01-18,,
 Hyperboreer,0,0,,de,Germany,,2009-04-20,0,37,0,2011-08-22,,
 hypercane,0,0,,se,Ytterby,,2010-06-07,1,72,0,2015-09-04,,
 hyperextorsion,0,0,,se,,,2011-05-13,0,0,0,2011-05-13,,
@@ -1421,7 +1421,7 @@ imbamakaber,0,0,,,,,2009-06-22,0,1,0,2009-08-31,,
 iMMORTAL,0,0,,,,,2011-01-05,3,0,0,2011-01-08,,
 impact,0,0,,sk,,,2009-05-19,0,34,0,2012-10-28,,
 impishrazor,0,0,,no,Harstad,hay guise y is dere no dubstep on dis chanel???,2013-05-27,0,116,0,2014-07-11,9425,/static/media/avatars/1351060973456.jpg
-InDigo176,0,1,,,,,,0,,,2013-01-01,,
+InDigo176,0,1,,,,,,0,0,,2013-01-01,,
 Indoril,0,0,,ca,,,2012-10-09,0,0,0,2012-10-13,,
 ineternity,0,0,,de,,,2016-05-14,8,89,7,2017-08-13,,
 infey,0,0,,nectaflag,,,2014-02-25,0,0,0,2015-06-24,,
@@ -1445,12 +1445,12 @@ iRon242,0,0,,hu,,,2014-02-17,0,0,0,2014-02-17,,
 Irongrip,0,0,,bg,,,2014-08-15,0,3,10,2017-07-27,,
 Isaenforcer,0,0,,de,,mostly harmless,2010-01-10,0,51,0,2012-12-30,,
 Ishaan,0,0,,fr,Sud-Ouest,,2010-06-28,2,3030,10,2017-10-13,,/static/media/avatars/logo_phpBB.gif
-Ishma,0,0,5289,by,Vitebsk,,2010-08-11,21,1663,28,2018-04-09,,
+Ishma,0,0,5289,by,Vitebsk,,2010-08-11,21,1689,28,2018-04-09,,
 isoa,0,0,,fi,,,2011-10-14,0,0,0,2012-07-17,,
 iSoSentry,,,,,,,,,,,,,
 israfel,0,0,,,,,2013-02-08,0,0,0,2013-02-08,,
 isvenger,0,0,,es,,,2009-10-24,24,524,0,2012-06-29,,
-iTowah68k,0,0,,it,A place where there's no scene..,"Also known as iTowel, 68k of softness :D",2010-02-21,12,6250,39,2018-03-22,34394,/static/media/avatars/Chicken.jpg
+iTowah68k,0,0,,it,A place where there's no scene..,"Also known as iTowel, 68k of softness :D",2010-02-21,12,6288,39,2018-03-22,34394,/static/media/avatars/Chicken.jpg
 ivanmag,0,0,,ru,,,2011-02-19,0,0,0,2011-03-24,,
 ivomanuel,0,0,,pt,,,2012-05-14,0,0,0,2012-05-14,,
 izard,0,0,,nl,,,2012-08-15,0,0,0,2012-08-15,,
@@ -1458,7 +1458,7 @@ Ized,0,0,,ru,,,2009-12-06,1,4,0,2011-02-02,,
 izzie,0,0,,,,,2010-02-07,0,6,0,2010-08-28,,
 j0sse,0,0,,es,,,2013-04-22,0,0,0,2013-04-22,,
 j7n,0,0,,lv,,,2013-11-03,0,1,0,2013-11-03,,
-jaakkop,0,1,,,,,,0,,,2013-01-01,,
+jaakkop,0,1,,,,,,0,89,,2013-01-01,,
 jaakkos,0,0,,fi,,,2011-06-18,0,0,0,2011-06-18,,
 jackieben,0,0,,hu,,,2011-09-22,0,0,0,2014-08-31,,
 jackietran,0,0,,cz,,,2011-03-19,0,2,0,2011-03-19,,
@@ -1472,11 +1472,11 @@ Jakim,0,0,2005,pl,"Zabrze, Poland",spam,2009-11-15,33,201,0,2015-08-10,1763,/sta
 Jakob,0,0,,de,,,2011-03-27,0,0,0,2018-01-09,,
 jakov,0,0,,se,,,2011-05-29,0,1499,1164,2017-04-26,,
 Jamato,0,0,,ua,,?,2010-02-21,0,3,0,2014-10-16,,/static/media/avatars/catty39%D0%BE%D0%BB%D0%BE%D0%BB%D0%BE.gif
-jamque,0,0,,catalonia,Barcelona,,2010-04-07,0,122,33,2018-04-04,5138,/static/media/avatars/jamque40.jpg
+jamque,0,0,,catalonia,Barcelona,,2010-04-07,0,125,33,2018-04-04,5138,/static/media/avatars/jamque40.jpg
 jansenra,0,0,,nl,,,2013-11-18,3,1063,2940,2015-12-04,2486,
-jantho,0,0,,no,,,2010-03-07,0,890,0,2018-02-19,8868,
+jantho,0,0,,no,,,2010-03-07,0,915,0,2018-02-19,8868,
 jape,0,0,,ch,Zürich,,2008-09-17,1,32,1,2017-07-30,,
-JaPeK,0,0,5256,fi,,,2009-12-12,1,351,59,2018-03-29,,/static/media/avatars/tux.png
+JaPeK,0,0,5256,fi,,,2009-12-12,1,383,59,2018-03-29,,/static/media/avatars/tux.png
 Japko,0,0,,pl,,,2013-12-23,0,4,0,2014-04-25,,
 jarek,0,0,,pl,,,2011-12-02,0,0,0,2011-12-02,,
 jariv,0,0,,fi,,,2015-06-10,0,10,3,2017-07-18,,
@@ -1495,8 +1495,8 @@ jcd,0,0,,tr,,,2014-02-23,0,1,0,2014-06-19,,
 jcf62589,0,0,,us,,,2010-10-10,0,17,0,2010-10-12,,
 jczic,0,0,3700,fr,,Yeah ;),2010-01-04,5,34,0,2015-05-15,,
 JDB1983,0,0,,gb,,,2009-04-14,0,1,0,2010-08-09,,
-jdk,0,1,,,,,,0,,,2013-01-01,,
-JDruid,0,1,,,,,,0,,,2014-01-18,,
+jdk,0,1,,,,,,0,0,,2013-01-01,,
+JDruid,0,1,,,,,,0,0,,2014-01-18,,
 JDW,0,0,,se,,,2013-07-03,0,3,0,2013-07-03,,
 jeamph,0,0,,fr,,,2010-07-26,0,0,0,2014-05-07,,
 jef4130,0,0,,nectaflag,,,2015-01-04,0,1,0,2015-01-04,,
@@ -1508,8 +1508,8 @@ Jeminami,0,0,,,,,2012-02-12,40,5382,0,2017-11-08,20417,
 Jeni88,0,0,,nectaflag,,,2015-04-07,0,0,0,2015-04-07,,
 Jenoer,0,0,,nl,,,2013-03-23,0,5,0,2013-05-14,,
 jeroentel,0,0,1935,nl,,,2011-02-20,0,3,0,2011-02-20,,
-Jerry,0,0,2932,no,Bergen,Jerry/Rebels & Desire,2011-11-08,125,1907,4,2016-10-04,,/static/media/avatars/stig.bmp
-jesper,0,0,,se,Stockholm,,2009-11-30,0,1150,4,2018-04-20,,
+Jerry,0,0,2932,no,Bergen,Jerry/Rebels & Desire,2011-11-08,125,1916,4,2016-10-04,,/static/media/avatars/stig.bmp
+jesper,0,0,,se,Stockholm,,2009-11-30,0,1156,4,2018-04-20,,
 Jess,0,0,578,us,,,2010-01-27,0,1,0,2017-11-02,,
 jester,0,0,,de,,,2010-05-09,0,2,0,2016-01-02,9139,
 jester42,0,0,,ca,,,2013-10-14,0,2,0,2016-10-07,,
@@ -1530,7 +1530,7 @@ jhusak,0,0,2906,pl,Lomianki,Jakub Husak,2010-05-05,2,10,0,2014-02-04,,
 JIM,0,0,,gb,Blackpool UK,,2010-03-15,0,5,0,2012-10-23,,
 jim62146,0,0,,nectaflag,,,2014-07-12,0,0,0,2014-07-12,,
 jima,,,,,,,,,,,,,
-Jimantha,0,0,,ca,,,2009-08-09,0,499,7,2018-04-18,,
+Jimantha,0,0,,ca,,,2009-08-09,0,505,7,2018-04-18,,
 jimee,0,0,,fr,Poitiers,Am I upstairs?,2008-12-07,0,108,1,2017-10-15,,/static/media/avatars/dott3.gif
 jimqode,0,0,,,,,2012-01-09,0,19,0,2012-01-09,,
 jinx,0,0,5284,nl,Amsterdam,"Developer, retrogamer, sceneconsumer",2008-10-28,32,4727,38,2018-04-13,6203,/static/media/avatars/relax-dv.jpg
@@ -1552,13 +1552,13 @@ johh,0,0,,,,,2009-12-11,0,1,0,2011-01-01,,
 john_klamka,0,0,,,,,2009-02-03,0,1,0,2009-11-10,,
 JohnDoe3390,0,0,,de,,,2014-03-16,0,0,0,2014-03-16,,
 JohnPM,0,0,,no,,,2015-04-09,0,9,0,2015-04-09,,
-johnson,0,1,,,,,,0,,,2013-01-01,,
+johnson,0,1,,,,,,0,3,,2013-01-01,,
 johny73,0,0,,pl,,,2014-06-19,0,1,11,2015-06-21,,/static/media/avatars/redguy80.png
 johny8,0,0,,pl,,,2009-04-09,11,138,0,2018-01-05,,
 Jokuolelos,0,0,,fi,,,2010-12-14,0,1,0,2011-04-18,,
 Jolecoco,0,0,,pf,Tahiti,Hello Hello !,2009-09-17,0,35,2,2017-07-02,,/static/media/avatars/DSC_0319_copie100__.jpg
 Jolez,0,0,,,,,2010-04-29,0,3,0,2010-04-29,,
-jolic,0,0,,ca,,,2008-11-07,0,365,22,2018-03-09,,
+jolic,0,0,,ca,,,2008-11-07,0,367,22,2018-03-09,,
 jolt,0,0,,se,,,2012-11-16,0,1,0,2012-11-16,,
 Jones,0,0,,dk,,,2011-10-20,0,39,0,2012-03-16,,
 Jonkku2202,0,0,,fi,,,2010-06-29,0,1,0,2010-06-29,,
@@ -1570,7 +1570,7 @@ jos,0,0,,se,,,2014-08-13,0,0,0,2014-08-13,,
 jos_olthuis,0,0,,nl,,,2014-03-25,0,0,1,2016-08-05,,
 JoseMan,0,0,,de,,,2014-05-25,0,1,0,2014-05-25,,
 josepat,0,0,,cl,,,2012-10-02,0,2,0,2012-11-19,,
-JosephCollins,0,0,,us,"Rock, MI, USA",I like scene music.  How 'bout you?,2014-03-10,0,134,29,2018-04-12,,
+JosephCollins,0,0,,us,"Rock, MI, USA",I like scene music.  How 'bout you?,2014-03-10,0,169,29,2018-04-12,,
 joule,0,0,,se,,,2013-02-12,0,0,0,2017-02-16,,
 jrferreira,0,0,,br,,,2016-06-21,0,1,149,2016-09-30,,
 jrlepage,0,0,,nectaflag,,,2010-02-06,0,0,0,2014-07-23,,
@@ -1595,12 +1595,12 @@ jussi,0,0,,fi,,,2015-01-13,0,0,0,2015-01-16,,
 JustOnePixel,0,0,,,,,2008-11-11,0,0,0,2009-07-28,,
 jwc,0,0,,us,,Demoscene Newbie,2008-10-31,6,9,0,2009-12-21,,/static/media/avatars/jwc.png
 jwl,0,0,,dk,,,2009-09-19,0,57,1,2016-07-14,,/static/media/avatars/wrenface.gif
-jxx,0,0,,us,"Dallas, TX",whuut?,2013-03-10,41,4389,19002,2018-03-16,32371,/static/media/avatars/mbrunt05b_1.png
+jxx,0,0,,us,"Dallas, TX",whuut?,2013-03-10,41,4414,19002,2018-03-16,32371,/static/media/avatars/mbrunt05b_1.png
 jyooruje,0,0,,pt,,,2009-12-08,0,9,0,2011-06-20,,
-jzp,0,0,,se,Lund,dammit,2012-02-15,0,161,2,2018-04-17,30410,/static/media/avatars/self_portrait_small.png
+jzp,0,0,,se,Lund,dammit,2012-02-15,0,230,2,2018-04-17,30410,/static/media/avatars/self_portrait_small.png
 K,0,0,,pl,,The look of terror on your face... It's delicious!,2009-07-09,0,104,0,2015-06-15,,/static/media/avatars/K-GunzisT-100.jpg
 K2,0,0,,dk,,,2011-06-16,0,0,0,2011-11-23,,
-Kacper077,0,0,,pl,,,2013-02-20,0,7,1,2018-03-13,,
+Kacper077,0,0,,pl,,,2013-02-20,0,8,1,2018-03-13,,
 kahvikello,0,0,,fi,,,2017-09-15,0,0,4,2018-01-27,,
 kaito,0,0,,ca,,,2013-05-04,0,0,0,2013-05-04,,
 Kakster,0,0,,au,,,2011-06-12,0,0,0,2011-06-13,,
@@ -1608,7 +1608,7 @@ kalantaj,0,0,,ua,,,2015-08-01,0,0,5,2016-07-16,,
 kalgan,0,0,,ru,,,2014-03-27,0,1,0,2014-03-27,,
 kalgon,0,0,,be,,,2010-04-08,0,8,0,2018-03-16,,
 kalgynirae,0,0,,nectaflag,,,2009-05-13,0,1,0,2017-05-28,,
-Kalmo,0,0,,fi,,,2013-02-02,1,525,14,2018-04-19,,
+Kalmo,0,0,,fi,,,2013-02-02,1,848,14,2018-04-19,,
 Kalroth,0,0,,dk,,,2009-12-07,0,114,0,2012-08-31,,
 kalvdans,0,0,,se,,,2012-09-01,0,0,0,2012-09-01,,
 kamilion,0,0,,nectaflag,,,2015-11-01,0,2,0,2017-11-06,,
@@ -1616,7 +1616,7 @@ Kaminari,0,0,,fr,,,2012-01-30,0,0,0,2016-07-14,,
 kanalje,0,0,,no,,,2011-02-26,2,12,0,2013-07-17,,
 Kane,0,0,,de,,,2008-11-30,0,58,26,2016-07-19,,
 kanewood,0,0,,fr,,,2014-08-18,21,0,0,2014-08-18,,
-KangarooMusiQue,0,0,1428,de,Dettingen an der Erms,Call your personal Kangaroo,2011-04-30,21,4,302,2018-04-14,,
+KangarooMusiQue,0,0,1428,de,Dettingen an der Erms,Call your personal Kangaroo,2011-04-30,21,28,302,2018-04-14,,
 Kanonmat,0,0,1917,se,Stockholm,,2009-08-13,54,19,0,2017-05-05,7609,/static/media/avatars/test_.gif
 Kanzeon,0,0,,es,,code,2011-08-18,0,110,0,2014-09-04,,/static/media/avatars/kanzeon-toonpic-w100px.jpg
 Kaot,0,0,,de,,,2009-09-21,0,103,0,2017-07-05,,
@@ -1641,12 +1641,12 @@ Keetar,0,0,,se,,,2010-03-04,0,1,0,2017-11-22,,
 kefen,0,0,,be,,,2011-09-08,0,2,0,2011-09-10,,
 kelbesque,0,0,4826,us,Virginia,Relief,2011-06-21,0,0,0,2011-06-21,,
 kellersound,0,0,618,de,,,2012-05-02,6,0,0,2016-10-30,,
-Kelly_R,0,,,,,,,0,,,2018-04-17,,
+Kelly_R,0,,,,,,,0,91,,2018-04-17,,
 Kepler,0,0,4646,se,,,2013-06-21,0,2,0,2013-06-21,,
 Kermit,0,0,,,,,2009-04-20,0,1,0,2012-10-22,,
 kermittehdog,0,0,,gb,,,2012-06-11,0,0,0,2014-08-21,,
 KernelJ,0,0,,gb,,,2012-07-23,0,1,0,2014-02-02,,
-Kerrazzy,0,0,,ru,"Rostov-on-Don, Russia",,2015-08-31,15,1,0,2018-03-23,42424,
+Kerrazzy,0,0,,ru,"Rostov-on-Don, Russia",,2015-08-31,15,5,0,2018-03-23,42424,
 Kerus,0,0,,se,,,2009-11-03,0,159,0,2011-12-19,,
 Kestrel,0,0,,,,,2009-08-13,0,3,0,2009-08-13,,
 KeyJ,0,0,,de,Hannover,,2008-12-16,0,0,0,2011-04-10,,
@@ -1667,12 +1667,12 @@ Kieriestof,0,0,,pl,,,2012-12-24,0,2,0,2014-12-21,,
 kihime,0,0,,,,,2011-01-17,0,1,0,2011-01-17,,
 kij,0,0,,pl,,,2012-03-16,0,0,0,2016-11-06,,
 killaspirit,0,0,,ca,,,2013-11-13,41,37,16,2016-07-06,,
-killerspoon,0,0,,de,,aka tappajalusikka,2011-05-17,3,1454,5983,2018-03-25,,/static/media/avatars/cool_cat_small.jpeg
+killerspoon,0,0,,de,,aka tappajalusikka,2011-05-17,3,1455,5983,2018-03-25,,/static/media/avatars/cool_cat_small.jpeg
 killsquad,0,0,,no,,,2013-03-07,0,0,0,2013-03-07,,
 kilo77,0,0,,dk,,,2015-03-23,0,0,0,2015-03-23,3230,/static/media/avatars/simon.png
 kilos,0,0,,de,,,2013-06-28,0,1,0,2014-06-09,,/static/media/avatars/eviltwin.png
 kilvanys,0,0,,us,,,2016-05-22,0,25,0,2016-07-04,,
-kimpsa,0,1,,,,,,0,,,2017-07-15,29416,
+kimpsa,0,1,,,,,,0,12796,,2017-07-15,29416,
 kingbirdy,0,0,,us,,,2012-04-14,0,0,0,2012-04-14,,
 kingsocarso,0,0,,us,,,2013-02-15,0,3,0,2015-02-09,,
 Kingz,0,0,,us,Alhambra California,,2010-08-01,0,1,0,2011-04-06,,
@@ -1687,7 +1687,7 @@ kjhota123,0,0,,br,,,2016-03-31,0,10,7,2016-04-02,,/static/media/avatars/Amethyst
 kjmann,0,0,,nectaflag,,,2014-08-27,0,0,0,2014-08-27,,
 kjwise,0,0,3833,is,Reykjavík,,2010-02-09,4,8,0,2010-02-09,,
 kklis,0,0,,pl,,,2017-10-14,0,0,0,2017-10-16,,
-kkramer,0,1,,,,,,0,,,2013-01-01,,
+kkramer,0,1,,,,,,0,16,,2013-01-01,,
 klashn,0,0,,us,,,2009-08-21,0,117,0,2013-09-25,,
 klaxon,0,0,,ch,,,2009-12-21,0,8,0,2009-12-21,,
 klaygor,0,0,,gb,,The original Klaygor,2015-07-09,1,5,2,2017-11-11,28859,
@@ -1702,13 +1702,13 @@ Klyr,0,0,,fr,,,2010-09-02,0,3,0,2011-01-26,,
 KMeleon,0,0,,de,,,2012-04-04,0,4,0,2016-02-05,,
 kmieciu,0,0,,pl,,,2009-02-21,0,2,0,2016-12-24,,
 Knakhe,0,0,,ru,,,2012-02-06,0,0,0,2012-02-06,,
-KnappApril34,1,,,,,,,0,,,2013-01-01,,
+KnappApril34,1,,,,,,,0,1,,2013-01-01,,
 knatten,0,0,,no,,,2013-07-11,0,0,0,2013-07-11,,
 knicven,0,0,,ve,,,2014-04-19,0,1,0,2014-04-19,,
 Knoght,0,0,,it,,Nothing High Concentration,2010-01-19,0,31,0,2010-01-21,5853,
 Knucklebuster1221,0,0,,nl,,,2015-07-17,0,4,2,2015-07-18,,
 knuetzler,0,0,,de,Wiesbaden,Hi,2010-03-11,0,2,0,2010-03-11,,
-knusp,0,1,,,,,,0,,,2017-09-29,,
+knusp,0,1,,,,,,0,13,,2017-09-29,,
 ko0x,0,0,1435,de,,"Erm, Hi!",2008-09-29,2,6,0,2014-11-14,,/static/media/avatars/radioreddit85x85.png
 KoCaine,0,0,,de,Berlin,,2009-08-17,4,153,0,2011-08-24,,/static/media/avatars/pdx-angels.png
 koen,0,0,,nl,,,2009-10-30,0,4,0,2014-04-21,,
@@ -1733,7 +1733,7 @@ korkut,0,0,,tr,,"keine Frau, nur Vaselin",2008-10-18,3,799,1,2016-08-13,8185,/st
 Korni,0,0,,pl,,,2011-12-10,0,1,2078,2018-04-06,,/static/media/avatars/cat_100.png
 kornislaw,0,0,,gb,,,2014-05-30,0,0,0,2014-05-30,,
 korvin,0,0,,ru,,,2010-03-06,0,14,0,2010-03-20,,
-Kosmos,0,0,,fi,Tampere,"""Indeed""",2008-10-05,11,1567,9172,2018-04-14,6340,/static/media/avatars/bark.jpg
+Kosmos,0,0,,fi,Tampere,"""Indeed""",2008-10-05,11,1573,9172,2018-04-14,6340,/static/media/avatars/bark.jpg
 Kosmos_UNUSED_NOPE_TODO,,,,,,,2008-10-05,,,,,,
 Kouglov,0,0,,fr,,,2017-03-08,0,1,0,2018-04-17,,
 kovacs,0,0,,hu,,Bald Dude :P,2009-06-06,0,37,0,2010-12-01,,/static/media/avatars/dawg_100_.png
@@ -1753,7 +1753,7 @@ krolu,0,0,,pl,,,2012-06-15,0,6,0,2012-06-15,,
 kronowolf,0,0,,us,,,2010-05-15,0,922,19,2017-06-13,,
 krotan,0,0,,,,,2016-09-08,5,0,0,2017-10-19,,
 krupkaj,0,0,,cz,,,2010-01-23,0,1,0,2017-06-20,,
-krusty,0,0,,fr,,,2011-05-04,2,613,14,2018-03-22,,/static/media/avatars/avatar_G5TqDH4.png
+krusty,0,0,,fr,,,2011-05-04,2,678,14,2018-03-22,,/static/media/avatars/avatar_G5TqDH4.png
 Krydar,0,0,5637,ar,"Buenos Aires, Argentina",Lucas Toews,2013-10-08,23,2,1327,2017-11-26,7863,/static/media/avatars/NECTARINE.jpg
 Kryil,0,0,,fi,,,2010-09-07,0,45,0,2012-12-04,,
 Krystal,0,0,,fr,,,2012-12-24,0,27,0,2017-10-17,,
@@ -1785,11 +1785,11 @@ lachverbot,0,0,,de,,,2012-11-20,0,0,0,2012-11-20,,
 LadyGuardian,0,0,,ca,Canada,,2009-07-01,0,21,0,2014-06-12,,
 Lafi,0,0,,fi,,,2012-07-24,0,1,0,2012-08-08,,
 Lailan,0,0,,,,,2010-01-25,0,3,0,2010-11-24,,
-lamb,0,,,,,,,0,,,2014-01-30,,
+lamb,0,,,,,,,0,0,,2014-01-30,,
 lamb_msm,0,0,,pl,,,2013-08-02,0,2,0,2014-01-11,,
 lambdacore,0,0,,de,,,2010-06-15,0,4,0,2017-07-10,,
 LamerPinky,0,0,5333,cz,,,2013-04-19,2,0,0,2013-10-22,,/static/media/avatars/Nectarine_Avatar_100.jpg
-Lancastersilk,0,0,,us,,,2011-02-13,1,442,484,2018-02-28,,
+Lancastersilk,0,0,,us,,,2011-02-13,1,451,484,2018-02-28,,
 Lance,0,0,,fi,,,2011-12-02,0,0,0,2011-12-02,,
 lanxu,0,0,,fi,,,2009-03-03,0,0,0,2016-09-16,,
 LargerThanLink,0,0,1988,se,,,2009-09-11,5,6,0,2015-06-05,,
@@ -1803,7 +1803,7 @@ Latis,0,0,,be,Cloudberry Fields,http://xtcabandonware.com,2008-09-25,5,3338,210,
 Lauplesser,0,0,,be,,,2009-11-29,24,58,0,2011-06-26,26956,
 lavaburn,0,0,4311,england,Bristol,,2010-06-08,2,6,0,2012-01-05,,
 Laxian,0,0,,ru,,,2013-12-08,4,0,0,2014-11-27,,
-ldc,0,0,,fr,,,2011-04-27,0,1105,0,2013-05-17,,
+ldc,0,0,,fr,,,2011-04-27,0,1103,0,2013-05-17,,
 ldos,0,0,,br,,,2014-09-22,0,0,0,2014-09-22,,
 ldosbh,0,0,,br,,,2016-01-17,0,0,0,2016-01-17,,
 le5h,0,0,,ru,,,2013-12-28,0,14,0,2016-01-05,,
@@ -1813,15 +1813,15 @@ lebanni,0,0,,fr,,,2009-07-26,0,1,0,2014-08-07,,
 leetlady,0,0,,gb,,,2009-07-19,0,3,0,2016-09-28,,
 Legioona,0,0,,fi,,,2009-08-28,0,34,0,2015-03-10,,
 legoboy,0,0,,eu,,,2009-12-16,0,8,0,2011-04-21,,
-LegoSpacy,0,1,,,,,,0,,,2013-01-01,,
+LegoSpacy,0,1,,,,,,0,5,,2013-01-01,,
 Leho,0,0,,fi,,,2010-06-13,0,6,0,2010-06-24,,
 lehuf,0,0,,de,,,2017-01-04,0,0,0,2017-01-04,,
-lemonade,0,0,1999,fi,Tampere,coder / musician,2008-09-21,621,14790,2032,2018-03-27,,/static/media/avatars/lemonstream10-64x64.jpg
+lemonade,0,0,1999,fi,Tampere,coder / musician,2008-09-21,621,14798,2032,2018-03-27,,/static/media/avatars/lemonstream10-64x64.jpg
 lenny,0,0,,ar,,,2011-11-14,8,98,76,2017-09-19,,
 leo,0,0,,,,,2009-11-23,0,1,0,2009-11-23,,
 leorean,0,0,,at,,,2012-09-20,0,1,0,2012-09-20,,
 Lepton,0,0,,no,,,2014-09-16,0,4,0,2014-09-16,,
-lessyv,0,1,,,,,,0,,,2015-06-10,,
+lessyv,0,1,,,,,,0,41,,2015-06-10,,
 Levente,0,0,,hu,,,2010-09-27,0,0,0,2012-09-04,,
 levty,0,0,,dk,,,2010-08-22,0,1,0,2014-10-24,,
 lewiS,0,0,,gb,London,Atari rules!,2009-07-13,0,374,0,2016-06-11,,/static/media/avatars/ja_awatar.jpg
@@ -1871,7 +1871,7 @@ Lothiack,0,0,,br,,,2009-11-28,0,4,0,2017-09-21,,
 lotjuh,0,0,,,,,2010-04-11,0,2,0,2010-04-11,,
 louib,0,0,,ca,,,2011-03-26,0,14,0,2012-09-23,,
 lourito,0,0,,pt,,,2015-08-04,0,18,3,2015-10-22,,
-LoveMetal,0,0,,fr,,,2011-03-26,4,250,28,2018-01-20,8179,/static/media/avatars/avatar_IbI7AMd.jpg
+LoveMetal,0,0,,fr,,,2011-03-26,4,251,28,2018-01-20,8179,/static/media/avatars/avatar_IbI7AMd.jpg
 lowe,0,0,,,,,2009-04-21,0,1,0,2009-04-21,,
 lroy,0,0,5208,tf,Lugdunum,Certified Annoyer™,2009-07-28,200,20000,17867,2018-01-31,33001,/static/media/avatars/amiga.png
 LSA_Vinnie,0,0,,fi,,,2011-12-28,0,147,0,2013-09-17,,
@@ -1886,7 +1886,7 @@ luishka,0,0,,pt,,,2010-04-21,0,61,0,2016-04-05,,
 luk,,,,,,,,,,,,,
 lukad,0,0,,de,,,2013-05-10,0,9,0,2013-05-26,,
 lulzbane,0,0,,za,,,2013-09-06,0,0,0,2013-09-06,,
-luminous,0,0,,se,,,2011-01-07,0,3,0,2011-04-06,,
+luminous,0,0,,se,,,2011-01-07,0,146,0,2011-04-06,,
 Luna,0,0,,ru,,,2012-11-14,0,5,0,2012-11-14,,
 lunchrum,0,0,,se,,,2014-11-18,0,1,0,2014-11-18,,
 Lundager,0,0,,dk,,,2009-12-03,0,80,30,2018-02-05,,
@@ -1899,7 +1899,7 @@ Lycan,0,0,,fr,,,2012-11-20,0,1,0,2012-11-20,29434,/static/media/avatars/avatar2_
 lzs,0,0,,de,,,2012-03-02,4,82,0,2014-02-06,,
 m00se,0,0,,pl,,,2011-07-19,0,0,0,2011-07-19,,
 m021,0,0,,nl,Almere,,2010-10-13,0,10,0,2010-10-13,,
-m0d,1,,,,,,,17,,,2014-05-17,,
+m0d,1,,,,,,,17,57,,2014-05-17,,
 m0nde,0,0,,,,,2009-05-16,0,1,0,2009-05-16,,
 M4iZou,0,0,,fi,,,2011-09-22,0,8,0,2012-02-20,,/static/media/avatars/Bit_Sage_small.bmp
 m68k,0,0,,nectaflag,,,2017-04-01,1,0,4,2017-04-02,,
@@ -1921,12 +1921,12 @@ MadMax,0,0,1973,,,,2011-10-09,0,1,0,2011-10-09,,
 madsravn,0,0,,dk,,,2016-04-26,0,0,0,2016-04-27,,
 Madsy,0,0,,no,Trondheim,,2009-06-08,0,79,0,2017-03-24,,/static/media/avatars/me_small.jpeg
 madtracker,0,0,,us,,,2012-10-05,0,0,0,2012-10-05,,
-maeln,0,,,,,,,0,,,2018-04-09,,
-maep,0,0,,bt,"(\/) (°,,,°) (\/)",‹‹this encoder sucks››,2009-01-27,82,17296,1936,2018-04-10,8751,/static/media/avatars/avatar2.png
-MageOnline,0,0,,fi,Helsinki,mage-online.com,2012-04-29,0,110,1,2018-01-29,,/static/media/avatars/mo.png
+maeln,0,,,,,,,0,4,,2018-04-09,,
+maep,0,0,,bt,"(\/) (°,,,°) (\/)",‹‹this encoder sucks››,2009-01-27,82,17432,1936,2018-04-10,8751,/static/media/avatars/avatar2.png
+MageOnline,0,0,,fi,Helsinki,mage-online.com,2012-04-29,0,111,1,2018-01-29,,/static/media/avatars/mo.png
 magicchris90,0,0,,gb,,,2011-09-06,0,0,0,2011-09-06,,
 MagicM,0,0,,de,,,2010-01-03,0,1,0,2017-10-24,,
-MagikGimp,0,0,,wales,,,2009-12-19,0,7,135,2018-04-13,,
+MagikGimp,0,0,,wales,,,2009-12-19,0,10,135,2018-04-13,,
 magipp,0,0,,us,,,2010-10-11,0,135,0,2011-07-12,,
 magix,0,0,,ua,,,2012-02-19,0,1,0,2012-02-19,,
 Magma,0,0,,se,,,2010-12-24,0,0,0,2012-05-07,,
@@ -1948,9 +1948,9 @@ makno,0,0,,it,,,2010-01-19,1,2,0,2010-01-19,,
 makron3232,0,0,,pl,,,2013-05-06,0,0,0,2013-05-06,,
 Malkavian,0,0,,se,,,2011-10-20,0,11,0,2011-12-08,,
 malle,0,0,,,,outside oslo,2010-02-20,0,5,0,2010-02-20,,
-malmen,0,0,1468,se,,,2009-12-30,34,473,936,2018-04-07,,
+malmen,0,0,1468,se,,,2009-12-30,34,662,936,2018-04-07,,
 malodorous101,0,0,5164,gb,"London, UK",quaint,2009-06-10,109,2842,3,2017-12-18,863,/static/media/avatars/onoes.gif
-Malstrond,0,1,,,,,,0,,,2013-01-01,,
+Malstrond,0,1,,,,,,0,0,,2013-01-01,,
 mamaladze,0,0,,cz,,,2011-11-14,0,0,0,2011-11-14,,
 manage,0,0,,,,,2009-03-06,0,23,0,2009-09-25,,
 Manawyrm,0,0,,de,Alfeld (Leine),"Electronics guy, networking, software dev",2015-02-18,0,5,0,2016-08-07,,
@@ -1978,13 +1978,13 @@ Marioosh,0,0,,pl,,,2009-08-02,0,26,0,2017-08-11,,
 mark3d,0,0,,cl,,,2014-12-28,0,0,0,2014-12-28,,
 MarkGyro,0,0,4874,th,,,2011-07-01,19,33,0,2013-06-14,,
 markku,0,0,,,,,2010-05-12,0,1,0,2010-05-17,,
-markoid,0,0,,us,,,2012-12-07,0,2935,0,2018-04-18,,
+markoid,0,0,,us,,,2012-12-07,0,3066,0,2018-04-18,,
 Marlon,0,0,3138,de,,Hello Sceners,2010-04-30,1,293,1,2016-04-16,7655,
 martig,0,0,,ee,,,2009-09-16,0,6,0,2010-10-11,,
-marv,0,,,,,,,0,,,2018-02-10,,
+marv,0,,,,,,,0,2,,2018-02-10,,
 Marvin,0,0,744,fr,Paris,,2010-09-23,31,17,0,2017-04-18,,
 mas4,0,0,,us,,,2014-12-09,0,1,0,2014-12-10,,
-Masa76,0,0,,fi,Turku,,2009-05-11,0,137,395,2018-04-01,6427,/static/media/avatars/Nectarinekuva.jpg
+Masa76,0,0,,fi,Turku,,2009-05-11,0,150,395,2018-04-01,6427,/static/media/avatars/Nectarinekuva.jpg
 Mashkin,0,0,,,,,2012-09-25,0,1,0,2012-09-29,,
 MASHtm,0,0,,at,Vienna,,2009-05-25,0,3,0,2017-05-11,,
 MasterCat,0,0,,,,,2010-09-21,0,2,0,2010-09-21,,
@@ -2029,12 +2029,12 @@ MDW,,,,,,,,,,,,,
 Mechanic_Bionic,0,0,,ru,,,2011-04-23,0,0,0,2011-04-23,,
 MechanisM,0,0,,ru,,,2014-03-21,0,0,0,2014-03-21,,
 mechtecs,0,0,,nectaflag,,,2016-03-11,0,2,0,2016-03-12,,
-medic,0,0,,us,,,2011-11-19,0,185,4,2018-04-17,,
-medinuxx,0,0,,de,,Hakuna Matata,2013-11-16,1,197,3,2018-04-02,29954,/static/media/avatars/827988af97d8fcbe64f00e52195e5711_-_Kopie_W7ajC2b.jpg
+medic,0,0,,us,,,2011-11-19,0,186,4,2018-04-17,,
+medinuxx,0,0,,de,,Hakuna Matata,2013-11-16,1,201,3,2018-04-02,29954,/static/media/avatars/827988af97d8fcbe64f00e52195e5711_-_Kopie_W7ajC2b.jpg
 meesdorfranger84,,,,,,,,,,,,,
 megabuster,0,0,,ca,,,2011-10-27,0,0,0,2011-10-27,,
 megamanlego,0,0,,br,,,2012-04-14,0,0,0,2012-04-14,,
-Mel,0,0,,no,,,2009-10-29,0,435,6204,2018-04-09,7520,/static/media/avatars/norge_.gif
+Mel,0,0,,no,,,2009-10-29,0,437,6204,2018-04-09,7520,/static/media/avatars/norge_.gif
 melcom,0,0,766,de,Berlin,Ⓜ-Ⓔ-Ⓛ-Ⓒ-Ⓞ-Ⓜ,2013-02-06,52,637,55,2016-01-25,,/static/media/avatars/melcom_logo_100x100-SpaceInvaders_001.png
 Melo,0,0,,de,"Ulm, Stuttgart, Karlsruhe, Toronto",,2009-09-21,0,1179,1,2016-05-06,6516,
 memedov,0,0,,tr,Ankara,,2015-07-31,0,3,8,2018-04-11,,
@@ -2075,30 +2075,30 @@ Mike_Upton,0,0,,,,,2009-10-03,0,1,0,2009-10-03,,
 mikedovel,0,0,,pl,,,2015-10-10,0,0,0,2015-11-12,,
 mikko150,0,0,,fi,,,2011-11-10,0,0,0,2011-11-10,,
 Mikle,0,0,,eu,,,2012-05-09,0,41,0,2012-06-04,28252,
-MikuroK,0,0,,nz,,,2012-05-01,0,264,0,2018-01-17,,
+MikuroK,0,0,,nz,,,2012-05-01,0,267,0,2018-01-17,,
 Milesss,0,0,,pl,,,2009-11-04,0,2,0,2010-06-15,,
 milkymonster16,0,0,,,,,2017-04-24,0,1,6,2017-04-25,,
 MiLO,0,0,,,,,2011-01-24,0,1,0,2011-01-24,,
 Mimosaa,0,0,,sg,,,2014-10-05,0,57,0,2015-04-01,,
-Mindiell,0,0,,fr,Guyancourt,,2010-05-22,0,417,990,2018-04-12,,
+Mindiell,0,0,,fr,Guyancourt,,2010-05-22,0,476,990,2018-04-12,,
 Mindless,0,0,,us,,Oh no!,2008-09-29,6,326,0,2014-06-14,578,/static/media/avatars/yoko.png
 Mindstormy,0,0,,,,,2014-05-12,0,19,5,2017-06-24,,
 MiniZiber,0,0,,,,,2010-06-01,0,1,0,2010-06-01,,
-mint,0,1,,,,,,0,,,2013-01-01,,
+mint,0,1,,,,,,0,4,,2013-01-01,,
 minus,0,0,,de,,,2010-04-11,1,6649,238,2017-11-14,,
 Mios,0,0,5276,sk,,,2013-01-04,0,9,0,2013-02-21,,/static/media/avatars/juibow.jpg
 mirage,0,0,,no,Trondheim,,2010-06-07,0,7,0,2010-06-21,,
 mirath,0,0,,se,Linköping,,2010-07-02,0,5,0,2010-07-19,,
 mirmite,0,0,,se,,,2011-09-16,0,0,0,2011-09-24,,
 mirq,0,0,,pl,Ciechanów,,2010-09-05,0,1,0,2014-05-07,25054,
-mirrorbird,0,0,,gb,south east,,2016-11-18,6,3064,20866,2018-04-18,35686,
+mirrorbird,0,0,,gb,south east,,2016-11-18,6,4596,20866,2018-04-18,35686,
 Misanthropic,0,0,,pl,,,2012-10-16,1,20,0,2012-11-08,,
 misric,0,0,,,,,2010-10-04,0,1,0,2010-10-17,,
 mistermsk,0,0,,us,,,2012-05-30,0,0,0,2012-07-30,,
 MisterOok,0,0,,nectaflag,,,2017-04-04,0,1,0,2017-05-15,,
 Mixer,0,0,,FIN,,,2010-11-28,0,0,0,2010-11-28,,
 miyu,0,0,,de,,,2017-09-05,0,40,1,2017-12-06,,
-mjwise,0,0,,us,,Here in Neo-Tokyo...,2012-10-02,6,504,81,2018-02-23,10564,/static/media/avatars/IMG_1363_avatar.jpg
+mjwise,0,0,,us,,Here in Neo-Tokyo...,2012-10-02,6,505,81,2018-02-23,10564,/static/media/avatars/IMG_1363_avatar.jpg
 mkkl,0,0,,,,,2010-02-27,0,2,0,2010-10-04,,
 mks,0,0,,,,,2010-11-13,0,1,0,2010-11-13,,
 mlktos,0,0,,fr,,,2013-03-22,0,1,0,2013-04-04,,
@@ -2107,13 +2107,13 @@ mmx64,0,0,,se,,,2014-11-10,13,48,0,2015-05-27,,
 mmxbass,0,0,,no,,,2009-12-17,0,0,0,2014-06-11,,
 mmzen,0,0,,fr,,,2012-01-15,0,1,0,2016-08-02,,
 mnt1101,0,0,,it,,,2011-09-25,0,0,0,2011-09-25,,
-mnx,0,,,,,,,0,,,2018-03-21,,
+mnx,0,,,,,,,0,0,,2018-03-21,,
 modcrave,0,0,,us,,,2013-06-28,0,0,0,2013-11-28,,
 Moderman,0,0,,ua,,,2013-01-26,37,0,0,2014-02-05,,
 modrobert,0,0,,,Bangkok,"Stop thinking, and end your problems.",2009-02-04,0,65,3,2017-11-22,,/static/media/avatars/snake_cig.jpg
 ModulaOrgUk,0,0,,gb,,,2011-03-31,0,1,0,2011-04-20,,
 moechofe,0,0,,fr,,,2010-05-09,1,142,0,2017-02-14,,
-moellpauk,0,0,4167,no,Oslo,Mostly listener. Trying to learn.,2010-01-13,11,6402,69,2018-04-20,,/static/media/avatars/meg2_1.jpg
+moellpauk,0,0,4167,no,Oslo,Mostly listener. Trying to learn.,2010-01-13,11,6522,69,2018-04-20,,/static/media/avatars/meg2_1.jpg
 mofoburrell,0,0,,ca,,,2012-02-08,0,0,0,2012-02-08,,
 mog,0,0,,ro,,,2015-11-01,1,1,3,2015-11-01,,
 moggen,0,0,,se,,,2013-08-15,0,0,0,2015-03-18,,
@@ -2141,12 +2141,12 @@ morckify,0,0,,pl,Łódź,"Tak jak Sub-Zero, mrozisz i dy...",2011-11-08,0,8,0,20
 Mordi,0,0,2040,no,,Remixer and composer,2010-02-10,1,26,19,2017-07-03,,/static/media/avatars/avatar280x80.png
 morgan,0,0,5450,fr,,,2013-12-29,2,0,0,2017-08-19,,
 morgant,0,0,,us,"Shelburne, VT",,2010-09-20,0,56,0,2016-12-19,,/static/media/avatars/Morgan.gif
-morgium,0,0,,de,,,2015-08-28,0,47,140,2018-04-03,,
+morgium,0,0,,de,,,2015-08-28,0,58,140,2018-04-03,,
 morgoth,0,0,,eu,,,2013-11-02,0,42,0,2014-05-24,,
 moronizzz,0,0,,ru,,,2016-02-12,0,12,1,2017-08-16,,
 morow,0,0,,ie,,,2009-10-16,0,14,0,2015-03-01,,
 morris,0,0,,pl,,,2014-05-21,0,0,0,2014-05-21,,
-mortengh,0,0,,dk,,,2011-01-11,0,301,9,2018-04-13,,/static/media/avatars/mgh.jpg
+mortengh,0,0,,dk,,,2011-01-11,0,313,9,2018-04-13,,/static/media/avatars/mgh.jpg
 Mosaulp,0,0,,de,,,2012-10-21,0,2,0,2012-10-21,,
 Mosef,0,0,,no,,,2011-02-24,0,0,0,2012-07-01,,
 Moses,0,0,,us,,,2009-10-13,18,1105,0,2014-06-11,,
@@ -2174,13 +2174,13 @@ mre521,0,0,,ca,,,2014-09-14,0,0,0,2015-04-20,,
 MrKomlev,0,0,,ru,"Omskaya Oblast', Bol'sherech'e",,2012-04-23,1,167,0,2018-01-30,,/static/media/avatars/kote_v_teni_100.png
 mrobekowski,0,0,,gb,,,2011-08-08,0,0,0,2011-08-08,,
 mrpixel,0,0,,hu,,,2010-07-28,0,11,0,2010-07-28,,
-MrsBeanbag,0,0,5672,scotland,,,2016-09-25,18,563,6971,2018-04-02,,
-MrsBidette,0,1,,,,,,0,,,2014-02-13,,
+MrsBeanbag,0,0,5672,scotland,,,2016-09-25,18,597,6971,2018-04-02,,
+MrsBidette,0,1,,,,,,0,10719,,2014-02-13,,
 mruczek,0,0,,pl,,,2014-07-04,0,95,1,2015-12-24,,/static/media/avatars/photo_2.jpg
 mrv,0,0,,pl,,,2015-12-18,0,0,0,2015-12-18,,
 mrx,0,0,,ca,,<3 scenemusic,2009-06-23,52,152,0,2013-08-04,,/static/media/avatars/aurelsavatar.png
 MrXaliasH,0,0,,de,,,2013-09-12,0,2,0,2013-11-07,,
-mryoung,0,0,,fr,Chalons en Champagne,,2009-03-25,0,19,0,2014-10-13,,/static/media/avatars/avatar_twin.png
+mryoung,0,0,,fr,Chalons en Champagne,,2009-03-25,0,29,0,2014-10-13,,/static/media/avatars/avatar_twin.png
 mrzoon,0,0,,us,"Sutton, MA",Free the wanton golden coil!,2009-02-06,0,2,0,2011-12-02,,/static/media/avatars/boingtongue.png
 ms23,0,0,,pl,,,2017-01-05,0,0,0,2017-12-27,,
 msbomberman,0,0,,pt,,,2014-09-24,0,0,0,2014-09-24,,
@@ -2195,7 +2195,7 @@ mufftin,0,0,,it,Hamburg,I love the demoscene music.,2009-02-12,0,132,4,2017-03-2
 Munchausen,0,0,,gb,,,2013-04-23,0,0,0,2013-04-23,,
 Muniak,0,0,,pl,,,2014-07-06,0,8,14,2018-03-03,,
 Munnen,0,0,,se,,Magnus Sandkvist,2013-10-02,0,1,0,2013-10-02,,
-Mupfel,1,,,,,,,0,,,2015-12-19,,
+Mupfel,1,,,,,,,0,752,,2015-12-19,,
 murci,0,0,,es,,,2016-09-21,0,0,0,2016-09-21,,
 Murixon,0,0,,pl,,,2013-02-03,0,0,0,2013-02-03,,
 musaic,0,0,,hu,,,2011-06-01,0,1,0,2013-06-28,,
@@ -2205,17 +2205,17 @@ MWK,0,0,,pl,contrabanda.eu,yo,2013-01-01,0,20,5,2017-04-14,,/static/media/avatar
 mylzi,0,0,,fi,,,2013-10-06,0,0,0,2013-10-06,,
 mymail2005,0,0,,,,,2009-10-09,0,6,0,2009-10-09,,
 Mynnia,0,0,,at,,,2010-03-15,0,44,0,2013-12-01,,
-MyO,0,0,,ru,,"A translator (eng>rus, rus>eng).",2008-09-22,157,2039,2096,2018-04-11,32045,/static/media/avatars/screenshot.471.gif
-myst,0,0,,de,,,2009-08-20,1,32,0,2015-07-29,23543,
+MyO,0,0,,ru,,"A translator (eng>rus, rus>eng).",2008-09-22,157,2051,2096,2018-04-11,32045,/static/media/avatars/screenshot.471.gif
+myst,0,0,,de,,,2009-08-20,1,47,0,2015-07-29,23543,
 Mysti_B,,,,,,,,,,,,,
 MystR,0,0,,fr,,,2012-12-17,0,0,0,2012-12-17,,
-Mystra,0,0,1625,no,Kristiansand,,2008-10-01,1310,22325,229,2018-04-08,8478,
+Mystra,0,0,1625,no,Kristiansand,,2008-10-01,1310,22341,229,2018-04-08,8478,
 Mythril,0,0,,,,,2009-12-28,0,3,0,2009-12-28,,
 myztical,0,0,,no,,,2013-11-07,0,0,0,2013-11-07,,
 n0kkasiili,1,0,,,,,2012-01-01,0,0,0,2013-01-01,,
 n0p,0,0,,am,,,2015-09-02,0,1,2,2016-09-22,,
 n3on3t,0,0,,fr,marseille,,2014-03-01,0,63,9,2016-11-13,,
-na85,0,0,,ca,,Fighting crime in a future time.,2009-12-18,0,286,14,2018-02-18,,
+na85,0,0,,ca,,Fighting crime in a future time.,2009-12-18,0,293,14,2018-02-18,,
 naaina,0,0,,de,,,2009-08-02,1,5,0,2015-06-28,,
 nabuco,0,0,,es,Spain,,2010-01-30,0,1,0,2010-01-30,,
 naDah,0,0,,se,,,2014-08-06,0,1,0,2014-08-06,,
@@ -2232,11 +2232,11 @@ Nativ,0,0,4832,gb,Dorset,,2009-10-03,4,9,0,2011-08-19,,
 Natrox,0,0,5344,nl,,,2013-04-02,1,7,0,2013-12-07,,
 nats,0,0,,fr,,,2010-01-04,0,11,0,2017-07-11,,
 nawulf,0,0,,fi,Tampere,,2008-10-06,0,2,1,2018-01-03,,/static/media/avatars/arralle.gif
-Nbrevu,0,0,,es,,,2008-11-22,0,5,0,2018-03-29,,
+Nbrevu,0,0,,es,,,2008-11-22,0,8,0,2018-03-29,,
 ndk,0,0,,ru,,,2009-03-07,0,27,0,2018-01-02,,
 ndog,0,0,,kr,,,2014-11-02,0,0,0,2014-11-02,,
 ne_sjo,0,0,,gb,,,2012-08-21,0,0,0,2012-08-21,,
-Nectarnine,0,1,,,,,,0,,,2013-01-01,,
+Nectarnine,0,1,,,,,,0,0,,2013-01-01,,
 nectin,0,0,,bb,,Nextarine is back!!,2010-09-13,0,3,0,2010-11-05,,/static/media/avatars/headbanger.gif
 Nectranine,0,0,,ca,,,2012-12-15,0,0,0,2012-12-15,,
 Needle,0,0,,us,,,2009-01-14,0,6,0,2018-01-29,,
@@ -2247,12 +2247,12 @@ Negrostrike,0,0,,,,,2013-02-22,26,17,0,2016-07-27,,/static/media/avatars/hepatit
 nemesis,0,0,,gb,,,2012-09-07,0,0,0,2012-09-21,,
 nemo,,,,,,,,,,,,,
 nemrod6_thereal,,,,,,,,,,,,,
-Neobyte,0,0,,fi,,Demovibes,2011-05-25,0,692,304,2018-04-10,,
+Neobyte,0,0,,fi,,Demovibes,2011-05-25,0,693,304,2018-04-10,,
 NeoLeMarc,0,0,,de,,,2015-08-04,0,1,0,2018-02-06,,
 neongod,0,0,3277,hu,,,2009-11-17,0,2,0,2012-10-29,,
 NeoPampalini,0,0,,hu,,,2009-02-28,0,4,0,2010-07-10,,
 neptho,0,0,,,,,2009-01-30,0,26,0,2018-02-01,,
-NerdN,0,0,4971,no,, ,2011-09-15,6,39045,42594,2018-04-20,1,/static/media/avatars/avatar_gERdPx4.png
+NerdN,0,0,4971,no,, ,2011-09-15,6,39355,42594,2018-04-20,1,/static/media/avatars/avatar_gERdPx4.png
 neriakX,0,0,4919,de,,I'm the real Ninja!,2011-10-19,4,112,0,2017-09-02,,/static/media/avatars/neriakx_ninja_nectarine.png
 neseliadam,0,0,,,,,2009-11-09,0,1,0,2009-11-09,,
 Nessaja,0,0,,,Potchefstroom,,2010-11-09,0,4,0,2010-11-15,,
@@ -2285,7 +2285,7 @@ niedobry,0,0,,pl,,,2011-06-14,0,4,0,2011-06-14,,
 nigels,0,0,,,,,2010-12-23,0,19,0,2010-12-30,,
 nighter,0,0,,tv,,,2010-01-07,0,1,0,2010-06-10,,
 nightlord,0,0,,tr,,,2010-01-05,0,2,0,2010-01-06,,
-nikamota,0,0,4475,gb,,Michael Ferguson aka M.A.F,2016-01-07,9,164,1093,2017-08-06,7415,
+nikamota,0,0,4475,gb,,Michael Ferguson aka M.A.F,2016-01-07,9,184,1093,2017-08-06,7415,
 Nikem,0,0,,gb,,,2011-09-08,0,4,0,2014-05-24,,/static/media/avatars/avatar-0754.jpg
 nilla,0,0,,nectaflag,,,2014-12-25,0,1,0,2014-12-27,,
 nille,0,0,,,,,2009-09-17,0,3,0,2009-12-08,,
@@ -2300,7 +2300,7 @@ nizi,0,0,,fi,,,2009-09-05,0,11,4,2016-06-23,,
 nms,0,0,,se,,,2009-03-24,0,1,0,2014-11-27,,/static/media/avatars/minisun.png
 nntnd,0,0,,,,,2009-12-24,0,4,0,2009-12-24,,
 nobidion,0,0,,hu,,,2010-10-10,0,4,0,2015-09-20,,
-nobody,0,0,,de,,,2014-12-10,0,166,0,2018-02-19,,
+nobody,0,0,,de,,,2014-12-10,0,167,0,2018-02-19,,
 Nodepond,0,0,,de,Cologne,Welcome to Colscene,2012-11-13,0,6,0,2015-08-06,,
 noel,0,0,,fi,,,2011-06-16,0,19,0,2011-10-26,,
 Noir04,0,0,,dk,,,2010-09-07,0,95,0,2013-10-08,,
@@ -2317,7 +2317,7 @@ Northern,0,0,,es,,,2009-07-25,0,6,0,2013-10-21,,
 Norty,0,0,,fr,,,2009-11-14,0,78,0,2017-05-21,,
 nosam,0,0,,de,,,2009-06-08,0,1,0,2012-04-12,,
 nosferathoo,0,0,,pl,,,2010-05-03,0,2,1,2016-01-16,,
-Nosferatu,0,0,3901,no,Oslo,What is your function in life?,2009-02-12,23,6523,826,2018-04-09,6339,/static/media/avatars/Turbodawg_80.png
+Nosferatu,0,0,3901,no,Oslo,What is your function in life?,2009-02-12,23,8131,826,2018-04-09,6339,/static/media/avatars/Turbodawg_80.png
 nostalgames,0,0,,kp,Frankfurt,http://nostal-games.blogspot.com/,2010-10-30,0,80,0,2010-12-01,,
 notoriou5,0,0,,se,Partille,Notorious,2016-07-28,1,0,0,2016-07-30,,
 notto,0,0,,au,,,2012-03-03,0,0,0,2012-03-03,,
@@ -2331,13 +2331,13 @@ nshell32,0,0,,by,,,2012-03-19,0,0,0,2012-03-19,,
 ntsc,0,0,,fr,,,2014-03-12,0,2,0,2014-03-12,,
 nuciphaal,0,0,,gb,,,2012-02-24,0,0,0,2012-02-24,,
 nuclear,0,0,,gr,,,2016-05-17,0,7,0,2017-09-10,,
-nuklearwinter,0,1,,,,,,0,,,2014-07-22,,
+nuklearwinter,0,1,,,,,,0,11,,2014-07-22,,
 numerus,0,0,,ch,,Remember Imphobia ?,2008-11-13,0,415,0,2014-04-11,,
 NurDerHSV,0,0,,de,,Hamburg meine Perle,2014-07-29,0,1,1,2016-12-07,,/static/media/avatars/hsv.png
 nurf,0,0,,us,,,2009-07-17,0,208,46,2017-02-25,,
 nvictor,0,0,,us,,bice mett you too,2011-06-09,20,3205,0,2012-12-27,,
 nwheels,0,0,,it,,,2011-07-21,0,70,0,2016-10-13,,/static/media/avatars/avatar_nectarine.png
-nyingen,0,0,,nz,Tauranga,ATARIAN,2017-01-07,0,343,938,2018-04-16,,
+nyingen,0,0,,nz,Tauranga,ATARIAN,2017-01-07,0,664,938,2018-04-16,,
 nzt,0,0,,ru,,,2015-01-10,0,1,0,2015-01-10,,
 obsidian,0,0,,tr,,,2012-09-09,0,0,0,2012-09-09,,
 OCCASVS,0,0,,pl,Wrocław,,2012-02-05,0,148,0,2012-10-14,,
@@ -2356,7 +2356,7 @@ ok3anos,0,0,2008,fr,,,2010-11-10,3,24,0,2016-10-20,,/static/media/avatars/avatar
 okfox,0,0,,us,,,2012-04-06,0,1,0,2012-04-06,,
 okkin,,,,,,,,,,,,,
 Old_Hair,0,0,,us,,,2013-10-02,0,0,0,2013-10-02,,
-Oldchap,0,0,,us,Oregon (but now Chicago),,2010-11-15,139,643,478,2018-04-18,5705,
+Oldchap,0,0,,us,Oregon (but now Chicago),,2010-11-15,139,1767,478,2018-04-18,5705,
 olesio,0,0,,,,,2008-09-24,0,5,0,2015-10-06,,
 olieter,0,0,,be,,,2014-05-06,0,1,0,2014-05-06,,
 olivierh59,0,0,,fr,,,2017-01-06,0,29,0,2018-04-19,,
@@ -2366,7 +2366,7 @@ OmaOhneBH,0,0,,de,,,2016-09-21,0,27,2,2017-08-04,,
 Omegas,0,0,,fi,Kirkkonummi,,2009-01-23,0,0,49,2018-03-23,,
 omgiafs,0,0,,ru,,,2009-06-08,38,3,0,2017-03-11,,
 omhak,0,0,,fi,,,2011-03-22,0,0,0,2011-03-22,,
-omilian,0,0,,pl,Suwalki,,2009-10-21,0,715,0,2018-03-07,,
+omilian,0,0,,pl,Suwalki,,2009-10-21,0,727,0,2018-03-07,,
 OMINOUSD8A,0,0,,gb,,,2014-03-14,0,1,0,2014-03-14,,
 Onaka,0,0,,fi,,,2009-12-18,0,43,0,2009-12-19,,/static/media/avatars/samussmall__.png
 onc,0,0,,fr,,ONC,2008-09-26,0,680,5,2017-08-17,,
@@ -2374,7 +2374,7 @@ Onigiri,0,0,,,,,2009-05-04,0,1,0,2011-01-06,,
 ooBrian,0,0,,de,,,2012-12-24,0,1,0,2013-12-26,,
 ook,0,0,,fr,,Coding the Web.,2009-07-09,0,35,0,2014-01-15,,
 ookami,0,0,,de,,,2010-10-13,0,55,0,2011-10-03,,
-ooooggggaaaa,0,,,,,,,0,,,2018-02-23,,
+ooooggggaaaa,0,,,,,,,0,2,,2018-02-23,,
 oop23,0,0,,pl,,,2017-01-07,0,0,0,2017-01-07,,
 Opa_Ernst,0,0,,,,,2008-12-14,0,1,0,2008-12-14,,
 opfer15,0,0,,,,,2014-12-07,0,14,0,2015-01-21,,
@@ -2385,7 +2385,7 @@ orange_juice,0,0,,pl,,,2010-05-11,0,3,0,2010-06-11,,
 origpumu,0,0,,de,,,2009-11-24,0,9,0,2011-04-01,,/static/media/avatars/KS1.3_100x96.jpg
 Orion_,0,0,,fr,,Retro Coder,2009-05-19,0,21,0,2011-11-25,12308,/static/media/avatars/profil.jpg
 Orodigital,0,0,,ar,,,2014-07-13,0,0,0,2014-07-13,,
-oryx,0,0,,fr,Paris,,2009-08-09,0,819,1,2018-03-21,8702,
+oryx,0,0,,fr,Paris,,2009-08-09,0,836,1,2018-03-21,8702,
 osan,0,0,,se,,,2011-12-02,0,13,0,2012-01-09,,/static/media/avatars/avatar-jul.gif
 OSH,0,0,,pl,Lave Station,,2008-12-18,3,621,0,2014-10-19,,
 Osmic,0,0,3342,,,Yeahh...,2012-07-18,0,73,0,2014-08-04,,
@@ -2395,11 +2395,11 @@ overlord,0,0,,,,,2009-09-28,0,1,0,2010-08-16,,
 oview,0,0,,fi,,,2015-05-13,0,0,26,2016-06-28,,
 oxx,0,0,,de,,,2009-09-05,0,69,733,2017-04-12,,
 oZen,0,0,,fr,,,2009-12-16,0,17,0,2009-12-16,,
-Ozgu,0,0,,fi,Turku,,2009-10-11,0,1638,1,2018-02-07,,/static/media/avatars/PuukkoBoris_valmis2-l%C3%A4pin%C3%A4kyv%C3%A4.png
+Ozgu,0,0,,fi,Turku,,2009-10-11,0,1643,1,2018-02-07,,/static/media/avatars/PuukkoBoris_valmis2-l%C3%A4pin%C3%A4kyv%C3%A4.png
 ozymandias,0,0,,ca,,,2009-01-22,0,4,0,2015-03-29,,
 p05171v3,0,0,,ru,,,2012-01-22,0,0,0,2012-01-22,,
 p0ke,0,0,,fr,,,2012-08-08,0,0,0,2016-03-08,,
-p0lar,0,0,,de,,,2010-10-12,0,53,2,2018-04-11,,
+p0lar,0,0,,de,,,2010-10-12,0,54,2,2018-04-11,,
 p2502,0,0,,de,,,2008-12-21,0,128,0,2016-07-30,,
 p2k,0,0,,de,,Coding for life... always moving ahead...,2010-08-14,0,15,0,2018-02-26,,/static/media/avatars/Megaman8.gif
 p3p3p3p3,0,0,,ru,,,2013-01-01,0,1,0,2013-01-01,,
@@ -2427,7 +2427,7 @@ Paranoid,0,0,5277,ar,,,2012-12-09,9,155,0,2013-05-20,,/static/media/avatars/2007
 PaRaQuArTeX,0,0,,it,,,2015-01-23,0,1,134,2017-01-03,,
 parejkoj,0,0,,,New Haven,,2014-03-03,0,201,0,2015-04-17,,
 parkuhrwaechter,0,0,,de,,,2009-11-25,0,116,0,2010-11-01,,/static/media/avatars/mogwai-logo.gif
-PasiAnssi,0,0,,fi,,,2016-11-18,0,78,59,2018-02-06,,
+PasiAnssi,0,0,,fi,,,2016-11-18,0,103,59,2018-02-06,,
 pasiu,0,0,,pl,Wroclaw,,2015-05-27,0,1,0,2017-06-26,,
 patfish,0,0,,fr,,,2013-11-03,0,1,0,2013-11-05,,/static/media/avatars/revox.jpg
 patryk1287,0,0,,pl,,,2017-01-30,0,0,0,2017-01-30,,
@@ -2451,8 +2451,8 @@ peparayos,0,0,,cl,,,2011-05-26,0,2,0,2012-02-06,,
 pera,0,0,,ar,"Seattle, WA, USA",    I am not an atomic playboy,2008-11-23,5,168,10,2017-08-19,,/static/media/avatars/oldperacintosh_avatar96_.png
 peregrine,0,0,,,,,2010-04-16,0,5,0,2010-04-16,,
 perennial,,,,,,,,,,,,,
-Perennialll,0,,,,,,,0,,,2013-04-22,,
-Perennially,0,0,,sg,,,2015-07-29,0,71,22746,2018-04-17,,
+Perennialll,0,,,,,,,0,0,,2013-04-22,,
+Perennially,0,0,,sg,,,2015-07-29,0,76,22746,2018-04-17,,
 perfectcode,0,0,,ca,"Vancouver, BC",,2009-10-31,30,716,0,2013-11-03,,/static/media/avatars/NumberedEquation2.gif
 PeroFotar,0,0,,si,,,2012-12-27,0,0,0,2012-12-29,,
 Perunarutto,0,0,,fi,,,2009-08-28,0,122,0,2016-11-11,,
@@ -2470,9 +2470,9 @@ phil242,0,0,,fr,,,2009-03-04,0,69,0,2016-10-06,,
 PhilMoon,0,0,,be,,,2011-04-11,0,0,0,2016-01-19,,
 Philsan,0,0,,ch,,,2010-06-25,0,1,0,2010-06-25,,/static/media/avatars/Archon_Philsan_64x64_.gif
 philthy,0,0,,de,,,2015-08-09,0,7,9,2015-08-12,,
-Phlubby_Gnome,0,0,,nl,,ꆜ,2009-01-19,0,36136,15001,2018-04-13,35695,
+Phlubby_Gnome,0,0,,nl,,ꆜ,2009-01-19,0,36738,15001,2018-04-13,35695,
 Phoenyx,0,0,,se,,,2015-01-31,0,0,0,2015-01-31,,
-PhotonStorm,0,0,,gb,,Atari ST Rocker,2009-11-10,0,895,661,2018-04-09,,/static/media/avatars/birdie-64x64-av.png
+PhotonStorm,0,0,,gb,,Atari ST Rocker,2009-11-10,0,901,661,2018-04-09,,/static/media/avatars/birdie-64x64-av.png
 phrank,0,0,,us,,,2013-08-29,0,28,0,2014-05-16,,
 phraxoid,0,0,,np,The Ether,Voiding warrantees since 1998. ,2017-06-06,0,0,6,2017-09-16,29187,/static/media/avatars/logo-100px.png
 phreon,0,0,,nectaflag,,,2015-07-11,0,0,0,2015-07-14,,
@@ -2496,12 +2496,12 @@ pingo,0,0,,no,,,2009-05-16,1,109,0,2013-01-03,,/static/media/avatars/anders.jpg
 Pink,0,0,,de,,,2010-05-04,0,0,21,2016-07-24,,
 Pink_Silver,0,0,1777,us,,Doom modder,2009-04-20,52,48,35,2017-11-25,9218,
 piotereks,0,0,,,,,2013-06-20,0,0,0,2013-06-20,,
-pipe,0,0,4373,se,,,2009-09-09,12,4431,6087,2018-04-13,,
+pipe,0,0,4373,se,,,2009-09-09,12,4542,6087,2018-04-13,,
 pipjmalt,0,0,3952,us,,Belch.*mm* 'cuse me.,2009-12-13,0,1,0,2010-06-13,,/static/media/avatars/Pip_Malt_Icon_small_.jpg
 piratefox,0,0,,fi,,,2016-11-27,0,0,0,2017-09-08,,
 piski125,0,0,,fr,Guyana,,2010-05-22,1,0,0,2012-04-06,,
 pit2001,0,0,,pl,,,2015-03-08,0,0,0,2015-03-08,,
-piter,0,0,,sg,,,2008-12-22,0,17,0,2018-04-15,,
+piter,0,0,,sg,,,2008-12-22,0,34,0,2018-04-15,,
 PixelGrinch,0,0,,de,,,2014-02-27,0,64,0,2014-08-22,,
 pixelman,0,0,,,Segré,your pixelman,2009-10-16,0,1,0,2010-04-07,,/static/media/avatars/banner_invader_small.gif
 pixntel,0,0,,fr,,,2011-04-15,0,0,0,2012-08-30,,
@@ -2512,9 +2512,9 @@ pkmays,0,0,,us,,,2011-04-24,0,1,0,2013-05-17,,
 plasmaniac,0,0,,de,Trier,,2010-05-10,0,6,0,2010-09-27,,
 play3r,0,0,,al,,No rest for the wicked,2011-08-31,0,6,0,2013-08-27,,
 Player701,0,0,,ru,,,2012-08-18,0,0,0,2012-08-18,,
-plc,0,0,,de,,,2016-09-25,9,6198,72,2018-04-06,,
+plc,0,0,,de,,,2016-09-25,9,7711,72,2018-04-06,,
 PLewin,0,0,,gb,Liverpool,,2010-05-27,0,1,0,2010-05-27,,
-PloDel,0,,,,,,,7,,,2018-02-24,,
+PloDel,0,,,,,,,7,0,,2018-02-24,,
 ploughman,0,0,,pl,,,2014-08-27,0,0,0,2014-08-27,,
 pochmurnik,0,0,,pl,,,2009-08-27,0,2,1,2016-05-12,,
 Pogo,0,0,,pl,,,2016-09-23,0,0,0,2017-02-25,,
@@ -2532,13 +2532,13 @@ powerhead,0,0,,ru,,,2009-04-04,0,1,0,2016-01-14,,
 powerpsy,0,0,,ch,,,2011-02-21,0,15,0,2015-01-02,,
 pps,0,0,4095,be,,,2010-03-26,1,19,0,2010-04-05,,
 ppucyk,0,0,,pl,,,2011-04-28,0,0,0,2011-04-28,,
-pr000m,0,0,1626,se,,,2009-11-22,0,78,92,2018-02-21,,
+pr000m,0,0,1626,se,,,2009-11-22,0,82,92,2018-02-21,,
 pr00m,1,0,,,,,2009-01-01,0,0,0,2013-01-01,,
 Preacher,0,0,,fi,,,2012-02-10,0,0,0,2012-04-03,,
 prehensile,0,0,,gb,,,2009-04-14,0,0,0,2011-10-17,,
 Preiselbeere,0,0,,,,,2010-01-21,0,4,0,2013-01-17,,
 Preki,0,0,,pl,"Siedlce city, eastern Poland",,2009-12-03,2,0,24,2016-01-18,22136,/static/media/avatars/Silencer_sml.png
-premium,0,0,,de,,AAAAMMMIIGGGAAHHH,2008-09-22,3,489,31,2018-03-20,471,
+premium,0,0,,de,,AAAAMMMIIGGGAAHHH,2008-09-22,3,491,31,2018-03-20,471,
 Preston,0,0,1515,ru,spb,Preston/Sands/Quite,2011-07-03,48,0,0,2013-05-01,,/static/media/avatars/avza.jpg
 PrimeAmsterdam,0,0,,nl,Amsterdam,,2010-03-15,0,114,0,2016-08-03,,
 prismate,0,0,,de,,,2011-11-14,1,122,0,2014-06-04,,
@@ -2550,7 +2550,7 @@ Propect,0,0,,se,,,2016-02-22,0,0,0,2016-10-26,,
 prospect,0,0,,se,Falkenberg,,2016-02-22,0,1,0,2016-02-22,,
 protomouse,0,0,,se,,,2013-09-21,0,0,0,2013-09-21,,
 proton,0,0,,,,Scene music rulez!,2009-07-19,0,2,0,2010-09-23,,/static/media/avatars/avatar.jpg
-prowler,0,0,,se,Göteborg,"9 millenia,",2008-09-30,1335,19888,3028,2018-04-18,2894,/static/media/avatars/klas_85.gif
+prowler,0,0,,se,Göteborg,"9 millenia,",2008-09-30,1335,20295,3028,2018-04-18,2894,/static/media/avatars/klas_85.gif
 przeszczepix,0,0,,pl,,,2014-06-30,0,0,0,2014-06-30,,
 psalomo,0,0,,no,,,2013-11-19,0,0,0,2013-11-19,,
 psha,0,0,,bg,,,2011-11-09,0,0,0,2011-11-09,,
@@ -2568,7 +2568,7 @@ PTY,,,,,,,,,,,,,
 Pucman,0,0,,pl,,,2015-06-18,0,0,0,2015-06-19,,
 puffball,0,0,,no,,,2010-03-03,0,26,22,2018-04-19,,
 puffie40,0,0,,ca,,,2011-07-04,0,0,0,2018-01-29,,
-PulkoMandy,0,0,,fr,,,2010-01-17,0,39,0,2018-03-11,,
+PulkoMandy,0,0,,fr,,,2010-01-17,0,48,0,2018-03-11,,
 pulsecode,0,0,,,,,2010-06-17,0,1,0,2010-06-17,,
 pumbaa,0,0,,se,sthlm,,2011-03-23,0,0,0,2014-05-23,,
 punkiller,0,0,,it,,,2011-10-12,0,0,0,2011-10-16,,
@@ -2584,17 +2584,17 @@ Pwntastic,0,0,,,,,2008-10-07,0,16,0,2011-09-01,,
 pwrdwnsys,0,0,,gb,,,2010-04-05,0,121,0,2013-01-24,29190,/static/media/avatars/saxon_profile_pic_bigger.jpg
 pyh,0,0,,fi,,,2011-04-07,0,0,0,2017-08-11,,
 pyksy,0,0,,fi,Oulu,AMiGA rULEZ oK,2009-01-27,0,2,0,2018-03-05,,
-PypeBros,0,0,2421,be,,DS homebrewer,2009-03-24,0,328,59,2017-12-21,290,/static/media/avatars/profile.png
+PypeBros,0,0,2421,be,,DS homebrewer,2009-03-24,0,335,59,2017-12-21,290,/static/media/avatars/profile.png
 pyramex,,,,,,,,,,,,,
 pyrobisqit,0,0,,es,,,2012-05-05,0,1,0,2012-05-21,,
-pzinz130,0,1,,,,,,0,,,2014-07-21,,
+pzinz130,0,1,,,,,,0,96,,2014-07-21,,
 q3k,0,0,,pl,,,2009-10-24,0,182,0,2014-09-26,8668,/static/media/avatars/commodore-logo.png
 Qbert,0,0,,se,,,2012-03-09,0,2,0,2012-03-09,,
-qbit,0,0,,nl,,,2009-04-18,0,1157,0,2012-12-11,11526,
+qbit,0,0,,nl,,,2009-04-18,0,1156,0,2012-12-11,11526,
 qerkop79,0,0,,de,Hannover,listener,2010-02-16,0,33,0,2014-01-27,,
 qitano,0,0,5492,ca,Quebec,I am QiTaNo,2014-04-19,1,0,0,2014-07-14,,
 qq392643124,0,0,,cn,,,2013-04-02,0,0,0,2013-08-21,,
-Quarex,0,0,,us,,,2009-08-27,0,19,0,2018-03-26,,/static/media/avatars/.jpg
+Quarex,0,0,,us,,,2009-08-27,0,20,0,2018-03-26,,/static/media/avatars/.jpg
 Quatlo,0,0,,pl,,,2012-09-11,0,96,0,2015-10-19,,
 quazzie,0,0,,,,,2009-03-17,0,21,0,2012-11-07,,
 quazziza,0,0,,za,,,2011-09-21,0,1,0,2011-09-21,,
@@ -2620,7 +2620,7 @@ radiux,0,0,,us,,,2009-03-28,0,1,0,2011-04-26,,
 radix,0,0,977,se,Stockholm,,2010-01-07,0,2,0,2012-12-21,,
 raer,,,,,,,,,,,,,
 raft,0,0,5654,fr,,,2015-11-24,0,0,0,2016-04-07,,
-Rage,0,0,980,fi,,,2009-12-21,47,1395,11437,2018-04-18,34912,/static/media/avatars/Heart.jpg
+Rage,0,0,980,fi,,,2009-12-21,47,1429,11437,2018-04-18,34912,/static/media/avatars/Heart.jpg
 RaGE_Newgen,0,0,4896,fr,,,2010-05-20,2,289,0,2015-02-16,,
 Ragna,0,0,,no,,,2015-02-17,0,0,0,2015-02-17,,
 ragna7,0,0,,gb,,,2011-08-23,0,0,0,2013-05-29,,
@@ -2629,9 +2629,9 @@ Rahta,0,0,,es,,,2012-10-03,0,431,0,2017-10-09,,
 raider,0,0,5301,hu,,,2013-02-20,6,0,0,2015-02-18,,
 raina,0,0,1520,fi,Oulu,End of infoline.,2008-09-16,10,20,0,2015-05-31,,/static/media/avatars/current.png
 rakzom,0,0,,fr,Brest,,2008-10-10,0,59,0,2017-11-11,,
-ramas,0,0,,it,,,2011-02-07,2,3721,159,2018-04-04,,
+ramas,0,0,,it,,,2011-02-07,2,4099,159,2018-04-04,,
 Ramonb5,0,0,,nl,,,2010-03-13,2,9,6,2016-06-25,,
-rams,0,0,1764,ch,,Compo Staff - my music is better than it sounds,2010-04-14,63,405,366,2018-04-05,8897,/static/media/avatars/Bildschirmfoto_2012-03-14_um_12.43.48.png
+rams,0,0,1764,ch,,Compo Staff - my music is better than it sounds,2010-04-14,63,406,366,2018-04-05,8897,/static/media/avatars/Bildschirmfoto_2012-03-14_um_12.43.48.png
 Ramses,0,0,,de,,Rabenauge^Scarab^Remedy^Dynamix^Delirium,2016-04-11,6,12,0,2017-04-25,,
 randcore,0,0,,eu,,,2011-09-06,0,0,0,2011-09-06,,
 RandianHero,0,0,,es,,,2009-01-23,0,1,0,2012-06-26,,
@@ -2644,7 +2644,7 @@ RangerCustom92,0,0,,pr,,,2009-09-22,0,2,0,2011-03-02,,
 raoh,0,0,,gb,,,2011-09-08,0,1,0,2011-09-08,,
 Rapidkirby3k,0,0,,us,,Boomsta!,2010-11-16,0,877,48,2018-02-12,,/static/media/avatars/ToxicRevengerIcon_pDPAK6t.jpg
 Rapido,0,0,,fi,,,2010-05-10,0,238,17,2017-08-28,,
-Rapture,0,0,2711,de,,Rapture,2012-05-24,89,2859,141337,2018-04-11,18202,/static/media/avatars/A-511347-1242316612.gif.jpg
+Rapture,0,0,2711,de,,Rapture,2012-05-24,89,2952,141337,2018-04-11,18202,/static/media/avatars/A-511347-1242316612.gif.jpg
 Rapture64,,,,,,,,,,,,,
 rascranasingha,0,0,,,,DEAD PROFILE,2010-09-10,11,1087,0,2013-11-25,,/static/media/avatars/Kermit.gif
 rascy,0,0,,hu,,,2009-09-21,0,19,0,2013-09-15,,
@@ -2663,7 +2663,7 @@ ravon,0,0,,se,,,2010-04-20,0,35,0,2010-05-10,,
 rawbin,0,0,,gb,,Lamer,2016-10-19,0,0,1,2017-10-02,,
 Rawer,0,0,,fi,,,2009-01-08,0,21,0,2010-04-06,,
 Rawrl,0,0,,us,,,2009-01-16,0,2,0,2012-04-02,,
-Rayn,0,0,5103,us,,,2010-06-28,0,59,0,2018-03-19,,
+Rayn,0,0,5103,us,,,2010-06-28,0,64,0,2018-03-19,,
 raze7x,0,0,,it,,,2013-11-17,0,5,0,2013-11-17,,
 RbR,0,0,4105,de,,,2011-05-28,12,17,0,2014-09-20,,
 rceed,0,0,,gb,,,2014-08-13,0,1,1,2016-04-07,,
@@ -2713,7 +2713,7 @@ rif_sc,0,0,,pl,,,2012-03-13,0,0,0,2012-03-13,,
 rikbliz,0,0,,,,,2009-01-13,0,64,148,2017-06-07,29187,/static/media/avatars/6e04743234d717220933909f85a84a10bc5e8284_full.jpg
 Rioux,0,0,,,Poland,,2008-10-25,0,10,0,2010-09-26,,
 ripa,0,0,,fi,,,2015-02-19,0,46,3,2015-09-06,,/static/media/avatars/gordon_100.png
-Riphur,0,0,,fr,Hazebrouck,,2009-06-18,0,721,0,2018-03-07,,
+Riphur,0,0,,fr,Hazebrouck,,2009-06-18,0,722,0,2018-03-07,,
 Rirsuhacker,0,0,,us,,hax hax hax,2009-09-14,38,582,0,2015-05-30,32889,/static/media/avatars/n20313031_31259024_3291.png
 ritvarsd2r,0,0,,lv,,Lv,2010-11-15,0,83,7,2017-07-30,,/static/media/avatars/image_100x100.jpg
 RivenTheMage,0,0,,ru,,,2011-09-23,0,1,0,2014-12-19,,
@@ -2722,13 +2722,13 @@ rlgto,0,0,,br,,,2011-09-10,0,0,0,2011-09-10,,
 Rob,0,0,,es,,,2014-04-27,0,0,0,2014-04-27,,
 RobAt,0,0,,de,,,2010-08-13,0,0,0,2013-08-12,,
 Robbi,0,0,,gb,Gloucester,Dumb girl,2015-01-21,0,2,4,2016-03-14,,/static/media/avatars/avatar_tenryuu_02.png
-robert,0,0,,se,,,2009-04-10,5,578,0,2018-04-19,9245,
+robert,0,0,,se,,,2009-04-10,5,726,0,2018-04-19,9245,
 robert2098,0,0,,,,Atari Lover,2010-06-16,0,60,0,2014-04-27,,
 RobGBA,0,0,,gb,,Ew,2013-11-19,0,4,0,2015-01-25,,/static/media/avatars/test.jpg
 Robi,0,0,,fr,,,2009-12-06,0,61,0,2013-02-16,,
 robo,0,0,,ru,,,2013-03-09,1,0,0,2015-05-06,,
 robodzik,0,0,,pl,,,2015-05-13,0,0,0,2015-09-17,,
-Robot2037,0,0,4858,cz,Praha,pieru asiantuntija kätyri,2009-10-23,37,1761,5576,2018-04-13,37840,/static/media/avatars/profile_small2.jpg
+Robot2037,0,0,4858,cz,Praha,pieru asiantuntija kätyri,2009-10-23,37,1786,5576,2018-04-13,37840,/static/media/avatars/profile_small2.jpg
 robotvolume,0,0,,us,,,2011-09-28,0,0,0,2011-09-28,,
 robozz,0,0,,se,,,2009-11-09,0,0,0,2010-03-02,,
 Robus,0,0,3991,ua,Kiev,Coder And Musican,2010-06-16,13,31,0,2016-10-05,,/static/media/avatars/ROB-LO.png
@@ -2744,7 +2744,7 @@ ROLandOS,0,0,,ru,,,2012-08-22,0,3,0,2012-10-10,,
 Rolemaster,0,0,,,,,2009-01-16,0,63,0,2009-11-17,,
 rolemusic,0,0,,es,,,2014-09-18,0,0,0,2014-09-23,,
 rolka,0,0,,pl,,,2009-07-31,1,4,0,2017-02-27,,/static/media/avatars/Totoro100.gif
-rombust,0,0,,gb,,,2008-09-17,84,2742,241,2018-04-17,,
+rombust,0,0,,gb,,,2008-09-17,84,2782,241,2018-04-17,,
 ronklaren,0,0,,nl,,,2017-09-17,0,0,0,2017-09-18,,
 Ronson,0,0,,dk,,,2013-11-19,0,1,0,2016-05-24,,
 ronxs,0,0,,nl,Den Haag,,2010-05-19,0,18,0,2016-10-05,,
@@ -2757,23 +2757,23 @@ RotschZ,0,0,,ch,,,2011-11-12,0,2,0,2011-11-12,,
 Rounin,0,0,,,,,2017-05-16,0,0,0,2017-05-16,,
 RoyBKyan,0,0,,,,Roy B. Kyan,2010-01-03,0,1,0,2010-01-03,,
 roycocup,0,0,,gb,,,2012-09-07,0,4,0,2014-02-19,,
-roz,0,0,1029,fi,Tampere,Fit^Byterapers,2010-09-01,8,21,0,2017-10-15,,
+roz,0,0,1029,fi,Tampere,Fit^Byterapers,2010-09-01,8,22,0,2017-10-15,,
 rpenguin,0,0,,us,,,2010-09-23,0,6,0,2010-09-23,,
 rpgcollectors,0,0,,,,,2015-09-15,0,0,0,2016-12-10,,
 rpgh8r,0,0,,fr,,,2012-07-26,0,9,0,2012-07-26,,
-rsOEnFY8,0,1,,,,,,0,,,2014-07-22,,
+rsOEnFY8,0,1,,,,,,0,18,,2014-07-22,,
 Ruben,0,0,,nl,,,2012-10-16,0,0,0,2018-02-16,,
 ruben_mv,0,0,,es,,,2016-08-30,0,0,0,2016-09-03,,
 rubicante,0,0,,,,,2009-06-14,0,1,0,2009-06-14,,
-rubik,0,0,,us,,,2009-08-25,0,155,0,2018-04-08,,
+rubik,0,0,,us,,,2009-08-25,0,156,0,2018-04-08,,
 Rubik999,0,0,,se,,,2011-07-07,0,1,0,2011-07-07,,
 rude,0,0,500,fi,,,2012-03-22,0,0,0,2012-03-22,,
-Rudee,0,0,3518,no,Haugesund,"dc.w $ffff,$fffe",2009-01-28,96,1072,0,2015-05-28,,/static/media/avatars/what.jpg
+Rudee,0,0,3518,no,Haugesund,"dc.w $ffff,$fffe",2009-01-28,96,1071,0,2015-05-28,,/static/media/avatars/what.jpg
 rudwolfblack,0,0,,br,,,2009-07-28,4,7,0,2010-08-24,,/static/media/avatars/Untitled-1.jpg
 ruinah,0,0,,us,,,2012-01-02,0,0,0,2015-01-29,,
 ruisleipa,0,0,,fi,,,2014-06-30,0,31,2,2017-07-10,,
 Rullo,0,0,,it,,,2011-11-16,0,0,0,2011-11-16,,
-Rumpel,0,0,,ru,"Ekaterinburg [56°48'51""; 60°35'52""]",inform me beautiful,2009-11-12,30,1106,10,2018-03-30,6986,/static/media/avatars/board-7.gif
+Rumpel,0,0,,ru,"Ekaterinburg [56°48'51""; 60°35'52""]",inform me beautiful,2009-11-12,30,1136,10,2018-03-30,6986,/static/media/avatars/board-7.gif
 runaronious,0,0,,is,,,2009-06-05,0,13,0,2013-04-23,,
 rush6432,0,0,,us,,,2012-08-26,0,0,0,2012-08-26,,
 rv6502,0,0,,mq,Montreal,38911 BASIC BYTES FREE,2010-04-19,10,2351,0,2012-01-01,,/static/media/avatars/joystick_.png
@@ -2798,14 +2798,14 @@ Salinga,0,0,,,,,2008-09-21,17,14,0,2011-08-08,,
 Salomon,0,0,,fi,,,2011-08-05,0,2,0,2014-08-07,,
 samanthafoster,0,0,,se,,IDIOT,2014-11-10,0,0,0,2014-11-10,,
 Sampas,0,0,,fi,,,2012-05-16,0,2,0,2012-06-26,,
-SampL,0,0,,cz,Brno,,2009-08-14,39,2665,14,2018-03-02,863,/static/media/avatars/itsme_.JPG
+SampL,0,0,,cz,Brno,,2009-08-14,39,2678,14,2018-03-02,863,/static/media/avatars/itsme_.JPG
 SaMPLeMaSTeR,0,0,1615,nl,,,2012-06-27,9,0,0,2012-06-27,,
 Samurai,0,0,,de,Karlsruhe,,2011-07-28,0,28,0,2011-12-02,,
 san_im,0,0,,ru,,,2015-01-10,0,51,0,2015-02-09,,
 sandman,0,0,,,,,2010-01-03,0,1,0,2010-01-03,,
 sangueffusor,0,0,,us,,,2013-05-23,3,1,0,2015-05-07,,
 sark76,0,0,,us,,,2009-07-11,0,40,0,2013-01-10,,/static/media/avatars/birds_small.jpg
-sarka,0,0,4119,fi,,Engineering,2009-01-23,10,574,114,2018-04-18,7173,/static/media/avatars/vatar.jpg
+sarka,0,0,4119,fi,,Engineering,2009-01-23,10,582,114,2018-04-18,7173,/static/media/avatars/vatar.jpg
 sat0ri,0,0,,ru,,,2011-06-05,0,1,0,2018-03-22,,
 satan,0,0,,se,,,2013-01-29,0,427,14,2017-12-26,,
 SatoshiChiba,0,0,,,,,2009-10-25,0,1,0,2009-10-25,,
@@ -2816,9 +2816,9 @@ sbeam,0,0,,dk,Copenhagen,,2014-08-05,0,1,0,2014-08-05,,
 Sc0r,0,0,,de,,,2011-03-20,0,12,0,2012-02-18,,
 Scalar,0,0,,se,,,2011-06-23,0,1,0,2011-06-23,,
 scanjam,0,0,,fi,Oulu,old school forever,2008-09-17,1,746,153,2017-12-19,3404,
-scar45,0,0,,ca,,I simply am.,2009-02-09,0,29,0,2018-01-25,7925,/static/media/avatars/scar45-dopefish-small.png
+scar45,0,0,,ca,,I simply am.,2009-02-09,0,30,0,2018-01-25,7925,/static/media/avatars/scar45-dopefish-small.png
 Scarzix,0,0,5411,dk,Aarhus,,2013-08-04,2,0,0,2013-09-06,,/static/media/avatars/Tron-100x156px.jpg
-Sceadara,0,0,,de,,,2010-08-03,0,13,0,2018-04-19,,
+Sceadara,0,0,,de,,,2010-08-03,0,15,0,2018-04-19,,
 scene,0,0,,lv,,'choose no life',2008-09-22,0,61,0,2016-09-03,8976,
 scg,0,0,,tr,,,2010-01-27,8,12,0,2012-01-23,,
 Schlicky,0,0,,gb,Havant,,2008-11-19,0,16,0,2012-04-23,,
@@ -2826,7 +2826,7 @@ Schluberlubs,0,0,,gb,,,2013-06-02,0,51,0,2013-06-02,,/static/media/avatars/Lyra_
 Schnouki,0,0,,fr,,,2010-02-20,0,14,0,2015-01-20,,
 Scope,0,0,,ly,,,2010-06-28,0,475,0,2013-09-24,13875,
 scott,,,,,,,,,,,,,
-Scribblette,0,0,,au,,"milkshakes, coffee, writing, birds... nectarine.",2009-03-23,0,321,655,2018-03-06,,
+Scribblette,0,0,,au,,"milkshakes, coffee, writing, birds... nectarine.",2009-03-23,0,371,655,2018-03-06,,
 sdjm,0,0,,fr,Lyon,WTF is a nectarine ?!,2014-08-16,0,921,645,2016-10-24,,
 sea,0,0,,de,Munich,,2009-10-09,0,14,0,2014-01-19,,
 sean,0,0,,,,,2010-09-18,0,1,0,2010-09-18,,
@@ -2841,13 +2841,13 @@ sefischer,0,0,,de,,,2012-12-07,0,34,1,2016-11-30,,
 Segment,0,0,,fi,Vantaa,Hardcore coder,2012-02-27,0,4,0,2013-05-27,,
 Seiklus,0,0,,us,,,2012-04-20,1,0,0,2014-05-06,,
 seism,0,0,,ch,Bern,,2009-01-25,0,2,2,2015-06-13,,
-seizki,0,0,,fi,,Mostly harmless mammal.,2010-08-04,0,477,0,2018-04-15,,
+seizki,0,0,,fi,,Mostly harmless mammal.,2010-08-04,0,481,0,2018-04-15,,
 selmi,0,0,,sk,Košice,,2011-02-06,4,994,0,2016-02-02,,
 sense_of_absence,0,0,,ru,,,2011-11-14,0,33,0,2011-12-26,,
 Sensei,0,0,4909,gb,london,,2008-09-18,2,9621,6,2017-03-17,,/static/media/avatars/me2.jpg
-Sensei2,1,,,,,,,0,,,2009-07-01,,
+Sensei2,1,,,,,,,0,37,,2009-07-01,,
 seohh,0,0,,de,,,2014-02-19,0,1,0,2014-02-19,,
-seppjo,0,0,,de,St. Johann,shizoid untermod,2008-11-03,327,2961,9,2018-04-06,5314,/static/media/avatars/seppjo.gif
+seppjo,0,0,,de,St. Johann,shizoid untermod,2008-11-03,327,2971,9,2018-04-06,5314,/static/media/avatars/seppjo.gif
 seqman,0,0,,,,,2010-10-11,0,1,0,2010-10-11,,
 serdan73,0,0,,it,,,2012-09-16,0,0,0,2012-09-17,,
 Serebriakov,0,0,,by,,,2017-07-05,0,1,0,2017-07-13,,
@@ -2857,9 +2857,9 @@ serialknight,0,0,,ca,,,2011-04-06,0,2,0,2018-01-09,,
 Serj,0,0,,ru,,,2015-01-19,0,0,0,2015-01-19,,
 serkkupoika,0,0,,fi,,,2012-06-06,0,2,0,2015-02-27,,
 serkus,0,0,,ru,,,2012-02-02,0,5,0,2012-02-02,,
-serpent,0,0,1627,fi,Totalitarian Socialistic New World Order,,2008-09-30,1113,27434,105749,2018-04-17,27597,/static/media/avatars/FNN_small.png
+serpent,0,0,1627,fi,Totalitarian Socialistic New World Order,,2008-09-30,1113,28108,105749,2018-04-17,27597,/static/media/avatars/FNN_small.png
 serzh,0,0,,ru,,,2011-03-14,0,0,0,2011-03-14,,
-Seven,0,1,,,,,,0,,,2013-01-01,,
+Seven,0,1,,,,,,0,40,,2013-01-01,,
 Sexton,0,0,5329,us,,,2013-03-14,2,4,0,2013-07-26,,
 sgtcrispy,0,0,,us,,,2009-05-04,0,211,50,2018-01-03,,
 sgtpep,0,0,,,,,2011-01-25,0,1,0,2011-01-25,,
@@ -2874,20 +2874,20 @@ Shaduck,0,0,,it,,,2012-02-01,0,19,0,2017-09-03,5230,/static/media/avatars/Albero
 shakra_de,1,0,,,,,2013-01-31,0,0,0,2013-01-01,,
 shamroc50,0,0,,us,,,2012-10-17,0,1,0,2012-10-17,,
 Shamus,0,0,,hr,,,2010-12-15,0,31,0,2013-08-02,,
-sharps030,0,0,,nz,,,2012-12-17,0,2,0,2018-03-26,,
+sharps030,0,0,,nz,,,2012-12-17,0,17,0,2018-03-26,,
 shazz,0,0,,us,Boston,over the atlantic,2011-06-13,0,14,0,2015-07-05,,/static/media/avatars/shazz_trsi-small.png
 shbdchbf,0,0,,ru,,,2012-12-29,0,0,0,2012-12-29,,
 SHDW,0,0,,br,,,2016-10-16,0,0,1,2016-11-21,,
 sheep,0,0,,il,,,2012-12-01,0,1,0,2012-12-01,,
 sheepotato,0,0,,,,,2009-12-29,0,2,0,2009-12-29,,
 shftd,0,0,,se,,,2013-05-10,0,2,0,2013-06-24,,
-shftd_,0,0,,se,,shiftdelete.kottbulle.net,2015-01-11,5,294,149,2018-04-08,,
+shftd_,0,0,,se,,shiftdelete.kottbulle.net,2015-01-11,5,317,149,2018-04-08,,
 shift,0,0,,sc,,,2010-05-18,0,2141,0,2012-05-26,8280,
 Shilone,0,0,4430,,,,2010-09-23,2,1,0,2010-09-23,,
 shinmai,0,0,,fi,,,2012-05-12,0,0,0,2012-05-12,,
 shino,0,0,,fr,Paris,,2008-10-07,0,328,0,2014-09-08,8322,
 SHiNoB,0,0,,mx,,,2012-07-05,0,0,0,2012-07-05,,
-Shinobi,0,0,2134,dk,Hamburg,heimorgelspieler,2008-10-04,107,13670,55917,2018-04-13,,/static/media/avatars/biglogo_diamant_copy2_1_1.png
+Shinobi,0,0,2134,dk,Hamburg,heimorgelspieler,2008-10-04,107,13937,55917,2018-04-13,,/static/media/avatars/biglogo_diamant_copy2_1_1.png
 Shinsakuto,0,0,,de,,,2016-06-22,0,138,1334,2017-10-22,39713,
 Shinshila,0,0,,ru,,,2011-09-20,0,9,0,2014-10-09,,
 shmallowman,0,0,,,,,2009-10-29,0,2,0,2009-10-29,,/static/media/avatars/profile2_.gif
@@ -2898,9 +2898,9 @@ Shriggar,0,0,,pl,,,2008-10-16,0,473,6,2018-03-25,,
 Shrimp,0,0,,se,,I think I can,2010-09-23,0,156,0,2017-01-19,,
 shrimposaurus,0,0,,gb,,,2016-12-30,0,0,0,2016-12-30,,
 shs,0,0,,de,,,2010-04-23,0,9,0,2014-05-08,,
-Shui,0,0,5084,ch,,,2010-10-07,1,59,26,2018-03-04,,
+Shui,0,0,5084,ch,,,2010-10-07,1,64,26,2018-03-04,,
 shuzzable,0,0,,nectaflag,,,2015-05-20,0,0,0,2015-05-21,,
-Siegfried,0,0,,pl,,,2009-01-14,0,259,11702,2018-03-07,,
+Siegfried,0,0,,pl,,,2009-01-14,0,261,11702,2018-03-07,,
 sieniesko,0,0,,fi,,,2014-07-20,0,12,5,2015-08-20,,/static/media/avatars/Dethronig_ava.jpg
 Sif,0,0,,us,,,2013-05-30,0,0,0,2013-06-23,,
 Sigatrev,0,0,,ca,,,2010-03-20,0,142,0,2015-03-03,,
@@ -2908,12 +2908,12 @@ Sigma,0,0,,fr,Paris,,2009-06-14,0,2,0,2009-10-26,,
 Sikaris,0,0,,ar,,,2012-07-30,0,0,0,2012-07-30,,
 SilaT,0,0,,mx,,,2014-01-02,0,0,0,2014-01-02,,
 Silbernacken,0,0,,de,,,2013-11-18,0,7,0,2013-12-06,,
-silencer,0,0,,ar,,,2015-04-26,12,637,736,2018-04-10,,
+silencer,0,0,,ar,,,2015-04-26,12,757,736,2018-04-10,,
 silentvg,0,0,,us,,,2012-04-19,0,1,0,2012-04-25,,
 SiLeX,0,0,4458,de,,,2011-03-22,0,7,0,2011-04-28,,
 Silicium,0,0,,,,,2008-09-16,0,4,0,2018-01-13,,
 silize,0,0,3575,,Spain,Lucas Rodríguez Ureña,2009-09-01,143,227,0,2016-05-11,,/static/media/avatars/silize.jpg
-silok,0,0,4070,de,,,2010-01-23,148,9062,88351,2018-04-20,39625,/static/media/avatars/slkgrytor_pix_big162g_wave_ey.gif
+silok,0,0,4070,de,,,2010-01-23,148,9228,88351,2018-04-20,39625,/static/media/avatars/slkgrytor_pix_big162g_wave_ey.gif
 SilverLance,0,0,,nl,,Outline 2010...be there!,2010-04-01,0,53,0,2011-08-27,,/static/media/avatars/SilverLance_Avatar.jpg
 silvers,0,0,,pl,,,2011-12-04,0,0,0,2011-12-04,,
 Silvershot,0,0,,de,,,2012-04-28,0,5,55,2016-03-27,,
@@ -2934,12 +2934,12 @@ siri,0,0,,,,,2009-06-08,0,5,0,2011-04-04,,
 SirLalala,0,0,,es,,,2011-06-12,0,5,0,2011-06-12,,
 Sirocco,0,0,,dj,,I sell pixels and pixel accessories,2009-02-16,0,290,32,2016-07-04,,/static/media/avatars/cactrot.gif
 siroy,0,0,,nl,,,2013-12-02,0,0,0,2013-12-02,,
-Sixx,0,0,,se,Gothenburg - Sweden,GENESIS PROJECT,2010-11-06,8,553,10,2018-03-24,9707,/static/media/avatars/gp2.png
+Sixx,0,0,,se,Gothenburg - Sweden,GENESIS PROJECT,2010-11-06,8,556,10,2018-03-24,9707,/static/media/avatars/gp2.png
 Size,0,0,,no,,,2014-03-08,0,0,0,2014-03-13,,
-SJD,0,0,,at,,,2008-09-19,203,5529,593,2018-04-14,8372,/static/media/avatars/strawberries.jpg
+SJD,0,0,,at,,,2008-09-19,203,5605,593,2018-04-14,8372,/static/media/avatars/strawberries.jpg
 sjm,0,0,,gb,,,2013-06-28,0,0,0,2013-06-28,,
 sk8killer,0,0,,es,Madrid,killer / Intense,2009-08-06,0,2,0,2014-01-08,,/static/media/avatars/jimmytwitterlight.jpg
-skall,0,0,,dk,Logstrup,skall,2008-10-02,30,1466,7,2017-12-30,8280,/static/media/avatars/ths.png
+skall,0,0,,dk,Logstrup,skall,2008-10-02,30,1467,7,2017-12-30,8280,/static/media/avatars/ths.png
 skan,0,0,,fr,,,2009-05-19,0,0,0,2017-02-03,,
 skaro,0,0,,us,,,2009-08-12,0,88,0,2014-08-27,,
 Sketch,0,0,,hk,,,2013-01-08,0,1064,0,2014-08-03,,
@@ -2978,7 +2978,7 @@ SLMOE,0,0,,us,,,2017-04-30,0,27,3,2017-11-03,,
 slothck,0,0,,pl,,,2012-06-27,0,0,0,2014-05-01,,
 Slotos,0,0,,ua,,,2010-03-22,0,183,0,2014-03-27,,
 sly,0,0,,fi,,jäässä,2010-02-09,0,50,0,2010-09-15,,
-Smanux,0,0,,fr,,,2009-08-03,1,572,5,2018-02-14,8441,
+Smanux,0,0,,fr,,,2009-08-03,1,595,5,2018-02-14,8441,
 smatteri,0,0,,br,,,2015-01-14,0,0,0,2015-01-14,,
 Smeagolian,0,0,,se,,,2012-06-24,0,0,0,2012-06-24,,
 SMG,0,0,,nectaflag,,,2014-08-11,0,2,0,2014-08-11,,
@@ -2997,16 +2997,16 @@ snuggles,0,0,,fi,,,2009-02-28,0,15,10,2017-12-26,,
 snyp,0,0,4908,gb,No fixed abode,fml,2011-09-16,8,3,0,2011-12-12,,/static/media/avatars/avatar6889_2.gif
 SoanoS,0,0,,fi,,,2014-10-31,0,6867,11421,2016-01-11,,
 sociopath,0,0,,nl,,,2012-01-30,0,0,0,2012-01-30,,
-SoDa7,0,0,1760,it,"Pimonte, NA",All world of music is welcome,2009-02-15,55,1047,652,2016-01-24,5192,
+SoDa7,0,0,1760,it,"Pimonte, NA",All world of music is welcome,2009-02-15,55,1046,652,2016-01-24,5192,
 Sofad2k,0,0,,us,Chicago,I like cheese,2009-09-26,1,88,0,2012-08-13,2344,
 Softmatic,0,0,,nl,,,2013-09-30,0,0,0,2013-10-04,,
 Soilex,0,0,,de,,,2010-05-24,0,1,0,2017-12-11,,
 sollak,0,0,,br,,,2013-01-24,0,20,0,2014-04-22,,
 Solo,0,0,,pl,,,2009-05-06,0,4,6,2016-05-14,,
-someben,0,,,,,,,0,,,2018-04-09,,
+someben,0,,,,,,,0,0,,2018-04-09,,
 someone,0,0,,,,,2012-09-01,0,0,0,2012-09-01,,
 sonicrange,0,0,,de,,,2011-10-05,0,7,0,2011-10-05,,
-sonix,0,0,,fr,,,2017-08-24,0,4,460,2018-04-11,,
+sonix,0,0,,fr,,,2017-08-24,0,5,460,2018-04-11,,
 sono,0,0,,,,,2009-09-10,0,1,0,2013-10-05,,
 Sonox,0,0,3622,no,,,2012-01-25,0,16,0,2016-03-11,,
 soraya_elcar,0,0,,us,,,2010-04-01,0,9,0,2011-07-19,,
@@ -3014,7 +3014,7 @@ sorx,0,0,,eu,,,2011-06-16,0,1,0,2011-06-16,,
 Soya,0,0,,se,,,2013-05-27,0,0,0,2013-05-27,,
 sp4zzz,0,0,,pl,,c64 / scene / music,2016-11-09,2,15,17,2016-11-12,,/static/media/avatars/bubba_male.png
 SpacakCZ,0,0,,cz,,,2010-12-18,0,7,0,2011-04-23,,
-SPACE,0,0,,cv,,party crasher,2011-11-17,145,1757,278,2018-04-14,31298,/static/media/avatars/update.gif
+SPACE,0,0,,cv,,party crasher,2011-11-17,145,1776,278,2018-04-14,31298,/static/media/avatars/update.gif
 spacefolder,0,0,,ar,Buenos Aires,SpaceFolder,2010-05-26,0,3,0,2018-02-21,,
 spacemoose,0,0,,us,,A Brit in Seattle :) demoscene forever!,2009-12-21,0,133,6,2016-10-04,,
 spacepaw,0,0,,pl,Warszawa,ME WANT COFFEE!,2010-11-17,1,124,63,2016-03-05,,/static/media/avatars/voodo_chos100.jpg
@@ -3025,7 +3025,7 @@ SpartakuS,1,,,,,,,,,,,,
 sparx,0,0,,ca,,,2009-12-21,0,1,0,2013-12-17,,
 spaxx,0,0,,de,,,2015-11-28,0,58,7,2018-03-11,,
 SpecialDefect,0,0,,hr,,,2014-10-11,0,670,0,2014-12-26,,
-Speeder,0,0,,br,São Paulo,Super Wizard Master Coder that never made a demo,2009-02-05,1,703,21,2018-01-28,,
+Speeder,0,0,,br,São Paulo,Super Wizard Master Coder that never made a demo,2009-02-05,1,706,21,2018-01-28,,
 speedhog,0,0,,mx,,,2011-07-05,0,0,0,2013-12-25,,
 speedis,0,0,,se,,,2015-09-15,3,2,17,2017-03-09,,
 speedsterharry,0,0,,fr,,,2012-11-09,0,87,0,2012-11-09,,
@@ -3038,7 +3038,7 @@ spiku,0,0,,fi,Tampere,Spiku // Katja,2014-05-17,0,2,0,2014-08-30,,/static/media/
 spin001,0,0,,,,,2010-03-28,0,0,0,2010-03-28,,
 Spinlock,0,0,,de,Karlsruhe,20 GOTO 10,2010-03-19,0,24,0,2013-02-01,,
 spiny,0,0,,england,Bristol,atari-ist,2010-03-25,0,37,0,2015-06-11,,
-Spiral,0,0,1122,se,,GEDDUP KEDDAUN LEIF ISSA DISKO!,2009-04-14,673,7825,54889,2018-04-20,,/static/media/avatars/Spiral.png
+Spiral,0,0,1122,se,,GEDDUP KEDDAUN LEIF ISSA DISKO!,2009-04-14,673,7850,54889,2018-04-20,,/static/media/avatars/Spiral.png
 spiryt,0,0,,gb,Lublin,sponging music from all generations....,2011-09-10,0,17,0,2011-10-02,,
 splash27,0,0,,ru,Perm,,2016-02-07,0,31,0,2017-02-22,,
 Spliffpolitics,0,0,,se,,,2013-07-25,0,0,0,2013-07-25,,
@@ -3049,23 +3049,23 @@ sprk120,0,0,,us,,,2010-12-12,0,21,0,2017-09-05,,
 sprocket,0,0,,no,,,2009-01-11,0,664,14,2017-02-28,3544,
 sptmru,0,0,,ru,,,2016-02-19,0,0,0,2016-02-20,9299,
 spz,0,0,,de,,Sorry for this senseless infoline!,2010-02-23,1,26,0,2013-02-09,,/static/media/avatars/skull-spazz_Custom.jpg
-sqrmax,0,0,4777,ar,,#10,2008-12-27,256,24316,1531,2018-03-09,,/static/media/avatars/germany_10.png
+sqrmax,0,0,4777,ar,,#10,2008-12-27,256,24314,1531,2018-03-09,,/static/media/avatars/germany_10.png
 Squ33z0r,0,0,,de,,,2010-11-03,0,163,0,2011-11-18,,
 squlko,0,0,,jp,tokyo,,2011-07-25,0,4,0,2011-07-25,,
 srberner,0,0,,gt,,,2014-10-06,0,1,0,2014-10-06,,
 ssg,0,0,,tr,,probably coding now,2010-08-12,0,19,0,2014-06-18,,
-ssikismety,1,,,,,,,0,,,2013-01-01,,
-ssirkriss,0,0,,nectaflag,,,2017-10-15,0,11,0,2018-04-18,,
+ssikismety,1,,,,,,,0,1,,2013-01-01,,
+ssirkriss,0,0,,nectaflag,,,2017-10-15,0,63,0,2018-04-18,,
 ssr,0,0,,ru,,http://m.ssr.host.ru,2014-03-16,0,1,0,2014-03-16,,
 ssri,0,0,,nectaflag,,,2016-09-06,3,0,0,2016-09-09,,
 ST,0,0,1135,de,Stuttgart / Germany,#1 (of 27) at Nectarine Jingle Contest 2003,2016-06-09,0,1,2,2016-10-17,2319,/static/media/avatars/ST-100.jpg
 stacktracer,0,0,,dk,,,2015-02-23,0,38,0,2018-01-05,,
-Stamen,0,1,,,,,,0,,,2017-08-06,,
+Stamen,0,1,,,,,,0,1,,2017-08-06,,
 stanio,0,0,,bg,Sofia,,2009-04-09,0,6,0,2014-07-31,,
 StanZ,0,0,,fr,,,2011-09-28,0,1,0,2011-09-28,,/static/media/avatars/onestanz.gif
 Star,0,0,,ua,dp,,2010-11-04,0,0,0,2012-12-10,,
 Starbreaker,0,0,,de,,Extreme Listener,2009-09-15,45,2598,2,2018-01-01,6795,/static/media/avatars/Resize_of_MetaBaron.JPG
-Starchaser,0,0,5038,fam,Kennewick,Laser cutter enthusiast,2009-05-26,22,4071,54240,2018-04-19,4255,/static/media/avatars/gear-nectarine_1.png
+Starchaser,0,0,5038,fam,Kennewick,Laser cutter enthusiast,2009-05-26,22,4107,54240,2018-04-19,4255,/static/media/avatars/gear-nectarine_1.png
 Stargazer,0,0,,fi,,,2012-09-14,0,0,0,2016-02-04,,
 startail,0,0,,se,,,2012-01-05,0,4,0,2016-08-27,,
 Starway,0,0,,es,,,2015-01-17,0,3,0,2015-01-17,,
@@ -3075,7 +3075,7 @@ stef71,0,0,,ph,,,2009-02-16,4,89,0,2010-06-21,,
 stefbean,0,0,,us,,,2012-08-21,0,0,0,2012-08-21,,
 steffenkiefer,0,0,,de,,,2011-05-15,0,0,0,2012-03-13,,
 Stegos,0,0,,us,,,2009-09-10,0,2,1,2015-11-07,,/static/media/avatars/stegos.gif
-Stein,0,0,,se,Linköping,,2009-08-28,0,281,9,2018-03-28,,
+Stein,0,0,,se,Linköping,,2009-08-28,0,283,9,2018-03-28,,
 stein77,0,0,,fi,,,2015-03-29,0,3,0,2016-07-09,,
 stellarvortex,0,0,,se,,Just an old die-hard fan...,2009-09-29,0,43,0,2010-07-16,,
 Steltek,0,0,,lu,,,2009-02-12,0,0,0,2018-04-13,,
@@ -3086,7 +3086,7 @@ stevow999,0,0,,nectaflag,,,2014-09-04,0,0,0,2014-09-04,,
 Stewpid,0,0,,nectaflag,,,2014-06-20,0,0,0,2014-06-20,,
 stg,0,0,,,,,2009-05-23,0,2,0,2010-02-18,,
 stijn,0,0,,nl,,,2010-01-09,0,7,0,2012-06-04,,
-Stinsen,0,0,5097,se,,,2013-05-25,46,1019,4107,2018-04-06,4602,/static/media/avatars/station.jpg
+Stinsen,0,0,5097,se,,,2013-05-25,46,1331,4107,2018-04-06,4602,/static/media/avatars/station.jpg
 stokescomp,0,0,,us,Idaho,,2008-09-26,0,141,0,2017-07-06,,
 stomp,0,0,,cz,,,2013-11-12,0,0,0,2013-11-12,,
 storm,0,0,,fr,,,2011-10-18,2,418,0,2014-07-08,,
@@ -3107,11 +3107,11 @@ subzey,0,0,,ru,,,2013-11-05,3,39,0,2014-04-30,,
 sugarfree,0,0,,pl,,,2012-09-12,0,0,0,2012-09-12,,
 suk01,0,0,,de,,,2012-08-13,0,0,0,2012-08-13,,
 sukoshi,0,0,,fr,,We are family!,2013-06-09,0,1,0,2013-06-09,,
-Sundance,0,,,,,,,0,,,2018-02-06,,
+Sundance,0,,,,,,,0,2,,2018-02-06,,
 sundog,0,0,,be,,,2012-08-09,0,111,138,2016-03-23,,
 SunSpire,0,0,4444,eu,,Hello Demoscene!,2010-12-02,26,71,184,2017-06-11,,/static/media/avatars/5514979.jpg
 suntigerzero,0,0,,us,,,2012-02-19,0,0,0,2012-02-19,,
-sup,0,0,,rs,,,2016-09-23,0,14,0,2018-04-01,,
+sup,0,0,,rs,,,2016-09-23,0,28,0,2018-04-01,,
 Super_Hans,0,0,,se,Skövde,The artist formerly known as Olle,2011-04-26,1,5,0,2012-07-17,,
 SuperJ,0,0,,nl,,,2015-02-21,0,2,0,2017-03-13,,
 SuperNova,0,0,,it,,,2015-12-19,0,1,0,2015-12-20,,
@@ -3149,7 +3149,7 @@ Szrachnor,0,0,,us,,,2010-05-07,0,71,2,2017-10-10,,/static/media/avatars/rocking-
 szudi,0,0,3836,pl,,,2011-08-19,5,47,0,2014-04-24,,
 t0ken,0,0,,ru,,,2011-06-13,0,1,0,2011-11-25,,
 T101,0,0,3900,fi,Helsinki,,2010-04-23,23,21,92,2017-04-24,,
-t3l,0,0,,au,,,2014-03-14,0,752,694,2018-04-09,,
+t3l,0,0,,au,,,2014-03-14,0,768,694,2018-04-09,,
 t4s0thcmdr,0,0,,br,,,2011-01-20,0,111,0,2017-04-26,,
 tacticalbread,0,0,,us,Cornville,,2011-02-17,0,0,0,2011-02-17,,
 tada,0,0,,fr,Lyon,,2009-07-01,0,0,0,2011-10-20,,
@@ -3165,7 +3165,7 @@ tanatos,0,0,,pl,,,2010-02-27,0,3,0,2011-07-22,,
 Tangerine,0,0,,pl,,,2011-11-18,0,1070,0,2013-06-26,,/static/media/avatars/tangerine02_Kopiowanie.png
 Tapewormz,0,0,,ca,,,2012-05-30,0,46,0,2013-02-20,,/static/media/avatars/illuminatiparasite.jpg
 TAR_Smash_1,0,0,,de,,,2013-10-22,0,4,0,2013-10-22,,
-tas,0,0,,pl,Cracow,,2008-10-31,7,1693,1,2018-03-27,8685,/static/media/avatars/dogs.JPG
+tas,0,0,,pl,Cracow,,2008-10-31,7,1709,1,2018-03-27,8685,/static/media/avatars/dogs.JPG
 Taurusz,,,,,,,,,,,,,
 tazhix,0,0,,dk,,,2009-04-20,0,6,0,2014-11-16,,
 Tcho12,0,0,,nectaflag,,,2016-11-22,0,0,0,2017-03-12,,
@@ -3173,7 +3173,7 @@ tck42,0,0,,us,,6861726465720a6265747465720a6661737465720a7374726f,2010-01-09,0,3
 tcn,0,0,,ca,Montreal,A 286 can doo stuff!,2009-11-16,1,185,0,2013-08-14,,
 tdg8934,0,0,,us,,,2013-03-03,0,0,0,2013-03-03,,
 tdog,0,0,,nl,,woof!,2011-10-12,0,0,0,2011-10-12,,
-Tech,0,0,,no,,,2012-04-25,0,6,0,2017-12-22,,
+Tech,0,0,,no,,,2012-04-25,0,7,0,2017-12-22,,
 techtonik,0,0,,by,,,2009-09-09,1,2,0,2009-09-09,,
 teclo,0,0,,gb,,,2014-12-11,0,2,0,2015-04-14,,
 tecon,0,0,,no,,,2014-10-17,3,0,0,2016-03-11,,
@@ -3185,11 +3185,11 @@ tekknej,0,0,,ru,,,2009-11-27,0,2,0,2016-09-24,,
 Telach,0,0,,se,,,2009-08-23,0,29,0,2013-09-14,,
 teletz,0,0,,fr,,,2013-03-23,0,0,0,2013-07-21,,
 telniasa,0,0,,gb,,,2010-08-17,0,10,0,2011-07-28,,
-temp01,0,1,,,,,,0,,,2013-01-01,,
+temp01,0,1,,,,,,0,129,,2013-01-01,,
 tenfour,0,0,5522,be,,,2015-04-07,2,7,1,2017-05-02,,/static/media/avatars/1890.png
 tentacle,0,0,,,,,2010-08-26,0,1,0,2010-08-26,,
 Teo,0,0,4370,it,,,2010-04-06,23,299,1,2017-12-02,,
-Terrasque,0,0,,no,,Get off my lawn!,2008-09-16,5,297,191,2017-09-16,,/static/media/avatars/avataurus_1.png
+Terrasque,0,0,,no,,Get off my lawn!,2008-09-16,5,298,191,2017-09-16,,/static/media/avatars/avataurus_1.png
 terrorzipfel,0,0,,de,,,2011-04-30,0,0,0,2011-04-30,,
 Terwiz,0,0,5056,fi,,Alumni,2017-08-29,0,38,9,2018-03-09,35488,
 tesla,0,0,,tr,,,2009-08-24,1,11,0,2014-03-13,,
@@ -3202,9 +3202,9 @@ tetikr,0,0,,cz,Praha,Love module music!,2010-06-12,0,44,0,2017-11-04,,/static/me
 Tezar,0,0,,cz,,,2008-10-22,0,611,137,2017-12-05,,/static/media/avatars/phpDCJqUV_eta.jpg
 TGGC,0,0,,de,,,2016-08-02,0,0,1,2016-08-03,,
 tgoat123,0,0,,fi,,,2013-11-30,0,0,0,2013-11-30,,
-th4t1guy,0,0,,us,Kansas City,,2009-04-17,217,2098,21677,2018-04-17,10086,/static/media/avatars/bp.jpg
+th4t1guy,0,0,,us,Kansas City,,2009-04-17,217,2218,21677,2018-04-17,10086,/static/media/avatars/bp.jpg
 thadeus,0,0,,,,,2010-11-11,0,2,0,2010-11-14,,
-thadoss,0,0,,fr,,,2011-07-12,0,132,0,2016-01-08,,
+thadoss,0,0,,fr,,,2011-07-12,0,131,0,2016-01-08,,
 Thais,0,0,,,,,2010-01-29,0,3,0,2010-02-17,,
 ThalesLari,0,0,,br,,,2012-08-12,0,2,0,2012-08-12,,/static/media/avatars/kakophilia3333.bmp
 Thaolia,0,0,,fr,,,2011-06-20,0,0,0,2011-06-20,,
@@ -3212,11 +3212,11 @@ thatco,0,0,,us,,,2012-02-29,0,0,0,2012-02-29,,
 thawk,0,0,,de,,<< wE wOULd dIE fOR cOMMODORe >>,2010-02-18,0,0,0,2016-03-18,,/static/media/avatars/avatar893_3_.gif
 Thaylor,0,0,,nl,,,2013-07-14,0,0,0,2013-07-14,,
 The_Cyb,0,0,,fr,,,2011-02-26,0,0,0,2011-02-26,,
-the_Deviant,0,0,,gb,,,2011-04-05,0,3,0,2018-04-20,,
+the_Deviant,0,0,,gb,,,2011-04-05,0,211,0,2018-04-20,,
 The_MagnuM,0,0,,de,,,2012-01-04,0,11,0,2012-01-04,,
 The_Tubes,0,0,,,,I'm a pirate from pirate island! ARRRRR!,2011-07-11,0,516,18,2017-12-14,,
 theagon,0,0,,ru,,,2010-02-03,0,12,0,2011-03-23,,
-thebleh,0,0,,ro,,,2012-03-26,0,96,1,2017-01-22,,
+thebleh,0,0,,ro,,,2012-03-26,0,95,1,2017-01-22,,
 TheCommodore64Player,0,0,,fi,,,2012-12-15,0,2,0,2012-12-15,,
 thedax,0,0,,it,,,2008-11-22,0,33,0,2015-01-15,,/static/media/avatars/engineer_100x86.JPG
 thefrog,0,0,,fr,,,2009-04-08,0,0,3,2018-02-16,,
@@ -3224,27 +3224,27 @@ thejaberwok,0,0,,au,,new to this,2012-06-26,0,0,0,2012-06-26,,
 thekhanagain,0,0,,es,,,2012-01-27,0,0,0,2012-01-27,,
 Theking,0,0,,se,,Fasttracker II,2008-11-09,0,5,1,2018-03-24,,
 thelastV8,0,0,,sv,,,2013-03-06,0,112,0,2013-10-14,,
-thelawnmoverman,0,0,,ch,Zurich,Amiga Rulez 4 Ever!,2015-05-06,0,383,1292,2018-04-18,,
+thelawnmoverman,0,0,,ch,Zurich,Amiga Rulez 4 Ever!,2015-05-06,0,387,1292,2018-04-18,,
 TheLeen,0,0,,de,Berlin,8-Bit Girl,2010-04-15,4,148,0,2010-08-31,28733,/static/media/avatars/avatar_.jpg
 thelini,0,0,,gb,,,2014-05-17,0,1,0,2014-05-17,,
 them,0,0,,de,,,2010-04-08,0,24,0,2017-12-22,,
-TheNalex,0,0,,fr,,,2008-09-16,0,858,6,2018-03-19,8813,
+TheNalex,0,0,,fr,,,2008-09-16,0,861,6,2018-03-19,8813,
 theshep,0,0,,us,,,2009-07-30,0,63,54,2017-07-29,,
 TheSilencer,0,0,,se,,,2013-02-12,0,0,0,2013-02-12,,
 TheSilentOne,0,0,,hr,,,2013-03-02,0,0,0,2013-03-02,,
 TheSLASH,0,0,,se,Stockholm,,2009-10-08,0,87,0,2018-01-03,,/static/media/avatars/Superfrog.png
 thessalianpine,0,0,,de,,,2010-08-27,0,7,0,2012-09-26,,
 thetaCriterion,0,0,,nectaflag,,,2015-02-26,0,0,0,2015-02-26,,
-Thexder,0,0,,de,Ruhrpott,,2014-08-23,24,591,11325,2018-04-17,28269,/static/media/avatars/Moeter02.jpg
+Thexder,0,0,,de,Ruhrpott,,2014-08-23,24,632,11325,2018-04-17,28269,/static/media/avatars/Moeter02.jpg
 Thjodolf,0,0,,de,,,2012-06-18,0,38,0,2013-03-16,,
 ThomasBecker,0,0,,it,,,2014-06-28,8,0,0,2014-06-28,,
 thorgull,0,0,,,,,2011-01-25,0,2,0,2011-01-25,,
-Thoribass,0,1,,,,,,0,,,2013-01-01,,
+Thoribass,0,1,,,,,,0,59,,2013-01-01,,
 thorium72,0,0,,no,,,2011-08-19,0,0,0,2011-08-19,,
 thorntonpete,0,0,,us,"Houston, TX",,2011-08-26,0,31,0,2012-03-27,,
 thoward,0,0,,us,,,2011-04-01,0,1,0,2011-04-01,,
 three_sixxes,0,0,,gb,PL,,2010-11-18,46,44,0,2013-12-05,,
-Threef,0,0,,pl,Szczecin,Game Dev,2017-01-03,0,206,0,2018-02-09,,
+Threef,0,0,,pl,Szczecin,Game Dev,2017-01-03,0,209,0,2018-02-09,,
 ThrEEpWooD95,0,0,,se,,,2009-05-04,0,7,3,2016-12-20,,
 Thuglife,0,0,,de,,,2014-06-04,0,1,0,2014-06-04,,
 thumper314,0,0,,us,,,2013-07-13,0,0,0,2013-07-13,,
@@ -3269,13 +3269,13 @@ tmb,0,0,,at,,,2014-12-07,0,0,4,2016-03-31,,
 tml,0,0,,hu,,,2009-08-09,0,18,0,2016-05-09,,
 tmm,0,1,,,,,,,,,,,
 tniemi,0,0,,fi,,,2010-07-29,0,1,0,2012-12-05,,
-Tobbeo,0,0,3763,se,,Tobias Olofsson,2009-02-09,0,1415,978,2018-04-18,,
-tobe,0,0,,fi,,,2010-07-18,0,71,16,2018-04-10,,
+Tobbeo,0,0,3763,se,,Tobias Olofsson,2009-02-09,0,1499,978,2018-04-18,,
+tobe,0,0,,fi,,,2010-07-18,0,74,16,2018-04-10,,
 Tobekk,0,0,,no,,,2012-03-30,0,0,0,2012-03-30,,
 tobo,0,0,,ke,,,2009-08-16,0,0,0,2013-10-03,,
 tohe,0,0,,fi,,,2015-05-08,0,114,26,2017-08-07,,
 TohoFuhai,0,0,,us,,SEKIHA TENKYOOOOUKEN,2010-01-12,0,301,0,2013-11-03,,/static/media/avatars/SUPERASIA-n_.png
-Tokkey,0,1,,,,,,0,,,2016-11-24,,
+Tokkey,0,1,,,,,,0,5,,2016-11-24,,
 tom_z,0,0,,tn,,,2008-10-17,0,1,0,2011-09-28,,
 Tomam,0,0,,no,Drammen,The Nectarine,2009-04-03,0,1,7,2015-07-29,,
 Tomas,0,0,,fr,,,2013-03-04,0,0,0,2013-03-04,,
@@ -3283,7 +3283,7 @@ TomAxel,0,0,,de,,,2015-08-19,0,2,0,2015-08-20,,
 TomCat666,0,0,,si,,,2013-06-05,0,0,0,2013-06-05,,
 Tomchi,0,0,4938,fr,,,2009-10-28,0,102,0,2014-12-17,,
 tomconte,0,0,,fr,,,2011-02-10,0,5,1,2018-04-13,,
-tomi,0,0,,de,,nach dem auftauen nicht wieder einfrieren!,2009-08-22,0,1185,20,2017-11-23,,/static/media/avatars/kif_1.jpg
+tomi,0,0,,de,,nach dem auftauen nicht wieder einfrieren!,2009-08-22,0,1187,20,2017-11-23,,/static/media/avatars/kif_1.jpg
 tomjones69,0,0,,pt,,,2012-10-17,0,12,0,2012-11-09,,
 tommyj1986,0,0,,us,,,2013-08-19,0,0,0,2013-08-25,,
 Tomo,0,0,,pl,,,2010-04-17,0,29,0,2010-12-17,,
@@ -3314,15 +3314,15 @@ Trauma_Zero,0,0,,cz,,,2009-10-09,0,1,0,2013-09-03,,
 trayrace,0,0,,fi,Vantaa,,2011-02-11,0,14,0,2011-03-22,,
 Treant_no,0,0,,no,Oslo,,2010-10-18,0,9,0,2017-08-23,,
 trench,0,0,,se,,,2009-10-28,0,1,0,2011-05-19,,
-trenki,0,0,,at,,,2015-10-19,0,493,600,2018-04-11,,
+trenki,0,0,,at,,,2015-10-19,0,511,600,2018-04-11,,
 trenrod,0,0,,de,munich,ahhh... nectarine,2010-02-09,0,9,19,2017-11-22,,
 Triace,0,0,5446,de,Osnabruck,,2013-12-22,55,1073,767,2017-11-26,,
 TriforceOfDiarrhea,0,0,,ca,,,2012-03-08,0,0,0,2012-03-08,,
 trigg,0,0,,no,,,2013-08-02,0,0,0,2013-08-24,,
-Triology,0,0,,fi,,,2012-05-31,0,15,0,2017-11-12,,
+Triology,0,0,,fi,,,2012-05-31,0,18,0,2017-11-12,,
 tripper,0,0,1997,fi,Helsinki,,2011-11-05,1,3,0,2013-04-01,,
 trist007,0,0,,us,,,2012-10-29,0,0,0,2012-10-29,,
-Triton,0,0,,de,,,2013-05-25,7,167,30497,2018-02-16,,/static/media/avatars/biglogo_diamant_copy2_1.png
+Triton,0,0,,de,,,2013-05-25,7,203,30497,2018-02-16,,/static/media/avatars/biglogo_diamant_copy2_1.png
 Troll,0,0,3800,us,,,2010-11-12,1,0,1,2016-02-14,,
 trolospin,0,0,,nectaflag,,,2015-07-10,0,1,0,2015-07-12,,
 tross,0,0,,se,,,2011-07-05,0,0,0,2011-07-23,,
@@ -3335,7 +3335,7 @@ Tsietisin,0,0,,gb,,,2010-05-24,0,5,0,2012-11-18,,
 tsiros,0,0,,gr,,i'm a guy who likes low powered machines,2012-04-10,0,6,0,2015-01-26,,/static/media/avatars/ghhghg.png
 Tsukurimashou,0,0,,,,,2010-02-24,0,10,0,2010-02-24,,
 tsussan,0,0,,jp,,,2015-01-24,0,0,0,2015-01-24,,
-tubo,0,0,,de,,,2008-11-15,0,75,10,2018-02-26,,
+tubo,0,0,,de,,,2008-11-15,0,88,10,2018-02-26,,
 tubofluxar,0,0,,nl,,,2013-09-16,0,6,0,2013-11-15,,/static/media/avatars/Tinygameboy.JPG
 Tudhalyas,0,0,,it,,,2011-03-12,2,358,157,2016-11-28,30410,/static/media/avatars/look_into_my_eyes_80x80.jpg
 tuedle,0,0,,de,,,2015-08-19,0,0,0,2015-08-20,,
@@ -3343,9 +3343,9 @@ Tuffy,0,0,,,"Austin, Texas",,2009-02-25,0,2,0,2011-12-21,,
 Tumo007,0,0,,ca,Montreal,,2010-04-20,0,19,0,2011-09-01,,
 tunah,0,0,,,,,2009-02-10,1,97,0,2009-05-07,,
 Tungsten,0,0,,eu,,,2008-10-27,0,119,0,2011-02-22,,/static/media/avatars/tungsten.png
-Tuppence,0,,,,,,,0,,,2013-04-23,,
-turbine5,0,0,,de,,Hello World!,2008-11-25,0,1539,19,2018-03-21,,
-turbobutton,0,1,,,,,,0,,,2013-01-01,,
+Tuppence,0,,,,,,,0,5,,2013-04-23,,
+turbine5,0,0,,de,,Hello World!,2008-11-25,0,1547,19,2018-03-21,,
+turbobutton,0,1,,,,,,0,7,,2013-01-01,,
 TurboHz,0,0,,catalonia,Barcelona,,2011-03-04,0,150,0,2014-05-25,,/static/media/avatars/portrait.gif
 Turnips,0,0,,gb,,,2012-01-23,2,333,0,2015-02-20,5554,
 Turrican_trainer,0,0,,fr,,,2012-12-11,0,10,0,2012-12-11,,
@@ -3353,24 +3353,24 @@ Tuxality,0,0,,pl,Wrocław,Tajne przez poufne.,2009-12-07,5,112,0,2018-04-05,7925
 tw1sted1981,0,0,,england,,,2009-12-02,0,54,11,2015-12-11,,
 twazzock,0,0,,za,,,2010-04-01,0,1,1,2015-12-31,5853,
 Twinsun,0,0,,fr,,,2011-04-26,0,73,0,2016-04-13,,
-tyc314159,0,0,,,,,2010-12-20,0,122,2,2018-03-18,,
+tyc314159,0,0,,,,,2010-12-20,0,134,2,2018-03-18,,
 tych,0,0,,ru,,,2014-02-13,0,0,0,2014-02-13,,
 tyco,0,0,,us,"reno, NV",,2009-10-13,9,258,0,2014-04-10,,
 TygrysekL,0,0,,pl,,,2014-07-10,0,3,0,2014-07-10,,
-Tykinruoka,0,0,,fi,Pohjois-karjala,Animator/graphics designer,2009-04-23,0,108,0,2011-09-28,,
+Tykinruoka,0,0,,fi,Pohjois-karjala,Animator/graphics designer,2009-04-23,0,107,0,2011-09-28,,
 Typhon,0,0,,fr,,,2015-09-16,0,0,6,2015-10-01,,
 typo,0,0,,,,,2010-03-11,0,1,0,2010-03-11,,
 U4iaF8,0,0,1277,gb,,Way too old for this now.,2010-08-11,157,50,490,2016-03-03,,
-ubbabar,0,0,,no,,some info,2009-07-15,0,307,10,2018-03-28,,/static/media/avatars/ATT00052_.gif
-Ubika,0,0,,hu,Debrecen,,2010-02-06,0,76,0,2018-04-09,,
+ubbabar,0,0,,no,,some info,2009-07-15,0,308,10,2018-03-28,,/static/media/avatars/ATT00052_.gif
+Ubika,0,0,,hu,Debrecen,,2010-02-06,0,80,0,2018-04-09,,
 Uctumi,0,0,3819,ar,,,2011-12-15,9,2,0,2017-08-03,,
 udihow,0,0,,se,"59.538006,14.978739",!?,2012-03-28,0,6,0,2014-09-03,6986,/static/media/avatars/chair_wingedchairwcat.png
 ula,0,0,,de,,,2009-02-16,0,1,0,2011-03-05,,/static/media/avatars/ula.jpg
 ulrick,0,0,,fr,,ulrick,2010-01-16,1,0,1,2017-06-21,,/static/media/avatars/FRq7.gif
 ulrikkold,0,0,,dk,Aalborg,,2012-03-07,0,12,0,2013-02-28,,/static/media/avatars/vinyl-record-dj-small.jpg
-ultra,0,0,1566,de,kiel,,2016-08-25,14,4,582,2018-04-12,,
+ultra,0,0,1566,de,kiel,,2016-08-25,14,21,582,2018-04-12,,
 Ultrablack,,,,,,,,,,,,,
-Ultrasyd,0,0,1991,fr,,( o Y o ) ლ(°◡°ლ),2008-11-27,122,976,390,2018-04-11,8901,/static/media/avatars/blue_bobble.gif
+Ultrasyd,0,0,1991,fr,,( o Y o ) ლ(°◡°ლ),2008-11-27,122,977,390,2018-04-11,8901,/static/media/avatars/blue_bobble.gif
 UMLCoach,0,0,,,,,2009-08-20,0,1,0,2009-08-20,,
 unaarf,0,0,,fi,,,2016-04-22,0,0,0,2016-04-22,,
 Uncle_Den,0,0,,ru,,,2011-04-08,0,1,0,2011-04-08,,
@@ -3401,12 +3401,12 @@ V3ctor,0,0,,,,,2012-08-29,0,1,0,2012-08-29,,
 V3ctor6,0,0,,hr,,,2012-10-09,0,1,0,2012-12-18,,
 V3ctorNexus,0,0,,hr,,,2013-03-07,0,1,0,2014-03-27,,
 v66r,0,0,,de,Ulm,,2009-09-24,13,21,0,2015-08-24,6524,/static/media/avatars/st3b.png
-vacheatuba,0,0,,fr,,,2009-02-06,0,472,2,2018-04-14,,
+vacheatuba,0,0,,fr,,,2009-02-06,0,473,2,2018-04-14,,
 valdi74,0,0,,pl,,Valdi of Mad Elks,2015-06-28,0,0,1,2016-11-02,,
 Valerie_Blindee,0,0,,ca,,,2012-07-15,0,3,0,2012-07-15,,
 Valet2,0,0,,ru,,,2009-07-25,8,4,0,2017-08-04,,/static/media/avatars/Robotkid.gif
 valor,0,0,,cz,,,2010-04-11,0,1,0,2010-04-11,,
-Vampire,0,0,,england,,Beware the Cockbambi!,2009-02-15,0,1492,698,2018-04-18,,/static/media/avatars/Nect.png
+Vampire,0,0,,england,,Beware the Cockbambi!,2009-02-15,0,1531,698,2018-04-18,,/static/media/avatars/Nect.png
 Vampyre,0,0,,va,,,2009-12-26,0,5,0,2009-12-26,,
 vanward,0,0,,de,,,2011-08-14,4,542,0,2011-08-28,,
 vas,0,0,,se,,,2013-08-16,0,1,0,2016-10-26,,
@@ -3414,12 +3414,12 @@ Vasyok,0,0,,,,,2010-12-20,0,1,0,2010-12-20,,
 VddEnergize,0,0,,,,,2009-08-10,0,2,0,2010-03-09,,
 Vedder,0,0,5155,se,,,2012-07-09,0,6,0,2015-10-01,,
 vedran,0,0,,ba,,,2012-09-07,0,0,0,2012-09-24,,
-veeall,0,0,,ee,Cyberspace,NWO Agent,2017-07-04,3,366,1466,2018-04-14,23587,/static/media/avatars/amiga_profile_pic.png
+veeall,0,0,,ee,Cyberspace,NWO Agent,2017-07-04,3,397,1466,2018-04-14,23587,/static/media/avatars/amiga_profile_pic.png
 Veepeli,,,,,,,,,,,,,
 vega3,0,0,,dk,,,2009-08-08,0,52,0,2011-12-21,,
 vekdigital,0,0,,nectaflag,,,2017-06-23,0,0,0,2017-06-27,,
 velo,0,0,1294,se,Stockholm,,2010-12-17,4,5,0,2015-06-13,,
-velusip,0,0,,ca,Ottawa,chip love,2010-05-12,26,1782,133,2018-04-10,4766,/static/media/avatars/this-piano-is-delicious.jpg
+velusip,0,0,,ca,Ottawa,chip love,2010-05-12,26,1920,133,2018-04-10,4766,/static/media/avatars/this-piano-is-delicious.jpg
 venglin,0,0,,pl,,,2012-04-15,0,1,0,2012-04-15,,
 Venom,0,0,,,,,2010-06-10,0,1,0,2010-07-12,,
 venox,0,0,,sk,,,2014-04-27,0,0,0,2014-04-27,,
@@ -3432,13 +3432,13 @@ vercgat,0,0,,ax,Mariehamn,,2014-03-14,0,0,0,2014-03-14,,
 Vergil666,0,0,,de,,,2010-11-03,0,0,0,2011-03-13,,
 vernalex,0,0,,nectaflag,,,2017-07-10,0,2,2,2018-02-05,,
 vertexar,0,0,,nectaflag,,,2015-04-30,0,1,0,2015-04-30,,
-vertov,0,0,,tf,,EHLO,2014-10-12,0,61,4,2018-04-05,5318,
+vertov,0,0,,tf,,EHLO,2014-10-12,0,66,4,2018-04-05,5318,
 vertrex,0,0,,fr,,,2015-02-03,0,5,17,2018-01-09,,
 Verty,0,0,,nl,,,2012-10-29,0,60,0,2012-10-29,,
 vesanieminen,0,0,,,,,2010-11-27,0,0,0,2016-05-02,,
 vesseli1977,0,0,,fi,Lappeenranta,,2009-11-18,0,220,0,2011-08-10,2309,
 vetrelec,0,0,,cz,Prague,,2011-02-13,0,0,0,2011-02-13,,
-vgo,0,0,,fi,,,2008-09-26,0,49,0,2018-03-14,,
+vgo,0,0,,fi,,,2008-09-26,0,78,0,2018-03-14,,
 vibe_crc,0,0,,,,,2009-12-07,2,2,0,2014-01-05,,
 videlchi,0,0,,be,,,2011-03-09,0,0,0,2011-03-09,,
 VideoGameVirtuoso,0,0,,nectaflag,,,2017-03-27,0,1,103,2017-11-20,,
@@ -3456,35 +3456,35 @@ virocop,0,0,,cz,,,2011-03-12,0,0,0,2012-01-20,,/static/media/avatars/Virocop_Sky
 viroos,0,0,,nectaflag,,,2014-09-05,0,1,0,2014-09-05,,
 vision1001,0,0,,de,,,2011-10-17,0,12,0,2011-12-12,,
 Vit,0,0,,ru,Riga,=^_^=,2016-03-01,0,57,235,2018-03-05,,/static/media/avatars/V3N3P_3.jpg
-ViThor,0,1,,ru,A City Worthy of Worship,When the World has Fallen and WE STAND ALONE !!!,2008-12-13,837,40000,629,2018-04-19,39571,/static/media/avatars/Deadie-Wake_up.png
-vjetrovi,0,0,,do,,,2015-06-03,0,102,320,2018-01-01,,
+ViThor,0,1,,ru,A City Worthy of Worship,When the World has Fallen and WE STAND ALONE !!!,2008-12-13,837,40138,629,2018-04-19,39571,/static/media/avatars/Deadie-Wake_up.png
+vjetrovi,0,0,,do,,,2015-06-03,0,139,320,2018-01-01,,
 vkostyk,0,0,,ua,,,2011-05-25,0,0,0,2011-05-25,,
 vlatkokaplan,0,0,,rs,,,2015-08-23,0,2,0,2015-08-24,,
 vmlinux,0,0,,se,,,2010-07-14,0,1,0,2012-05-24,,/static/media/avatars/favicon.ico
-VodkaBot,0,0,,ru,Moscow,VODKA & kalsarikännit!,2009-08-13,28,10809,56405,2018-04-16,36508,/static/media/avatars/21d4D3.png
+VodkaBot,0,0,,ru,Moscow,VODKA & kalsarikännit!,2009-08-13,28,11397,56405,2018-04-16,36508,/static/media/avatars/21d4D3.png
 Voicer,0,0,,pl,,,2016-05-24,5,0,0,2016-05-24,,
-vokamis,0,0,,,,vokamis,2011-01-10,1,228,4,2018-04-06,,/static/media/avatars/support-our-fruits_1.gif
-voltr0n,0,1,,,,,,0,,,2013-01-01,,
+vokamis,0,0,,,,vokamis,2011-01-10,1,232,4,2018-04-06,,/static/media/avatars/support-our-fruits_1.gif
+voltr0n,0,1,,,,,,0,8,,2013-01-01,,
 vom,0,0,,nectaflag,,,2009-06-08,0,1,0,2018-01-31,,
 vonFelty,0,0,,nectaflag,,,2015-07-08,0,1,0,2015-07-08,,
 vonTaffelsson,0,0,,fi,Jyväskylä,,2010-10-15,0,53,0,2012-07-19,28817,
-Voobr,0,0,,us,,,2017-12-30,0,24,14,2018-02-01,,/static/media/avatars/cp437dude_100p.png
+Voobr,0,0,,us,,,2017-12-30,0,72,14,2018-02-01,,/static/media/avatars/cp437dude_100p.png
 voraxor,0,0,,nl,,,2013-01-07,0,0,0,2015-09-25,,
 vort,0,0,,us,,,2012-09-01,0,6,0,2012-10-12,,
-Vousti,0,1,,,,,,0,,,2016-12-25,,
+Vousti,0,1,,,,,,0,0,,2016-12-25,,
 Vovasik,0,0,,ru,,,2014-03-05,0,0,0,2014-11-21,,
 voy,0,0,,pl,Zawiszów,Pigwa FTP admin,2016-05-01,36,80,26,2017-08-27,,/static/media/avatars/28.png
-vsk,0,0,,ch,,,2009-07-12,13,191,0,2016-01-25,,/static/media/avatars/lostsoul.jpg
+vsk,0,0,,ch,,,2009-07-12,13,192,0,2016-01-25,,/static/media/avatars/lostsoul.jpg
 vsuontam,0,0,,,,,2009-08-05,0,2,0,2009-08-05,,
-VTessier,1,,,,,,,0,,,2010-10-03,,
+VTessier,1,,,,,,,0,11,,2010-10-03,,
 vtuulos,0,0,,us,,,2012-02-13,0,61,0,2015-07-08,,
-Vuvuzela,1,,,,,,,0,,,2010-06-30,,
+Vuvuzela,1,,,,,,,0,3,,2010-06-30,,
 vvvvvv,0,0,,jp,,,2010-05-28,0,144,0,2012-10-07,,
 vxf,0,0,,pt,,,2010-05-30,0,2,0,2014-03-26,,
 w_mute,0,0,,us,,,2010-07-24,0,4,0,2012-10-11,,
 waagbo,0,0,,no,Bergen,,2010-12-29,0,34,8,2017-01-01,,
 Wabash,0,0,,do,,,2013-08-15,0,1,0,2013-08-15,,
-wabe,0,0,,fi,Jyväskylä,,2009-11-20,0,145,6,2018-04-16,8502,
+wabe,0,0,,fi,Jyväskylä,,2009-11-20,0,146,6,2018-04-16,8502,
 Wacko,0,0,,us,,,2008-11-08,84,17,0,2017-02-07,,
 waejaifooz,0,0,,de,,,2011-06-18,0,5,0,2011-07-09,,
 Waev,0,0,,pl,,,2011-03-21,0,0,0,2011-03-21,,
@@ -3505,7 +3505,7 @@ webmind,0,0,,nl,,,2012-10-07,0,1,0,2012-10-07,,
 weby,0,0,,fr,,,2014-01-18,0,0,0,2014-01-18,,
 weee_76,0,0,,us,,,2011-05-24,0,0,0,2011-05-27,,
 weikn,0,0,,fi,,,2010-09-15,0,1,0,2010-09-15,,/static/media/avatars/wesku-50px.GIF
-weirdoz,0,0,,se,,amiga ftw!,2010-11-02,0,354,2,2018-03-28,,
+weirdoz,0,0,,se,,amiga ftw!,2010-11-02,0,358,2,2018-03-28,,
 Weiss,0,0,,us,,,2012-04-14,0,0,0,2012-04-14,,
 weke,0,0,,,,,2010-09-24,0,1,0,2010-09-24,,
 Welly,0,0,,se,,Woof ! Nectarine is pawesome !,2008-11-19,0,6,0,2018-04-17,2328,/static/media/avatars/WyJeffrey6mini.jpg
@@ -3513,12 +3513,12 @@ western47,0,0,,ru,,,2013-07-22,0,1,0,2013-07-22,,
 wheely,0,0,,fr,,,2008-09-22,0,8,0,2011-01-25,,
 whiteangel,0,0,,,,,2011-06-29,0,12,33,2017-01-01,,
 WhiteFox,0,0,,nectaflag,,,2016-11-19,0,0,0,2016-11-19,,
-Whitelabel,0,0,,nl,,,2009-09-18,0,609,20,2018-04-16,,/static/media/avatars/34567578.gif
+Whitelabel,0,0,,nl,,,2009-09-18,0,698,20,2018-04-16,,/static/media/avatars/34567578.gif
 WhiteTiger,0,0,,de,,,2011-01-11,0,3,0,2013-04-24,,/static/media/avatars/New_Avatar_07.05.2008_100_from_psd.png
 Whyte,0,0,,,,,2008-09-20,0,1,0,2009-10-08,,
 wickeddoc,0,0,,lu,,,2009-08-11,0,2,0,2009-08-11,,
 wieczor,0,0,,ie,Dublin,,2009-04-28,0,1,0,2014-05-15,,
-wig,0,0,,se,,,2010-09-20,0,920,9850,2018-04-18,,
+wig,0,0,,se,,,2010-09-20,0,929,9850,2018-04-18,,
 wildfandango,0,0,,es,,,2009-01-23,0,21,0,2013-12-18,,
 willhunting35,0,0,,,,,2010-02-27,0,2,0,2010-02-27,,
 WilliamBirkin,0,0,,dk,,,2013-01-12,0,0,0,2013-01-12,,
@@ -3529,7 +3529,7 @@ Winer,0,0,,ru,,,2014-06-14,0,7,0,2014-06-14,,
 winferno,0,0,,us,"Oakland, CA.",Good at breaking things.,2011-09-10,0,20,0,2012-05-02,,/static/media/avatars/2055.gif
 Winterfell,0,0,,kr,,,2010-06-16,0,1,0,2014-07-06,,
 Wisebeardiness,0,0,,us,,,2011-04-29,0,1,0,2011-05-14,,
-wiseman,0,0,1588,de,Hamburg,musician,2008-09-24,9,2133,0,2014-03-17,,/static/media/avatars/Foto.jpg
+wiseman,0,0,1588,de,Hamburg,musician,2008-09-24,9,2132,0,2014-03-17,,/static/media/avatars/Foto.jpg
 witten,0,0,,us,,,2010-09-21,0,0,0,2012-08-21,,
 Wixty,0,0,,ru,Sevastopol,,2015-12-04,0,26,1,2016-06-28,,
 Wiz,0,0,,fr,,,2014-10-13,0,1,0,2014-10-13,,
@@ -3543,7 +3543,7 @@ wntrmt,0,0,,ua,Kiev,,2012-09-16,0,0,0,2012-09-16,,
 WoDK,0,0,,fr,,,2009-10-07,4,244,2,2016-08-08,,/static/media/avatars/Cobra-The-Space-Pirate-avatar_necta.jpg
 Woebin,0,0,,,,,2012-02-08,0,1,0,2012-02-08,,
 wolferey,0,0,,no,,,2013-02-10,0,0,0,2014-03-15,,
-Wolfgang,0,0,,ar,,,2016-12-09,0,30,2,2018-04-14,,
+Wolfgang,0,0,,ar,,,2016-12-09,0,149,2,2018-04-14,,
 Woober,0,0,2133,no,,,2012-10-09,2,0,0,2012-10-09,,
 woodbe,0,0,,,ancient ship of doom,home sick home,2016-08-14,0,3,284,2017-04-09,,
 wooley,0,0,,nl,,,2013-02-01,0,0,0,2013-02-01,,
@@ -3554,7 +3554,7 @@ wowo,0,0,,nl,,,2014-06-15,0,1,0,2014-06-15,,
 WTFcore,0,0,,de,,,2012-09-12,7,263,48,2017-08-28,,
 wullon,0,0,4807,fr,,,2009-08-13,0,1,0,2013-10-18,,
 wx45,0,0,,pl,,,2012-04-06,0,1,0,2012-04-07,,
-x3lis,0,0,,fr,Bordeaux,,2013-03-09,1,113,2,2018-04-16,,/static/media/avatars/mon_avatar-80x80.png
+x3lis,0,0,,fr,Bordeaux,,2013-03-09,1,120,2,2018-04-16,,/static/media/avatars/mon_avatar-80x80.png
 x8nightdroid,0,0,,se,,,2010-07-29,0,1,0,2010-10-11,,
 xameg,0,0,,ru,,,2012-11-14,0,50,0,2012-11-14,,
 Xantio,0,0,,by,,,2011-10-30,0,1,0,2012-03-18,,
@@ -3573,7 +3573,7 @@ xerxes,0,0,1593,no,Tønsberg,,2010-02-02,0,1,0,2016-04-02,,
 xfinalx,0,0,,by,,,2012-02-06,0,13,0,2017-06-24,,
 xibalba302,0,0,,sa,,,2011-10-30,0,0,0,2011-10-30,,
 xinux,0,0,,se,,,2013-04-26,0,2,1,2016-01-23,,
-xirti,0,1,,,,,,0,,,2014-08-26,,
+xirti,0,1,,,,,,0,18,,2014-08-26,,
 xjfv,0,0,,pl,,,2013-03-30,0,0,0,2013-03-30,,
 xLWx,0,0,,nectaflag,,,2014-11-04,0,0,0,2014-11-04,,
 xoft,0,0,,cz,Praha,,2014-10-03,0,1,0,2014-10-03,,/static/media/avatars/xoft.gif
@@ -3583,8 +3583,8 @@ Xplosive,0,0,,,,,2009-05-16,0,1,0,2009-05-16,,
 Xpress9,0,0,,by,,,2013-06-06,0,0,0,2013-06-06,,
 XRR,0,0,,ru,,,2010-04-29,0,30,0,2010-04-29,,
 xselthor,0,0,,pl,,,2009-09-19,0,1,0,2014-04-04,,
-xTr1m,0,0,4112,de,,BluFlame,2009-12-18,5,53,16,2017-05-09,,
-xtra,0,0,,de,Tuebingen,,2008-11-17,0,56,1,2018-04-09,,
+xTr1m,0,0,4112,de,,BluFlame,2009-12-18,5,59,16,2017-05-09,,
+xtra,0,0,,de,Tuebingen,,2008-11-17,0,72,1,2018-04-09,,
 xtremox,0,0,,cl,,,2012-08-31,0,11,0,2012-09-11,,
 xtrium,0,0,4114,fr,,,2008-11-01,0,0,0,2012-11-20,,
 xwd,0,0,,us,,chipmusic nerd,2009-12-23,0,5,0,2009-12-23,,
@@ -3607,7 +3607,7 @@ Yaya13,0,0,,,,,2010-06-13,0,1,0,2010-07-03,,
 yazper,0,0,,dk,,,2017-09-01,19,0,0,2017-09-09,,
 yaztromo,0,0,,gb,,,2013-09-22,0,0,0,2013-09-22,,
 ycorrupt,0,0,,ca,,,2011-02-21,0,0,0,2011-02-21,,
-yeep,0,0,2114,lc,Valencia (Spain),,2009-10-31,6,575,27,2018-03-22,,/static/media/avatars/merlin.jpg
+yeep,0,0,2114,lc,Valencia (Spain),,2009-10-31,6,576,27,2018-03-22,,/static/media/avatars/merlin.jpg
 Yellowjelly,0,0,,bf,,I am Yellowjelly,2009-12-11,82,2480,61,2016-11-21,,/static/media/avatars/1885.png
 Yerraketh,0,0,,se,,,2012-08-31,0,1,0,2012-09-25,,
 Yes,0,0,4062,fr,Lyon,,2009-07-26,0,21,146,2017-11-10,,
@@ -3631,10 +3631,10 @@ yrpae,0,0,,,,,2010-09-14,0,1,0,2010-09-14,,
 yrtimiD,0,0,,il,,,2012-07-11,1,7,0,2012-12-05,,
 yuriks,0,0,,br,,,2011-07-28,0,15,0,2012-10-14,,
 Yuriy,0,0,,ua,,,2013-09-26,0,0,0,2013-09-26,,
-yzi,0,0,4471,fi,,Yzi / Fit^Lieves!Tuore^Saunagroup,2011-08-23,19,3557,4052,2018-04-13,,/static/media/avatars/ruututunneli_small.png
+yzi,0,0,4471,fi,,Yzi / Fit^Lieves!Tuore^Saunagroup,2011-08-23,19,3656,4052,2018-04-13,,/static/media/avatars/ruututunneli_small.png
 z23,0,0,,es,,,2016-12-26,0,0,0,2016-12-26,,
 z5,0,0,,be,,,2013-04-20,0,37,0,2013-04-20,,
-Zabchob,0,0,,us,,,2009-02-18,1,579,1092,2018-04-10,,
+Zabchob,0,0,,us,,,2009-02-18,1,586,1092,2018-04-10,,
 Zac,0,0,1845,fam,,MAD MAD MAD !!!!!,2009-02-11,23,1490,161,2017-09-17,3760,/static/media/avatars/zac.jpg
 zafos,0,0,,gr,Athens,,2010-03-17,1,0,0,2010-10-19,,
 Zafoshin,0,0,,gr,,,2011-08-18,0,1,0,2011-09-09,,
@@ -3658,7 +3658,7 @@ zavaboy,0,0,,us,,,2015-09-20,0,0,0,2017-01-07,,
 zawor28,0,0,,pl,,,2010-04-15,0,1,0,2010-04-25,,
 Zeal0t,0,0,,ee,,,2010-02-04,0,1,0,2010-09-19,,
 Zeerios,0,0,4917,fi,Tuusula,Noob from da hood,2009-11-14,12,159,8,2018-04-08,,/static/media/avatars/Zetaava.jpg
-Zeether,0,0,,us,,,2015-01-30,0,156,137,2018-03-27,,
+Zeether,0,0,,us,,,2015-01-30,0,166,137,2018-03-27,,
 zeewolf,0,0,,pl,Chrzanów,,2008-10-06,0,3,1,2016-08-17,,
 Zeith,0,0,,se,,,2008-11-07,0,0,0,2017-04-30,,
 zellyn,0,0,,us,,,2013-06-12,0,10,0,2014-01-24,,
@@ -3667,7 +3667,7 @@ Zendar,0,0,,no,Bergen,,2008-09-24,0,72,9,2017-12-23,,
 zenman,0,0,,us,,,2012-10-05,0,0,0,2012-10-05,,
 Zenon,0,0,4644,it,Rome,,2011-01-14,17,19,3,2017-01-26,,/static/media/avatars/logo_icon_1.png
 zensonic,0,0,,dk,,zensonic of xfactor,2009-10-31,0,343,0,2015-07-14,,
-zeograd,0,0,,fr,,,2016-01-22,0,486,69,2018-04-16,,
+zeograd,0,0,,fr,,,2016-01-22,0,501,69,2018-04-16,,
 zeoltdaac,0,0,,,,,2009-08-14,0,27,0,2009-08-14,,
 zer0frozt,0,0,,fi,,,2011-01-15,0,8,0,2011-01-15,,
 Zerberos,0,0,,de,,,2012-12-27,0,0,0,2012-12-27,,
@@ -3680,7 +3680,7 @@ zeroic,0,0,,fi,,wAMMA,2009-10-28,0,1,0,2016-12-08,,
 Zeroone,0,0,,pl,,,2012-12-23,0,0,0,2012-12-23,,
 Zerothefox,0,0,,gb,,,2014-08-15,0,3,0,2015-02-15,,/static/media/avatars/newzerofox97100.png
 zetor,0,0,,hu,,,2013-03-17,0,0,0,2013-08-23,,
-zfabzi,0,1,,,,,,0,,,2013-01-01,,
+zfabzi,0,1,,,,,,0,3,,2013-01-01,,
 zicyo,0,0,,se,,,2009-02-13,0,2,0,2016-06-22,,
 ZilchSr,0,0,,us,,,2013-06-16,0,0,0,2013-06-16,,
 zilog,0,0,,se,,,2009-11-29,4,156,97,2016-07-19,,
@@ -3690,26 +3690,26 @@ zinob,0,0,,se,,,2009-03-26,0,8,0,2017-11-02,,
 zipf,0,0,4606,fam,,"fulltime awesome, parttime spectacular",2008-09-19,23,140,2,2017-08-03,,/static/media/avatars/zipfavatar.jpg
 Ziphoid,0,0,1666,se,,,2009-12-13,0,2,26,2015-07-15,,
 zippz21,0,0,,,,,2009-06-15,0,1,0,2009-07-23,,
-Zitrax,0,0,,no,,,2009-04-22,0,467,7,2018-01-03,,
+Zitrax,0,0,,no,,,2009-04-22,0,470,7,2018-01-03,,
 ZLOvar,0,0,,ru,,,2012-07-06,0,2,0,2013-06-19,,
 zmannnn,0,0,,,,,2009-03-26,0,1,0,2012-09-27,,
-zmurf,0,0,,se,,http://www.compusphere.org,2009-02-17,20,1224,162,2018-04-20,3404,
+zmurf,0,0,,se,,http://www.compusphere.org,2009-02-17,20,1244,162,2018-04-20,3404,
 zneeek,1,,,,,,,,,,,,
 zneek,0,0,,ch,,MACHETE DONT TEXT,2009-06-09,0,386,2,2016-06-21,,
 znsoft,0,0,,ru,,,2015-03-03,0,0,0,2015-03-03,,
 Znurre,0,0,,se,,,2011-08-20,1,415,0,2015-04-10,,
-zoi,0,0,,fi,,,2009-02-08,2,0,0,2018-03-01,,
+zoi,0,0,,fi,,,2009-02-08,2,23,0,2018-03-01,,
 zombie138,0,0,,au,,,2010-07-07,0,1,0,2011-03-15,,
-zoner,0,0,,us,,zoner / XyleM,2010-09-01,38,1946,6738,2018-04-19,,
-Zorafm,0,0,,us,,,2013-09-18,0,23,5,2018-02-23,,
+zoner,0,0,,us,,zoner / XyleM,2010-09-01,38,2306,6738,2018-04-19,,
+Zorafm,0,0,,us,,,2013-09-18,0,29,5,2018-02-23,,
 Zorro2,0,0,,fr,Saint Cloud,Zorro2^NoExtra,2011-12-01,6,2,0,2015-07-09,34615,/static/media/avatars/ff255x55.png
 zouppen,0,0,,fi,,,2013-11-09,0,0,0,2013-11-09,,
 zov,0,0,,eu,,,2011-06-01,0,0,0,2011-06-01,,
 zpider,0,0,,eu,,,2013-07-01,0,0,0,2013-10-21,,
 zssz,0,0,,hu,,Zsolt Szabo,2011-01-24,0,1,0,2011-10-03,,
-ZTube,0,1,,,,,,0,,,2013-01-01,,
+ZTube,0,1,,,,,,0,1445,,2013-01-01,,
 zub,0,0,,gb,,Helper for the Fuse Unix Spectrum Emulator,2015-11-04,10,4,244,2018-01-01,,
-ZULGHAR,0,0,,pl,GDAŃSK,,2010-04-20,0,253,3,2018-02-01,,
+ZULGHAR,0,0,,pl,GDAŃSK,,2010-04-20,0,255,3,2018-02-01,,
 zuo,0,0,,pl,,,2011-03-30,0,52,0,2011-06-08,,
 zwierni,0,0,,de,,,2013-09-04,0,1,2,2018-03-22,,
 zxalexis,0,0,,cz,,,2011-12-23,0,0,0,2011-12-23,,

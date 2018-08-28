@@ -12,8 +12,8 @@
   "last_requested": "2015-08-11 22:04:25",
   "locked_until": "2015-04-05 23:19:05",
   "locked": 0,
-  "vote_count": 13,
-  "vote_avg": 3.0769,
+  "vote_count": 0,
+  "vote_avg": 0.0,
   "tags": "ambient long water",
   "last_scraped": "2018-05-23 16:50:30",
   "source_id": 4,
@@ -23,109 +23,6 @@
   "artist_names": [
     "VermillioN"
   ],
-  "votes": [
-    {
-      "user": "aaai",
-      "vote": 5,
-      "when": "2010-09-03"
-    },
-    {
-      "user": "anni",
-      "vote": 2,
-      "when": "2010-09-03"
-    },
-    {
-      "user": "lemonade",
-      "vote": 3,
-      "when": "2010-09-03"
-    },
-    {
-      "user": "Kosmos",
-      "vote": 2,
-      "when": "2011-10-03"
-    },
-    {
-      "user": "MrsBidette",
-      "vote": 1,
-      "when": "2011-10-03"
-    },
-    {
-      "user": "NerdN",
-      "vote": 2,
-      "when": "2011-10-03"
-    },
-    {
-      "user": "Yellowjelly",
-      "vote": 4,
-      "when": "2011-10-03"
-    },
-    {
-      "user": "dasepsilon",
-      "vote": 4,
-      "when": "2011-10-03"
-    },
-    {
-      "user": "Buzzer",
-      "vote": 3,
-      "when": "2012-02-02"
-    },
-    {
-      "user": "arrakis",
-      "vote": 2,
-      "when": "2012-02-02"
-    },
-    {
-      "user": "maep",
-      "vote": 4,
-      "when": "2013-10-09 03:47:00"
-    },
-    {
-      "user": "Phlubby_Gnome",
-      "vote": 3,
-      "when": "2013-10-09 03:48:00"
-    },
-    {
-      "user": "drislands",
-      "vote": 5,
-      "when": "2015-08-12 03:11:15"
-    }
-  ],
-  "requests": [
-    {
-      "user": "djrandom",
-      "when": "2011-03-21 05:51:00"
-    },
-    {
-      "user": "MrsBidette",
-      "when": "2011-09-24 22:39:00"
-    },
-    {
-      "user": "SPACE",
-      "when": "2012-01-28 09:52:00"
-    },
-    {
-      "user": "Phlubby_Gnome",
-      "when": "2013-03-29 02:39:00"
-    },
-    {
-      "user": "Phlubby_Gnome",
-      "when": "2013-10-09 01:31:00"
-    },
-    {
-      "user": "Phlubby_Gnome",
-      "when": "2014-02-16 03:44:00"
-    },
-    {
-      "user": "djrandom",
-      "when": "2014-11-22 14:35:00"
-    },
-    {
-      "user": "djrandom",
-      "when": "2015-03-06 23:36:00"
-    },
-    {
-      "user": "Neobyte",
-      "when": "2015-08-11 22:04:00"
-    }
-  ]
+  "votes": [],
+  "requests": []
 }

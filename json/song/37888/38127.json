@@ -12,8 +12,8 @@
   "last_requested": "2013-02-15 16:09:48",
   "locked_until": "None",
   "locked": 1,
-  "vote_count": 10,
-  "vote_avg": 4.5,
+  "vote_count": 0,
+  "vote_avg": 0.0,
   "last_scraped": "2018-05-23 10:12:26",
   "artist_ids": [
     408
@@ -21,62 +21,6 @@
   "artist_names": [
     "Elwood"
   ],
-  "votes": [
-    {
-      "user": "Sensei",
-      "vote": 3,
-      "when": "2013-02-18"
-    },
-    {
-      "user": "Spiral",
-      "vote": 5,
-      "when": "2013-02-18"
-    },
-    {
-      "user": "ViThor",
-      "vote": 5,
-      "when": "2013-02-18"
-    },
-    {
-      "user": "arrakis",
-      "vote": 5,
-      "when": "2013-02-18"
-    },
-    {
-      "user": "sLASH",
-      "vote": 4,
-      "when": "2013-02-18"
-    },
-    {
-      "user": "prowler",
-      "vote": 5,
-      "when": "2013-09-03 15:00:00"
-    },
-    {
-      "user": "Phlubby_Gnome",
-      "vote": 4,
-      "when": "2014-03-03 11:30:00"
-    },
-    {
-      "user": "JosephCollins",
-      "vote": 4,
-      "when": "2016-05-27"
-    },
-    {
-      "user": "H3LL4Sphoros",
-      "vote": 5,
-      "when": "2016-06-10"
-    },
-    {
-      "user": "SJD",
-      "vote": 5,
-      "when": "2016-12-02"
-    }
-  ],
-  "requests": [
-    {
-      "user": "ViThor",
-      "when": "2013-02-15 16:09:00"
-    }
-  ]
+  "votes": [],
+  "requests": []
 }

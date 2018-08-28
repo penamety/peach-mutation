@@ -8,8 +8,8 @@
   "last_requested": "2013-08-27 08:17:09",
   "locked_until": "None",
   "locked": 1,
-  "vote_count": 2,
-  "vote_avg": 3.5,
+  "vote_count": 0,
+  "vote_avg": 0.0,
   "last_scraped": "2018-05-22 22:42:53",
   "artist_ids": [
     1373
@@ -17,17 +17,6 @@
   "artist_names": [
     "Dubmood"
   ],
-  "votes": [
-    {
-      "user": "Elrinth",
-      "vote": 2,
-      "when": "2009-04-03"
-    },
-    {
-      "user": "jinx",
-      "vote": 5,
-      "when": "2009-11-02"
-    }
-  ],
+  "votes": [],
   "requests": []
 }

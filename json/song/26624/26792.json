@@ -12,8 +12,8 @@
   "last_requested": "2013-08-27 00:38:31",
   "locked_until": "2013-12-23 22:53:13",
   "locked": 1,
-  "vote_count": 3,
-  "vote_avg": 4.6667,
+  "vote_count": 0,
+  "vote_avg": 0.0,
   "last_scraped": "2018-05-23 15:33:41",
   "source_id": 8,
   "artist_ids": [
@@ -22,22 +22,6 @@
   "artist_names": [
     "m0d"
   ],
-  "votes": [
-    {
-      "user": "ant1",
-      "vote": 5,
-      "when": "2009-12-03"
-    },
-    {
-      "user": "bitl",
-      "vote": 5,
-      "when": "2010-01-03"
-    },
-    {
-      "user": "ViThor",
-      "vote": 4,
-      "when": "2015-04-23 23:00:00"
-    }
-  ],
+  "votes": [],
   "requests": []
 }

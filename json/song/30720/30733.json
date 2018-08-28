@@ -12,8 +12,8 @@
   "last_requested": "2015-12-07 02:48:50",
   "locked_until": "2015-12-29 09:26:12",
   "locked": 0,
-  "vote_count": 18,
-  "vote_avg": 3.2778,
+  "vote_count": 0,
+  "vote_avg": 0.0,
   "tags": "2010 Compowinner food Guitar Sundown",
   "last_scraped": "2018-05-23 16:02:57",
   "source_id": 4,
@@ -23,138 +23,6 @@
   "artist_names": [
     "m0d"
   ],
-  "votes": [
-    {
-      "user": "Arne",
-      "vote": 5,
-      "when": "2010-11-03"
-    },
-    {
-      "user": "Cyker",
-      "vote": 5,
-      "when": "2010-11-03"
-    },
-    {
-      "user": "Scope",
-      "vote": 1,
-      "when": "2010-11-03"
-    },
-    {
-      "user": "anni",
-      "vote": 1,
-      "when": "2010-11-03"
-    },
-    {
-      "user": "cederom",
-      "vote": 1,
-      "when": "2010-11-03"
-    },
-    {
-      "user": "chellomere",
-      "vote": 5,
-      "when": "2011-02-02"
-    },
-    {
-      "user": "Andersson",
-      "vote": 4,
-      "when": "2011-03-05"
-    },
-    {
-      "user": "jinx",
-      "vote": 5,
-      "when": "2011-07-04"
-    },
-    {
-      "user": "Yellowjelly",
-      "vote": 4,
-      "when": "2011-10-03"
-    },
-    {
-      "user": "maep",
-      "vote": 4,
-      "when": "2011-10-03"
-    },
-    {
-      "user": "Cook",
-      "vote": 4,
-      "when": "2012-04-03"
-    },
-    {
-      "user": "Starchaser",
-      "vote": 3,
-      "when": "2012-10-11"
-    },
-    {
-      "user": "arrakis",
-      "vote": 1,
-      "when": "2013-07-16 22:40:00"
-    },
-    {
-      "user": "ViThor",
-      "vote": 3,
-      "when": "2013-07-16 22:41:00"
-    },
-    {
-      "user": "Phlubby_Gnome",
-      "vote": 3,
-      "when": "2013-07-16 22:42:00"
-    },
-    {
-      "user": "lroy",
-      "vote": 3,
-      "when": "2014-01-15 13:55:00"
-    },
-    {
-      "user": "Shinobi",
-      "vote": 4,
-      "when": "2014-01-15 13:56:00"
-    },
-    {
-      "user": "NerdN",
-      "vote": 3,
-      "when": "2014-03-25 23:31:00"
-    }
-  ],
-  "requests": [
-    {
-      "user": "tacticalbread",
-      "when": "2011-02-17 19:51:00"
-    },
-    {
-      "user": "jinx",
-      "when": "2011-07-04 10:50:00"
-    },
-    {
-      "user": "Cyker",
-      "when": "2011-09-15 23:46:00"
-    },
-    {
-      "user": "Cyker",
-      "when": "2012-01-14 22:58:00"
-    },
-    {
-      "user": "grave_digga",
-      "when": "2012-09-30 08:09:00"
-    },
-    {
-      "user": "MrsBidette",
-      "when": "2013-01-28 02:11:00"
-    },
-    {
-      "user": "lroy",
-      "when": "2014-01-15 13:33:00"
-    },
-    {
-      "user": "NerdN",
-      "when": "2014-03-25 23:24:00"
-    },
-    {
-      "user": "Neobyte",
-      "when": "2014-07-14 16:34:00"
-    },
-    {
-      "user": "MrsBidette",
-      "when": "2015-12-07 02:48:00"
-    }
-  ]
+  "votes": [],
+  "requests": []
 }

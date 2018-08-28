@@ -10,32 +10,11 @@
   "last_requested": "2013-08-27 13:09:49",
   "locked_until": "2013-12-23 22:53:13",
   "locked": 1,
-  "vote_count": 4,
-  "vote_avg": 3.25,
+  "vote_count": 0,
+  "vote_avg": 0.0,
   "last_scraped": "2018-05-23 02:02:16",
   "artist_ids": [],
   "artist_names": [],
-  "votes": [
-    {
-      "user": "turbine5",
-      "vote": 2,
-      "when": "2010-02-01"
-    },
-    {
-      "user": "Pokemoz",
-      "vote": 3,
-      "when": "2010-03-04"
-    },
-    {
-      "user": "faraday",
-      "vote": 3,
-      "when": "2010-03-04"
-    },
-    {
-      "user": "ViThor",
-      "vote": 5,
-      "when": "2016-02-13"
-    }
-  ],
+  "votes": [],
   "requests": []
 }

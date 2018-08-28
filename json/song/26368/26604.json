@@ -12,8 +12,8 @@
   "last_requested": "2017-01-27 03:51:54",
   "locked_until": "2017-02-23 10:21:26",
   "locked": 1,
-  "vote_count": 10,
-  "vote_avg": 3.4,
+  "vote_count": 0,
+  "vote_avg": 0.0,
   "last_scraped": "2018-05-23 08:13:11",
   "source_id": 1,
   "artist_ids": [
@@ -22,102 +22,6 @@
   "artist_names": [
     "m0d"
   ],
-  "votes": [
-    {
-      "user": "Sensei",
-      "vote": 4,
-      "when": "2011-08-03"
-    },
-    {
-      "user": "H0lySh1t",
-      "vote": 5,
-      "when": "2012-04-03"
-    },
-    {
-      "user": "NerdN",
-      "vote": 4,
-      "when": "2012-04-03"
-    },
-    {
-      "user": "Robot2037",
-      "vote": 3,
-      "when": "2012-04-03"
-    },
-    {
-      "user": "SPACE",
-      "vote": 1,
-      "when": "2012-04-03"
-    },
-    {
-      "user": "Cook",
-      "vote": 4,
-      "when": "2012-10-19"
-    },
-    {
-      "user": "Phlubby_Gnome",
-      "vote": 3,
-      "when": "2013-08-26 04:41:00"
-    },
-    {
-      "user": "lemonade",
-      "vote": 3,
-      "when": "2014-01-02 19:43:00"
-    },
-    {
-      "user": "minus",
-      "vote": 3,
-      "when": "2014-01-02 19:43:00"
-    },
-    {
-      "user": "ViThor",
-      "vote": 4,
-      "when": "2015-03-08 20:15:00"
-    }
-  ],
-  "requests": [
-    {
-      "user": "Mystra",
-      "when": "2011-04-04 09:06:00"
-    },
-    {
-      "user": "Sensei",
-      "when": "2011-08-03 12:55:00"
-    },
-    {
-      "user": "Sensei",
-      "when": "2012-03-15 12:30:00"
-    },
-    {
-      "user": "MrsBidette",
-      "when": "2013-01-27 02:36:00"
-    },
-    {
-      "user": "Phlubby_Gnome",
-      "when": "2013-08-26 02:38:00"
-    },
-    {
-      "user": "lemonade",
-      "when": "2014-01-02 19:32:00"
-    },
-    {
-      "user": "djrandom",
-      "when": "2015-03-08 19:42:00"
-    },
-    {
-      "user": "djrandom",
-      "when": "2015-05-11 06:58:00"
-    },
-    {
-      "user": "djrandom",
-      "when": "2015-09-06 08:06:00"
-    },
-    {
-      "user": "MrsBidette",
-      "when": "2015-12-05 22:43:00"
-    },
-    {
-      "user": "djrandom",
-      "when": "2017-01-27 03:51:00"
-    }
-  ]
+  "votes": [],
+  "requests": []
 }

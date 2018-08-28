@@ -10,8 +10,8 @@
   "last_requested": "2014-02-16 07:33:43",
   "locked_until": "2014-06-30 14:03:20",
   "locked": 1,
-  "vote_count": 8,
-  "vote_avg": 2.125,
+  "vote_count": 0,
+  "vote_avg": 0.0,
   "last_scraped": "2018-05-22 23:56:11",
   "artist_ids": [
     2342
@@ -19,68 +19,6 @@
   "artist_names": [
     "Brent Silk"
   ],
-  "votes": [
-    {
-      "user": "Stormdragonblue",
-      "vote": 3,
-      "when": "2010-06-01"
-    },
-    {
-      "user": "Venty",
-      "vote": 3,
-      "when": "2010-06-01"
-    },
-    {
-      "user": "Cook",
-      "vote": 2,
-      "when": "2012-05-03"
-    },
-    {
-      "user": "Mystra",
-      "vote": 2,
-      "when": "2012-05-03"
-    },
-    {
-      "user": "NerdN",
-      "vote": 2,
-      "when": "2012-05-03"
-    },
-    {
-      "user": "ViThor",
-      "vote": 2,
-      "when": "2013-01-24"
-    },
-    {
-      "user": "kronowolf",
-      "vote": 1,
-      "when": "2013-08-23 01:57:00"
-    },
-    {
-      "user": "Phlubby_Gnome",
-      "vote": 2,
-      "when": "2013-08-23 01:59:00"
-    }
-  ],
-  "requests": [
-    {
-      "user": "djrandom",
-      "when": "2011-07-08 04:17:00"
-    },
-    {
-      "user": "Aetrin",
-      "when": "2012-04-11 13:17:00"
-    },
-    {
-      "user": "Phlubby_Gnome",
-      "when": "2013-01-20 16:46:00"
-    },
-    {
-      "user": "Yohabro",
-      "when": "2013-08-22 23:35:00"
-    },
-    {
-      "user": "djrandom",
-      "when": "2014-02-16 07:33:00"
-    }
-  ]
+  "votes": [],
+  "requests": []
 }

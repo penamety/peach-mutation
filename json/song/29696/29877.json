@@ -11,8 +11,8 @@
   "last_requested": "2015-08-08 15:46:53",
   "locked_until": "2014-10-30 08:43:55",
   "locked": 0,
-  "vote_count": 16,
-  "vote_avg": 2.6875,
+  "vote_count": 0,
+  "vote_avg": 0.0,
   "last_scraped": "2018-05-23 16:56:07",
   "artist_ids": [
     3965
@@ -20,120 +20,6 @@
   "artist_names": [
     "VermillioN"
   ],
-  "votes": [
-    {
-      "user": "lemonade",
-      "vote": 2,
-      "when": "2010-09-03"
-    },
-    {
-      "user": "Feuermurmel",
-      "vote": 3,
-      "when": "2010-12-03"
-    },
-    {
-      "user": "Arne",
-      "vote": 3,
-      "when": "2011-01-03"
-    },
-    {
-      "user": "Genetic_Gemini",
-      "vote": 3,
-      "when": "2011-01-03"
-    },
-    {
-      "user": "dang",
-      "vote": 3,
-      "when": "2011-01-03"
-    },
-    {
-      "user": "serpent",
-      "vote": 2,
-      "when": "2011-01-03"
-    },
-    {
-      "user": "MrsBidette",
-      "vote": 1,
-      "when": "2011-10-03"
-    },
-    {
-      "user": "matsim",
-      "vote": 2,
-      "when": "2011-10-03"
-    },
-    {
-      "user": "sqrmax",
-      "vote": 2,
-      "when": "2011-10-03"
-    },
-    {
-      "user": "prowler",
-      "vote": 3,
-      "when": "2013-06-27 18:45:00"
-    },
-    {
-      "user": "silok",
-      "vote": 3,
-      "when": "2013-06-27 18:45:00"
-    },
-    {
-      "user": "NerdN",
-      "vote": 3,
-      "when": "2013-10-23 23:38:00"
-    },
-    {
-      "user": "Ozgu",
-      "vote": 3,
-      "when": "2014-09-23 19:10:00"
-    },
-    {
-      "user": "kimpsa",
-      "vote": 3,
-      "when": "2014-09-23 19:12:00"
-    },
-    {
-      "user": "ViThor",
-      "vote": 3,
-      "when": "2014-09-23 20:14:00"
-    },
-    {
-      "user": "arrakis",
-      "vote": 4,
-      "when": "2015-08-12 03:12:10"
-    }
-  ],
-  "requests": [
-    {
-      "user": "dang",
-      "when": "2011-02-14 11:13:00"
-    },
-    {
-      "user": "djrandom",
-      "when": "2011-07-25 08:22:00"
-    },
-    {
-      "user": "MrsBidette",
-      "when": "2011-09-24 06:30:00"
-    },
-    {
-      "user": "djrandom",
-      "when": "2012-06-01 06:04:00"
-    },
-    {
-      "user": "Phlubby_Gnome",
-      "when": "2013-06-27 16:32:00"
-    },
-    {
-      "user": "NerdN",
-      "when": "2013-10-23 21:30:00"
-    },
-    {
-      "user": "Phlubby_Gnome",
-      "when": "2014-09-23 18:31:00"
-    },
-    {
-      "user": "arrakis",
-      "when": "2015-08-08 15:46:00"
-    }
-  ]
+  "votes": [],
+  "requests": []
 }

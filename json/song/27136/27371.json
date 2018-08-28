@@ -11,8 +11,8 @@
   "last_requested": "2013-08-27 03:01:10",
   "locked_until": "None",
   "locked": 1,
-  "vote_count": 2,
-  "vote_avg": 5.0,
+  "vote_count": 0,
+  "vote_avg": 0.0,
   "last_scraped": "2018-05-23 07:34:44",
   "source_id": 1,
   "artist_ids": [
@@ -21,17 +21,6 @@
   "artist_names": [
     "Cerror"
   ],
-  "votes": [
-    {
-      "user": "ViThor",
-      "vote": 5,
-      "when": "2014-06-25 22:00:00"
-    },
-    {
-      "user": "H3LL4Sphoros",
-      "vote": 5,
-      "when": "2017-05-05 10:32:00"
-    }
-  ],
+  "votes": [],
   "requests": []
 }
